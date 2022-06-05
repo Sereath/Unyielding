@@ -10,6 +10,7 @@
 *.ogg
 config/fantasticlib/*
 !oresources/
+oresources/legendarytooltips/*
 !patchouli_books/
 !resources/
 !schematics
