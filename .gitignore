@@ -3,6 +3,7 @@
 
 #whitelist
 !.gitignore
+!README.md
 !asm/
 !caches/
 !config/
