@@ -608,7 +608,7 @@
 	{
 		"dimension": 10,
 		"mob": "srparasites:warden",
-		"random": 0.000375,
+		"random": 0.00375,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -626,7 +626,7 @@
 	{
 		"dimension": 10,
 		"mob": "srparasites:marauder",
-		"random": 0.000125,
+		"random": 0.00125,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -638,6 +638,24 @@
 	{
 		"dimension": 10,
 		"mob": "srparasites:marauder",
+		"result": "deny"
+	},
+
+	{
+		"dimension": 10,
+		"mob": ["srparasites:pri_longarms","srparasites:pri_manducater","srparasites:pri_reeker","srparasites:pri_summoner","srparasites:pri_bolster","srparasites:pri_arachnida"],
+		"random": 0.00625,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 15,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 10,
+		"mob": ["srparasites:pri_longarms","srparasites:pri_manducater","srparasites:pri_reeker","srparasites:pri_summoner","srparasites:pri_bolster","srparasites:pri_arachnida"],
 		"result": "deny"
 	},
 

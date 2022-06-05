@@ -395,6 +395,73 @@
 		"dimension": 10,
 		"mobs":	[
 			{
+				"mob": "srparasites:pri_longarms",
+				"weight": 10,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": 10,
+		"mobs":	[
+			{
+				"mob": "srparasites:pri_manducater",
+				"weight": 10,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": 10,
+		"mobs":	[
+			{
+				"mob": "srparasites:pri_reeker",
+				"weight": 10,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": 10,
+		"mobs":	[
+			{
+				"mob": "srparasites:pri_summoner",
+				"weight": 10,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": 10,
+		"mobs":	[
+			{
+				"mob": "srparasites:pri_bolster",
+				"weight": 10,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": 10,
+		"mobs":	[
+			{
+				"mob": "srparasites:pri_arachnida",
+				"weight": 10,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+
+	{
+		"dimension": 10,
+		"mobs":	[
+			{
 				"mob": "srparasites:carrier_heavy",
 				"weight": 15,
 				"groupcountmin": 1,

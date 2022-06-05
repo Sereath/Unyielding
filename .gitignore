@@ -8,6 +8,7 @@
 !caches/
 !config/
 *.ogg
+config/fantasticlib/*
 !oresources/
 !patchouli_books/
 !resources/
