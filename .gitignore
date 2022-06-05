@@ -1,6 +1,7 @@
 /*
 ~*
 
+#whitelist
 !.gitignore
 !asm/
 !caches/
@@ -12,3 +13,8 @@
 !schematics
 !scripts/
 !structures/
+!credits.txt
+!minecraftinstance.json
+!options.txt
+!optionsof.txt
+!optionsshaders.txt
