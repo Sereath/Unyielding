@@ -1,0 +1,53 @@
+
+# Created by Ruins mod version 17.1 Ingame Parser
+# authoring Player: ST753M
+
+# Creates 2 zombies wearing (and dropping) a special skull/head.
+
+weight=1
+embed_into_distance=3
+acceptable_target_blocks=
+unacceptable_target_blocks=flowing_water,water,flowing_lava,lava
+dimensions=1,1,2
+allowable_overhang=2
+max_leveling=0
+leveling_buffer=0
+preserve_water=0
+preserve_lava=0
+
+rule1=0,100,CommandBlock:RUINSTRIGGER /summon minecraft:zombie_villager ~ ~5 ~ {PersistenceRequired:1,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1,Damage:3,tag:{SkullOwner:MHF_Alex}}],ArmorDropChances:[0.085F,0.085F,0.085F,1.0F]}:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon minecraft:zombie_villager ~ ~5 ~ {PersistenceRequired:1,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1,Damage:3,tag:{SkullOwner:MHF_Blaze}}],ArmorDropChances:[0.085F,0.085F,0.085F,1.0F]}:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon minecraft:zombie_villager ~ ~5 ~ {PersistenceRequired:1,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1,Damage:3,tag:{SkullOwner:MHF_Cave Spider}}],ArmorDropChances:[0.085F,0.085F,0.085F,1.0F]}:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon minecraft:zombie_villager ~ ~5 ~ {PersistenceRequired:1,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1,Damage:3,tag:{SkullOwner:MHF_Chicken}}],ArmorDropChances:[0.085F,0.085F,0.085F,1.0F]}:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon minecraft:zombie_villager ~ ~5 ~ {PersistenceRequired:1,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1,Damage:3,tag:{SkullOwner:MHF_Cow}}],ArmorDropChances:[0.085F,0.085F,0.085F,1.0F]}:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon minecraft:zombie_villager ~ ~5 ~ {PersistenceRequired:1,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1,Damage:3,tag:{SkullOwner:MHF_Creeper}}],ArmorDropChances:[0.085F,0.085F,0.085F,1.0F]}:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon minecraft:zombie_villager ~ ~5 ~ {PersistenceRequired:1,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1,Damage:3,tag:{SkullOwner:MHF_Enderman}}],ArmorDropChances:[0.085F,0.085F,0.085F,1.0F]}:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon minecraft:zombie_villager ~ ~5 ~ {PersistenceRequired:1,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1,Damage:3,tag:{SkullOwner:MHF_Ghast}}],ArmorDropChances:[0.085F,0.085F,0.085F,1.0F]}:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon minecraft:zombie_villager ~ ~5 ~ {PersistenceRequired:1,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1,Damage:3,tag:{SkullOwner:MHF_Golem}}],ArmorDropChances:[0.085F,0.085F,0.085F,1.0F]}:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon minecraft:zombie_villager ~ ~5 ~ {PersistenceRequired:1,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1,Damage:3,tag:{SkullOwner:MHF_Herobrine}}],ArmorDropChances:[0.085F,0.085F,0.085F,1.0F]}:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon minecraft:zombie_villager ~ ~5 ~ {PersistenceRequired:1,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1,Damage:3,tag:{SkullOwner:MHF_LavaSlime}}],ArmorDropChances:[0.085F,0.085F,0.085F,1.0F]}:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon minecraft:zombie_villager ~ ~5 ~ {PersistenceRequired:1,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1,Damage:3,tag:{SkullOwner:MHF_MushroomCow}}],ArmorDropChances:[0.085F,0.085F,0.085F,1.0F]}:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon minecraft:zombie_villager ~ ~5 ~ {PersistenceRequired:1,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1,Damage:3,tag:{SkullOwner:MHF_Ocelot}}],ArmorDropChances:[0.085F,0.085F,0.085F,1.0F]}:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon minecraft:zombie_villager ~ ~5 ~ {PersistenceRequired:1,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1,Damage:3,tag:{SkullOwner:MHF_Pig}}],ArmorDropChances:[0.085F,0.085F,0.085F,1.0F]}:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon minecraft:zombie_villager ~ ~5 ~ {PersistenceRequired:1,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1,Damage:3,tag:{SkullOwner:MHF_PigZombie}}],ArmorDropChances:[0.085F,0.085F,0.085F,1.0F]}:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon minecraft:zombie_villager ~ ~5 ~ {PersistenceRequired:1,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1,Damage:3,tag:{SkullOwner:MHF_Sheep}}],ArmorDropChances:[0.085F,0.085F,0.085F,1.0F]}:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon minecraft:zombie_villager ~ ~5 ~ {PersistenceRequired:1,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1,Damage:3,tag:{SkullOwner:MHF_Slime}}],ArmorDropChances:[0.085F,0.085F,0.085F,1.0F]}:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon minecraft:zombie_villager ~ ~5 ~ {PersistenceRequired:1,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1,Damage:3,tag:{SkullOwner:MHF_Cactus}}],ArmorDropChances:[0.085F,0.085F,0.085F,1.0F]}:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon minecraft:zombie_villager ~ ~5 ~ {PersistenceRequired:1,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1,Damage:3,tag:{SkullOwner:MHF_Cake}}],ArmorDropChances:[0.085F,0.085F,0.085F,1.0F]}:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon minecraft:zombie_villager ~ ~5 ~ {PersistenceRequired:1,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1,Damage:3,tag:{SkullOwner:MHF_CoconutB}}],ArmorDropChances:[0.085F,0.085F,0.085F,1.0F]}:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon minecraft:zombie_villager ~ ~5 ~ {PersistenceRequired:1,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1,Damage:3,tag:{SkullOwner:MHF_CoconutG}}],ArmorDropChances:[0.085F,0.085F,0.085F,1.0F]}:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon minecraft:zombie_villager ~ ~5 ~ {PersistenceRequired:1,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1,Damage:3,tag:{SkullOwner:MHF_Melon}}],ArmorDropChances:[0.085F,0.085F,0.085F,1.0F]}:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon minecraft:zombie_villager ~ ~5 ~ {PersistenceRequired:1,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1,Damage:3,tag:{SkullOwner:MHF_Present1}}],ArmorDropChances:[0.085F,0.085F,0.085F,1.0F]}:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon minecraft:zombie_villager ~ ~5 ~ {PersistenceRequired:1,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1,Damage:3,tag:{SkullOwner:MHF_Present2}}],ArmorDropChances:[0.085F,0.085F,0.085F,1.0F]}:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon minecraft:zombie_villager ~ ~5 ~ {PersistenceRequired:1,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1,Damage:3,tag:{SkullOwner:MHF_Pumpkin}}],ArmorDropChances:[0.085F,0.085F,0.085F,1.0F]}:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon minecraft:zombie_villager ~ ~5 ~ {PersistenceRequired:1,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1,Damage:3,tag:{SkullOwner:MHF_Shulker}}],ArmorDropChances:[0.085F,0.085F,0.085F,1.0F]}:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon minecraft:zombie_villager ~ ~5 ~ {PersistenceRequired:1,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1,Damage:3,tag:{SkullOwner:MHF_Spider}}],ArmorDropChances:[0.085F,0.085F,0.085F,1.0F]}:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon minecraft:zombie_villager ~ ~5 ~ {PersistenceRequired:1,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1,Damage:3,tag:{SkullOwner:MHF_Squid}}],ArmorDropChances:[0.085F,0.085F,0.085F,1.0F]}:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon minecraft:zombie_villager ~ ~5 ~ {PersistenceRequired:1,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1,Damage:3,tag:{SkullOwner:MHF_Steve}}],ArmorDropChances:[0.085F,0.085F,0.085F,1.0F]}:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon minecraft:zombie_villager ~ ~5 ~ {PersistenceRequired:1,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1,Damage:3,tag:{SkullOwner:MHF_Villager}}],ArmorDropChances:[0.085F,0.085F,0.085F,1.0F]}:@-1
+^0,100,CommandBlock:RUINSTRIGGER /summon minecraft:zombie_villager ~ ~5 ~ {PersistenceRequired:1,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1,Damage:3,tag:{SkullOwner:MHF_Wither}}],ArmorDropChances:[0.085F,0.085F,0.085F,1.0F]}:@-1
+
+layer
+1,1
+endlayer
+

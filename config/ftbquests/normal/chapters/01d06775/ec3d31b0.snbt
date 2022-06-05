@@ -1,0 +1,14 @@
+{
+	x: 2.5d,
+	y: -3.5d,
+	dependencies: [
+		"fa17a337"
+	],
+	tasks: [{
+		uid: "c2c4d3fd",
+		type: "item",
+		items: [{
+			item: "techguns:basicmachine 1 3"
+		}]
+	}]
+}

@@ -1,0 +1,21 @@
+# Gilly's swamphut spawn proxy
+
+weight=1
+embed_into_distance=0
+acceptable_target_blocks=flowing_water,water,waterlily,mud
+unacceptable_target_blocks=
+biomesToSpawnIn=swampland,wetland,marsh,lush swamp,mini jungle
+dimensions=1,1,1
+cut_in_buffer=0
+max_leveling=2
+leveling_buffer=-1
+preserve_water=0
+preserve_lava=0
+preserve_plants=0
+
+rule1=0,100,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwamphut1 ~ ~ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampHut2 ~ ~ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampHut3 ~ ~ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampHut4 ~ ~ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampHut5 ~ ~ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPlatform1 ~ ~ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPlatform2 ~ ~ ~:@
+
+layer
+1
+endlayer
+

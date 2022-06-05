@@ -1,0 +1,13 @@
+{
+	x: 10.5d,
+	y: -15.5d,
+	tasks: [{
+		uid: "4ed3b998",
+		type: "item",
+		items: [{
+			item: "minecraft:leather_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

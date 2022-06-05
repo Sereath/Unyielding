@@ -1,0 +1,13 @@
+{
+	x: 23.5d,
+	y: -3.5d,
+	tasks: [{
+		uid: "330eda18",
+		type: "item",
+		items: [{
+			item: "cyclicmagic:purple_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

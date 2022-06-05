@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: -16.5d,
+	tasks: [{
+		uid: "45b772bc",
+		type: "item",
+		items: [{
+			id: "cyclicmagic:charm_water",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

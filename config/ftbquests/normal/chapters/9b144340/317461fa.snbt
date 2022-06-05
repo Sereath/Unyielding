@@ -1,0 +1,46 @@
+{
+	x: -3.5d,
+	y: -3.5d,
+	tasks: [{
+		uid: "5983a416",
+		type: "item",
+		items: [{
+			id: "improvedbackpacks:backpack",
+			tag: {
+				Quality: {
+					Slots: [
+						"chest"
+					],
+					Color: "dark_red",
+					AttributeModifiers: [{
+						UUIDMost: -8130910003825588199L,
+						UUIDLeast: -5693342113614746093L,
+						Amount: -1.0d,
+						AttributeName: "generic.armorToughness",
+						Operation: 0,
+						Name: "qualitytools"
+					},
+					{
+						UUIDMost: -8333971175381774875L,
+						UUIDLeast: -6716549036144533141L,
+						Amount: -1.5d,
+						AttributeName: "generic.armor",
+						Operation: 0,
+						Name: "qualitytools"
+					},
+					{
+						UUIDMost: 576676492356308067L,
+						UUIDLeast: -7819420129498468310L,
+						Amount: -1.0d,
+						AttributeName: "potioncore.magicShielding",
+						Operation: 0,
+						Name: "qualitytools"
+					}],
+					Name: "quality.crumbling.name"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

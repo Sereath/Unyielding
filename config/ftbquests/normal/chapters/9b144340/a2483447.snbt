@@ -1,0 +1,19 @@
+{
+	x: -3.0d,
+	y: 3.5d,
+	tasks: [{
+		uid: "7d7f39fe",
+		type: "item",
+		items: [{
+			id: "buildinggadgets:exchangertool",
+			tag: {
+				Energy: 500000,
+				blockstate: {
+					Name: "minecraft:air"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

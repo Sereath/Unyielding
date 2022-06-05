@@ -1,0 +1,118 @@
+[
+    //Ore Miner
+
+    {
+        "dimension": [-1,0,1,66,424],
+        "block": "environmentaltech:void_ore_miner_cont_1",
+        "message": "Nothing interesting happens.",
+        "result": "deny"
+    },
+    {
+        "dimension": [-1,0,1,66,424],
+        "block": "environmentaltech:void_ore_miner_cont_2",
+        "message": "Nothing interesting happens.",
+        "result": "deny"
+    },
+    {
+        "dimension": [-1,0,1,66,424],
+        "block": "environmentaltech:void_ore_miner_cont_3",
+        "message": "Nothing interesting happens.",
+        "result": "deny"
+    },
+    {
+        "dimension": [-1,0,1,66,424],
+        "block": "environmentaltech:void_ore_miner_cont_4",
+        "message": "Nothing interesting happens.",
+        "result": "deny"
+    },
+    {
+        "dimension": [-1,0,1,66,424],
+        "block": "environmentaltech:void_ore_miner_cont_5",
+        "message": "Nothing interesting happens.",
+        "result": "deny"
+    },
+    {
+        "dimension": [-1,0,1,66,424],
+        "block": "environmentaltech:void_ore_miner_cont_6",
+        "message": "Nothing interesting happens.",
+        "result": "deny"
+    },
+
+    //Resource Miner
+
+    {
+        "dimension": [-1,1,424],
+        "block": "environmentaltech:void_res_miner_cont_1",
+        "message": "Nothing interesting happens.",
+        "result": "deny"
+    },
+    {
+        "dimension": [-1,1,424],
+        "block": "environmentaltech:void_res_miner_cont_2",
+        "message": "Nothing interesting happens.",
+        "result": "deny"
+    },
+    {
+        "dimension": [-1,1,424],
+        "block": "environmentaltech:void_res_miner_cont_3",
+        "message": "Nothing interesting happens.",
+        "result": "deny"
+    },
+    {
+        "dimension": [-1,1,424],
+        "block": "environmentaltech:void_res_miner_cont_4",
+        "message": "Nothing interesting happens.",
+        "result": "deny"
+    },
+    {
+        "dimension": [-1,1,424],
+        "block": "environmentaltech:void_res_miner_cont_5",
+        "message": "Nothing interesting happens.",
+        "result": "deny"
+    },
+    {
+        "dimension": [-1,1,424],
+        "block": "environmentaltech:void_res_miner_cont_6",
+        "message": "Nothing interesting happens.",
+        "result": "deny"
+    },
+
+    //Botanic Miner
+
+    {
+        "dimension": [-1,1,424],
+        "block": "environmentaltech:void_botanic_miner_cont_1",
+        "message": "Nothing interesting happens.",
+        "result": "deny"
+    },
+    {
+        "dimension": [-1,1,424],
+        "block": "environmentaltech:void_botanic_miner_cont_2",
+        "message": "Nothing interesting happens.",
+        "result": "deny"
+    },
+    {
+        "dimension": [-1,1,424],
+        "block": "environmentaltech:void_botanic_miner_cont_3",
+        "message": "Nothing interesting happens.",
+        "result": "deny"
+    },
+    {
+        "dimension": [-1,1,424],
+        "block": "environmentaltech:void_botanic_miner_cont_4",
+        "message": "Nothing interesting happens.",
+        "result": "deny"
+    },
+    {
+        "dimension": [-1,1,424],
+        "block": "environmentaltech:void_botanic_miner_cont_5",
+        "message": "Nothing interesting happens.",
+        "result": "deny"
+    },
+    {
+        "dimension": [-1,1,424],
+        "block": "environmentaltech:void_botanic_miner_cont_6",
+        "message": "Nothing interesting happens.",
+        "result": "deny"
+    }
+]

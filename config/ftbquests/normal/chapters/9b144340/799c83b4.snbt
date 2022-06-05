@@ -1,0 +1,22 @@
+{
+	x: -3.5d,
+	y: -8.5d,
+	tasks: [{
+		uid: "712181e1",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any wool"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "wool"
+				}
+			}
+		}]
+	}]
+}

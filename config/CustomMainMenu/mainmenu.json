@@ -1,0 +1,171 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "unyielding:textures/gui/unyielding-title.png",
+            "posX" : -207,
+            "posY" : 108,
+            "width" : 415,
+            "height" : 62,
+            "alignment" : "top_center"
+        },
+		
+		"bgbox":
+        {
+            "image" : "unyielding:textures/gui/bgbox1.png",
+            "posX" : 1,
+            "posY" : -121,
+            "width" : 220,
+            "height" : 120,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : 11,
+            "posY" : -115,
+            "width" : 200,
+            "height" : 20,
+			"normalTextColor": 16777215,
+            "hoverTextColor": 16238390,
+            "texture": "unyielding:textures/gui/btn11.png",
+
+			"alignment": "bottom_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : 11,
+            "posY" : -90,
+            "width" : 200,
+            "height" : 20,
+			"normalTextColor": 16777215,
+            "hoverTextColor": 16238390,
+            "texture": "unyielding:textures/gui/btn12.png",
+			
+			"alignment": "bottom_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "Mods (#modsloaded#/#modsactive#)",
+            "posX" : 11,
+            "posY" : -45,
+            "width" : 200,
+            "height" : 20,
+			"normalTextColor": 16777215,
+            "hoverTextColor": 5100008,
+            "texture": "unyielding:textures/gui/btn10.png",
+			
+			"alignment": "bottom_left",			
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : 11,
+            "posY" : -65,
+            "width" : 100,
+            "height" : 20,
+			"normalTextColor": 16777215,
+            "hoverTextColor": 5100008,
+            "texture": "unyielding:textures/gui/btn9.png",
+			
+			"alignment": "bottom_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+		
+		        "language":
+        {
+            "text" : "Languages",
+            "posX" : 111,
+            "posY" : -65,
+            "width" : 100,
+            "height" : 20,
+			
+			"normalTextColor": 16777215,
+            "hoverTextColor": 5100008,
+            "texture": "unyielding:textures/gui/btn8.png",			
+			"alignment": "bottom_left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : 11,
+            "posY" : -25,
+            "width" : 200,
+            "height" : 20,
+			"normalTextColor": 15554663,
+            "hoverTextColor": 16711684,
+            "texture": "unyielding:textures/gui/btnok2.png",
+			
+			"alignment": "bottom_left",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        }
+    },
+    
+    "labels":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "posX" : -200,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+		
+		"fg":
+        {
+            "text" : "Forge #forgeversion# for Minecraft #mcversion#",
+            "posX" : -200,
+            "posY" : -25,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        }		
+        
+    },
+    
+    "other":
+    {      
+        "background":
+		{
+			"image" : "unyielding:textures/gui/spire.png",
+			"mode" : "fill"
+		}
+    }
+}

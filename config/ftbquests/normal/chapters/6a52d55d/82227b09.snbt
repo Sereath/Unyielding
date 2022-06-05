@@ -1,0 +1,16 @@
+{
+	x: 24.5d,
+	y: 4.0d,
+	tasks: [{
+		uid: "eefe4372",
+		type: "item",
+		items: [{
+			id: "techguns:t3_miner_boots",
+			tag: {
+				power: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "0f11de1d",
+		type: "item",
+		items: [{
+			item: "xreliquary:infernal_tear"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

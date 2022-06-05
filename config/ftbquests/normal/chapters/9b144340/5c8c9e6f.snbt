@@ -1,0 +1,12 @@
+{
+	x: -2.0d,
+	y: -11.0d,
+	tasks: [{
+		uid: "027a3510",
+		type: "item",
+		items: [{
+			item: "bonetorch:bonetorch"
+		}],
+		count: 32L
+	}]
+}

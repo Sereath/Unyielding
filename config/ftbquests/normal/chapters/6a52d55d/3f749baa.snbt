@@ -1,0 +1,13 @@
+{
+	x: 27.5d,
+	y: -13.5d,
+	tasks: [{
+		uid: "6cd2a810",
+		type: "item",
+		items: [{
+			item: "nyx:meteor_pants"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 3.5d,
+	y: -7.5d,
+	dependencies: [
+		"ed157a4d"
+	],
+	tasks: [{
+		uid: "bd5f60ce",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:sink"
+		}]
+	}]
+}

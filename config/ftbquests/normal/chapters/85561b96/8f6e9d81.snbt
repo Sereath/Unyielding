@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "487664e2",
+		type: "item",
+		items: [{
+			item: "xreliquary:witherless_rose"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

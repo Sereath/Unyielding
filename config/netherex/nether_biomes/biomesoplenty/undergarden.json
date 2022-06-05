@@ -1,0 +1,215 @@
+{
+	"biome": "biomesoplenty:undergarden",
+	"generationWeight": 1,
+	"useDefaultDecorations": true,
+	"isSubBiome": false,
+	"blocks": {},
+	"entities": [
+		{
+			"spawnWeight": 50,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 4,
+			"entity": "minecraft:ghast"
+		}, 
+		{
+			"spawnWeight": 100,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 4,
+			"entity": "minecraft:zombie_pigman"
+		}, 
+		{
+			"spawnWeight": 2,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 4,
+			"entity": "minecraft:magma_cube"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 4,
+			"entity": "minecraft:enderman"
+		}, 
+		{
+			"spawnWeight": 20,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 2,
+			"entity": "dungeonmobs:dmnetherhound"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "dungeonmobs:dmfallenangel"
+		}, 
+		{
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "mysticalworld:entity_hell_sprout"
+		}, 
+		{
+			"spawnWeight": 2,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "mysticalworld:entity_lava_cat"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "ebwizardry:lightning_wraith"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "ebwizardry:evil_wizard"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "eyesinthedarkness:eyes"
+		}, 
+		{
+			"spawnWeight": 40,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 8,
+			"entity": "mod_lavacow:salamander"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "harvestersnight:harvester"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "mutantbeasts:mutant_enderman"
+		}, 
+		{
+			"spawnWeight": 10,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "minecraft:blaze"
+		}, 
+		{
+			"spawnWeight": 4,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "quark:foxhound"
+		}, 
+		{
+			"spawnWeight": 60,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 6,
+			"entity": "quark:wraith"
+		}, 
+		{
+			"spawnWeight": 10,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "thaumcraft:firebat"
+		}, 
+		{
+			"spawnWeight": 5,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "thaumcraft:wisp"
+		}, 
+		{
+			"spawnWeight": 5,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "eerieentities:nether_knight"
+		}, 
+		{
+			"spawnWeight": 15,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "grimoireofgaia:vase_nether"
+		}, 
+		{
+			"spawnWeight": 20,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 4,
+			"entity": "grimoireofgaia:succubus"
+		}, 
+		{
+			"spawnWeight": 15,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 4,
+			"entity": "grimoireofgaia:wither_cow"
+		}, 
+		{
+			"spawnWeight": 15,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 4,
+			"entity": "grimoireofgaia:baphomet"
+		}, 
+		{
+			"spawnWeight": 80,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 4,
+			"entity": "grimoireofgaia:creep"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mowziesmobs:grottol"
+		}, 
+		{
+			"spawnWeight": 8,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 6,
+			"entity": "natura:nitrocreeper"
+		}, 
+		{
+			"spawnWeight": 2,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 4,
+			"entity": "mysticalworld:entity_sprout"
+		}, 
+		{
+			"spawnWeight": 10,
+			"minimumGroupCount": 8,
+			"maximumGroupCount": 12,
+			"entity": "natura:imp"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "thaumcraft:giantbrainyzombie"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "thaumcraft:cultistportallesser"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "thaumcraft:brainyzombie"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "thaumcraft:pech"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "thaumcraft:inhabitedzombie"
+		}
+	],
+	"traits": [],
+	"subBiomes": []
+}

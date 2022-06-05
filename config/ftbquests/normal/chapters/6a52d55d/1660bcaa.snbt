@@ -1,0 +1,16 @@
+{
+	x: 20.0d,
+	y: 7.0d,
+	tasks: [{
+		uid: "5403b9b9",
+		type: "item",
+		items: [{
+			id: "techguns:t3_power_helmet",
+			tag: {
+				power: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

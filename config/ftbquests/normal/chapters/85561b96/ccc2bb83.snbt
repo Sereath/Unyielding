@@ -1,0 +1,16 @@
+{
+	x: 4.0d,
+	y: -15.0d,
+	tasks: [{
+		uid: "cd724904",
+		type: "item",
+		items: [{
+			id: "cyclicmagic:charm_wing",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

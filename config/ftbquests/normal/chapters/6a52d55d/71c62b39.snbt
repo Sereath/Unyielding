@@ -1,0 +1,13 @@
+{
+	x: 26.0d,
+	y: -16.0d,
+	tasks: [{
+		uid: "1cac5425",
+		type: "item",
+		items: [{
+			item: "nyx:meteor_helm"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

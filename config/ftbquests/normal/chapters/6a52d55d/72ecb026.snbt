@@ -1,0 +1,13 @@
+{
+	x: 6.5d,
+	y: 9.5d,
+	tasks: [{
+		uid: "47333df6",
+		type: "item",
+		items: [{
+			item: "iceandfire:armor_sapphire_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

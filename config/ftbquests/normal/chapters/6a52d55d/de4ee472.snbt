@@ -1,0 +1,19 @@
+{
+	x: 21.5d,
+	y: 5.0d,
+	dependencies: [
+		"59feb874"
+	],
+	tasks: [{
+		uid: "33b38d47",
+		type: "item",
+		items: [{
+			id: "techguns:t3_exo_boots",
+			tag: {
+				power: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

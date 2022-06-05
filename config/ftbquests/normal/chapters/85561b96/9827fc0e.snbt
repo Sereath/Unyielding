@@ -1,0 +1,31 @@
+{
+	x: 4.0d,
+	y: -16.5d,
+	tasks: [{
+		uid: "42546aca",
+		type: "item",
+		items: [{
+			id: "cyclicmagic:charm_void",
+			tag: {
+				Quality: {
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					Color: "blue",
+					AttributeModifiers: [{
+						UUIDMost: -8200572124769530509L,
+						UUIDLeast: -8757707930286374247L,
+						Amount: 0.05000000074505806d,
+						AttributeName: "generic.movementSpeed",
+						Operation: 2,
+						Name: "qualitytools"
+					}],
+					Name: "quality.speedy.name"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

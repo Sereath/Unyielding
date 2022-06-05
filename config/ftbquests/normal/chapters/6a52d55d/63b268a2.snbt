@@ -1,0 +1,13 @@
+{
+	x: 3.5d,
+	y: 12.5d,
+	tasks: [{
+		uid: "d972600e",
+		type: "item",
+		items: [{
+			item: "iceandfire:armor_blue_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

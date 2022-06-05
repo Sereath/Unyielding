@@ -1,0 +1,13 @@
+{
+	x: 23.0d,
+	y: -5.0d,
+	tasks: [{
+		uid: "e7e0075c",
+		type: "item",
+		items: [{
+			item: "cyclicmagic:purple_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,225 @@
+[
+    //zombie
+
+    {
+        "mob": "minecraft:zombie",
+        "player": true,
+        "item": "thermalfoundation:material@224",
+        "itemcount": "1-2/2-4/4-8",
+        "random": "0.15"
+    },
+
+    //techguns
+
+    {
+        "mod": "techguns",
+        "player": true,
+        "item": "thermalfoundation:material@224",
+        "itemcount": "1-2/2-4/4-8",
+        "random": "0.6"
+    },
+
+    //zombiesoldier
+
+    {
+        "mob": "techguns:zombiesoldier",
+        "player": true,
+        "item": "gamestagebooks:techguns",
+        "itemcount": "1",
+        "random": "0.003"
+    },
+    {
+        "mob": "techguns:zombiesoldier",
+        "player": true,
+        "item": "gamestagebooks:immersiveengineering",
+        "itemcount": "1",
+        "random": "0.009"
+    },
+
+    //zombiefarmer
+
+    {
+        "mob": "techguns:zombiefarmer",
+        "player": true,
+        "item": "gamestagebooks:techguns",
+        "itemcount": "1",
+        "random": "0.002"
+    },
+    {
+        "mob": "techguns:zombiefarmer",
+        "player": true,
+        "item": "gamestagebooks:immersiveengineering",
+        "itemcount": "1",
+        "random": "0.006"
+    },
+
+    //zombieminer
+
+    {
+        "mob": "techguns:zombieminer",
+        "player": true,
+        "item": "gamestagebooks:techguns",
+        "itemcount": "1",
+        "random": "0.002"
+    },
+    {
+        "mob": "techguns:zombieminer",
+        "player": true,
+        "item": "gamestagebooks:immersiveengineering",
+        "itemcount": "1",
+        "random": "0.006"
+    },
+
+    //cyberdemon
+
+    {
+        "mob": "techguns:cyberdemon",
+        "player": true,
+        "item": "gamestagebooks:techguns",
+        "itemcount": "1",
+        "random": "0.03"
+    },
+    {
+        "mob": "techguns:cyberdemon",
+        "player": true,
+        "item": "gamestagebooks:immersiveengineering",
+        "itemcount": "1",
+        "random": "0.09"
+    },
+    {
+        "mob": "techguns:cyberdemon",
+        "player": true,
+        "item": "gamestagebooks:thermalexpansion",
+        "itemcount": "1",
+        "random": "0.01"
+    },
+    {
+        "mob": "techguns:cyberdemon",
+        "player": true,
+        "item": "gamestagebooks:actuallyadditions",
+        "itemcount": "1",
+        "random": "0.01"
+    },
+
+    //skeletonsoldier
+
+    {
+        "mob": "techguns:skeletonsoldier",
+        "player": true,
+        "item": "gamestagebooks:techguns",
+        "itemcount": "1",
+        "random": "0.003"
+    },
+    {
+        "mob": "techguns:skeletonsoldier",
+        "player": true,
+        "item": "gamestagebooks:immersiveengineering",
+        "itemcount": "1",
+        "random": "0.009"
+    },
+
+    //psychosteve
+
+    {
+        "mob": "techguns:psychosteve",
+        "player": true,
+        "item": "gamestagebooks:techguns",
+        "itemcount": "1",
+        "random": "0.09"
+    },
+    {
+        "mob": "techguns:psychosteve",
+        "player": true,
+        "item": "gamestagebooks:immersiveengineering",
+        "itemcount": "1",
+        "random": "0.27"
+    },
+    {
+        "mob": "techguns:psychosteve",
+        "player": true,
+        "item": "gamestagebooks:thermalexpansion",
+        "itemcount": "1",
+        "random": "0.03"
+    },
+    {
+        "mob": "techguns:psychosteve",
+        "player": true,
+        "item": "gamestagebooks:actuallyadditions",
+        "itemcount": "1",
+        "random": "0.03"
+    },
+    {
+        "mob": "techguns:psychosteve",
+        "player": true,
+        "item": "gamestagebooks:openmodularturrets",
+        "itemcount": "1",
+        "random": "0.01"
+    },
+
+    //bosszombie
+
+    {
+        "mob": "roughmobsrevamped:bosszombie",
+        "player": true,
+        "item": "gamestagebooks:cyclic",
+        "itemcount": "1",
+        "random": "0.09"
+    },
+
+    //bossskeleton
+
+    {
+        "mob": "roughmobsrevamped:bossskeleton",
+        "player": true,
+        "item": "gamestagebooks:cyclic",
+        "itemcount": "1",
+        "random": "0.09"
+    },
+
+    //mutant_creeper
+
+    {
+        "mob": "mutantbeasts:mutant_creeper",
+        "player": true,
+        "item": "gamestagebooks:cyclic",
+        "itemcount": "1",
+        "random": "0.12"
+    },
+
+    //mutant_enderman
+
+    {
+        "mob": "mutantbeasts:mutant_enderman",
+        "player": true,
+        "item": "gamestagebooks:enderio",
+        "itemcount": "1",
+        "random": "0.05"
+    },
+    {
+        "mob": "mutantbeasts:mutant_enderman",
+        "player": true,
+        "item": "gamestagebooks:cyclic",
+        "itemcount": "1",
+        "random": "0.15"
+    },
+
+    //mutant_skeleton
+
+    {
+        "mob": "mutantbeasts:mutant_skeleton",
+        "player": true,
+        "item": "gamestagebooks:cyclic",
+        "itemcount": "1",
+        "random": "0.09"
+    },
+
+    //mutant_zombie
+
+    {
+        "mob": "mutantbeasts:mutant_zombie",
+        "player": true,
+        "item": "gamestagebooks:cyclic",
+        "itemcount": "1",
+        "random": "0.09"
+    }
+]

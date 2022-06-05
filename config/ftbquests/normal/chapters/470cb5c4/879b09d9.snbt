@@ -1,0 +1,16 @@
+{
+	x: -0.5d,
+	y: -3.5d,
+	dependencies: [
+		"6ce347a4"
+	],
+	tasks: [{
+		uid: "03d247d1",
+		type: "item",
+		items: [{
+			item: "valkyrielib:guide"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

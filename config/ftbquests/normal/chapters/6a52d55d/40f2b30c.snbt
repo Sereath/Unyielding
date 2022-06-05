@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 8.5d,
+	tasks: [{
+		uid: "422613a6",
+		type: "item",
+		items: [{
+			id: "techguns:t4_praetor_leggings",
+			tag: {
+				power: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

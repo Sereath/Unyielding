@@ -1,0 +1,45 @@
+{
+	x: 3.5d,
+	y: -8.0d,
+	size: 1.5d,
+	tasks: [{
+		uid: "67dae797",
+		type: "item",
+		items: [{
+			id: "xat:ender_tiara",
+			tag: {
+				Quality: {
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					Color: "blue",
+					AttributeModifiers: [{
+						UUIDMost: 3087691528262798417L,
+						UUIDLeast: -8116955828774866075L,
+						Amount: 2.0d,
+						AttributeName: "generic.maxHealth",
+						Operation: 0,
+						Name: "qualitytools"
+					}],
+					Name: "quality.healthy.name"
+				}
+			},
+			ForgeCaps: {
+				"xat:trinket": {
+					target: -1,
+					slot: -1,
+					handler: 0,
+					hitcount: 0,
+					exp: 0,
+					mana: 0,
+					main.ability: 0b,
+					alt.ability: 0b,
+					player.status: -1
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

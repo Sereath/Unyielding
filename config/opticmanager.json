@@ -1,0 +1,7 @@
+{
+  "overrideDayNightBrightness": false,
+  "dayBrightness": 1.0,
+  "nightBrightness": 0.0,
+  "dayDuration": 24000,
+  "nightDuration": 24000
+}

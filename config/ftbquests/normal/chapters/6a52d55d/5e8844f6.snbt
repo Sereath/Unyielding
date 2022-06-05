@@ -1,0 +1,13 @@
+{
+	x: -2.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "67fda2f0",
+		type: "item",
+		items: [{
+			item: "iceandfire:myrmex_jungle_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 23.0d,
+	y: 8.0d,
+	dependencies: [
+		"1660bcaa"
+	],
+	tasks: [{
+		uid: "abfa722c",
+		type: "item",
+		items: [{
+			id: "techguns:t4_power_helmet",
+			tag: {
+				power: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

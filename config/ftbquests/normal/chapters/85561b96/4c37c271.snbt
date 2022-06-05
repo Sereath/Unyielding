@@ -1,0 +1,16 @@
+{
+	x: 16.5d,
+	y: -11.0d,
+	tasks: [{
+		uid: "ef10f40b",
+		type: "item",
+		items: [{
+			id: "grimoireofgaia:accessory_ring_night",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

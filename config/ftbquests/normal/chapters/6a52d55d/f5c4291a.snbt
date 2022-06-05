@@ -1,0 +1,16 @@
+{
+	x: 33.5d,
+	y: -13.0d,
+	tasks: [{
+		uid: "343e4388",
+		type: "item",
+		items: [{
+			id: "theaurorian:auroriansteelboots",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

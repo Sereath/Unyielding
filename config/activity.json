@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Sereath",
+      "uniqueId": "1d7be0a0-ae36-4f3e-a983-4a4c89e15201"
+    },
+    "time": 1653180169732,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/sxxcsB9PO6"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Sereath",
+      "uniqueId": "1d7be0a0-ae36-4f3e-a983-4a4c89e15201"
+    },
+    "time": 1648534496640,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "C:\\MultiMC\\instances\\Unyielding\\.minecraft\\config\\profile-2022-03-29_00.14.56.sparkprofile"
+    }
+  }
+]

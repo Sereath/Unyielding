@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "d399379c",
+		type: "item",
+		items: [{
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "techguns:techguns_manual"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

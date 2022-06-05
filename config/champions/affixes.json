@@ -1,0 +1,157 @@
+[
+  {
+    "identifier": "vortex",
+    "enabled": true,
+    "entityBlacklist": [],
+    "alwaysOnEntity": [],
+    "tier": 1
+  },
+  {
+    "identifier": "cinder",
+    "enabled": true,
+    "entityBlacklist": ["twilightforest:snow_queen", "twilightforest:yeti_alpha", "mowziesmobs:frostmaw", "srparasites:sim_bigspider", "srparasites:sim_human", "srparasites:sim_cow", "srparasites:sim_sheep", "srparasites:sim_wolf", "srparasites:sim_pig",
+      "srparasites:sim_villager", "srparasites:sim_adventurer", "srparasites:sim_horse", "srparasites:sim_bear", "srparasites:sim_enderman", "srparasites:sim_dragone", "srparasites:sim_sheephead", "srparasites:sim_wolfhead",
+      "srparasites:sim_cowhead", "srparasites:sim_pighead", "srparasites:sim_villagerhead", "srparasites:sim_horsehead", "srparasites:sim_humanhead", "srparasites:incompleteform_small", "srparasites:incompleteform_medium",
+      "srparasites:carrier_heavy", "srparasites:buglin", "srparasites:carrier_flying", "srparasites:rupter", "srparasites:movingflesh", "srparasites:worker", "srparasites:beckon_si", "srparasites:beckon_sii",
+      "srparasites:beckon_siii", "srparasites:beckon_siv", "srparasites:kyphosis", "srparasites:sentry", "srparasites:host", "srparasites:heed", "srparasites:crux", "srparasites:pri_longarms", "srparasites:pri_manducater", "srparasites:pri_reeker", "srparasites:pri_yelloweye",
+      "srparasites:pri_summoner", "srparasites:pri_bolster", "srparasites:pri_arachnida", "srparasites:pri_devourer", "srparasites:ada_longarms", "srparasites:ada_manducater", "srparasites:ada_reeker", "srparasites:ada_yelloweye",
+      "srparasites:ada_summoner", "srparasites:ada_bolster", "srparasites:ada_arachnida", "srparasites:overseer", "srparasites:vigilante", "srparasites:warden", "srparasites:bomber_light", "srparasites:marauder",
+      "srparasites:grunt", "srparasites:anc_dreadnaut", "srparasites:anc_overlord", "srparasites:anc_pod", "srparasites:anc_dreadnaut_ten", "srparasites:webball", "srparasites:spineball", "srparasites:salivaball",
+      "srparasites:ballball", "srparasites:ancientball", "srparasites:homming", "srparasites:antiinfestedblock", "srparasites:biomassball", "srparasites:missile", "srparasites:bomb", "srparasites:cloudtoxic", "srparasites:biomass", "srparasites:gore", "srparasites:tendril", "srparasites:scent", "iceandfire:icedragon"],
+    "alwaysOnEntity": ["minecraft:wither", "minecraft:ender_dragon"],
+    "tier": 1
+  },
+  {
+    "identifier": "arctic",
+    "enabled": true,
+    "entityBlacklist": ["srparasites:sim_bigspider", "srparasites:sim_human", "srparasites:sim_cow", "srparasites:sim_sheep", "srparasites:sim_wolf", "srparasites:sim_pig",
+      "srparasites:sim_villager", "srparasites:sim_adventurer", "srparasites:sim_horse", "srparasites:sim_bear", "srparasites:sim_enderman", "srparasites:sim_dragone", "srparasites:sim_sheephead", "srparasites:sim_wolfhead",
+      "srparasites:sim_cowhead", "srparasites:sim_pighead", "srparasites:sim_villagerhead", "srparasites:sim_horsehead", "srparasites:sim_humanhead", "srparasites:incompleteform_small", "srparasites:incompleteform_medium",
+      "srparasites:carrier_heavy", "srparasites:buglin", "srparasites:carrier_flying", "srparasites:rupter", "srparasites:movingflesh", "srparasites:worker", "srparasites:beckon_si", "srparasites:beckon_sii",
+      "srparasites:beckon_siii", "srparasites:beckon_siv", "srparasites:kyphosis", "srparasites:sentry", "srparasites:host", "srparasites:heed", "srparasites:crux", "srparasites:pri_longarms", "srparasites:pri_manducater", "srparasites:pri_reeker", "srparasites:pri_yelloweye",
+      "srparasites:pri_summoner", "srparasites:pri_bolster", "srparasites:pri_arachnida", "srparasites:pri_devourer", "srparasites:ada_longarms", "srparasites:ada_manducater", "srparasites:ada_reeker", "srparasites:ada_yelloweye",
+      "srparasites:ada_summoner", "srparasites:ada_bolster", "srparasites:ada_arachnida", "srparasites:overseer", "srparasites:vigilante", "srparasites:warden", "srparasites:bomber_light", "srparasites:marauder",
+      "srparasites:grunt", "srparasites:anc_dreadnaut", "srparasites:anc_overlord", "srparasites:anc_pod", "srparasites:anc_dreadnaut_ten", "srparasites:webball", "srparasites:spineball", "srparasites:salivaball",
+      "srparasites:ballball", "srparasites:ancientball", "srparasites:homming", "srparasites:antiinfestedblock", "srparasites:biomassball", "srparasites:missile", "srparasites:bomb", "srparasites:cloudtoxic", "srparasites:biomass", "srparasites:gore", "srparasites:tendril", "srparasites:scent", "iceandfire:firedragon"],
+    "alwaysOnEntity": ["twilightforest:snow_queen", "twilightforest:yeti_alpha", "mowziesmobs:frostmaw"],
+    "tier": 1
+  },
+  {
+    "identifier": "desecrator",
+    "enabled": true,
+    "entityBlacklist": ["srparasites:sim_bigspider", "srparasites:sim_human", "srparasites:sim_cow", "srparasites:sim_sheep", "srparasites:sim_wolf", "srparasites:sim_pig",
+      "srparasites:sim_villager", "srparasites:sim_adventurer", "srparasites:sim_horse", "srparasites:sim_bear", "srparasites:sim_enderman", "srparasites:sim_dragone", "srparasites:sim_sheephead", "srparasites:sim_wolfhead",
+      "srparasites:sim_cowhead", "srparasites:sim_pighead", "srparasites:sim_villagerhead", "srparasites:sim_horsehead", "srparasites:sim_humanhead", "srparasites:incompleteform_small", "srparasites:incompleteform_medium",
+      "srparasites:carrier_heavy", "srparasites:buglin", "srparasites:carrier_flying", "srparasites:rupter", "srparasites:movingflesh", "srparasites:worker", "srparasites:beckon_si", "srparasites:beckon_sii",
+      "srparasites:beckon_siii", "srparasites:beckon_siv", "srparasites:kyphosis", "srparasites:sentry", "srparasites:host", "srparasites:heed", "srparasites:crux", "srparasites:pri_longarms", "srparasites:pri_manducater", "srparasites:pri_reeker", "srparasites:pri_yelloweye",
+      "srparasites:pri_summoner", "srparasites:pri_bolster", "srparasites:pri_arachnida", "srparasites:pri_devourer", "srparasites:ada_longarms", "srparasites:ada_manducater", "srparasites:ada_reeker", "srparasites:ada_yelloweye",
+      "srparasites:ada_summoner", "srparasites:ada_bolster", "srparasites:ada_arachnida", "srparasites:overseer", "srparasites:vigilante", "srparasites:warden", "srparasites:bomber_light", "srparasites:marauder",
+      "srparasites:grunt", "srparasites:anc_dreadnaut", "srparasites:anc_overlord", "srparasites:anc_pod", "srparasites:anc_dreadnaut_ten", "srparasites:webball", "srparasites:spineball", "srparasites:salivaball",
+      "srparasites:ballball", "srparasites:ancientball", "srparasites:homming", "srparasites:antiinfestedblock", "srparasites:biomassball", "srparasites:missile", "srparasites:bomb", "srparasites:cloudtoxic", "srparasites:biomass", "srparasites:gore", "srparasites:tendril", "srparasites:scent"],
+    "alwaysOnEntity": [],
+    "tier": 1
+  },
+  {
+    "identifier": "scrapper",
+    "enabled": true,
+    "entityBlacklist": [],
+    "alwaysOnEntity": [],
+    "tier": 1
+  },
+  {
+    "identifier": "reflecting",
+    "enabled": true,
+    "entityBlacklist": [],
+    "alwaysOnEntity": ["grimoireofgaia:holstaurus"],
+    "tier": 1
+  },
+  {
+    "identifier": "knockback",
+    "enabled": true,
+    "entityBlacklist": [],
+    "alwaysOnEntity": ["grimoireofgaia:holstaurus"],
+    "tier": 1
+  },
+  {
+    "identifier": "jailer",
+    "enabled": true,
+    "entityBlacklist": [],
+    "alwaysOnEntity": [],
+    "tier": 1
+  },
+  {
+    "identifier": "dampening",
+    "enabled": true,
+    "entityBlacklist": [],
+    "alwaysOnEntity": ["grimoireofgaia:holstaurus"],
+    "tier": 1
+  },
+  {
+    "identifier": "lively",
+    "enabled": true,
+    "entityBlacklist": ["minecraft:ender_dragon"],
+    "alwaysOnEntity": ["grimoireofgaia:vampire", "grimoireofgaia:holstaurus", "theaurorian:moonqueen"],
+    "tier": 1
+  },
+  {
+    "identifier": "adaptable",
+    "enabled": true,
+    "entityBlacklist": ["srparasites:sim_bigspider", "srparasites:sim_human", "srparasites:sim_cow", "srparasites:sim_sheep", "srparasites:sim_wolf", "srparasites:sim_pig",
+      "srparasites:sim_villager", "srparasites:sim_adventurer", "srparasites:sim_horse", "srparasites:sim_bear", "srparasites:sim_enderman", "srparasites:sim_dragone", "srparasites:sim_sheephead", "srparasites:sim_wolfhead",
+      "srparasites:sim_cowhead", "srparasites:sim_pighead", "srparasites:sim_villagerhead", "srparasites:sim_horsehead", "srparasites:sim_humanhead", "srparasites:incompleteform_small", "srparasites:incompleteform_medium",
+      "srparasites:carrier_heavy", "srparasites:buglin", "srparasites:carrier_flying", "srparasites:rupter", "srparasites:movingflesh", "srparasites:worker", "srparasites:beckon_si", "srparasites:beckon_sii",
+      "srparasites:beckon_siii", "srparasites:beckon_siv", "srparasites:kyphosis", "srparasites:sentry", "srparasites:host", "srparasites:heed", "srparasites:crux", "srparasites:pri_longarms", "srparasites:pri_manducater", "srparasites:pri_reeker", "srparasites:pri_yelloweye",
+      "srparasites:pri_summoner", "srparasites:pri_bolster", "srparasites:pri_arachnida", "srparasites:pri_devourer", "srparasites:ada_longarms", "srparasites:ada_manducater", "srparasites:ada_reeker", "srparasites:ada_yelloweye",
+      "srparasites:ada_summoner", "srparasites:ada_bolster", "srparasites:ada_arachnida", "srparasites:overseer", "srparasites:vigilante", "srparasites:warden", "srparasites:bomber_light", "srparasites:marauder",
+      "srparasites:grunt", "srparasites:anc_dreadnaut", "srparasites:anc_overlord", "srparasites:anc_pod", "srparasites:anc_dreadnaut_ten", "srparasites:webball", "srparasites:spineball", "srparasites:salivaball",
+      "srparasites:ballball", "srparasites:ancientball", "srparasites:homming", "srparasites:antiinfestedblock", "srparasites:biomassball", "srparasites:missile", "srparasites:bomb", "srparasites:cloudtoxic", "srparasites:biomass", "srparasites:gore", "srparasites:tendril", "srparasites:scent"],
+    "alwaysOnEntity": ["grimoireofgaia:holstaurus", "touhou_little_maid:entity.passive.maid"],
+    "tier": 1
+  },
+  {
+    "identifier": "infested",
+    "enabled": false,
+    "entityBlacklist": ["twilightforest:snow_queen", "grimoireofgaia:vampire", "grimoireofgaia:holstaurus", "minecraft:ender_dragon", "srparasites:sim_bigspider", "srparasites:sim_human", "srparasites:sim_cow", "srparasites:sim_sheep", "srparasites:sim_wolf", "srparasites:sim_pig",
+      "srparasites:sim_villager", "srparasites:sim_adventurer", "srparasites:sim_horse", "srparasites:sim_bear", "srparasites:sim_enderman", "srparasites:sim_dragone", "srparasites:sim_sheephead", "srparasites:sim_wolfhead",
+      "srparasites:sim_cowhead", "srparasites:sim_pighead", "srparasites:sim_villagerhead", "srparasites:sim_horsehead", "srparasites:sim_humanhead", "srparasites:incompleteform_small", "srparasites:incompleteform_medium",
+      "srparasites:carrier_heavy", "srparasites:buglin", "srparasites:carrier_flying", "srparasites:rupter", "srparasites:movingflesh", "srparasites:worker", "srparasites:beckon_si", "srparasites:beckon_sii",
+      "srparasites:beckon_siii", "srparasites:beckon_siv", "srparasites:kyphosis", "srparasites:sentry", "srparasites:host", "srparasites:heed", "srparasites:crux", "srparasites:pri_longarms", "srparasites:pri_manducater", "srparasites:pri_reeker", "srparasites:pri_yelloweye",
+      "srparasites:pri_summoner", "srparasites:pri_bolster", "srparasites:pri_arachnida", "srparasites:pri_devourer", "srparasites:ada_longarms", "srparasites:ada_manducater", "srparasites:ada_reeker", "srparasites:ada_yelloweye",
+      "srparasites:ada_summoner", "srparasites:ada_bolster", "srparasites:ada_arachnida", "srparasites:overseer", "srparasites:vigilante", "srparasites:warden", "srparasites:bomber_light", "srparasites:marauder",
+      "srparasites:grunt", "srparasites:anc_dreadnaut", "srparasites:anc_overlord", "srparasites:anc_pod", "srparasites:anc_dreadnaut_ten", "srparasites:webball", "srparasites:spineball", "srparasites:salivaball",
+      "srparasites:ballball", "srparasites:ancientball", "srparasites:homming", "srparasites:antiinfestedblock", "srparasites:biomassball", "srparasites:missile", "srparasites:bomb", "srparasites:cloudtoxic", "srparasites:biomass", "srparasites:gore", "srparasites:tendril", "srparasites:scent", "theaurorian:moonqueen", "theaurorian:runestonedungeonkeeper", "theaurorian:spider"],
+    "alwaysOnEntity": [],
+    "tier": 1
+  },
+  {
+    "identifier": "hasty",
+    "enabled": false,
+    "entityBlacklist": ["minecraft:wither", "minecraft:ender_dragon", "dungeonmobs:dmfallenangel", "theaurorian:moonqueen", "theaurorian:runestonedungeonkeeper", "theaurorian:spider",
+      "iceandfire:firedragon", "iceandfire:icedragon"],
+    "alwaysOnEntity": [],
+    "tier": 1
+  },
+  {
+    "identifier": "shielding",
+    "enabled": false,
+    "entityBlacklist": [],
+    "alwaysOnEntity": ["grimoireofgaia:holstaurus"],
+    "tier": 1
+  },
+  {
+    "identifier": "molten",
+    "enabled": true,
+    "entityBlacklist": ["twilightforest:snow_queen", "twilightforest:yeti_alpha", "mowziesmobs:frostmaw"],
+    "alwaysOnEntity": ["minecraft:wither", "minecraft:ender_dragon", "iceandfire:firedragon"],
+    "tier": 1
+  },
+  {
+    "identifier": "plagued",
+    "enabled": true,
+    "entityBlacklist": ["twilightforest:snow_queen", "grimoireofgaia:vampire", "grimoireofgaia:holstaurus", "touhou_little_maid:entity.passive.maid", "minecraft:wolf", "minecraft:horse", "minecraft:wither", "minecraft:ender_dragon", "theaurorian:moonqueen", "theaurorian:runestonedungeonkeeper", "theaurorian:spider",
+    "golems:golem_bedrock", "golems:golem_bone", "golems:golem_bookshelf", "golems:golem_clay", "golems:golem_coal", "golems:golem_concrete", "golems:golem_crafting", "golems:golem_diamond", "golems:golem_dispenser", "golems:golem_emerald", "golems:golem_end_stone", "golems:golem_furnace", "golems:golem_glass", "golems:golem_glowstone", "golems:golem_gold", "golems:golem_hardened_clay", "golems:golem_ice", "golems:golem_lapis", "golems:golem_leaves", "golems:golem_magma",
+    "golems:golem_melon", "golems:golem_shroom", "golems:golem_nether_brick", "golems:golem_nether_wart", "golems:golem_obsidian", "golems:golem_prismarine", "golems:golem_quartz", "golems:golem_red_sandstone", "golems:golem_redstone", "golems:golem_redstone_lamp", "golems:golem_sandstone", "golems:golem_sea_lantern", "golems:golem_slime", "golems:golem_sponge", "golems:golem_stained_clay", "golems:golem_stained_glass", "golems:golem_straw", "golems:golem_tnt", "golems:golem_wooden", "golems:golem_wool"],
+    "alwaysOnEntity": [],
+    "tier": 1
+  }
+]

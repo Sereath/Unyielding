@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: -13.5d,
+	tasks: [{
+		uid: "c4976efe",
+		type: "item",
+		items: [{
+			item: "ceramics:clay_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

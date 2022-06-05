@@ -1,0 +1,13 @@
+{
+	x: 1.5d,
+	y: 11.5d,
+	tasks: [{
+		uid: "fec3d562",
+		type: "item",
+		items: [{
+			item: "iceandfire:dragonsteel_ice_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

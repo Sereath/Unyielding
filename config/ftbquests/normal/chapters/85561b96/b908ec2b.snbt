@@ -1,0 +1,31 @@
+{
+	x: 12.5d,
+	y: -16.0d,
+	tasks: [{
+		uid: "b4f4d35b",
+		type: "item",
+		items: [{
+			id: "bountifulbaubles:amuletsinempty",
+			tag: {
+				Quality: {
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					Color: "blue",
+					AttributeModifiers: [{
+						UUIDMost: 537732472219453884L,
+						UUIDLeast: -5055550071411203330L,
+						Amount: 0.05000000074505806d,
+						AttributeName: "generic.movementSpeed",
+						Operation: 2,
+						Name: "qualitytools"
+					}],
+					Name: "quality.speedy.name"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

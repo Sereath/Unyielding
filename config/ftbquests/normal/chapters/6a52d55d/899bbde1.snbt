@@ -1,0 +1,16 @@
+{
+	x: 33.5d,
+	y: -16.0d,
+	tasks: [{
+		uid: "4e3e3ef8",
+		type: "item",
+		items: [{
+			id: "theaurorian:auroriansteelchestplate",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

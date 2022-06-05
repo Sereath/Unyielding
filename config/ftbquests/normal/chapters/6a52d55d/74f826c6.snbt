@@ -1,0 +1,13 @@
+{
+	x: 13.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "33b596a0",
+		type: "item",
+		items: [{
+			item: "mod_lavacow:faminearmor_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

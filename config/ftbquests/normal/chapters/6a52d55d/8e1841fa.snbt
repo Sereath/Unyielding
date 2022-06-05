@@ -1,0 +1,30 @@
+{
+	x: 31.5d,
+	y: -13.0d,
+	tasks: [{
+		uid: "2c1dad21",
+		type: "item",
+		items: [{
+			id: "theaurorian:ceruleanboots",
+			tag: {
+				Quality: {
+					Slots: [
+						"feet"
+					],
+					Color: "blue",
+					AttributeModifiers: [{
+						UUIDMost: -5881704597398401125L,
+						UUIDLeast: -4620974587198462575L,
+						Amount: 0.5d,
+						AttributeName: "potioncore.stepHeight",
+						Operation: 0,
+						Name: "qualitytools"
+					}],
+					Name: "quality.tall.name"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

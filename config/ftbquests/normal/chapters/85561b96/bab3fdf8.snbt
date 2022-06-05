@@ -1,0 +1,45 @@
+{
+	x: 4.5d,
+	y: -9.5d,
+	size: 1.5d,
+	tasks: [{
+		uid: "a89b8710",
+		type: "item",
+		items: [{
+			id: "xat:damage_shield",
+			tag: {
+				Quality: {
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					Color: "blue",
+					AttributeModifiers: [{
+						UUIDMost: -1226706897559204372L,
+						UUIDLeast: -4680139962681126814L,
+						Amount: 2.0d,
+						AttributeName: "generic.maxHealth",
+						Operation: 0,
+						Name: "qualitytools"
+					}],
+					Name: "quality.healthy.name"
+				}
+			},
+			ForgeCaps: {
+				"xat:trinket": {
+					target: -1,
+					slot: -1,
+					handler: 0,
+					hitcount: 0,
+					exp: 0,
+					mana: 0,
+					main.ability: 0b,
+					alt.ability: 0b,
+					player.status: -1
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

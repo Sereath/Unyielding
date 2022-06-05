@@ -1,0 +1,13 @@
+{
+	x: 8.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "16a83a84",
+		type: "item",
+		items: [{
+			item: "iceandfire:mountain_troll_leather_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

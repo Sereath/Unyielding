@@ -1,0 +1,42 @@
+{
+	x: 5.5d,
+	y: -2.0d,
+	dependencies: [
+		"3450823e"
+	],
+	tasks: [{
+		uid: "01b4d143",
+		type: "item",
+		items: [{
+			id: "thermalinnovation:injector",
+			Damage: 4s,
+			tag: {
+				Quality: {
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					Color: "aqua",
+					AttributeModifiers: [{
+						UUIDMost: -4087662703342040208L,
+						UUIDLeast: -6073214565063999991L,
+						Amount: 0.029999999329447746d,
+						AttributeName: "potioncore.digSpeed",
+						Operation: 2,
+						Name: "qualitytools"
+					},
+					{
+						UUIDMost: 4338633748935690854L,
+						UUIDLeast: -5283362015822140308L,
+						Amount: 0.029999999329447746d,
+						AttributeName: "generic.attackSpeed",
+						Operation: 2,
+						Name: "qualitytools"
+					}],
+					Name: "quality.graceful.name"
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

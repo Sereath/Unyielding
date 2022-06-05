@@ -1,0 +1,50 @@
+{ 
+	"commandBlockOutput": { 
+		"value": true,
+		"forced": false
+	},
+	"doMobSpawning": { 
+		"value": true,
+		"forced": true
+	},
+	"keepInventory": { 
+		"value": false,
+		"forced": true
+	},
+	"mobGriefing": { 
+		"value": true,
+		"forced": true
+	},
+	"reducedDebugInfo": { 
+		"value": true,
+		"forced": true
+	},
+	"spawnRadius": { 
+		"value": 128,
+		"forced": true
+	},
+	"doFireTick": { 
+		"value": true,
+		"forced": false
+	},
+	"MODE_OR_WORLD_TYPE_SPECIFIC": { 
+		"survival": { 
+			"DIFFICULTY": { 
+				"value": "hard",
+				"forced": true
+			}
+		},
+		"creative": { 
+			"DIFFICULTY": { 
+				"value": "hard",
+				"forced": true
+			}
+		},
+		"hardcore": { 
+			"DIFFICULTY": { 
+				"value": "hard",
+				"forced": true
+			}
+		}
+	}
+}

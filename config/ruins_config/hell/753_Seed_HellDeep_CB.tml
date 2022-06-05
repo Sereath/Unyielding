@@ -1,0 +1,32 @@
+
+# Created by Ruins mod version 16.7 Ingame Parser
+# authoring Player: ST753M
+
+# Will summon a largish structure near the bottom of the nether.  
+# The TP_HellDeep_ structures must be in the templateparser folder to work.
+
+# Ship - Ship sailing on the lava sea (or a round cavern at lava sea level)
+# Altar - Purple altar with unactivated portals
+# Flower - Obsidian structure kind of like a flower, with a mini-maze inside.
+# Light - A tiny platform with a lamp. Sometimes has a villager inside.
+
+weight=4
+uniqueMinDistance=256
+embed_into_distance=4
+acceptable_target_blocks=
+unacceptable_target_blocks=water
+dimensions=1,1,1
+allowable_overhang=9999
+max_leveling=0
+leveling_buffer=0
+preserve_water=0
+preserve_lava=1
+
+biomesToSpawnIn=hell,undergarden,visceral_heap,phantasmagoric_inferno,corrupted_sands,fungi_forest,ruthless_sands,torrid_wasteland,arctic_abyss,polar_chasm
+
+rule1=0,100,CommandBlock:RUINSTRIGGER /testruin ST753M/753_HellDeep_Ship ~ 32 ~:@-1,CommandBlock:RUINSTRIGGER /testruin ST753M/753_HellDeep_Altar ~ 32 ~:@-1,CommandBlock:RUINSTRIGGER /testruin ST753M/753_HellDeep_Flower ~ 32 ~:@-1,CommandBlock:RUINSTRIGGER /testruin ST753M/753_HellDeep_Light ~ 32 ~:@-1
+
+layer
+1
+endlayer
+

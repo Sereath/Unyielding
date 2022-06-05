@@ -1,0 +1,13 @@
+{
+	x: 16.5d,
+	y: 7.0d,
+	tasks: [{
+		uid: "fa7527a1",
+		type: "item",
+		items: [{
+			item: "compositegear:composite_heavy_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

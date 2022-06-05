@@ -1,0 +1,31 @@
+{
+	x: 6.5d,
+	y: -12.5d,
+	tasks: [{
+		uid: "51c3f2bf",
+		type: "item",
+		items: [{
+			id: "bountifulbaubles:shieldcobalt",
+			tag: {
+				HideFlags: 2,
+				Quality: {
+					Slots: [
+						"offhand"
+					],
+					Color: "blue",
+					AttributeModifiers: [{
+						UUIDMost: -7622891332298062596L,
+						UUIDLeast: -6854367528931448480L,
+						Amount: 1.0d,
+						AttributeName: "potioncore.magicShielding",
+						Operation: 0,
+						Name: "qualitytools"
+					}],
+					Name: "quality.arcane.name"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

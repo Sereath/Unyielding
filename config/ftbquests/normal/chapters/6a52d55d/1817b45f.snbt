@@ -1,0 +1,13 @@
+{
+	x: 0.5d,
+	y: 4.5d,
+	tasks: [{
+		uid: "dba5a524",
+		type: "item",
+		items: [{
+			item: "iceandfire:tide_green_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

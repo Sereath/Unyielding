@@ -1,0 +1,25 @@
+{
+	x: -2.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "3db39c71",
+		type: "kill",
+		entity: "minecraft:zombie",
+		value: 10000L
+	}],
+	rewards: [{
+		uid: "35cbd6b6",
+		type: "item",
+		item: {
+			id: "openblocks:trophy",
+			tag: {
+				entity_id: "minecraft:zombie"
+			}
+		}
+	},
+	{
+		uid: "0c18c804",
+		type: "item",
+		item: "cyclicmagic:heart_food"
+	}]
+}

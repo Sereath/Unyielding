@@ -1,0 +1,16 @@
+{
+    "dimensions": [
+        {
+            "dimId": 10,
+            "haze": true,
+            "weather": true,
+            "fog": true
+        },
+        {
+            "dimId": 424,
+            "haze": true,
+            "weather": true,
+            "fog": true
+        }
+    ]
+}

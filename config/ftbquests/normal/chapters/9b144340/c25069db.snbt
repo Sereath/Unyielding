@@ -1,0 +1,13 @@
+{
+	x: -11.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "2dfebbab",
+		type: "item",
+		items: [{
+			item: "techguns:crowbar"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

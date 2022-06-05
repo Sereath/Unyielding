@@ -1,0 +1,16 @@
+{
+	x: 17.5d,
+	y: 16.0d,
+	dependencies: [
+		"0fe6d0df"
+	],
+	tasks: [{
+		uid: "fea3e460",
+		type: "item",
+		items: [{
+			item: "enderio:item_stellar_alloy_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

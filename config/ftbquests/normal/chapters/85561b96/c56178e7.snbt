@@ -1,0 +1,47 @@
+{
+	x: 11.0d,
+	y: -15.0d,
+	tasks: [{
+		uid: "2f4e5d97",
+		type: "item",
+		items: [{
+			id: "bountifulbaubles:trinketapple",
+			tag: {
+				Quality: {
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					Color: "light_purple",
+					AttributeModifiers: [{
+						UUIDMost: 170849615258798941L,
+						UUIDLeast: -5241439581127927964L,
+						Amount: 0.029999999329447746d,
+						AttributeName: "potioncore.damageResistance",
+						Operation: 2,
+						Name: "qualitytools"
+					},
+					{
+						UUIDMost: 8595742327858283563L,
+						UUIDLeast: -8113759384085831457L,
+						Amount: 2.0d,
+						AttributeName: "generic.maxHealth",
+						Operation: 0,
+						Name: "qualitytools"
+					},
+					{
+						UUIDMost: 745619245783599851L,
+						UUIDLeast: -9128570866678969767L,
+						Amount: 1.0d,
+						AttributeName: "potioncore.magicShielding",
+						Operation: 0,
+						Name: "qualitytools"
+					}],
+					Name: "quality.undying.name"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

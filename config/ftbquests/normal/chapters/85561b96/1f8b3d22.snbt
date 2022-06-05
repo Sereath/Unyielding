@@ -1,0 +1,31 @@
+{
+	x: 5.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "bd904f5f",
+		type: "item",
+		items: [{
+			id: "xreliquary:twilight_cloak",
+			tag: {
+				Quality: {
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					Color: "blue",
+					AttributeModifiers: [{
+						UUIDMost: -633617721495630581L,
+						UUIDLeast: -7768497731657845022L,
+						Amount: 0.029999999329447746d,
+						AttributeName: "potioncore.digSpeed",
+						Operation: 2,
+						Name: "qualitytools"
+					}],
+					Name: "quality.prospecting.name"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

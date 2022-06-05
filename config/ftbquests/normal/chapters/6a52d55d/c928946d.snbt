@@ -1,0 +1,13 @@
+{
+	x: 13.0d,
+	y: 11.0d,
+	tasks: [{
+		uid: "928c742c",
+		type: "item",
+		items: [{
+			item: "enderio:item_dark_steel_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

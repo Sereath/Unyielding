@@ -1,0 +1,52 @@
+{
+    "biomes": [
+        {
+            "conditions": "biome.name == 'The Beneath'",
+            "dust": true,
+            "dustColor": "38,35,32",
+            "fog": true,
+            "fogColor": "190,157,67",
+            "fogDensity": 0.2
+        },
+        {
+            "conditions": "biome.name == 'Aurorian Forest'",
+            "dust": true,
+            "dustColor": "161,35,216",
+            "fog": true,
+            "fogColor": "75,42,197",
+            "fogDensity": 0.6
+        },
+        {
+            "conditions": "biome.name == 'Aurorian Forest Hills'",
+            "dust": true,
+            "dustColor": "161,35,216",
+            "fog": true,
+            "fogColor": "75,42,197",
+            "fogDensity": 0.6
+        },
+        {
+            "conditions": "biome.name == 'Aurorian Plains'",
+            "dust": true,
+            "dustColor": "161,35,216",
+            "fog": true,
+            "fogColor": "75,42,197",
+            "fogDensity": 0.6
+        },
+        {
+            "conditions": "biome.name == 'Weeping Willow Forest'",
+            "dust": true,
+            "dustColor": "161,35,216",
+            "fog": true,
+            "fogColor": "75,42,197",
+            "fogDensity": 0.6
+        },
+        {
+            "conditions": "biome.name == 'Aurorian Lakes'",
+            "dust": true,
+            "dustColor": "161,35,216",
+            "fog": true,
+            "fogColor": "75,42,197",
+            "fogDensity": 0.6
+        }
+    ]
+}

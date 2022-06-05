@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "6162b25c",
+		type: "item",
+		items: [{
+			id: "techguns:t3_miner_leggings",
+			tag: {
+				power: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

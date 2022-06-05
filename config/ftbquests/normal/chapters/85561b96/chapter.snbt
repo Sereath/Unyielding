@@ -1,0 +1,7 @@
+{
+	title: "Relics",
+	icon: "xreliquary:salamander_eye",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "octagon"
+}

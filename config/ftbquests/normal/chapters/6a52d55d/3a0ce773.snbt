@@ -1,0 +1,13 @@
+{
+	x: 13.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "f09c6f25",
+		type: "item",
+		items: [{
+			item: "mod_lavacow:faminearmor_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 24.5d,
+	y: 7.0d,
+	tasks: [{
+		uid: "07906faf",
+		type: "item",
+		items: [{
+			id: "techguns:t4_praetor_chestplate",
+			tag: {
+				power: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

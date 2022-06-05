@@ -1,0 +1,13 @@
+{
+	x: -4.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "c72909fb",
+		type: "item",
+		items: [{
+			item: "iceandfire:deathworm_red_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

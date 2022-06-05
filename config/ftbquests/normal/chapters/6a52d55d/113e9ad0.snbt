@@ -1,0 +1,16 @@
+{
+	x: 31.5d,
+	y: -17.5d,
+	tasks: [{
+		uid: "208996f3",
+		type: "item",
+		items: [{
+			id: "theaurorian:ceruleanhelmet",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

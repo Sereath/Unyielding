@@ -1,0 +1,14 @@
+{
+	x: -2.0d,
+	y: 7.5d,
+	dependencies: [
+		"c4f8b66e"
+	],
+	tasks: [{
+		uid: "0150100b",
+		type: "item",
+		items: [{
+			item: "enderio:block_inventory_chest_huge"
+		}]
+	}]
+}

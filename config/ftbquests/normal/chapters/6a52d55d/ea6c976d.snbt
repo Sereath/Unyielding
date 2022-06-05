@@ -1,0 +1,13 @@
+{
+	x: 0.5d,
+	y: 7.5d,
+	tasks: [{
+		uid: "01bc5275",
+		type: "item",
+		items: [{
+			item: "iceandfire:tide_green_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

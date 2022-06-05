@@ -1,0 +1,11 @@
+{
+	x: 2.5d,
+	y: -3.5d,
+	tasks: [{
+		uid: "606dfd8a",
+		type: "item",
+		items: [{
+			item: "xreliquary:angelheart_vial"
+		}]
+	}]
+}

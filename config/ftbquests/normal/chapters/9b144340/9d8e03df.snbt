@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: -6.5d,
+	dependencies: [
+		"93fbc0ac"
+	],
+	tasks: [{
+		uid: "bf7b1d81",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:heating_unit"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

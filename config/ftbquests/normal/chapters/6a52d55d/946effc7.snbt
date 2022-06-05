@@ -1,0 +1,13 @@
+{
+	x: -7.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "cc0f9f67",
+		type: "item",
+		items: [{
+			item: "iceandfire:deathworm_yellow_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 15.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "1abd41d0",
+		type: "item",
+		items: [{
+			item: "mod_lavacow:felarmor_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

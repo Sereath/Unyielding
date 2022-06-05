@@ -1,0 +1,18 @@
+##[slots]
+
+B:slot5 = 'false';
+B:slot4 = 'false';
+B:slot3 = 'false';
+B:slot2 = 'false';
+B:slot1 = 'false';
+B:slot0 = 'false';
+B:slot8 = 'false';
+B:slot7 = 'false';
+B:slot6 = 'false';
+
+
+##[accessibility]
+
+B:chatoutput = 'false';
+B:showgui = 'true';
+B:colorblindmode = 'false';

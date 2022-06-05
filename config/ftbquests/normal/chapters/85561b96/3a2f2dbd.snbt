@@ -1,0 +1,52 @@
+{
+	x: -3.0d,
+	y: -5.5d,
+	tasks: [{
+		uid: "4597acda",
+		type: "item",
+		items: [{
+			id: "xat:titan_ring",
+			tag: {
+				Quality: {
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					Color: "aqua",
+					AttributeModifiers: [{
+						UUIDMost: -2658732671364083898L,
+						UUIDLeast: -8758414970016393420L,
+						Amount: 0.05000000074505806d,
+						AttributeName: "generic.movementSpeed",
+						Operation: 2,
+						Name: "qualitytools"
+					},
+					{
+						UUIDMost: -5321754282265327871L,
+						UUIDLeast: -5685923333575219783L,
+						Amount: 0.5d,
+						AttributeName: "potioncore.jumpHeight",
+						Operation: 0,
+						Name: "qualitytools"
+					}],
+					Name: "quality.athletic.name"
+				}
+			},
+			ForgeCaps: {
+				"xat:trinket": {
+					target: -1,
+					slot: -1,
+					handler: 0,
+					hitcount: 0,
+					exp: 0,
+					mana: 0,
+					main.ability: 0b,
+					alt.ability: 0b,
+					player.status: -1
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

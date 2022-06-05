@@ -1,0 +1,16 @@
+{
+	x: 10.5d,
+	y: -17.0d,
+	tasks: [{
+		uid: "7eb49741",
+		type: "item",
+		items: [{
+			id: "bountifulbaubles:trinketblackdragonscale",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

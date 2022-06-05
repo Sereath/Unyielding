@@ -1,0 +1,13 @@
+{
+	x: 5.5d,
+	y: 2.5d,
+	tasks: [{
+		uid: "ceca172f",
+		type: "item",
+		items: [{
+			item: "iceandfire:forest_troll_leather_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

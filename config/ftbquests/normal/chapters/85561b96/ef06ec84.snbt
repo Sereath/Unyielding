@@ -1,0 +1,19 @@
+{
+	x: 14.5d,
+	y: -16.0d,
+	dependencies: [
+		"b908ec2b"
+	],
+	tasks: [{
+		uid: "a94b6347",
+		type: "item",
+		items: [{
+			id: "bountifulbaubles:amuletsinwrath",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

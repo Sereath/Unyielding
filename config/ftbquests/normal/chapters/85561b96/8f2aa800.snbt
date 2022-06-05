@@ -1,0 +1,35 @@
+{
+	x: 8.0d,
+	y: -12.0d,
+	dependencies: [
+		"e237d15a",
+		"f967e704"
+	],
+	tasks: [{
+		uid: "d679f15f",
+		type: "item",
+		items: [{
+			id: "bountifulbaubles:shieldobsidian",
+			tag: {
+				HideFlags: 2,
+				Quality: {
+					Slots: [
+						"offhand"
+					],
+					Color: "dark_gray",
+					AttributeModifiers: [{
+						UUIDMost: 2961002255360081974L,
+						UUIDLeast: -7892683637827986682L,
+						Amount: -0.10000000149011612d,
+						AttributeName: "generic.movementSpeed",
+						Operation: 2,
+						Name: "qualitytools"
+					}],
+					Name: "quality.heavy.name"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

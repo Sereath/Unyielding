@@ -1,0 +1,13 @@
+{
+	x: 18.5d,
+	y: 4.0d,
+	tasks: [{
+		uid: "a9eb39f6",
+		type: "item",
+		items: [{
+			item: "techguns:t3_combat_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

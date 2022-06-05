@@ -1,0 +1,13 @@
+{
+	x: 21.5d,
+	y: -13.5d,
+	tasks: [{
+		uid: "75686377",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

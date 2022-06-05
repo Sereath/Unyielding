@@ -1,0 +1,13 @@
+{
+	x: -7.0d,
+	y: 11.5d,
+	tasks: [{
+		uid: "9fad62f0",
+		type: "item",
+		items: [{
+			item: "iceandfire:armor_red_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

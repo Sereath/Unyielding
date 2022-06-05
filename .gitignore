@@ -1,0 +1,14 @@
+/*
+~*
+
+!.gitignore
+!asm/
+!caches/
+!config/
+*.ogg
+!oresources/
+!patchouli_books/
+!resources/
+!schematics
+!scripts/
+!structures/

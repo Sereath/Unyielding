@@ -1,0 +1,13 @@
+{
+	x: -5.5d,
+	y: 12.5d,
+	tasks: [{
+		uid: "33d58941",
+		type: "item",
+		items: [{
+			item: "iceandfire:armor_bronze_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

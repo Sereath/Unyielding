@@ -1,0 +1,16 @@
+{
+	x: 10.5d,
+	y: 8.0d,
+	tasks: [{
+		uid: "5dabf2aa",
+		type: "item",
+		items: [{
+			id: "immersiveengineering:steel_armor_feet",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

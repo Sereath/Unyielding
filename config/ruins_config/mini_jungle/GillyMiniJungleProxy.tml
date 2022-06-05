@@ -1,0 +1,20 @@
+# Gilly's fishing settlement spawn proxy
+
+weight=1
+embed_into_distance=10
+acceptable_target_blocks=grass,water
+unacceptable_target_blocks=
+biomesToSpawnIn=swampland,wetland,marsh,lush swamp,mini jungle
+dimensions=1,1,1
+allowable_overhang=0
+max_leveling=20
+leveling_buffer=-1
+preserve_water=0
+preserve_lava=0
+
+rule1=0,100,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyAztecTotem ~ _ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyAztecTotem3 ~ _ ~:@
+
+layer
+1
+endlayer
+

@@ -1,0 +1,16 @@
+{
+	x: 23.5d,
+	y: -10.5d,
+	dependencies: [
+		"ccadf540"
+	],
+	tasks: [{
+		uid: "b1b6c02c",
+		type: "item",
+		items: [{
+			item: "futuremc:netherite_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

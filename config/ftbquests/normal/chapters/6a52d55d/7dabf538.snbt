@@ -1,0 +1,19 @@
+{
+	x: 22.5d,
+	y: 9.0d,
+	dependencies: [
+		"cb61d529"
+	],
+	tasks: [{
+		uid: "5c507c60",
+		type: "item",
+		items: [{
+			id: "techguns:t4_power_chestplate",
+			tag: {
+				power: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

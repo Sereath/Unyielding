@@ -1,0 +1,11 @@
+{
+	x: 1.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "1d14d7c5",
+		type: "item",
+		items: [{
+			item: "xreliquary:glowing_water"
+		}]
+	}]
+}

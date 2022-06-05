@@ -1,0 +1,14 @@
+{
+	x: -4.5d,
+	y: 2.0d,
+	dependencies: [
+		"45b852a9"
+	],
+	tasks: [{
+		uid: "ad0c1776",
+		type: "item",
+		items: [{
+			item: "environmentaltech:void_botanic_miner_cont_5"
+		}]
+	}]
+}

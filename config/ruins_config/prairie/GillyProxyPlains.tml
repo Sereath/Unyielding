@@ -1,0 +1,21 @@
+# Gilly's plains build spawn proxy
+
+weight=1
+embed_into_distance=0
+acceptable_target_blocks=
+unacceptable_target_blocks=flowing_water,water,flowing_lava,lava,ice,bedrock,netherrack,nether_brick,nether_brick_fence,soul_sand,quartz_ore,end_stone,obsidian,iron_bars,cloud,flesh,ash_block,slime_grass,slime_congealed,slime_dirt
+biomesToSpawnIn=plains,mutated_plains,prarie,meadow,lavender fields,flower field,sunflower plains
+dimensions=1,1,1
+cut_in_buffer=0
+max_leveling=2
+leveling_buffer=-1
+preserve_water=0
+preserve_lava=0
+preserve_plants=0
+
+rule1=0,100,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyPortalEncrusted ~ ~ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFoundationBurnt ~ ~ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFoundationBurnt2 ~ ~ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFoundationBurnt3 ~ ~ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFoundationDamaged ~ ~ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFoundationDamaged2 ~ ~ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFoundationFilled ~ ~ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFoundationFilled2 ~ ~ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFrontierMineshack ~ ~ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyDungeon ~ ~ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyBarn ~ ~ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyGardenEntrance ~ ~ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFoundationBurnt4 ~ ~ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyMineshack ~ ~ ~:@
+
+layer
+1
+endlayer
+

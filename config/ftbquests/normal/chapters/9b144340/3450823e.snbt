@@ -1,0 +1,34 @@
+{
+	x: 4.0d,
+	y: -2.0d,
+	dependencies: [
+		"1eafda2d"
+	],
+	tasks: [{
+		uid: "1158b4f1",
+		type: "item",
+		items: [{
+			id: "thermalinnovation:injector",
+			Damage: 3s,
+			tag: {
+				Quality: {
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					Color: "blue",
+					AttributeModifiers: [{
+						UUIDMost: 2675467360768052735L,
+						UUIDLeast: -4625115444399423367L,
+						Amount: 0.029999999329447746d,
+						AttributeName: "potioncore.magicDamage",
+						Operation: 2,
+						Name: "qualitytools"
+					}],
+					Name: "quality.focusing.name"
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

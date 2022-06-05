@@ -1,0 +1,13 @@
+{
+	x: 5.0d,
+	y: 10.5d,
+	tasks: [{
+		uid: "bf6d23e1",
+		type: "item",
+		items: [{
+			item: "iceandfire:armor_white_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

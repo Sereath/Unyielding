@@ -1,0 +1,13 @@
+{
+	x: -0.5d,
+	y: 12.5d,
+	tasks: [{
+		uid: "4580765f",
+		type: "item",
+		items: [{
+			item: "iceandfire:dragonsteel_fire_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 19.5d,
+	y: -9.5d,
+	tasks: [{
+		uid: "0d7e4040",
+		type: "item",
+		items: [{
+			id: "grimoireofgaia:accessory_trinket_wither",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

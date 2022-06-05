@@ -1,0 +1,13 @@
+{
+	x: 19.0d,
+	y: -14.5d,
+	tasks: [{
+		uid: "49a461ac",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

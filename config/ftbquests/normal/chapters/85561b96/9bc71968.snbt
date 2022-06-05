@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: -4.5d,
+	tasks: [{
+		uid: "0417f69d",
+		type: "item",
+		items: [{
+			item: "xreliquary:emperor_chalice"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

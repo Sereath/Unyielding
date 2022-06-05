@@ -1,0 +1,16 @@
+{
+	x: 6.5d,
+	y: -5.5d,
+	dependencies: [
+		"93fbc0ac"
+	],
+	tasks: [{
+		uid: "566008de",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:preservation_chamber"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

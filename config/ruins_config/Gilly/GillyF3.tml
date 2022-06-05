@@ -1,0 +1,22 @@
+# Gilly's Formation Causeway Proxy
+
+weight=1
+embed_into_distance=5
+acceptable_target_blocks=grass,stone,dirt,gravel
+unacceptable_target_blocks=
+dimensions=1,1,1
+allowable_overhang=0
+max_leveling=10
+leveling_buffer=-1
+preserve_water=1
+preserve_lava=0
+adjoining_template=Gilly/GillyFormation3;0;60;0;100
+
+rule1=0,100,preserveBlock
+
+layer
+1
+endlayer
+
+
+

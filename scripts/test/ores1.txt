@@ -1,0 +1,10 @@
+//failed attempt at fixing techguns ores not following toolprogression rules
+
+import crafttweaker.block.IBlockDefinition;
+import crafttweaker.block.IBlock;
+
+var titanium = <techguns:basicore:3>.asBlock().definition;
+var uranium = <techguns:basicore:4>.asBlock().definition;
+
+titanium.setHarvestLevel("pickaxe", 7);
+uranium.setHarvestLevel("pickaxe", 8);

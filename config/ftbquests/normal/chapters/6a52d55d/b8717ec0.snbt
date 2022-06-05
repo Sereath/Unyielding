@@ -1,0 +1,13 @@
+{
+	x: 1.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "1dc4b2f2",
+		type: "item",
+		items: [{
+			item: "iceandfire:sheep_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

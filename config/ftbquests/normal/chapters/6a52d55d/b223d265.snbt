@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "c192a705",
+		type: "item",
+		items: [{
+			item: "iceandfire:frost_troll_leather_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

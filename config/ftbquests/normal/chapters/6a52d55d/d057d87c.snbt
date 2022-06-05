@@ -1,0 +1,16 @@
+{
+	x: 24.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "5873302f",
+		type: "item",
+		items: [{
+			id: "techguns:t3_miner_chestplate",
+			tag: {
+				power: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

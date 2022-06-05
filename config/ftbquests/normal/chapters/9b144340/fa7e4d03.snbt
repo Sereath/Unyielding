@@ -1,0 +1,57 @@
+{
+	x: -8.0d,
+	y: -3.5d,
+	dependencies: [
+		"60434756"
+	],
+	tasks: [{
+		uid: "1a417563",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:quiver_arrow_moderate",
+			tag: {
+				ClientInventory: [],
+				Quality: {
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					Color: "light_purple",
+					AttributeModifiers: [{
+						UUIDMost: -403999294513525733L,
+						UUIDLeast: -5117634773866079709L,
+						Amount: 0.029999999329447746d,
+						AttributeName: "potioncore.projectileDamage",
+						Operation: 2,
+						Name: "qualitytools"
+					},
+					{
+						UUIDMost: -6548348725318103258L,
+						UUIDLeast: -9112608322736566202L,
+						Amount: 0.029999999329447746d,
+						AttributeName: "generic.attackDamage",
+						Operation: 2,
+						Name: "qualitytools"
+					},
+					{
+						UUIDMost: 2760216058094502692L,
+						UUIDLeast: -5382339574459010923L,
+						Amount: 0.029999999329447746d,
+						AttributeName: "potioncore.magicDamage",
+						Operation: 2,
+						Name: "qualitytools"
+					}],
+					Name: "quality.punishing.name"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					Items: [],
+					Size: 6
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 16.5d,
+	y: 8.0d,
+	tasks: [{
+		uid: "8a2a9df8",
+		type: "item",
+		items: [{
+			item: "compositegear:composite_heavy_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

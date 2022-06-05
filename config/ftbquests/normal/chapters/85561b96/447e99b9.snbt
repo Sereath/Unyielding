@@ -1,0 +1,16 @@
+{
+	x: 3.5d,
+	y: -18.0d,
+	tasks: [{
+		uid: "b71c1e52",
+		type: "item",
+		items: [{
+			id: "cyclicmagic:tool_auto_torch",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

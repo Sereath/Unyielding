@@ -1,0 +1,16 @@
+{
+	x: 25.0d,
+	y: -13.5d,
+	dependencies: [
+		"56d67782"
+	],
+	tasks: [{
+		uid: "34fb9fcc",
+		type: "item",
+		items: [{
+			item: "futuremc:netherite_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: 2.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "82bb6f76",
+		type: "item",
+		items: [{
+			item: "xreliquary:fertile_potion"
+		}]
+	}]
+}

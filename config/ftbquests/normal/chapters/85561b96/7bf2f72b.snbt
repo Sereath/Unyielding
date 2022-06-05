@@ -1,0 +1,39 @@
+{
+	x: 1.0d,
+	y: -15.0d,
+	tasks: [{
+		uid: "46fc92d3",
+		type: "item",
+		items: [{
+			id: "cyclicmagic:charm_fire",
+			tag: {
+				Quality: {
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					Color: "aqua",
+					AttributeModifiers: [{
+						UUIDMost: -7498397837108034888L,
+						UUIDLeast: -6399396613657122228L,
+						Amount: 0.029999999329447746d,
+						AttributeName: "potioncore.digSpeed",
+						Operation: 2,
+						Name: "qualitytools"
+					},
+					{
+						UUIDMost: -6735846030357149572L,
+						UUIDLeast: -5963690963436563956L,
+						Amount: 0.029999999329447746d,
+						AttributeName: "generic.attackSpeed",
+						Operation: 2,
+						Name: "qualitytools"
+					}],
+					Name: "quality.graceful.name"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 8.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "7df939f4",
+		type: "item",
+		items: [{
+			item: "iceandfire:tide_teal_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

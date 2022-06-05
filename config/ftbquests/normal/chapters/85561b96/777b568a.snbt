@@ -1,0 +1,31 @@
+{
+	x: 5.0d,
+	y: -18.0d,
+	tasks: [{
+		uid: "f2fd2a69",
+		type: "item",
+		items: [{
+			id: "cyclicmagic:glove_climb",
+			tag: {
+				Quality: {
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					Color: "blue",
+					AttributeModifiers: [{
+						UUIDMost: 6356661943184475643L,
+						UUIDLeast: -8132314946076609090L,
+						Amount: 1.0d,
+						AttributeName: "potioncore.magicShielding",
+						Operation: 0,
+						Name: "qualitytools"
+					}],
+					Name: "quality.shielding.name"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

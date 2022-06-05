@@ -1,0 +1,13 @@
+{
+	x: -7.0d,
+	y: 10.5d,
+	tasks: [{
+		uid: "d4b05eed",
+		type: "item",
+		items: [{
+			item: "iceandfire:armor_red_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

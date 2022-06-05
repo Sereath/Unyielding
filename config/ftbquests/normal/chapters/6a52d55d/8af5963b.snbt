@@ -1,0 +1,16 @@
+{
+	x: 29.5d,
+	y: -17.5d,
+	tasks: [{
+		uid: "f4d7106c",
+		type: "item",
+		items: [{
+			id: "theaurorian:spectralhelmet",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

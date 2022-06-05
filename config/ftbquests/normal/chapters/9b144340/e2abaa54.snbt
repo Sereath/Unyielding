@@ -1,0 +1,23 @@
+{
+	x: -9.5d,
+	y: -2.0d,
+	tasks: [{
+		uid: "06729127",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:quiver_bolt",
+			tag: {
+				ClientInventory: [],
+				Quality: {}
+			},
+			ForgeCaps: {
+				Parent: {
+					Items: [],
+					Size: 4
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

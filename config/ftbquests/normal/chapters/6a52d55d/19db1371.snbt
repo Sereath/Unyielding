@@ -1,0 +1,30 @@
+{
+	x: 33.5d,
+	y: -14.5d,
+	tasks: [{
+		uid: "4aaddb5a",
+		type: "item",
+		items: [{
+			id: "theaurorian:auroriansteelleggings",
+			tag: {
+				Quality: {
+					Slots: [
+						"legs"
+					],
+					Color: "dark_gray",
+					AttributeModifiers: [{
+						UUIDMost: -3604356700473572856L,
+						UUIDLeast: -8803618855526089555L,
+						Amount: -1.0d,
+						AttributeName: "generic.armor",
+						Operation: 0,
+						Name: "qualitytools"
+					}],
+					Name: "quality.dented.name"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

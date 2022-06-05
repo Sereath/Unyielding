@@ -1,0 +1,20 @@
+{
+	x: 8.0d,
+	y: -15.0d,
+	dependencies: [
+		"752b799e",
+		"c2e12d4a"
+	],
+	tasks: [{
+		uid: "3804c7a3",
+		type: "item",
+		items: [{
+			id: "bountifulbaubles:ringfreeaction",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

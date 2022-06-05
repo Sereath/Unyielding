@@ -1,0 +1,38 @@
+{
+	x: 9.5d,
+	y: -12.5d,
+	dependencies: [
+		"abab659b",
+		"a23be860",
+		"be044d47",
+		"c56178e7",
+		"13d59442"
+	],
+	tasks: [{
+		uid: "0a1caf0f",
+		type: "item",
+		items: [{
+			id: "bountifulbaubles:trinketankhcharm",
+			tag: {
+				Quality: {
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					Color: "blue",
+					AttributeModifiers: [{
+						UUIDMost: 5281738470375310617L,
+						UUIDLeast: -9126799968876787825L,
+						Amount: 0.20000000298023224d,
+						AttributeName: "generic.luck",
+						Operation: 0,
+						Name: "qualitytools"
+					}],
+					Name: "quality.lucky.name"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

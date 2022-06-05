@@ -1,0 +1,16 @@
+{
+	x: -0.5d,
+	y: -16.5d,
+	tasks: [{
+		uid: "35f4479e",
+		type: "item",
+		items: [{
+			id: "cyclicmagic:charm_antidote",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

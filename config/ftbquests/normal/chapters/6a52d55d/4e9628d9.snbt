@@ -1,0 +1,30 @@
+{
+	x: 31.5d,
+	y: -16.0d,
+	tasks: [{
+		uid: "c255213c",
+		type: "item",
+		items: [{
+			id: "theaurorian:ceruleanchestplate",
+			tag: {
+				Quality: {
+					Slots: [
+						"chest"
+					],
+					Color: "blue",
+					AttributeModifiers: [{
+						UUIDMost: -8244423071458769141L,
+						UUIDLeast: -5544559631970366245L,
+						Amount: 0.5d,
+						AttributeName: "generic.armor",
+						Operation: 0,
+						Name: "qualitytools"
+					}],
+					Name: "quality.protective.name"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

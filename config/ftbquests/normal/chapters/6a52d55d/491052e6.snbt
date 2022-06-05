@@ -1,0 +1,16 @@
+{
+	x: 16.0d,
+	y: 12.0d,
+	dependencies: [
+		"c928946d"
+	],
+	tasks: [{
+		uid: "5bb84a80",
+		type: "item",
+		items: [{
+			item: "enderio:item_end_steel_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

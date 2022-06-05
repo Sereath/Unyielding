@@ -1,0 +1,66 @@
+
+
+    Gillymoth Diagnostic section:
+
+==========================================================================
+
+
+   Follow these steps if:
+
+  -changing your version of Ruins
+  -Adding new biomes into an existing instance of the game where Ruins is already installed
+
+---
+
+   Delete the Ruins.txt file and restart Minecraft to regenerate this file.
+
+
+   The Ruins.txt file contains pointers to all the active biomes,
+   This file is generated only if it's missing.
+
+=================
+
+  -If few or no structures are spawning in your world
+
+---
+
+   in 1.12 the biomes were renamed, along with the folders.
+
+   If you have two sets of biome folders and can't tell which ones are correct,
+   then move all the biome folders into a temp folder and let Ruins regenerate them,
+   and after restarting minecraft, open the biome folders and move the templates back in.
+
+  -there will only be two sets of folders if you have installed two distinct
+   and specific versions of Ruins in the same instance, relating to version 1.12
+
+
+<<<<<  The filepath for all the biome folders:  >>>>>
+
+  in 1.11 or earlier:   mods/resources/ruins
+
+  in 1.12 or later:     config/ruins_config
+
+=====================================================
+
+Use these diagnostic tests when first installing Ruins
+
+------------------
+
+
+    When installing Ruins mod to confirm proper installation:
+
+    type "/testruin tester" in the chat, it will do one of 4 things:
+
+    -unknown command <-- the code for ruins is not installed in game
+    -do not have permission <-- retest in creative mode, set in LAN or use creative test world
+    -filepath does not exist <-- the folder structure needs to be in place (or just missing the test file)
+    -a pile of blocks spawns around you <-- success!
+
+
+
+   Another feature of Ruins can be used to instantly see if Ruins is installed:
+
+   If you hold a stick in your hand and break a block,
+   the chat will show the internal blockname and damage value (meta)
+
+

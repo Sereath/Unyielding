@@ -1,0 +1,60 @@
+{
+	x: 0.0d,
+	y: -10.0d,
+	tasks: [{
+		uid: "49bfc135",
+		type: "item",
+		items: [{
+			id: "xat:polarized_stone",
+			tag: {
+				Quality: {
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					Color: "light_purple",
+					AttributeModifiers: [{
+						UUIDMost: -711230617295172754L,
+						UUIDLeast: -8482654917254168343L,
+						Amount: 0.029999999329447746d,
+						AttributeName: "potioncore.damageResistance",
+						Operation: 2,
+						Name: "qualitytools"
+					},
+					{
+						UUIDMost: -5435337642895716702L,
+						UUIDLeast: -4813099252377851529L,
+						Amount: 2.0d,
+						AttributeName: "generic.maxHealth",
+						Operation: 0,
+						Name: "qualitytools"
+					},
+					{
+						UUIDMost: 4124528143549940350L,
+						UUIDLeast: -5271292949348949256L,
+						Amount: 1.0d,
+						AttributeName: "potioncore.magicShielding",
+						Operation: 0,
+						Name: "qualitytools"
+					}],
+					Name: "quality.undying.name"
+				}
+			},
+			ForgeCaps: {
+				"xat:trinket": {
+					target: -1,
+					slot: -1,
+					handler: 0,
+					hitcount: 0,
+					exp: 0,
+					mana: 0,
+					main.ability: 0b,
+					alt.ability: 0b,
+					player.status: -1
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

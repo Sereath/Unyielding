@@ -1,0 +1,13 @@
+{
+	x: 8.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "7f6db1a4",
+		type: "item",
+		items: [{
+			item: "xreliquary:alkahestry_tome 1 1001"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

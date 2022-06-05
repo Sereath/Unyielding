@@ -1,0 +1,22 @@
+{
+	x: 13.5d,
+	y: -12.0d,
+	tasks: [{
+		uid: "dade5912",
+		type: "item",
+		items: [{
+			id: "bountifulbaubles:ringflywheel",
+			tag: {
+				Quality: {},
+				energyAmount: 0
+			},
+			ForgeCaps: {
+				Parent: {
+					amount: 0
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

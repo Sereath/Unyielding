@@ -1,0 +1,13 @@
+{
+	x: -4.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "a2e57252",
+		type: "item",
+		items: [{
+			item: "iceandfire:deathworm_red_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

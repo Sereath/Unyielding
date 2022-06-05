@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: -11.0d,
+	tasks: [{
+		uid: "91f08553",
+		type: "item",
+		items: [{
+			id: "grimoireofgaia:accessory_ring_speed",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

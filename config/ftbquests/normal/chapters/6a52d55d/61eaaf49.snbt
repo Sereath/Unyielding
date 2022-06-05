@@ -1,0 +1,13 @@
+{
+	x: 20.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "71608dc6",
+		type: "item",
+		items: [{
+			item: "mutantbeasts:mutant_skeleton_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

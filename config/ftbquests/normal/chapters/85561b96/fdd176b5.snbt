@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "afe119fd",
+		type: "item",
+		items: [{
+			item: "xreliquary:infernal_chalice"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 8.5d,
+	y: -4.5d,
+	tasks: [{
+		uid: "37d5a692",
+		type: "item",
+		items: [{
+			item: "xreliquary:midas_touchstone"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

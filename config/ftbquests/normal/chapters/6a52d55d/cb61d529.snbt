@@ -1,0 +1,16 @@
+{
+	x: 19.5d,
+	y: 8.0d,
+	tasks: [{
+		uid: "d4a993db",
+		type: "item",
+		items: [{
+			id: "techguns:t3_power_chestplate",
+			tag: {
+				power: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

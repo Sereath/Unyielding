@@ -1,0 +1,31 @@
+{
+	x: 18.0d,
+	y: -12.5d,
+	tasks: [{
+		uid: "c062e25a",
+		type: "item",
+		items: [{
+			id: "grimoireofgaia:accessory_charm_damage_iron",
+			tag: {
+				Quality: {
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					Color: "blue",
+					AttributeModifiers: [{
+						UUIDMost: -329905708840368346L,
+						UUIDLeast: -5039670160223191959L,
+						Amount: 0.029999999329447746d,
+						AttributeName: "generic.attackSpeed",
+						Operation: 2,
+						Name: "qualitytools"
+					}],
+					Name: "quality.flailing.name"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

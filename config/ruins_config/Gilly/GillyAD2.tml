@@ -1,0 +1,21 @@
+# Gilly's Adobe tower proxy
+
+weight=1
+embed_into_distance=10
+unacceptable_target_blocks=flowing_water,water,flowing_lava,lava,ice,bedrock,netherrack,nether_brick,nether_brick_fence,soul_sand,quartz_ore,end_stone,obsidian,iron_bars,cloud,flesh,ash_block,slime_grass,slime_congealed,slime_dirt
+biomesToSpawnIn=desert
+dimensions=1,1,1
+cut_in_buffer=0
+max_leveling=10
+leveling_buffer=-1
+preserve_water=0
+preserve_lava=0
+preserve_plants=0
+adjoining_template=Gilly/GillyAdobeTheater;0;30;0;100
+
+rule1=0,100,preserveBlock
+
+layer
+1
+endlayer
+

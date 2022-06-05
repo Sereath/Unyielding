@@ -1,0 +1,67 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "GSBooks",
+  "items": [
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "gamestagebooks:immersiveengineering",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "gamestagebooks:techguns",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.4400899410247803,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "gamestagebooks:actuallyadditions",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "gamestagebooks:thermalexpansion",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.03422137722373009,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "gamestagebooks:cyclic",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.03422137722373009,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "gamestagebooks:openmodularturrets",
+        "damage": 0,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

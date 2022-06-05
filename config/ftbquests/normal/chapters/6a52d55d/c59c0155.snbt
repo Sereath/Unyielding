@@ -1,0 +1,16 @@
+{
+	x: 18.5d,
+	y: 14.0d,
+	dependencies: [
+		"91635591"
+	],
+	tasks: [{
+		uid: "7388df1d",
+		type: "item",
+		items: [{
+			item: "enderio:item_stellar_alloy_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

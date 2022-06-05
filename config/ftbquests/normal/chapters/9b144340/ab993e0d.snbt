@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: -8.0d,
+	dependencies: [
+		"343ec77d"
+	],
+	tasks: [{
+		uid: "08b72471",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:cow_jar"
+		}]
+	}]
+}

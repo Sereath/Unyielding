@@ -1,0 +1,16 @@
+{
+	x: -8.5d,
+	y: -6.5d,
+	tasks: [{
+		uid: "698e74f2",
+		type: "item",
+		items: [{
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "touhou_little_maid:memorizable_gensokyo"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

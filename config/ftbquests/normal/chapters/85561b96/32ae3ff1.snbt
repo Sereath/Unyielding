@@ -1,0 +1,13 @@
+{
+	x: 8.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "1ca28889",
+		type: "item",
+		items: [{
+			item: "xreliquary:hero_medallion"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

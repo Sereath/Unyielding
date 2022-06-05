@@ -1,0 +1,46 @@
+# Gilly's Fishing Settlement Village
+
+weight=1
+embed_into_distance=10
+uniqueMinDistance=80
+acceptable_target_blocks=water,waterlily
+unacceptable_target_blocks=
+# biomesToSpawnIn=swampland,wetland,marsh,lush swamp,mini jungle
+dimensions=2,3,3
+allowable_overhang=0
+max_leveling=20
+leveling_buffer=-1
+preserve_water=0
+preserve_lava=0
+
+rule1=0,90,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack8 ~ _ ~ 3:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling8 ~ _ ~ 3:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack9 ~ _ ~ 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingTower1 ~ _ ~ 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingTower2 ~ _ ~ 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingTower3 ~ _ ~ 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingTower4 ~ _ ~ 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingTower5 ~ _ ~ 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack10 ~ _ ~ 0:@
+rule2=0,80,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampHut1 ~5 _ ~9 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling1 ~5 _ ~9 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack2 ~5 _ ~9 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling4 ~5 _ ~9 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingTower1 ~5 _ ~9 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingTower2 ~5 _ ~9 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack9 ~5 _ ~9 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingTower5 ~5 _ ~9 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack10 ~5 _ ~9 0:@
+rule3=0,80,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampHut2 ~8 _ ~2 1:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling2 ~8 _ ~2 1:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack4 ~8 _ ~2 1:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling6 ~8 _ ~2 1:@
+rule4=0,80,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampHut3 ~5 _ ~-8 2:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling3 ~5 _ ~-8 2:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack6 ~5 _ ~-8 2:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling8 ~5 _ ~-8 2:@
+rule5=0,80,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampHut4 ~-6 _ ~6 3:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling4 ~-6 _ ~6 3:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack ~-6 _ ~6 3:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling2 ~-6 _ ~6 3:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingTower1 ~-6 _ ~6 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingTower2 ~-6 _ ~6 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingTower5 ~-6 _ ~6 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack9 ~-6 _ ~6 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack10 ~-6 _ ~6 0:@
+rule6=0,80,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampHut5 ~-8 _ ~3 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling5 ~-8 _ ~3 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack5 ~-8 _ ~3 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling1 ~-8 _ ~3 0:@
+rule7=0,70,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampHut2 ~14 _ ~9 3:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling6 ~14 _ ~9 3:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack9 ~14 _ ~9 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling3 ~14 _ ~9 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPlatform ~14 _ ~9 0:@
+rule8=0,70,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampHut3 ~-3 _ ~13 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling7 ~-3 _ ~13 3:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack2 ~-3 _ ~13 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling5 ~-3 _ ~13 3:@
+rule9=0,70,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampHut5 ~-14 _ ~3 1:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling8 ~-14 _ ~3 1:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack3 ~-14 _ ~3 1:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling7 ~-14 _ ~3 1:@
+rule10=0,70,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampHut4 ~-2 _ ~-11 2:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling1 ~-2 _ ~-11 2:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack4 ~-2 _ ~-11 2:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling4 ~-2 _ ~-11 2:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack9 ~-2 _ ~-11 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingTower5 ~-2 _ ~-11 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingTower3 ~-2 _ ~-11 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingTower4 ~-2 _ ~-11 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack10 ~-2 _ ~-11 0:@
+rule11=0,70,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampHut1 ~12 _ ~-12 1:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling2 ~12 _ ~-12 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack5 ~12 _ ~-12 1:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling6 ~12 _ ~-12 0:@
+rule12=0,70,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampHut3 ~13 _ ~-3 2:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling3 ~13 _ ~-3 2:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack6 ~13 _ ~-3 2:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling8 ~13 _ ~-3 2:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingTower5 ~13 _ ~-3 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingTower2 ~13 _ ~-3 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingTower3 ~13 _ ~-3 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingTower4 ~13 _ ~-3 0:@:RUINSTRIGGER /testruin Gilly/GillyFishingShack10 ~13 _ ~-3 0:@
+rule13=0,60,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampHut2 ~19 _ ~2 1:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling4 ~19 _ ~2 1:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack7 ~19 _ ~2 1:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling2 ~19 _ ~2 1:@
+rule14=0,60,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampHut4 ~4 _ ~17 2:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling5 ~4 _ ~17 2:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack8 ~4 _ ~17 2:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling1 ~4 _ ~17 2:@
+rule15=0,60,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampHut1 ~-12 _ ~13 3:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling6 ~-12 _ ~13 3:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack ~-12 _ ~13 1:@,CommandBlock:RUINSTRIGGER /testruin Gilly/SwampPiling3 ~-12 _ ~13 1:@,CommandBlock:RUINSTRIGGER /testruin Gilly/SwampPlatform2 ~-12 _ ~13 1:@
+rule16=0,60,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampHut3 ~-11 _ ~-11 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling7 ~-11 _ ~-11 0:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack3 ~-11 _ ~-11 2:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling5 ~-11 _ ~-11 2:@
+rule17=0,60,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampHut5 ~4 _ ~-18 3:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling8 ~4 _ ~-18 3:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack5 ~4 _ ~-18 3:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling7 ~4 _ ~-18 3:@
+rule18=0,60,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampHut1 ~-18 _ ~-4 3:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling3 ~-18 _ ~-4 3:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack7 ~-18 _ ~-4 3:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillySwampPiling2 ~-18 _ ~-4 3:@
+
+layer
+1,2,3
+4,5,6
+7,8,9
+endlayer
+
+layer
+10,11,12
+13,14,15
+16,17,18
+endlayer
+

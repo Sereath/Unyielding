@@ -1,0 +1,1002 @@
+[
+	
+	//dmobs
+	
+	{
+		"dimension": 10,
+		"mob": "dungeonmobs:dmghoul",
+		"random": 0.05,
+		"maxlight": 15,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 40,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 10,
+		"mob": "dungeonmobs:dmghoul",
+		"result": "deny"
+	},
+	
+	{
+		"dimension": 10,
+		"mob": "dungeonmobs:dmbeholder",
+		"random": 0.0375,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxheight": 240,
+		"minheight": 50,
+		"maxcount":	{
+			"amount": 6,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 10,
+		"mob": "dungeonmobs:dmbeholder",
+		"result": "deny"
+	},
+	
+	{
+		"dimension": 10,
+		"mob": "dungeonmobs:dmtroll",
+		"random": 0.0125,
+		"maxcount":	{
+			"amount": 6,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 10,
+		"mob": "dungeonmobs:dmtroll",
+		"result": "deny"
+	},
+	
+	{
+		"dimension": 10,
+		"mob": "dungeonmobs:dmumberhulk",
+		"random": 0.0125,
+		"maxcount":	{
+			"amount": 4,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 10,
+		"mob": "dungeonmobs:dmumberhulk",
+		"result": "deny"
+	},
+
+	//techguns
+
+	{
+		"dimension": 0,
+		"mob": "techguns:zombiesoldier",
+		"gamestage": "Techguns",
+		"random": 0.00125,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 10,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 10,
+		"mob": "techguns:zombiesoldier",
+		"random": 0.0375,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 20,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": [0,10],
+		"mob": "techguns:zombiesoldier",
+		"result": "deny"
+	},
+
+	{
+		"dimension": 0,
+		"mob": "techguns:zombiefarmer",
+		"gamestage": "Techguns",
+		"random": 0.0025,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 20,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 10,
+		"mob": "techguns:zombiefarmer",
+		"random": 0.025,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 10,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": [0,10],
+		"mob": "techguns:zombiefarmer",
+		"result": "deny"
+	},
+
+	{
+		"dimension": 0,
+		"mob": "techguns:zombieminer",
+		"gamestage": "Techguns",
+		"random": 0.0025,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 15,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 10,
+		"mob": "techguns:zombieminer",
+		"random": 0.05,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 30,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": [0,10],
+		"mob": "techguns:zombieminer",
+		"result": "deny"
+	},
+
+	{
+		"dimension": -1,
+		"mob": "techguns:cyberdemon",
+		"random": 0.00125,
+		"maxcount":	{
+			"amount": 10,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": -1,
+		"mob": "techguns:cyberdemon",
+		"result": "deny"
+	},
+
+	{
+		"dimension": 0,
+		"mob": "techguns:skeletonsoldier",
+		"gamestage": "Techguns",
+		"random": 0.00125,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 10,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 10,
+		"mob": "techguns:skeletonsoldier",
+		"random": 0.0375,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 20,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": [0,10],
+		"mob": "techguns:skeletonsoldier",
+		"result": "deny"
+	},
+
+	{
+		"dimension": 0,
+		"mob": "techguns:psychosteve",
+		"gamestage": "Techguns",
+		"seesky": false,
+		"random": 0.000375,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 2,
+			"perplayer": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 10,
+		"mob": "techguns:psychosteve",
+		"random": 0.0125,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 2,
+			"perplayer": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": [0,10],
+		"mob": "techguns:psychosteve",
+		"result": "deny"
+	},
+
+	{
+		"dimension": 10,
+		"mob": "techguns:supermutantbasic",
+		"random": 0.025,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 12,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 10,
+		"mob": "techguns:supermutantbasic",
+		"result": "deny"
+	},
+
+	{
+		"dimension": 10,
+		"mob": "techguns:supermutantheavy",
+		"random": 0.0125,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 6,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 10,
+		"mob": "techguns:supermutantheavy",
+		"result": "deny"
+	},
+
+	{
+		"dimension": 10,
+		"mob": "techguns:supermutantelite",
+		"random": 0.00875,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 3,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 10,
+		"mob": "techguns:supermutantelite",
+		"result": "deny"
+	},
+
+	//ice&fire dreads
+	
+	{
+		"dimension": 0,
+		"mob": "iceandfire:dread_thrall",
+		"seesky": true,
+		"random": 0.0025,
+		"maxlight": 7,
+		"minlight": 0,
+		"minheight": 50,
+		"winter": true,
+		"maxcount":	{
+			"amount": 20,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "iceandfire:dread_thrall",
+		"result": "deny"
+	},
+	
+	{
+		"dimension": 0,
+		"mob": "iceandfire:dread_ghoul",
+		"seesky": true,
+		"random": 0.00125,
+		"maxlight": 7,
+		"minlight": 0,
+		"minheight": 50,
+		"winter": true,
+		"maxcount":	{
+			"amount": 4,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "iceandfire:dread_ghoul",
+		"result": "deny"
+	},
+	
+	{
+		"dimension": 0,
+		"mob": "iceandfire:dread_beast",
+		"seesky": true,
+		"random": 0.00125,
+		"maxlight": 7,
+		"minlight": 0,
+		"minheight": 50,
+		"winter": true,
+		"maxcount":	{
+			"amount": 4,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "iceandfire:dread_beast",
+		"result": "deny"
+	},
+	
+	{
+		"dimension": 0,
+		"mob": "iceandfire:dread_scuttler",
+		"seesky": true,
+		"random": 0.000875,
+		"maxlight": 7,
+		"minlight": 0,
+		"minheight": 50,
+		"winter": true,
+		"maxcount":	{
+			"amount": 3,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "iceandfire:dread_scuttler",
+		"result": "deny"
+	},
+	
+	{
+		"dimension": 0,
+		"mob": "iceandfire:dread_lich",
+		"seesky": true,
+		"random": 0.000625,
+		"maxlight": 7,
+		"minlight": 0,
+		"minheight": 50,
+		"winter": true,
+		"maxcount":	{
+			"amount": 1,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "iceandfire:dread_lich",
+		"result": "deny"
+	},
+	
+	{
+		"dimension": 0,
+		"mob": "iceandfire:dread_knight",
+		"seesky": true,
+		"random": 0.00125,
+		"maxlight": 7,
+		"minlight": 0,
+		"minheight": 50,
+		"winter": true,
+		"maxcount":	{
+			"amount": 3,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "iceandfire:dread_knight",
+		"result": "deny"
+	},
+	
+	//GoG
+
+	{
+		"dimension": 0,
+		"mob": "grimoireofgaia:deathword",
+		"seesky": false,
+		"random": 0.00125,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount": {
+			"amount": 3,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "grimoireofgaia:deathword",
+		"result": "deny"
+	},
+	
+	{
+		"dimension": 0,
+		"mob": "grimoireofgaia:dhampir",
+		"biome": ["Cold Taiga", "Cold Taiga Hills", "Cold Taiga M", "Taiga M", "Ominous Woods", "Redwood Forest", "Shield", "Dark Forest", "Dead Forest", "Forest", "Roofed Forest", "Magical Forest", "Tall Oak Forest", "Fungi Forest", "Thicket", "Coniferous Forest", "Snowy Coniferous Forest", "MountainFoothills"],
+		"biometype": ["FOREST", "CONIFEROUS", "DENSE", "THEMED_TREES", "SPOOKY", "MEGA_TAIGA_TREES", "MEGA_TAIGA_SPRUCE_TREES", "MAGICAL", "DEAD"],
+		"seesky": true,
+		"random": 0.00125,
+		"maxlight": 15,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 2,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "grimoireofgaia:dhampir",
+		"result": "deny"
+	},
+
+	{
+		"dimension": 0,
+		"mob": "grimoireofgaia:vampire",
+		"biome": ["Cold Taiga", "Cold Taiga Hills", "Cold Taiga M", "Taiga M", "Ominous Woods", "Redwood Forest", "Shield", "Dark Forest", "Dead Forest", "Forest", "Roofed Forest", "Magical Forest", "Tall Oak Forest", "Fungi Forest", "Thicket", "Coniferous Forest", "Snowy Coniferous Forest", "MountainFoothills"],
+		"biometype": ["FOREST", "CONIFEROUS", "DENSE", "THEMED_TREES", "SPOOKY", "MEGA_TAIGA_TREES", "MEGA_TAIGA_SPRUCE_TREES", "MAGICAL", "DEAD"],
+		"seesky": true,
+		"random": 0.000625,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 1,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "grimoireofgaia:vampire",
+		"result": "deny"
+	},
+
+	{
+		"dimension": 0,
+		"mob": "grimoireofgaia:dwarf",
+		"seesky": false,
+		"random": 0.0025,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxheight": 64,
+		"minheight": 4,
+		"maxcount": {
+			"amount": 15,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 66,
+		"mob": "grimoireofgaia:dwarf",
+		"random": 0.000875,
+		"maxcount": {
+			"amount": 15,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": [0,66],
+		"mob": "grimoireofgaia:dwarf",
+		"result": "deny"
+	},
+
+	{
+		"dimension": 0,
+		"mob": "grimoireofgaia:orc",
+		"seesky": false,
+		"random": 0.0025,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxheight": 64,
+		"minheight": 4,
+		"maxcount": {
+			"amount": 20,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 66,
+		"mob": "grimoireofgaia:orc",
+		"random": 0.000875,
+		"maxcount": {
+			"amount": 20,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": [0,66],
+		"mob": "grimoireofgaia:orc",
+		"result": "deny"
+	},
+	
+	//eyes
+	
+	{
+		"dimension": [0,424],
+		"mob": "eyesinthedarkness:eyes",
+		"seesky": false,
+		"random": 0.005,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 6,
+			"perplayer": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": [0,424],
+		"mob": "eyesinthedarkness:eyes",
+		"result": "deny"
+	},
+
+	//srpbeckonsskycheck
+
+	{
+		"dimension": 0,
+		"mob": ["srparasites:beckon_si","srparasites:beckon_sii","srparasites:beckon_siii","srparasites:beckon_siv"],
+		"onjoin": true,
+		"seesky": false,
+		"result": "deny"
+	},
+
+	//roughmobsbossesskycheck
+
+	{
+		"dimension": 0,
+		"mob": ["roughmobsrevamped:bosszombie","roughmobsrevamped:bossskeleton"],
+		"onjoin": true,
+		"seesky": false,
+		"result": "deny"
+	},
+
+	//roughmobsbossesbeneathdespawn
+
+	{
+		"dimension": 10,
+		"mob": ["roughmobsrevamped:bosszombie","roughmobsrevamped:bossskeleton"],
+		"onjoin": true,
+		"result": "deny"
+	},
+
+	//srp
+
+	{
+		"dimension": 10,
+		"mob": "srparasites:warden",
+		"random": 0.000375,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 3,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 10,
+		"mob": "srparasites:warden",
+		"result": "deny"
+	},
+
+	{
+		"dimension": 10,
+		"mob": "srparasites:marauder",
+		"random": 0.000125,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 3,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 10,
+		"mob": "srparasites:marauder",
+		"result": "deny"
+	},
+
+	{
+		"dimension": 10,
+		"mob": "srparasites:carrier_heavy",
+		"random": 0.05,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 4,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 10,
+		"mob": "srparasites:carrier_heavy",
+		"result": "deny"
+	},
+
+	{
+		"dimension": 10,
+		"mob": "srparasites:carrier_flying",
+		"random": 0.0375,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxheight": 128,
+		"minheight": 64,
+		"maxcount":	{
+			"amount": 3,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 10,
+		"mob": "srparasites:carrier_flying",
+		"result": "deny"
+	},
+
+	{
+		"dimension": 10,
+		"mob": "srparasites:rupter",
+		"random": 0.1,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 180,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 66,
+		"mob": "srparasites:rupter",
+		"block": "dimstack:portal",
+		"random": 0.000875,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 90,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": [10,66],
+		"mob": "srparasites:rupter",
+		"result": "deny"
+	},
+
+	{
+		"dimension": 10,
+		"mob": "srparasites:sim_human",
+		"random": 0.05,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 30,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 10,
+		"mob": "srparasites:sim_human",
+		"result": "deny"
+	},
+
+	//tc
+
+	{
+		"dimension": 0,
+		"mob": "thaumcraft:brainyzombie",
+		"seesky": true,
+		"random": 0.0025,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 20,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "thaumcraft:brainyzombie",
+		"result": "deny"
+	},
+
+	{
+		"dimension": 0,
+		"mob": "thaumcraft:giantbrainyzombie",
+		"seesky": true,
+		"random": 0.0025,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 10,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "thaumcraft:giantbrainyzombie",
+		"result": "deny"
+	},
+
+	{
+		"dimension": 0,
+		"mob": "thaumcraft:inhabitedzombie",
+		"seesky": true,
+		"random": 0.0025,
+		"maxlight": 15,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 5,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 0,
+		"mob": "thaumcraft:inhabitedzombie",
+		"result": "deny"
+	},
+
+	//fishundeadmobcounter
+
+	{
+		"mob": "mod_lavacow:raven",
+		"mincount": {
+			"amount": 15,
+			"mob": "mod_lavacow:raven",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+	{
+		"mob": "mod_lavacow:mimic",
+		"mincount": {
+			"amount": 10,
+			"mob": "mod_lavacow:mimic",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+	{
+		"mob": "mod_lavacow:piranha",
+		"mincount": {
+			"amount": 15,
+			"mob": "mod_lavacow:piranha",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+	{
+		"mob": "mod_lavacow:zombiepiranha",
+		"mincount": {
+			"amount": 15,
+			"mob": "mod_lavacow:zombiepiranha",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+
+	//beecounter
+
+	{
+		"mob": "futuremc:bee",
+		"mincount": {
+			"amount": 30,
+			"mob": "futuremc:bee",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+
+	//gogcounter
+
+	{
+		"mob": "grimoireofgaia:mimic",
+		"mincount": {
+			"amount": 10,
+			"mob": "grimoireofgaia:mimic",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+
+	{
+		"mob": "grimoireofgaia:arachne",
+		"mincount": {
+			"amount": 10,
+			"mob": "grimoireofgaia:arachne",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+	
+	{
+		"mob": "grimoireofgaia:centaur",
+		"mincount": {
+			"amount": 30,
+			"mob": "grimoireofgaia:centaur",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+
+	{
+		"mob": "grimoireofgaia:creep",
+		"mincount": {
+			"amount": 10,
+			"mob": "grimoireofgaia:creep",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+
+	{
+		"mob": "grimoireofgaia:cyan_flower",
+		"mincount": {
+			"amount": 30,
+			"mob": "grimoireofgaia:cyan_flower",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+
+	{
+		"mob": "grimoireofgaia:ender_eye",
+		"mincount": {
+			"amount": 10,
+			"mob": "grimoireofgaia:ender_eye",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+	
+	{
+		"mob": "grimoireofgaia:satyress",
+		"mincount": {
+			"amount": 30,
+			"mob": "grimoireofgaia:satyress",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+
+	{
+		"mob": "grimoireofgaia:vase",
+		"mincount": {
+			"amount": 30,
+			"mob": "grimoireofgaia:vase",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+
+	{
+		"mob": "grimoireofgaia:vase_nether",
+		"mincount": {
+			"amount": 30,
+			"mob": "grimoireofgaia:vase_nether",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+
+	//ratsmobcounter
+
+	{
+		"mob": "rats:rat",
+		"mincount": {
+			"amount": 80,
+			"mob": "rats:rat",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+
+	//erebus
+
+	{
+		"mob": "erebus:erebus.grasshopper",
+		"mincount": {
+			"amount": 3,
+			"mob": "erebus:erebus.grasshopper",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+
+	//mutantbeasts
+
+	{
+		"mob": "mutantbeasts:mutant_enderman",
+		"mincount": {
+			"amount": 3,
+			"mob": "mutantbeasts:mutant_enderman",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+
+	//ancientbeasts
+
+	{
+		"mob": "ancientbeasts:rifted_enderman",
+		"mincount": {
+			"amount": 6,
+			"mob": "ancientbeasts:rifted_enderman",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+
+	//vanillamobcounter
+
+	{
+		"mob": "minecraft:bat",
+		"mincount": {
+			"amount": 15,
+			"mob": "minecraft:bat",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+
+	{
+		"mob": "minecraft:slime",
+		"mincount": {
+			"amount": 90,
+			"mob": "minecraft:slime",
+			"perchunk": true
+		},
+		"result": "deny"
+	}
+]

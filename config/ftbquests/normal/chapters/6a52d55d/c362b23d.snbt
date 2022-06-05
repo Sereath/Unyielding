@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: 15.0d,
+	dependencies: [
+		"28c400ac"
+	],
+	tasks: [{
+		uid: "c962ea27",
+		type: "item",
+		items: [{
+			item: "enderio:item_stellar_alloy_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

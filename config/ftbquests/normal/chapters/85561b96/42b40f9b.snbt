@@ -1,0 +1,42 @@
+{
+	x: 13.5d,
+	y: -17.5d,
+	dependencies: [
+		"b908ec2b"
+	],
+	tasks: [{
+		uid: "e4c0fae1",
+		type: "item",
+		items: [{
+			id: "bountifulbaubles:amuletsingluttony",
+			tag: {
+				Quality: {
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					Color: "aqua",
+					AttributeModifiers: [{
+						UUIDMost: -1569348638831917350L,
+						UUIDLeast: -7080298981557871038L,
+						Amount: 0.05000000074505806d,
+						AttributeName: "generic.movementSpeed",
+						Operation: 2,
+						Name: "qualitytools"
+					},
+					{
+						UUIDMost: 2387283957520027053L,
+						UUIDLeast: -5260817613251107026L,
+						Amount: 0.5d,
+						AttributeName: "potioncore.jumpHeight",
+						Operation: 0,
+						Name: "qualitytools"
+					}],
+					Name: "quality.athletic.name"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

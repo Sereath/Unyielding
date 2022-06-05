@@ -1,0 +1,16 @@
+{
+	x: 10.5d,
+	y: 5.0d,
+	tasks: [{
+		uid: "34df513c",
+		type: "item",
+		items: [{
+			id: "immersiveengineering:steel_armor_head",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

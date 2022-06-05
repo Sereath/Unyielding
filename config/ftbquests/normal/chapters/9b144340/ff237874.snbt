@@ -1,0 +1,14 @@
+{
+	x: 3.5d,
+	y: -5.5d,
+	dependencies: [
+		"ed157a4d"
+	],
+	tasks: [{
+		uid: "6218093d",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:toaster"
+		}]
+	}]
+}

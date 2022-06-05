@@ -1,0 +1,13 @@
+{
+	x: 14.5d,
+	y: 5.0d,
+	tasks: [{
+		uid: "a5a631ac",
+		type: "item",
+		items: [{
+			item: "compositegear:composite_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

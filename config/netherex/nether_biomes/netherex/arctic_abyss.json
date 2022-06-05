@@ -1,0 +1,381 @@
+{
+	"biome": "netherex:arctic_abyss",
+	"generationWeight": 3,
+	"useDefaultDecorations": true,
+	"isSubBiome": false,
+	"blocks": {
+		"surface": {
+			"block": "netherex:frostburn_ice"
+		},
+		"liquid": {
+			"block": "minecraft:magma"
+		},
+		"subsurface": {
+			"block": "netherex:icy_netherrack"
+		}
+	},
+	"entities": [
+		{
+			"spawnWeight": 10,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "netherex:frost"
+		}, 
+		{
+			"spawnWeight": 35,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4,
+			"entity": "netherex:coolmar_spider"
+		}, 
+		{
+			"spawnWeight": 100,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4,
+			"entity": "netherex:wight"
+		}, 
+		{
+			"spawnWeight": 15,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "netherex:brute"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "ebwizardry:lightning_wraith"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "ebwizardry:evil_wizard"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "eyesinthedarkness:eyes"
+		}, 
+		{
+			"spawnWeight": 40,
+			"minimumGroupCount": 8,
+			"maximumGroupCount": 16,
+			"entity": "mod_lavacow:zombiefrozen"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "mod_lavacow:mimic"
+		}, 
+		{
+			"spawnWeight": 5,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "mod_lavacow:undertaker"
+		}, 
+		{
+			"spawnWeight": 5,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mod_lavacow:banshee"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 4,
+			"entity": "mod_lavacow:ptera"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "mod_lavacow:scarecrow"
+		}, 
+		{
+			"spawnWeight": 20,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mod_lavacow:ghostray"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "harvestersnight:harvester"
+		}, 
+		{
+			"spawnWeight": 10,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "thaumcraft:firebat"
+		}, 
+		{
+			"spawnWeight": 5,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "thaumcraft:wisp"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "eerieentities:pumpkin_slime"
+		}, 
+		{
+			"spawnWeight": 5,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "eerieentities:nether_knight"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 4,
+			"entity": "grimoireofgaia:satyress"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 6,
+			"entity": "grimoireofgaia:centaur"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 4,
+			"entity": "grimoireofgaia:harpy"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 4,
+			"entity": "grimoireofgaia:minotaurus"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "grimoireofgaia:spawner_minotaur"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 4,
+			"entity": "grimoireofgaia:creep"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 4,
+			"entity": "grimoireofgaia:ender_eye"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "grimoireofgaia:vase"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "grimoireofgaia:chest"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "grimoireofgaia:arachne"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "grimoireofgaia:deathword"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "grimoireofgaia:bone_knight"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "grimoireofgaia:flesh_lich"
+		}, 
+		{
+			"spawnWeight": 15,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "grimoireofgaia:vase_nether"
+		}, 
+		{
+			"spawnWeight": 20,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 4,
+			"entity": "grimoireofgaia:succubus"
+		}, 
+		{
+			"spawnWeight": 15,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 4,
+			"entity": "grimoireofgaia:wither_cow"
+		}, 
+		{
+			"spawnWeight": 15,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 4,
+			"entity": "grimoireofgaia:baphomet"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mowziesmobs:grottol"
+		}, 
+		{
+			"spawnWeight": 8,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 6,
+			"entity": "natura:nitrocreeper"
+		}, 
+		{
+			"spawnWeight": 10,
+			"minimumGroupCount": 8,
+			"maximumGroupCount": 12,
+			"entity": "natura:imp"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "thaumcraft:giantbrainyzombie"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "thaumcraft:cultistportallesser"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "thaumcraft:brainyzombie"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "thaumcraft:pech"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "thaumcraft:inhabitedzombie"
+		}
+	],
+	"traits": [
+		{
+			"generationAttempts": 2,
+			"generationStage": "terrain_alteration",
+			"generationProbability": 0.125,
+			"minimumGenerationHeight": 36,
+			"blockToSpawn": {
+				"block": "netherex:ichor"
+			},
+			"randomizeGenerationAttempts": false,
+			"trait": "libraryex:pool",
+			"maximumGenerationHeight": 108,
+			"blockToSurround": {
+				"block": "netherex:frostburn_ice"
+			}
+		}, 
+		{
+			"generationAttempts": 5,
+			"generationStage": "decoration",
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 4,
+			"blockToSpawn": {
+				"block": "netherex:blue_fire"
+			},
+			"blockToTarget": {
+				"block": "netherex:frostburn_ice"
+			},
+			"randomizeGenerationAttempts": true,
+			"trait": "libraryex:scatter",
+			"maximumGenerationHeight": 124,
+			"placement": "on_ground"
+		}, 
+		{
+			"generationAttempts": 10,
+			"generationStage": "decoration",
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 4,
+			"blockToSpawn": {
+				"block": "minecraft:glowstone"
+			},
+			"randomizeGenerationAttempts": true,
+			"trait": "libraryex:cluster",
+			"maximumGenerationHeight": 124,
+			"blockToAttachTo": {
+				"block": "netherex:icy_netherrack"
+			},
+			"direction": "down"
+		}, 
+		{
+			"generationAttempts": 10,
+			"generationStage": "decoration",
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 1,
+			"blockToSpawn": {
+				"block": "minecraft:glowstone"
+			},
+			"randomizeGenerationAttempts": false,
+			"trait": "libraryex:cluster",
+			"maximumGenerationHeight": 128,
+			"blockToAttachTo": {
+				"block": "netherex:icy_netherrack"
+			},
+			"direction": "down"
+		}, 
+		{
+			"generationAttempts": 16,
+			"generationStage": "ore",
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 10,
+			"veinSize": 14,
+			"blockToSpawn": {
+				"block": "netherex:quartz_ore"
+			},
+			"randomizeGenerationAttempts": false,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"trait": "libraryex:ore",
+			"maximumGenerationHeight": 108
+		}, 
+		{
+			"generationAttempts": 16,
+			"generationStage": "ore",
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 10,
+			"veinSize": 7,
+			"blockToSpawn": {
+				"block": "netherex:rime_ore"
+			},
+			"randomizeGenerationAttempts": false,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
+			"trait": "libraryex:ore",
+			"maximumGenerationHeight": 108
+		}
+	],
+	"subBiomes": []
+}

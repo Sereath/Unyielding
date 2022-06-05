@@ -1,0 +1,15 @@
+{
+	x: 16.5d,
+	y: -9.5d,
+	tasks: [{
+		uid: "6b3adc7c",
+		type: "item",
+		items: [{
+			id: "grimoireofgaia:accessory_trinket_water_breathing",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

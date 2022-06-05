@@ -1,0 +1,30 @@
+# Gilly's City building spawn proxy
+
+weight=1
+embed_into_distance=2
+unacceptable_target_blocks=flowing_water,water,flowing_lava,lava,ice,bedrock,netherrack,nether_brick,nether_brick_fence,soul_sand,quartz_ore,gravel,end_stone,obsidian,iron_bars,cloud,flesh,ash_block,slime_grass,slime_congealed,slime_dirt
+biomesToSpawnIn=plains,mutated_plains,forest,birch forest,taiga,woodland,woodlands,prarie,meadow
+dimensions=1,1,1
+cut_in_buffer=0
+max_leveling=2
+leveling_buffer=-1
+preserve_water=0
+preserve_lava=0
+preserve_plants=0
+adjoining_template=Gilly/GillyRusticBrickyard;0;15;0;100
+adjoining_template=Gilly/GillyKiln;-8;8;-11;100
+adjoining_template=Gilly/GillyKiln2;-8;8;-18;100
+adjoining_template=Gilly/GillyKiln2;-8;8;-21;100
+adjoining_template=Gilly/GillyKiln2;-8;8;-24;100
+adjoining_template=Gilly/GillyBlockStack;-2;8;-23;100
+adjoining_template=Gilly/GillyBrickStack;7;8;-13;100
+adjoining_template=Gilly/GillyBlockStack;2;8;-16;100
+adjoining_template=Gilly/GillyBrickStack;8;8;-19;100
+adjoining_template=Gilly/GillyBlockStack;2;8;-20;100
+
+rule1=0,100,preserveBlock
+
+layer
+1
+endlayer
+

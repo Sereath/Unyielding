@@ -1,0 +1,38 @@
+
+# Created by Ruins mod version 16.7 Ingame Parser
+# authoring Player: ST753M
+
+# This generates 2 random templates out of the ST753M folder:
+# One is a maze that generates within the bedrock of the nether ceiling.
+# The other hangs down like a stalactite into the nether itself.
+# Each maze (of which there are a few variations) has 3 chests:
+# - A weak normal prize if you just follow the wall through
+# - 2 better prizes that take more thought and work to collect
+# The stalactites are mostly to grab attention, and don't have treasures themself.
+
+weight=3
+uniqueMinDistance=128
+embed_into_distance=5
+acceptable_target_blocks=
+unacceptable_target_blocks=flowing_water,water
+dimensions=2,1,1
+allowable_overhang=9999
+max_leveling=0
+leveling_buffer=0
+preserve_water=1
+preserve_lava=1
+
+biomesToSpawnIn=hell,undergarden,visceral_heap,phantasmagoric_inferno,corrupted_sands,fungi_forest,ruthless_sands,torrid_wasteland,arctic_abyss,polar_chasm
+
+rule1=0,100,CommandBlock:RUINSTRIGGER /testruin ST753M/753_Helltop_Maze_1 ~ 123 ~:@-3,CommandBlock:RUINSTRIGGER /testruin ST753M/753_Helltop_Maze_2 ~ 123 ~:@-3,CommandBlock:RUINSTRIGGER /testruin ST753M/753_Helltop_Maze_3 ~ 123 ~:@-3
+
+rule2=0,100,CommandBlock:RUINSTRIGGER /testruin ST753M/753_Helltop_Stal_1 ~ 123 ~:@-3,CommandBlock:RUINSTRIGGER /testruin ST753M/753_Helltop_Stal_1 ~ 123 ~:@-3,CommandBlock:RUINSTRIGGER /testruin ST753M/753_Helltop_Stal_2 ~ 123 ~:@-3
+
+layer
+1
+endlayer
+
+layer
+2
+endlayer
+

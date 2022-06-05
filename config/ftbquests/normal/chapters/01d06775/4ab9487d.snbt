@@ -1,0 +1,11 @@
+{
+	x: 6.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "d4f4212e",
+		type: "item",
+		items: [{
+			item: "openmodularturrets:teleporter_turret"
+		}]
+	}]
+}

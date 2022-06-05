@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "GolemFactory",
+  "items": [
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "minecraft:ender_pearl",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "minecraft:fire_charge",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 30,
+      "item": {
+        "id": "minecraft:experience_bottle",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:splash_potion",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "minecraft:healing"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 9.797295570373535,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "minecraft:red_flower",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 64,
+      "item": {
+        "id": "minecraft:red_flower",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.39763605594635,
+      "min": 1,
+      "max": 10,
+      "item": {
+        "id": "minecraft:pumpkin_seeds",
+        "damage": 0,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

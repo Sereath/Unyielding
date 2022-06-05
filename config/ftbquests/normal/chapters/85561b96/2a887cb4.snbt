@@ -1,0 +1,44 @@
+{
+	x: 0.0d,
+	y: -5.5d,
+	tasks: [{
+		uid: "488f5abb",
+		type: "item",
+		items: [{
+			id: "xat:fairy_ring",
+			tag: {
+				Quality: {
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					Color: "blue",
+					AttributeModifiers: [{
+						UUIDMost: 3565180301975440303L,
+						UUIDLeast: -4649340811329528693L,
+						Amount: 0.029999999329447746d,
+						AttributeName: "potioncore.damageResistance",
+						Operation: 2,
+						Name: "qualitytools"
+					}],
+					Name: "quality.armored.name"
+				}
+			},
+			ForgeCaps: {
+				"xat:trinket": {
+					target: -1,
+					slot: -1,
+					handler: 0,
+					hitcount: 0,
+					exp: 0,
+					mana: 0,
+					main.ability: 0b,
+					alt.ability: 0b,
+					player.status: -1
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,31 @@
+{
+	x: -0.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "85dd0bcf",
+		type: "item",
+		items: [{
+			id: "thermalinnovation:magnet",
+			tag: {
+				Energy: 40000,
+				Quality: {
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					Color: "blue",
+					AttributeModifiers: [{
+						UUIDMost: 927028114715593870L,
+						UUIDLeast: -7411353187700735957L,
+						Amount: 0.20000000298023224d,
+						AttributeName: "generic.luck",
+						Operation: 0,
+						Name: "qualitytools"
+					}],
+					Name: "quality.lucky.name"
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

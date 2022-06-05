@@ -1,0 +1,21 @@
+# Gilly's forest build spawn proxy
+
+weight=1
+embed_into_distance=0
+acceptable_target_blocks=
+unacceptable_target_blocks=flowing_water,water,flowing_lava,lava,ice,bedrock,netherrack,nether_brick,nether_brick_fence,soul_sand,quartz_ore,end_stone,obsidian,iron_bars,cloud,flesh,ash_block,slime_grass,slime_congealed,slime_dirt
+biomesToSpawnIn=ice_flats,meadow,forest,taiga,woodland,woodlands,fen,brushland,shrubland,outback,chaparral,savanna,badlands,tundra,desert,jungle,mini jungle,birch forest,red desert,autumnal forest,rocky plateau,ice plains,cold taiga,mega taiga
+dimensions=1,1,1
+cut_in_buffer=0
+max_leveling=2
+leveling_buffer=-1
+preserve_water=0
+preserve_lava=0
+preserve_plants=0
+
+rule1=0,100,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyPortalCitidel ~ ~ ~:@
+
+layer
+1
+endlayer
+

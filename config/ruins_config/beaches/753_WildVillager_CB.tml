@@ -1,0 +1,27 @@
+
+# Created by Ruins mod version 16.9 Ingame Parser
+# authoring Player: ST753M
+
+# Creates a lost villager with custom trades.
+
+weight=1
+spawnMinDistance=1000
+uniqueMinDistance=1000
+embed_into_distance=1
+acceptable_target_blocks=
+unacceptable_target_blocks=flowing_water,water,flowing_lava,lava
+dimensions=1,1,1
+allowable_overhang=0
+max_leveling=1
+leveling_buffer=0
+preserve_water=0
+preserve_lava=0
+
+biomesToSpawnIn=beaches,stone_beach,gravel_beach,white_beach
+
+rule1=0,100,CommandBlock:RUINSTRIGGER /summon villager ~ ~1 ~ {CustomName:"Lost Mason",CustomNameVisible:1,Profession:3,Offers:{Recipes:[{rewardExp:0b,maxUses:2147483647,uses:0,buy:{id:"minecraft:cobblestone",Count:64b},buyB:{id:"minecraft:emerald",Count:1b},sell:{id:"minecraft:stone",Count:32b}},{rewardExp:0b,maxUses:2147483647,uses:0,buy:{id:"minecraft:stone",Count:32b},sell:{id:"minecraft:stone",Damage:1,Count:32b}},{rewardExp:0b,maxUses:2147483647,uses:0,buy:{id:"minecraft:stone",Count:32b},sell:{id:"minecraft:stone",Damage:5,Count:32b}},{rewardExp:0b,maxUses:2147483647,uses:0,buy:{id:"minecraft:stone",Count:32b},sell:{id:"minecraft:stone",Damage:3,Count:32b}},{rewardExp:0b,maxUses:2147483647,uses:0,buy:{id:"minecraft:emerald",Count:1b},sell:{id:"minecraft:monster_egg",Damage:5,Count:4b}}]}}:@-1,CommandBlock:RUINSTRIGGER /summon villager ~ ~1 ~ {Profession:3,Offers:{Recipes:[{rewardExp:0b,maxUses:2147483647,uses:0,buy:{id:"minecraft:dirt",Count:16b},buyB:{id:"minecraft:emerald",Count:2b},sell:{id:"minecraft:grass",Count:16b}},{rewardExp:0b,maxUses:2147483647,uses:0,buy:{id:"minecraft:grass",Count:4b},buyB:{id:"minecraft:emerald",Count:1b},sell:{id:"minecraft:dirt",Damage:2,Count:4b}},{rewardExp:0b,maxUses:2147483647,uses:0,buy:{id:"minecraft:grass",Count:4b},buyB:{id:"minecraft:emerald",Count:1b},sell:{id:"minecraft:mycelium",Count:4b}}]}}:@-1,CommandBlock:RUINSTRIGGER /summon villager ~ ~1 ~ {CustomName:"Archaeologist",CustomNameVisible:1,Profession:1,Offers:{Recipes:[{rewardExp:0b,maxUses:2147483647,uses:0,buy:{id:"minecraft:bone",Count:19b},sell:{id:"minecraft:emerald",Count:1b}},{rewardExp:0b,maxUses:2147483647,uses:0,buy:{id:"minecraft:bone_block",Count:5b},sell:{id:"minecraft:emerald",Count:1b}},{rewardExp:0b,maxUses:2147483647,uses:0,buy:{id:"minecraft:emerald",Count:1b},sell:{id:"minecraft:dye",Damage:15,Count:31b}},{rewardExp:0b,maxUses:2147483647,uses:0,buy:{id:"minecraft:emerald",Count:11b},sell:{id:"minecraft:skull",Count:1b}}]},ActiveEffects:[{Id:14,Amplifier:0,Duration:20}]}:@-1,CommandBlock:RUINSTRIGGER /summon villager ~ ~1 ~ {CustomName:"Bard",CustomNameVisible:1,Profession:2,Offers:{Recipes:[{rewardExp:0b,maxUses:2147483647,uses:0,buy:{id:"minecraft:record_13",Count:1b},sell:{id:"minecraft:emerald",Count:2b}},{rewardExp:0b,maxUses:2147483647,uses:0,buy:{id:"minecraft:record_cat",Count:1b},sell:{id:"minecraft:emerald",Count:3b}},{rewardExp:0b,maxUses:2147483647,uses:0,buy:{id:"minecraft:emerald",Count:7b},sell:{id:"minecraft:record_blocks",Count:1b}},{rewardExp:0b,maxUses:2147483647,uses:0,buy:{id:"minecraft:emerald",Count:5b},sell:{id:"minecraft:record_chirp",Count:1b}},{rewardExp:0b,maxUses:2147483647,uses:0,buy:{id:"minecraft:emerald",Count:6b},sell:{id:"minecraft:record_far",Count:1b}},{rewardExp:0b,maxUses:2147483647,uses:0,buy:{id:"minecraft:record_11",Count:1b},sell:{id:"minecraft:emerald",Count:1b}},{rewardExp:0b,maxUses:2147483647,uses:0,buy:{id:"minecraft:emerald",Count:6b},sell:{id:"minecraft:record_ward",Count:1b}},{rewardExp:0b,maxUses:2147483647,uses:0,buy:{id:"minecraft:emerald",Count:7b},sell:{id:"minecraft:record_strad",Count:1b}}]},ActiveEffects:[{Id:14,Amplifier:0,Duration:24}]}:@-1
+
+layer
+1
+endlayer
+

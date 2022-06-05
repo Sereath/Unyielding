@@ -1,0 +1,16 @@
+{
+	x: 15.5d,
+	y: 13.0d,
+	dependencies: [
+		"612e17e1"
+	],
+	tasks: [{
+		uid: "e9ea3e84",
+		type: "item",
+		items: [{
+			item: "enderio:item_end_steel_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: -5.5d,
+	y: 11.5d,
+	tasks: [{
+		uid: "db372458",
+		type: "item",
+		items: [{
+			item: "iceandfire:armor_bronze_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

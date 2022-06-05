@@ -1,0 +1,13 @@
+{
+	x: 21.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "73157e32",
+		type: "item",
+		items: [{
+			item: "mutantbeasts:mutant_skeleton_skull"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

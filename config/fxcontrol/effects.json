@@ -1,0 +1,9 @@
+[
+    //Curse, durations in ticks
+
+    {
+        "timeout": 200,
+        "dimension": 424,
+        "potion": ["minecraft:slowness,220,1","minecraft:mining_fatigue,220,1","minecraft:weakness,220,1"]
+    }
+]

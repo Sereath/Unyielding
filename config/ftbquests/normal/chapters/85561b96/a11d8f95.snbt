@@ -1,0 +1,11 @@
+{
+	x: 8.5d,
+	y: -6.0d,
+	tasks: [{
+		uid: "813b9423",
+		type: "item",
+		items: [{
+			item: "xreliquary:glowing_bread"
+		}]
+	}]
+}

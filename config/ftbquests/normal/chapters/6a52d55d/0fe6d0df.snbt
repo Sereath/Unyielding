@@ -1,0 +1,16 @@
+{
+	x: 14.5d,
+	y: 15.0d,
+	dependencies: [
+		"206568d1"
+	],
+	tasks: [{
+		uid: "29613f55",
+		type: "item",
+		items: [{
+			item: "enderio:item_end_steel_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

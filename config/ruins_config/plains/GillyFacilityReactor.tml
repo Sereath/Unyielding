@@ -1,0 +1,28 @@
+# Gilly's Reactor Facility
+
+# vanilla version
+
+weight=1
+embed_into_distance=4
+uniqueMinDistance=500
+unacceptable_target_blocks=flowing_water,water,flowing_lava,lava,ice,bedrock,netherrack,nether_brick,nether_brick_fence,soul_sand,quartz_ore,gravel,end_stone,obsidian,iron_bars,cloud,flesh,ash_block,slime_grass,slime_congealed,slime_dirt
+biomesToSpawnIn=plains,mutated_plains,meadow,forest,taiga,woodland,woodlands,fen,brushland,shrubland,outback,chaparral,savanna,badlands,birch forest,ice plains,tundra,cold taiga
+dimensions=2,1,1
+max_leveling=3
+leveling_buffer=-1
+preserve_water=0
+preserve_lava=0
+preserve_plants=0
+preventRotation=1
+
+rule1=0,100,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyReactorCore ~-8 ~4 ~-12 0:@
+rule2=7,100,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyReactorAccess ~0 ~3 ~0 0:@
+
+layer
+1
+endlayer
+
+layer
+2
+endlayer
+

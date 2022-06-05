@@ -1,0 +1,31 @@
+{
+	x: -6.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "a40f1594",
+		type: "item",
+		items: [{
+			id: "enderio:item_magnet",
+			tag: {
+				"enderio:energy": 100000,
+				Quality: {
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					Color: "blue",
+					AttributeModifiers: [{
+						UUIDMost: -407916789655779330L,
+						UUIDLeast: -8176472632128748623L,
+						Amount: 0.029999999329447746d,
+						AttributeName: "generic.attackDamage",
+						Operation: 2,
+						Name: "qualitytools"
+					}],
+					Name: "quality.strengthening.name"
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

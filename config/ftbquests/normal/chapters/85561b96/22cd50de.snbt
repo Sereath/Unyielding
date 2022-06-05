@@ -1,0 +1,16 @@
+{
+	x: -0.5d,
+	y: -15.0d,
+	tasks: [{
+		uid: "f67553ec",
+		type: "item",
+		items: [{
+			id: "cyclicmagic:charm_boat",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

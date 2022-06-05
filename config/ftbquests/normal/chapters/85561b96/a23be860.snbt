@@ -1,0 +1,16 @@
+{
+	x: 9.5d,
+	y: -18.0d,
+	tasks: [{
+		uid: "266896f6",
+		type: "item",
+		items: [{
+			id: "bountifulbaubles:trinketmagiclenses",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

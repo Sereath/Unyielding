@@ -1,0 +1,13 @@
+{
+	x: 0.5d,
+	y: 5.5d,
+	tasks: [{
+		uid: "80f80025",
+		type: "item",
+		items: [{
+			item: "iceandfire:tide_green_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

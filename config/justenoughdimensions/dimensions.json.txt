@@ -1,0 +1,12 @@
+{
+    "dimensions":[
+        {
+            "dim": 10,
+            "worldinfo_onetime": {
+                "GameRules": {
+                    "doDaylightCycle": "false"
+                },
+                "DayTime": 18000
+            }
+        }]
+}

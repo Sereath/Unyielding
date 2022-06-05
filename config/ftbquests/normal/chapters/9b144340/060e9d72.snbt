@@ -1,0 +1,30 @@
+{
+	x: -2.0d,
+	y: -7.0d,
+	description: "Watch out for zombies, they hate beds.",
+	text: [
+		""
+	],
+	dependencies: [
+		"799c83b4"
+	],
+	tasks: [{
+		uid: "379a7515",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any bed"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "bed"
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

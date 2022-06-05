@@ -1,0 +1,31 @@
+{
+	x: 7.5d,
+	y: -13.5d,
+	tasks: [{
+		uid: "411c5353",
+		type: "item",
+		items: [{
+			id: "bountifulbaubles:trinketobsidianskull",
+			tag: {
+				Quality: {
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					Color: "red",
+					AttributeModifiers: [{
+						UUIDMost: -2058068260118641594L,
+						UUIDLeast: -4800712455516322008L,
+						Amount: -0.20000000298023224d,
+						AttributeName: "generic.luck",
+						Operation: 0,
+						Name: "qualitytools"
+					}],
+					Name: "quality.unlucky.name"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

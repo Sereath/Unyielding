@@ -1,0 +1,13 @@
+{
+	x: 1.5d,
+	y: 10.5d,
+	tasks: [{
+		uid: "6141bc30",
+		type: "item",
+		items: [{
+			item: "iceandfire:dragonsteel_ice_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

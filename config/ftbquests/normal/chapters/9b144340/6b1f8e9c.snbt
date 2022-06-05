@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: -8.5d,
+	dependencies: [
+		"ed157a4d"
+	],
+	tasks: [{
+		uid: "134553e1",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:oven"
+		}]
+	}]
+}

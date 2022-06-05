@@ -1,0 +1,11 @@
+{
+	x: 4.5d,
+	y: -2.0d,
+	tasks: [{
+		uid: "e7a63491",
+		type: "item",
+		items: [{
+			item: "openmodularturrets:disposable_item_turret"
+		}]
+	}]
+}

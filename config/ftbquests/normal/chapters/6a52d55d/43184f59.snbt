@@ -1,0 +1,13 @@
+{
+	x: -0.5d,
+	y: 2.5d,
+	tasks: [{
+		uid: "9bc0ce50",
+		type: "item",
+		items: [{
+			item: "iceandfire:armor_silver_metal_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

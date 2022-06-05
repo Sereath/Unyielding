@@ -1,0 +1,16 @@
+{
+	x: 21.0d,
+	y: -12.5d,
+	tasks: [{
+		uid: "5dea0800",
+		type: "item",
+		items: [{
+			id: "grimoireofgaia:accessory_ring_jump",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

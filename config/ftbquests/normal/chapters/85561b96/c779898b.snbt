@@ -1,0 +1,13 @@
+{
+	x: 8.5d,
+	y: -8.5d,
+	tasks: [{
+		uid: "cb6dc4c1",
+		type: "item",
+		items: [{
+			item: "bountifulbaubles:wormholemirror"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: -16.5d,
+	tasks: [{
+		uid: "4688ad8c",
+		type: "item",
+		items: [{
+			item: "minecraft:leather_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

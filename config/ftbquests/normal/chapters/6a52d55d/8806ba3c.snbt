@@ -1,0 +1,13 @@
+{
+	x: 13.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "d85a8fcd",
+		type: "item",
+		items: [{
+			item: "mod_lavacow:faminearmor_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,39 @@
+{
+	x: 7.0d,
+	y: -16.5d,
+	tasks: [{
+		uid: "f15be847",
+		type: "item",
+		items: [{
+			id: "bountifulbaubles:trinketshulkerheart",
+			tag: {
+				Quality: {
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					Color: "aqua",
+					AttributeModifiers: [{
+						UUIDMost: -540440455933376315L,
+						UUIDLeast: -9087354975002756854L,
+						Amount: 0.029999999329447746d,
+						AttributeName: "potioncore.digSpeed",
+						Operation: 2,
+						Name: "qualitytools"
+					},
+					{
+						UUIDMost: -3076060420665359532L,
+						UUIDLeast: -5691535734139370385L,
+						Amount: 0.029999999329447746d,
+						AttributeName: "generic.attackSpeed",
+						Operation: 2,
+						Name: "qualitytools"
+					}],
+					Name: "quality.graceful.name"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

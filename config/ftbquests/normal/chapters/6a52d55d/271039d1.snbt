@@ -1,0 +1,19 @@
+{
+	x: 22.0d,
+	y: 10.0d,
+	dependencies: [
+		"f53ce44e"
+	],
+	tasks: [{
+		uid: "3db6ddd6",
+		type: "item",
+		items: [{
+			id: "techguns:t4_power_leggings",
+			tag: {
+				power: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

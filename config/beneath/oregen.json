@@ -1,0 +1,222 @@
+[
+  {
+    "ore": "minecraft:coal_ore",
+    "oremeta": 0,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 16,
+    "size": 32,
+    "miny": 5,
+    "maxy": 246
+  },
+  {
+    "ore": "minecraft:iron_ore",
+    "oremeta": 0,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 8,
+    "size": 16,
+    "miny": 10,
+    "maxy": 224
+  },
+  {
+    "ore": "minecraft:lapis_ore",
+    "oremeta": 0,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 12,
+    "size": 16,
+    "miny": 5,
+    "maxy": 224
+  },
+  {
+    "ore": "minecraft:redstone_ore",
+    "oremeta": 0,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 12,
+    "size": 16,
+    "miny": 5,
+    "maxy": 224
+  },
+  {
+    "ore": "minecraft:gold_ore",
+    "oremeta": 0,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 10,
+    "size": 20,
+    "miny": 10,
+    "maxy": 224
+  },
+  {
+    "ore": "minecraft:diamond_ore",
+    "oremeta": 0,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 4,
+    "size": 16,
+    "miny": 10,
+    "maxy": 186
+  },
+  {
+    "ore": "minecraft:emerald_ore",
+    "oremeta": 0,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 2,
+    "size": 8,
+    "miny": 10,
+    "maxy": 186
+  },
+  {
+    "ore": "dungeontactics:silver_ore",
+    "oremeta": 0,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 6,
+    "size": 12,
+    "miny": 10,
+    "maxy": 224
+  },
+  {
+    "ore": "dungeontactics:mithril_ore",
+    "oremeta": 0,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 3,
+    "size": 6,
+    "miny": 10,
+    "maxy": 224
+  },
+  {
+    "ore": "immersiveengineering:ore",
+    "oremeta": 5,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 2,
+    "size": 5,
+    "miny": 10,
+    "maxy": 48
+  },
+  {
+    "ore": "techguns:basicore",
+    "oremeta": 3,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 2,
+    "size": 3,
+    "miny": 16,
+    "maxy": 32
+  },
+  {
+    "ore": "thermalfoundation:ore",
+    "oremeta": 0,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 8,
+    "size": 12,
+    "miny": 5,
+    "maxy": 238
+  },
+  {
+    "ore": "thermalfoundation:ore",
+    "oremeta": 1,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 8,
+    "size": 12,
+    "miny": 5,
+    "maxy": 238
+  },
+  {
+    "ore": "thermalfoundation:ore",
+    "oremeta": 2,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 6,
+    "size": 12,
+    "miny": 10,
+    "maxy": 224
+  },
+  {
+    "ore": "thermalfoundation:ore",
+    "oremeta": 3,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 4,
+    "size": 16,
+    "miny": 10,
+    "maxy": 212
+  },
+  {
+    "ore": "thermalfoundation:ore",
+    "oremeta": 4,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 4,
+    "size": 16,
+    "miny": 10,
+    "maxy": 212
+  },
+  {
+    "ore": "thermalfoundation:ore",
+    "oremeta": 5,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 4,
+    "size": 16,
+    "miny": 10,
+    "maxy": 186
+  },
+  {
+    "ore": "thermalfoundation:ore",
+    "oremeta": 6,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 2,
+    "size": 3,
+    "miny": 10,
+    "maxy": 106
+  },
+  {
+    "ore": "thermalfoundation:ore",
+    "oremeta": 7,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 2,
+    "size": 3,
+    "miny": 16,
+    "maxy": 32
+  },
+  {
+    "ore": "thermalfoundation:ore",
+    "oremeta": 8,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 2,
+    "size": 3,
+    "miny": 10,
+    "maxy": 186
+  },
+  {
+    "ore": "thermalfoundation:ore_fluid",
+    "oremeta": 1,
+    "source": "minecraft:gravel",
+    "srcmeta": 0,
+    "veins": 6,
+    "size": 8,
+    "miny": 10,
+    "maxy": 186
+  },
+  {
+    "ore": "thermalfoundation:ore_fluid",
+    "oremeta": 2,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 6,
+    "size": 8,
+    "miny": 10,
+    "maxy": 186
+  }
+]

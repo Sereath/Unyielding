@@ -1,0 +1,20 @@
+# Gilly's fishing settlement spawn proxy
+
+weight=1
+embed_into_distance=10
+acceptable_target_blocks=water,waterlily
+unacceptable_target_blocks=
+biomesToSpawnIn=swampland,wetland,marsh,lush swamp,mini jungle
+dimensions=1,1,1
+allowable_overhang=0
+max_leveling=20
+leveling_buffer=-1
+preserve_water=0
+preserve_lava=0
+
+rule1=0,100,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingSettlement ~ _ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingVillage ~ _ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingOutpost ~ _ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingOutpost2 ~ _ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingOutpost3 ~ _ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingTower1 ~ _ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingTower2 ~ _ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingTower3 ~ _ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingTower4 ~ _ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingTower5 ~ _ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack ~ _ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack2 ~ _ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack3 ~ _ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack4 ~ _ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack5 ~ _ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack6 ~ _ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack7 ~ _ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack8 ~ _ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack9 ~ _ ~:@,CommandBlock:RUINSTRIGGER /testruin Gilly/GillyFishingShack10 ~ _ ~:@
+
+layer
+1
+endlayer
+

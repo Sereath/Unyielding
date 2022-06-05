@@ -1,0 +1,384 @@
+Optimized Ruinset June 2019 (released several months after development), Extra Shacks Update
+All templates created and developed by Gillymoth aka Ign: lafuller 2015-2019
+This set is for any version from 1.9 to 1.12
+
+======================= Get most recent updates for each MC version here ========================
+
+
+RuinsetGilly Main Folder:  https://www.dropbox.com/sh/wksqx8n83ph4s6u/AAAgILSMO5o2C9bQOvQ3BFPoa?dl=0
+
+
+=================================================================================================
+
+---------------------------------------- Archives ----------------------------
+
+RuinsetGilly Archives:  https://www.dropbox.com/sh/z5gknpyvs4tvkpn/AABsVz2SHPs0zt69uE8Mwue2a?dl=0   <<<=- Archives
+
+---------------------------------------- Archives ----------------------------
+
+use these tips when installing Ruins mod to confirm proper installation
+
+    If Ruins is installed:
+    breaking a block holding a stick will show the block-name in chat
+
+
+Gillymoth Diagnostic Tip #2856 (page 143 of Ruins Forum)
+    (refined from gillymoth tips #2773 and #2775 from page 138)
+
+    typing "/testruin tester" in the chat will do one of 4 things:
+
+    unknown command <-- the code for ruins is not installed in game
+    do not have permission <-- retest in creative mode, set in LAN or use creative test world
+    filepath does not exist <-- the folder structure needs to be in place (or just missing the test file)
+    a pile of blocks spawns around you <-- success!
+
+===================================================================
+
+
+<<<<<  All the folders go in the file path:  >>>>>
+
+  in 1.11 or earlier:   mods/resources/ruins
+
+  in 1.12 or later:     config/ruins_config
+
+
+<<<<< Folders >>>>>  (the list itself is decorative and is not used to call templates)
+
+   Gilly:
+
+    This is where all structures look to find parts to complete the builds.
+    This folder contains everything, leave everything in this folder.
+    Duplicate any files that are to be moved into biome folders.
+
+
+-------  Biome Folders
+
+   desert
+
+GillyAC1 - Calls one of 9 adobe housing districts
+GillyAdobeTower  - various desert towers, standalone and part of adobe cities
+GillyAdobeTower2
+GillyAdobeTower3
+GillyAdobeTower4
+GillyAdobeTower5
+GillyAdobeWell - various water wells with spiral access
+GillyAdobeWell2
+GillyAdobeWell3
+GillyAdobeWell4
+GillyAdobeWell5
+GillyAT1 - calls one of the above towers
+GillyAW1 - calls one of the above wells
+GillyCartoucheSolid - Massive obelisk with giant symbols on the sides, single piece version
+GillyDigSite - exposed underground temple chamber
+GillyCityAdobe    - various sized multipart cities made from the above parts
+GillyTownAdobe
+GillyVillageAdobe
+GillyAdobeCitidel    - Fancy Lattice Pyramids in my Citidel style
+GillyAdobeCitidel2
+GillyAdobeTotemAztec   - Aztec totem as a desert obelisk
+
+-------
+
+   extreme_hills
+
+GillyFrontierMineshack - Access to staircase to scattered mining tunnels
+GillyMineshack         - another mineshack, with rebuilt parts
+
+-------
+
+   forest
+
+GillyTreeStump   - giant rotted out treestumps
+GillyTreeStunp2
+GillyTreeStumpOak
+GillyPortalAztec    - Quartz tower with netherportal
+GillyLumberTemple   - Acacia building potentially with a crypt underneath
+GillyForestTower    - lookout tower, as the swamp towers
+
+-------
+
+   generic
+
+GillyEarthWorks  - simple dirt fortification
+GillySpawnerCreeper  - Fancy Dungeon room with Creeper Spawner
+GillySpawnerSkelly   - Fancy Dungeon room with Skelly Spawner
+GillyEnderAztecTotem  - Aztec totem as an Ender tower
+GillyFarmWell        -simple but detailed small well
+GillyFormation       -mostly buried pillaring rock formations
+GillyFormation2
+GillyFormation3
+GillyFormation4
+GillyFormation5
+GillyFormation6
+GillyFormationCauseway - spawns a city of them
+
+-------
+
+   hell
+
+GillyNetherAccessPort - Tower designed to connect parts of the nether vertically, including nether roof
+GillyNetherCeilingDock  - Open vertical passage for elytra flight to nether roof
+GillyNetherRoofDome    - Nether Roof Hub room 
+
+-------
+
+   ice_flats (ice plains)
+
+GillyPortalCitidel    -Quartz tower with netherportal
+
+-------
+
+   jungle
+
+GillyAztecArch - aztec style stonebrick arch-de-triumph
+GillyAztecPool - aztec 4-pillar arch with pool
+GillyColiseum  - giant circular stonebrick gladiator arena framework
+GillyTower     - landmark tower with lit interior
+GillyAztecTotem  - fancy spiral columns of varying thickness
+GillyAztecTotem2
+GillyAztecTotem3
+GillyAztecTemple - Angkor-Wat-esque temple with massive cavelike catacombs
+GillyAztecTemple2 - Angkor-Wat-esque temple
+
+-------
+
+  mesa
+
+GillyMesaTotemAtzec  - version of the aztec totem with a red arm
+
+-------
+
+mushroom_island
+
+GillyMegashroomBrown         - giant fungi, with curved soft edges
+GillyMegashroomRed
+GillyMegashroomTower         - double-size
+GillyMegashroomTowerLookout  - and as a makeshift castle tower
+
+-------
+
+   ocean
+
+GillyOffshoreRig - Oil Platform with helipad
+GillySeafloorCaravel    -various Exploration Era shipwrecks 1500's
+GillySeafloorCargo
+GillySeafloorExplorer
+GillySeafloorFishing
+GillySeafloorGalleon
+GillySeafloorSailing
+GillySeafloorScout
+GillyShipCaravel        -Various Exploration Era Ships 1500's
+GillyShipCargo
+GillyShipDecoy2
+GillyShipExplorer
+GillyShipFishing
+GillyShipGalleon
+GillyShipSailing
+GillyShipScout
+GillyShipSchooner
+GillyBoatTour         - My Steam Transport trellis boats
+GillyBoatTour2        - link to my reveal of this series:  https://imgur.com/Ca2G9bG
+GillyAirshipDragon     - airships in the Gillymoth style
+GillyAirshipMoth
+GillyAirshipSkiff
+GillySeafloorDome    - Fancy medium dome on ocean floor
+GillyFlagshipElora   - Fancy diagonal ship with flowing sails
+
+-------
+
+   plains
+
+GillyBarn - Weathered barn with loft
+GillyBeeHouse - birch house with open-air porch
+GillyC1 - calls GillyRusticHouse:  - Rustic Builds have been renovated to look more rundown
+GillyC2 - calls GillyRusticBakery  - while retaining previous features, designs and layouts
+GillyC3 - calls GillyRusticCabin
+GillyC4 - calls GillyRusticHut
+GillyC5 - calls GillyRusticShack
+GillyC6 - calls GillyRusticShed
+GillyC7 - calls GillyRusticBrickyard  - redesigned main building in my above style
+GillyC8 - calls GillyRusticCottage
+GillyC9 - calls GillyRusticHouse2
+GillyRusticHouseTop    -second floors of these houses as a single-floor house
+GillyRusticHouse2Top
+GillyBakery            - redesigned bakery, looks like a pizza-hut, slightly trimmed down
+GillyCitySettlement    - places the above houses together with a central landmark
+GillyDungeon           - Underground expansive mob-battle room with columns that adjusts to the terrain height
+GillyFacilityBase      - medium underground base
+GillyFacilityHangar    - Underground Spaceship Docking Port
+GillyFacilityReactor   - Larger underground base with reactor room infrastructure
+GillyRusticLoft1             - weathered houses with loft and covered deck
+GillyRusticLoft2
+GillyPortalEncruted    - Quartz tower with netherportal
+GillyWindmill          - windmill with haybales
+GillyFoundationBurnt   - The Foundation Series, Destroyed houses built from scratch in a ruined state
+GillyFoundationBurnt2
+GillyFoundationBurnt3
+GillyFoundationBurnt4
+GillyFoundationDamaged
+GillyFoundationDamaged2
+GillyFoundationFilled
+GillyFoundationFilled2
+GillyGardenEntrance    - Redesigned gardens to be more decorative
+GillyGardenFood
+GillyGardenTrellis     - various size trellises
+GillyGardenTrellis2
+GillyGardenTrellis3
+GillyGardenTrellis4
+GillyGardenTrellis5
+GillyGardenVariety
+GillyGardenVines
+GillyCatacombStatue        - Escher-esque Catacombs with my Gillymoth Style vertically sliding rooms and colossal statue entrances
+GillyCatacombTempleStatue
+GillyPlainsWell2 -    Adobe Well remade for plains settlements (other details in gilly folder)
+GillyRusticShack2-5   Extra houses
+GillyRusticShed2-3    Extra tiny houses
+
+-------
+
+   river
+
+GillyLakeHouse  - Stacked wooden pilings on piers with weathered houses
+GillyLakeHouse2
+GillyLakeHouse3
+GillyLakeHouse4
+GillyLakePlatform   - Foundations as above houses
+GillyLakePlatform2
+GillyBridgeArchC    - Intricate arched bridge with various levels of damage
+GillyBridgeArchD    - Above bridge, opposite facing
+GillyBoatCanoe      - simple carved out tribal boats
+GillyBoatCanoe2
+GillyBoatCanoe3
+GillyFishingShack   - Various fishing shacks, combining lakehouse and swamphut styles
+GillyFishingShack2
+GillyFishingShack3
+GillyFishingShack4
+GillyFishingShack5
+GillyFishingShack6
+GillyFishingShack7
+GillyFishingShack8 - with towers/vertical elements
+GillyFishingShack9
+GillyFishingShack10
+GillyFishingTower1   - Various docks/pilings with towers
+GillyFishingTower2
+GillyFishingTower3
+GillyFishingTower4
+GillyFishingTower5
+-------
+
+   savanna
+
+GillyTribalTentSite     - Acacia Log Tripod for tribal nomads
+GillyTribalTentSpotted  - Native American style tent
+GillyTribalTower        - Acacia log lookout points
+GillyTribalTower2
+GillyTribalTotem    - fancy carved and decorated wooden totem poles
+GillyTribalTotem2
+GillyTribalTotem3
+GillyTribalTotem4
+GillyTribalTotem5
+GillyTribalTotemAztec  - Fancy Aztec totem decorated in tribal style
+GillyHunterSettlement  - Tribal village for hunters
+GillyHunterHut         - huts
+GillyHunterHut2
+GillyHunterHutTiny
+GillyHunterTotemMace    - central spires, hunter tribe
+GillyHunterTotemSpiral
+GillyKimberlitePipe    - geologic formation, nothing to see here
+
+-------
+
+   swampland
+
+GillySwampHut1 - simple wooden weathered huts, pilings rebuilt in lakehouse style
+GillySwampHut2
+GillySwampHut3
+GillySwampHut4
+GillySwampHut5
+GillySwampPlatform    - Foundations as above huts, renovated pilings
+GillySwampPlatform2
+GillyFishingSettlement  - various settlements spawning clusters of fishing/swamp structures/pilings/dock/towers
+GillyFishingVillage
+GillyFishingOutpost
+GillyFishingOutpost2
+GillyFishingOutpost3
+GillySwampPiling1    - various docks/pilings interfacing houses with the water
+GillySwampPiling2
+GillySwampPiling3
+GillySwampPiling4
+GillySwampPiling5
+GillySwampPiling6
+GillySwampPiling7
+GillySwampPiling8
+
+-------
+
+   Folders that haven't been listed contain proxy templates to spawn the above structures.
+   Extra folders added as a safeguard in case this is run in the version with broken internal biome lists.
+
+==================================================
+
+
+   This set is updated often, focusing on a few aspects of Facility/Settlement/Civilization for each update.
+
+   This set has evolved over a long time, and builds are being constantly revised and renovated.
+   If a build is no longer available in the most recent set, links to all the previous versions of the set
+   are still intact, and obsolete structures can be replaced, however they are likely to have been
+   rebuilt from scratch for newer versions of the set.
+
+   If any structures become broken in some way, they can be moved to the top of the list for renovations.
+
+
+  -------------  Update News  -----------
+
+  Extra houses and details for more diverse discovery.
+
+  Lots of minor renovations across the board.
+
+
+==================================================
+
+
+======================= Get most recent updates for each MC version here ========================
+
+
+RuinsetGilly Main Folder:  https://www.dropbox.com/sh/wksqx8n83ph4s6u/AAAgILSMO5o2C9bQOvQ3BFPoa?dl=0
+
+
+=================================================================================================
+
+---------------------------------------- Archives ----------------------------
+
+RuinsetGilly Archives:  https://www.dropbox.com/sh/z5gknpyvs4tvkpn/AABsVz2SHPs0zt69uE8Mwue2a?dl=0
+
+---------------------------------------- Archives ----------------------------
+
+  The Archives folder is linked as a record of my released content as a personal devlog.
+
+==================================================
+
+   Legal stuff to stop ad based torrent sites from mis-using this dataset as a means of proxy.
+   Not meant to inhibit Minecraft Modpack Developers who use Ruins Mod as part of their set of mods. (cannot be used to subvert any conditions)
+
+  My (Gillymoth) status as developer of this set is exclusive.
+
+  This content is designed to be generated with Ruins Mod.
+  It is okay/allowed to use my content in modpacks containing Ruins Mod and 
+  those who do so are considered end-users with respect to my content set.
+
+  Keep all filenames the same as I (Gillymoth) have made them.
+  Do not pretend/say in any way to have made any of my structures.
+  Do not pretend/say in any way to be Gillymoth/loriful.
+  Credit me as Gillymoth (in the minecraft forums) as the developer of this content.
+  Any claims to have created any structures, that happen to also contain any part of my content set, must include attribution to me of my content,
+there MUST be NO ambiguity in this (cannot be used to subvert any conditions).
+
+  No part of my content may be converted to any other format.
+  No part of my content may be distributed unless accompanied by Ruins Mod (cannot be used to subvert any conditions).
+  No part of my content may be used as part of downloads by ad based sites.
+  No part of my content may be used as part of another content pack or set, or to make another content set and/or/xor other content sets.
+  No part of my content may be distributed as standalone content. ---that is the thing I get to do.
+  Structure compilations may not contain any part of my work or content.
+
+  AtomicStryker is allowed to include with Ruins Mod, whatever subset of my content is decided on as part of any default set.
+   

@@ -1,0 +1,490 @@
+[
+
+	//dmobs
+
+	{
+		"dimension": 10,
+		"mobs":	[
+			{
+				"mob": "dungeonmobs:dmghoul",
+				"weight": 60,
+				"groupcountmin": 1,
+				"groupcountmax": 5
+			}
+		]
+	},
+	
+	{
+		"dimension": 10,
+		"mobs":	[
+			{
+				"mob": "dungeonmobs:dmbeholder",
+				"weight": 18,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+	
+	{
+		"dimension": 10,
+		"mobs":	[
+			{
+				"mob": "dungeonmobs:dmtroll",
+				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+	
+	{
+		"dimension": 10,
+		"mobs":	[
+			{
+				"mob": "dungeonmobs:dmumberhulk",
+				"weight": 18,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+
+	//techguns
+
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "techguns:zombiesoldier",
+				"weight": 5,
+				"groupcountmin": 1,
+				"groupcountmax": 5
+			}
+		]
+	},
+	{
+		"dimension": 10,
+		"mobs":	[
+			{
+				"mob": "techguns:zombiesoldier",
+				"weight": 30,
+				"groupcountmin": 1,
+				"groupcountmax": 5
+			}
+		]
+	},
+
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "techguns:zombiefarmer",
+				"weight": 10,
+				"groupcountmin": 1,
+				"groupcountmax": 5
+			}
+		]
+	},
+	{
+		"dimension": 10,
+		"mobs":	[
+			{
+				"mob": "techguns:zombiefarmer",
+				"weight": 30,
+				"groupcountmin": 1,
+				"groupcountmax": 5
+			}
+		]
+	},
+
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "techguns:zombieminer",
+				"weight": 10,
+				"groupcountmin": 1,
+				"groupcountmax": 5
+			}
+		]
+	},
+	{
+		"dimension": 10,
+		"mobs":	[
+			{
+				"mob": "techguns:zombieminer",
+				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 5
+			}
+		]
+	},
+
+	{
+		"dimension": -1,
+		"mobs":	[
+			{
+				"mob": "techguns:cyberdemon",
+				"weight": 10,
+				"groupcountmin": 1,
+				"groupcountmax": 3
+			}
+		]
+	},
+
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "techguns:skeletonsoldier",
+				"weight": 5,
+				"groupcountmin": 1,
+				"groupcountmax": 5
+			}
+		]
+	},
+	{
+		"dimension": 10,
+		"mobs":	[
+			{
+				"mob": "techguns:skeletonsoldier",
+				"weight": 30,
+				"groupcountmin": 1,
+				"groupcountmax": 5
+			}
+		]
+	},
+
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "techguns:psychosteve",
+				"weight": 5,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": 10,
+		"mobs":	[
+			{
+				"mob": "techguns:psychosteve",
+				"weight": 10,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+
+	{
+		"dimension": 10,
+		"mobs":	[
+			{
+				"mob": "techguns:supermutantbasic",
+				"weight": 30,
+				"groupcountmin": 2,
+				"groupcountmax": 4
+			}
+		]
+	},
+
+	{
+		"dimension": 10,
+		"mobs":	[
+			{
+				"mob": "techguns:supermutantheavy",
+				"weight": 15,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+
+	{
+		"dimension": 10,
+		"mobs":	[
+			{
+				"mob": "techguns:supermutantelite",
+				"weight": 10,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+
+	//ice&fire dreads
+	
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "iceandfire:dread_thrall",
+				"weight": 60,
+				"groupcountmin": 1,
+				"groupcountmax": 5
+			}
+		]
+	},
+	
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "iceandfire:dread_ghoul",
+				"weight": 30,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+	
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "iceandfire:dread_beast",
+				"weight": 30,
+				"groupcountmin": 1,
+				"groupcountmax": 3
+			}
+		]
+	},
+	
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "iceandfire:dread_scuttler",
+				"weight": 20,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "iceandfire:dread_lich",
+				"weight": 10,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "iceandfire:dread_knight",
+				"weight": 15,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+	
+	//GoG
+
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "grimoireofgaia:deathword",
+				"weight": 5,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "grimoireofgaia:dhampir",
+				"weight": 10,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "grimoireofgaia:vampire",
+				"weight": 5,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+
+	{
+		"dimension": [0,66],
+		"mobs":	[
+			{
+				"mob": "grimoireofgaia:dwarf",
+				"weight": 15,
+				"groupcountmin": 1,
+				"groupcountmax": 13
+			}
+		]
+	},
+
+	{
+		"dimension": [0,66],
+		"mobs":	[
+			{
+				"mob": "grimoireofgaia:orc",
+				"weight": 15,
+				"groupcountmin": 1,
+				"groupcountmax": 9
+			}
+		]
+	},
+
+	//eyes
+	
+	{
+		"dimension": [0,424],
+		"mobs":	[
+			{
+				"mob": "eyesinthedarkness:eyes",
+				"weight": 15,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+
+	//srp
+
+	{
+		"dimension": 10,
+		"mobs":	[
+			{
+				"mob": "srparasites:warden",
+				"weight": 3,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+
+	{
+		"dimension": 10,
+		"mobs":	[
+			{
+				"mob": "srparasites:marauder",
+				"weight": 1,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+
+	{
+		"dimension": 10,
+		"mobs":	[
+			{
+				"mob": "srparasites:carrier_heavy",
+				"weight": 15,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+
+	{
+		"dimension": 10,
+		"mobs":	[
+			{
+				"mob": "srparasites:carrier_flying",
+				"weight": 15,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+
+	{
+		"dimension": 10,
+		"mobs":	[
+			{
+				"mob": "srparasites:rupter",
+				"weight": 45,
+				"groupcountmin": 1,
+				"groupcountmax": 15
+			}
+		]
+	},
+	{
+		"dimension": 66,
+		"mobs":	[
+			{
+				"mob": "srparasites:rupter",
+				"weight": 15,
+				"groupcountmin": 1,
+				"groupcountmax": 15
+			}
+		]
+	},
+
+	{
+		"dimension": 10,
+		"mobs":	[
+			{
+				"mob": "srparasites:sim_human",
+				"weight": 30,
+				"groupcountmin": 1,
+				"groupcountmax": 9
+			}
+		]
+	},
+
+	//tc
+
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "thaumcraft:brainyzombie",
+				"weight": 15,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "thaumcraft:giantbrainyzombie",
+				"weight": 15,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "thaumcraft:inhabitedzombie",
+				"weight": 10,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	}
+]

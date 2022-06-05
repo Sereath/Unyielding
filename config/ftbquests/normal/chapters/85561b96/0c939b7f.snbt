@@ -1,0 +1,29 @@
+{
+	x: 0.0d,
+	y: -7.0d,
+	tasks: [{
+		uid: "a0293ce2",
+		type: "item",
+		items: [{
+			id: "xat:poison_stone",
+			tag: {
+				Quality: {}
+			},
+			ForgeCaps: {
+				"xat:trinket": {
+					target: -1,
+					slot: -1,
+					handler: 0,
+					hitcount: 0,
+					exp: 0,
+					mana: 0,
+					main.ability: 0b,
+					alt.ability: 0b,
+					player.status: -1
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

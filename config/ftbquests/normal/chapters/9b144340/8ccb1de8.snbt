@@ -1,0 +1,11 @@
+{
+	x: 7.5d,
+	y: -6.0d,
+	tasks: [{
+		uid: "bdb099f0",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:kitchen_floor"
+		}]
+	}]
+}

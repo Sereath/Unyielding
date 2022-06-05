@@ -1,0 +1,13 @@
+{
+	x: 13.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "fda476e1",
+		type: "item",
+		items: [{
+			item: "mod_lavacow:faminearmor_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,32 @@
+##[position_health]
+
+S:orientation = 'bottom-centered';
+I:posx = '-101';
+I:posy = '-36';
+
+
+##[general_health]
+
+S:basecolor = '#ff4a3d';
+S:prefix = '';
+F:scale = '0.8';
+B:showmaxhealth = 'true';
+S:suffix = '';
+B:enablehealth = 'true';
+
+
+##[position_food]
+
+S:orientation_food = 'bottom-centered';
+I:posx_food = '50';
+I:posy_food = '-44';
+
+
+##[general_food]
+
+B:enablefood = 'false';
+S:basecolor_food = '#ff4a3d';
+B:showmaxfood = 'true';
+S:suffix_food = '';
+S:prefix_food = '';
+F:scale_food = '1.0';

@@ -1,0 +1,16 @@
+{
+	x: 19.0d,
+	y: 13.0d,
+	dependencies: [
+		"491052e6"
+	],
+	tasks: [{
+		uid: "6025fca0",
+		type: "item",
+		items: [{
+			item: "enderio:item_stellar_alloy_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

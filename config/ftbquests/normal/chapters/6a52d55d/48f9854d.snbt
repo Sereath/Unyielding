@@ -1,0 +1,19 @@
+{
+	x: 23.0d,
+	y: 2.0d,
+	dependencies: [
+		"2c5bb62c"
+	],
+	tasks: [{
+		uid: "63963eec",
+		type: "item",
+		items: [{
+			id: "techguns:t3_exo_helmet",
+			tag: {
+				power: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

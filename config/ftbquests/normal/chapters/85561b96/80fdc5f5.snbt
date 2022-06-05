@@ -1,0 +1,31 @@
+{
+	x: -3.5d,
+	y: -3.5d,
+	tasks: [{
+		uid: "73d14da4",
+		type: "item",
+		items: [{
+			id: "mod_lavacow:goldenheart",
+			tag: {
+				Quality: {
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					Color: "blue",
+					AttributeModifiers: [{
+						UUIDMost: 3996606355736379804L,
+						UUIDLeast: -6637931099495030445L,
+						Amount: 0.029999999329447746d,
+						AttributeName: "potioncore.damageResistance",
+						Operation: 2,
+						Name: "qualitytools"
+					}],
+					Name: "quality.armored.name"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

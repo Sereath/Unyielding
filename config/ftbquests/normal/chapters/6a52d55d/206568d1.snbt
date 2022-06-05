@@ -1,0 +1,13 @@
+{
+	x: 11.5d,
+	y: 14.0d,
+	tasks: [{
+		uid: "90ed5368",
+		type: "item",
+		items: [{
+			item: "enderio:item_dark_steel_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

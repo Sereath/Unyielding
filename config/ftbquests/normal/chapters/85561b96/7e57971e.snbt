@@ -1,0 +1,13 @@
+{
+	x: 8.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "10906033",
+		type: "item",
+		items: [{
+			item: "xreliquary:lantern_of_paranoia"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

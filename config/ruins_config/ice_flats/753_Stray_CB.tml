@@ -1,0 +1,63 @@
+
+# Created by Ruins mod version 17.1 Ingame Parser
+# authoring Player: ST753M
+
+# criterion expression specifying mod ids required to load template
+# may include plus (AND), minus (AND NOT), comma (OR), and parentheses
+# all required mods listed must be present; no prohibited mods can be
+requiredMods=
+# likelihood this template will be chosen relative to all others
+# e.g., a weight=6 template is chosen 3X as often as one with weight=2
+weight=1
+# list of other biomes in which this template may spawn
+# biome corresponding to directory is always assumed, listed or not
+# generic templates should leave this list empty
+biomesToSpawnIn=snowy_forest,mutated_taiga_cold,snowy_coniferous_forest,taiga_cold,taiga_cold_hills,ice_plains_defiled,mutated_ice_flats,ice_mountains,glacier_spikes
+# criterion expression specifying types of biome where template spawns
+# this is in addition to those explicitly listed as biomesToSpawnIn
+# generic templates should leave this list empty
+biomeTypesToSpawnIn=
+# list of biomes in which this template may not spawn
+# takes precedence over biomeTypesToSpawnIn, but NOT biomesToSpawnIn
+# should be empty if biomeTypesToSpawnIn is empty
+biomesToNotSpawnIn=
+# depth template is pushed down into the surface when built
+# offset is min/max range of random additional bury depth
+embed_into_distance=0
+random_height_offset=0,0
+# whitelist/blacklist of block types on which template may be built
+# specify one, not both; leave the other empty (both empty = allow all)
+acceptable_target_blocks=
+unacceptable_target_blocks=flowing_water,water,flowing_lava,lava
+# size of template (#layers, #rows per layer, #blocks per row)
+dimensions=1,1,1
+# max number of missing blocks allowed in surface beneath template
+allowable_overhang=8
+# depth/height limit affected by terrain leveling
+# also maximum bumpiness tolerated in surface beneath template
+max_leveling=3
+# padding applied to all sides of template horizontal footprint
+# expands area affected by terrain leveling (-1 = no leveling)
+leveling_buffer=0
+# do not rotate template randomly when built (1 = no rotation)
+preventRotation=0
+# treat water/lava blocks as air and protect them from rule0 (1 = yes)
+preserve_water=0
+preserve_lava=0
+# minimum distance this template must have from instances of itself
+uniqueMinDistance=0
+# min/max distances this template can be from world spawn (0 = no limit)
+# only applies to overworld--i.e., dimension 0
+spawnMinDistance=500
+spawnMaxDistance=0
+# other template built nearby whenever this one is
+# syntax: <name>;<relativeX>;<maxYdifference>;<relativeZ>[;<chance>]
+# may be used more than once to specify multiple neighbors
+adjoining_template=
+
+rule1=0,100,CommandBlock:RUINSTRIGGER /summon stray ~ ~1 ~ {ArmorItems:[{id:"iceandfire:armor_silver_metal_boots",Count:1b},{id:"iceandfire:armor_silver_metal_leggings",Count:1b},{id:"iceandfire:armor_silver_metal_chestplate",Count:1b},{id:"iceandfire:armor_silver_metal_helmet",Count:1b}],HandItems:[{id:"minecraft:bow",Count:1b,tag:{ench:[{id:49,lvl:4}]}},{id:"iceandfire:frost_lily",Count:1b}],HandDropChances:[0.0F,1.0F],PersistenceRequired:1}:@-1,CommandBlock:RUINSTRIGGER /summon stray ~ ~1 ~ {ArmorItems:[{id:"iceandfire:armor_white_boots",Count:1b},{id:"iceandfire:armor_white_leggings",Count:1b},{id:"iceandfire:armor_white_chestplate",Count:1b},{id:"iceandfire:armor_white_helmet",Count:1b}],HandItems:[{id:"minecraft:bow",Count:1b,tag:{ench:[{id:49,lvl:4}]}},{id:"iceandfire:frost_lily",Count:1b}],HandDropChances:[0.0F,1.0F],PersistenceRequired:1}:@-1,CommandBlock:RUINSTRIGGER /summon stray ~ ~1 ~ {ArmorItems:[{id:"iceandfire:armor_blue_boots",Count:1b},{id:"iceandfire:armor_blue_leggings",Count:1b},{id:"iceandfire:armor_blue_chestplate",Count:1b},{id:"iceandfire:armor_blue_helmet",Count:1b}],HandItems:[{id:"minecraft:bow",Count:1b,tag:{ench:[{id:49,lvl:4}]}},{id:"iceandfire:frost_lily",Count:1b}],HandDropChances:[0.0F,1.0F],PersistenceRequired:1}:@-1,CommandBlock:RUINSTRIGGER /summon stray ~ ~1 ~ {ArmorItems:[{id:"iceandfire:armor_silver_boots",Count:1b},{id:"iceandfire:armor_silver_leggings",Count:1b},{id:"iceandfire:armor_silver_chestplate",Count:1b},{id:"iceandfire:armor_silver_helmet",Count:1b}],HandItems:[{id:"minecraft:bow",Count:1b,tag:{ench:[{id:49,lvl:4}]}},{id:"iceandfire:frost_lily",Count:1b}],HandDropChances:[0.0F,1.0F],PersistenceRequired:1}:@-1,CommandBlock:RUINSTRIGGER /summon stray ~ ~1 ~ {ArmorItems:[{id:"iceandfire:armor_silver_metal_boots",Count:1b},{id:"iceandfire:armor_silver_metal_leggings",Count:1b},{id:"iceandfire:armor_silver_metal_chestplate",Count:1b},{id:"iceandfire:armor_silver_metal_helmet",Count:1b}],HandItems:[{id:"minecraft:bow",Count:1b,tag:{ench:[{id:49,lvl:4}]}},{id:"iceandfire:dragon_horn",Count:1b}],HandDropChances:[0.0F,1.0F],PersistenceRequired:1}:@-1,CommandBlock:RUINSTRIGGER /summon stray ~ ~1 ~ {ArmorItems:[{id:"iceandfire:armor_white_boots",Count:1b},{id:"iceandfire:armor_white_leggings",Count:1b},{id:"iceandfire:armor_white_chestplate",Count:1b},{id:"iceandfire:armor_white_helmet",Count:1b}],HandItems:[{id:"minecraft:bow",Count:1b,tag:{ench:[{id:49,lvl:4}]}},{id:"iceandfire:dragon_stick",Count:1b}],HandDropChances:[0.0F,1.0F],PersistenceRequired:1}:@-1,CommandBlock:RUINSTRIGGER /summon stray ~ ~1 ~ {ArmorItems:[{id:"iceandfire:armor_blue_boots",Count:1b},{id:"iceandfire:armor_blue_leggings",Count:1b},{id:"iceandfire:armor_blue_chestplate",Count:1b},{id:"iceandfire:armor_blue_helmet",Count:1b}],HandItems:[{id:"minecraft:bow",Count:1b,tag:{ench:[{id:49,lvl:4}]}},{id:"iceandfire:fishing_spear",Count:1b}],HandDropChances:[0.0F,1.0F],PersistenceRequired:1}:@-1,CommandBlock:RUINSTRIGGER /summon stray ~ ~1 ~ {ArmorItems:[{id:"iceandfire:armor_silver_boots",Count:1b},{id:"iceandfire:armor_silver_leggings",Count:1b},{id:"iceandfire:armor_silver_chestplate",Count:1b},{id:"iceandfire:armor_silver_helmet",Count:1b}],HandItems:[{id:"minecraft:bow",Count:1b,tag:{ench:[{id:49,lvl:4}]}},{id:"iceandfire:dragonbone_sword_ice",Count:1b}],HandDropChances:[0.0F,1.0F],PersistenceRequired:1}:@-1
+
+layer
+1
+endlayer
+

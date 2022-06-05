@@ -1,0 +1,17 @@
+{
+	x: 4.0d,
+	y: -3.5d,
+	dependencies: [
+		"f0c4f2ea"
+	],
+	tasks: [{
+		uid: "28f77c75",
+		type: "item",
+		items: [{
+			id: "thermalinnovation:quiver",
+			Damage: 3s,
+			tag: {}
+		}],
+		ignore_nbt: 1b
+	}]
+}

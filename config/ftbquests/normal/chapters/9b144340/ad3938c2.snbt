@@ -1,0 +1,19 @@
+{
+	x: -3.5d,
+	y: 5.5d,
+	dependencies: [
+		"e7d80f1a"
+	],
+	tasks: [{
+		uid: "4c91014d",
+		type: "item",
+		items: [{
+			id: "enderio:item_inventory_remote",
+			Damage: 1s,
+			tag: {
+				"enderio:energy": 120000
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

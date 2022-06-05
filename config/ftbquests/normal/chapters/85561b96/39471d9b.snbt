@@ -1,0 +1,16 @@
+{
+	x: 8.5d,
+	y: -17.0d,
+	tasks: [{
+		uid: "8fdbf498",
+		type: "item",
+		items: [{
+			id: "bountifulbaubles:trinketbezoar",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 10.5d,
+	y: -8.5d,
+	tasks: [{
+		uid: "a9ce2128",
+		type: "item",
+		items: [{
+			item: "bountifulbaubles:magicmirror"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

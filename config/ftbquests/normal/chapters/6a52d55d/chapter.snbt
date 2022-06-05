@@ -1,0 +1,7 @@
+{
+	title: "Sets",
+	icon: "iceandfire:dragonsteel_ice_helmet",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "octagon"
+}

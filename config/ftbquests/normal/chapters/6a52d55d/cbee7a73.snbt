@@ -1,0 +1,13 @@
+{
+	x: 1.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "dbd86ef2",
+		type: "item",
+		items: [{
+			item: "iceandfire:sheep_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

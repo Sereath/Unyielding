@@ -1,0 +1,13 @@
+{
+	x: 20.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "b16d538c",
+		type: "item",
+		items: [{
+			item: "mutantbeasts:mutant_skeleton_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

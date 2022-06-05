@@ -1,0 +1,16 @@
+{
+	x: 23.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "1aa207c6",
+		type: "item",
+		items: [{
+			id: "techguns:t3_miner_helmet",
+			tag: {
+				power: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

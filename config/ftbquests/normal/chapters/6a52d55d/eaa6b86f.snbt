@@ -1,0 +1,13 @@
+{
+	x: -2.5d,
+	y: 12.5d,
+	tasks: [{
+		uid: "c9babb4b",
+		type: "item",
+		items: [{
+			item: "iceandfire:armor_gray_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

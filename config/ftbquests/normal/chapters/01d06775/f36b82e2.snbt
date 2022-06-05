@@ -1,0 +1,11 @@
+{
+	x: 4.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "200040dd",
+		type: "item",
+		items: [{
+			item: "openmodularturrets:relativistic_turret"
+		}]
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 29.5d,
+	y: -13.0d,
+	tasks: [{
+		uid: "a44742e1",
+		type: "item",
+		items: [{
+			id: "theaurorian:spectralboots",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

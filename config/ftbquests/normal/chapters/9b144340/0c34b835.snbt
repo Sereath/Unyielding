@@ -1,0 +1,11 @@
+{
+	x: 4.0d,
+	y: -9.0d,
+	tasks: [{
+		uid: "85967c5d",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:tool_rack"
+		}]
+	}]
+}

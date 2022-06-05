@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "6e7520de",
+		type: "item",
+		items: [{
+			item: "iceandfire:frost_troll_leather_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 22.5d,
+	y: 3.0d,
+	dependencies: [
+		"cfa69df4"
+	],
+	tasks: [{
+		uid: "58c0429f",
+		type: "item",
+		items: [{
+			id: "techguns:t3_exo_chestplate",
+			tag: {
+				power: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

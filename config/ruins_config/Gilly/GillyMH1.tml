@@ -1,0 +1,33 @@
+# Gilly's mineshaft hallway
+
+# template generated with Ruins mod version 15.4 Ingame Parser
+# Structure created and developed by Gilly
+
+weight=1
+embed_into_distance=0
+acceptable_target_blocks=
+unacceptable_target_blocks=flowing_water,water,flowing_lava,lava
+dimensions=3,2,23
+allowable_overhang=0
+max_leveling=0
+leveling_buffer=-1
+preserve_water=0
+preserve_lava=0
+
+rule1=0,100,preserveBlock
+
+layer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+endlayer
+
+layer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+endlayer
+
+layer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+endlayer
+

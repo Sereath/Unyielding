@@ -1,0 +1,57 @@
+{
+	x: -6.5d,
+	y: -3.5d,
+	dependencies: [
+		"fa7e4d03"
+	],
+	tasks: [{
+		uid: "d5807608",
+		type: "item",
+		items: [{
+			id: "spartanweaponry:quiver_arrow_heavy",
+			tag: {
+				ClientInventory: [],
+				Quality: {
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					Color: "dark_gray",
+					AttributeModifiers: [{
+						UUIDMost: -3842289921503901977L,
+						UUIDLeast: -6829640023781748830L,
+						Amount: -0.05000000074505806d,
+						AttributeName: "potioncore.digSpeed",
+						Operation: 2,
+						Name: "qualitytools"
+					},
+					{
+						UUIDMost: 5590802343294029271L,
+						UUIDLeast: -5864695109891975603L,
+						Amount: -0.05000000074505806d,
+						AttributeName: "generic.movementSpeed",
+						Operation: 2,
+						Name: "qualitytools"
+					},
+					{
+						UUIDMost: 4232093738753409469L,
+						UUIDLeast: -7331254391004961029L,
+						Amount: -0.05000000074505806d,
+						AttributeName: "generic.attackSpeed",
+						Operation: 2,
+						Name: "qualitytools"
+					}],
+					Name: "quality.clunky.name"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					Items: [],
+					Size: 9
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

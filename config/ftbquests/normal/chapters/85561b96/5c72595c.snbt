@@ -1,0 +1,45 @@
+{
+	x: 13.5d,
+	y: -10.5d,
+	tasks: [{
+		uid: "d1d8d99e",
+		type: "item",
+		items: [{
+			id: "bountifulbaubles:ringflywheeladvanced",
+			tag: {
+				Quality: {
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					Color: "aqua",
+					AttributeModifiers: [{
+						UUIDMost: 4295663612158822629L,
+						UUIDLeast: -7496657910745505253L,
+						Amount: 0.05000000074505806d,
+						AttributeName: "generic.movementSpeed",
+						Operation: 2,
+						Name: "qualitytools"
+					},
+					{
+						UUIDMost: -6074485305205964310L,
+						UUIDLeast: -4853301974492429624L,
+						Amount: 0.5d,
+						AttributeName: "potioncore.jumpHeight",
+						Operation: 0,
+						Name: "qualitytools"
+					}],
+					Name: "quality.athletic.name"
+				},
+				energyAmount: 0
+			},
+			ForgeCaps: {
+				Parent: {
+					amount: 0
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

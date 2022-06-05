@@ -1,0 +1,13 @@
+{
+	x: 11.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "f767f3b5",
+		type: "item",
+		items: [{
+			item: "mod_lavacow:swinearmor_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

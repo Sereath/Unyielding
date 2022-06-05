@@ -1,0 +1,13 @@
+{
+	x: -2.0d,
+	y: 7.5d,
+	tasks: [{
+		uid: "7df14f02",
+		type: "item",
+		items: [{
+			item: "iceandfire:tide_deepblue_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

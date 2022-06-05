@@ -1,0 +1,11 @@
+{
+	x: 4.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "ac6ee5e3",
+		type: "item",
+		items: [{
+			item: "xreliquary:attraction_potion"
+		}]
+	}]
+}

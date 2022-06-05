@@ -1,0 +1,44 @@
+{
+	x: 9.5d,
+	y: -10.5d,
+	dependencies: [
+		"8f2aa800",
+		"35d36a69"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "8227d963",
+		type: "item",
+		items: [{
+			id: "bountifulbaubles:shieldankh",
+			tag: {
+				HideFlags: 2,
+				Quality: {
+					Slots: [
+						"offhand"
+					],
+					Color: "yellow",
+					AttributeModifiers: [{
+						UUIDMost: -3012180952012405499L,
+						UUIDLeast: -4821682683087954602L,
+						Amount: -0.05000000074505806d,
+						AttributeName: "generic.movementSpeed",
+						Operation: 2,
+						Name: "qualitytools"
+					},
+					{
+						UUIDMost: -6887646623150816646L,
+						UUIDLeast: -6824830711616693609L,
+						Amount: 0.5d,
+						AttributeName: "generic.armor",
+						Operation: 0,
+						Name: "qualitytools"
+					}],
+					Name: "quality.thick.name"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
