@@ -94,6 +94,9 @@ enderio:confusion
 enderio:long_confusion
 enderio:withering
 enderio:long_withering
+quark:resilience
+quark:long_resilience
+quark:strong_resilience
 quark:haste
 quark:long_haste
 quark:strong_haste
@@ -105,9 +108,6 @@ quark:long_resistance
 quark:strong_resistance
 quark:danger_sight
 quark:long_danger_sight
-quark:resilience
-quark:long_resilience
-quark:strong_resilience
 enderskills:potion_type_ender_effect
 enderskills:potion_type_ability_power_effect_normal
 enderskills:potion_type_ability_power_effect_long

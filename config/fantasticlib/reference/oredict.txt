@@ -435,11 +435,11 @@ blockEnergeticSilver
 ingotVividAlloy
 nuggetVividAlloy
 blockVividAlloy
-materialStoneTool
 mushroomAny
+materialStoneTool
+tallow
 buttonWood
 gemEnderBiotite
-tallow
 stoneBasalt
 stoneMarble
 stoneLimestone
@@ -1294,7 +1294,6 @@ toolTreetap
 compressed1xDustBedrock
 compressed2xDustBedrock
 compressed3xDustBedrock
-stonePolished
 stoneJasperPolished
 stoneSlatePolished
 stoneBrimstonePolished
@@ -1303,6 +1302,7 @@ blockPrismarineElderBrick
 blockPrismarineElderDark
 blockCandle
 pressurePlateWood
+stonePolished
 blockSlimeCyan
 blockSlimeMagenta
 blockSlimeYellow
