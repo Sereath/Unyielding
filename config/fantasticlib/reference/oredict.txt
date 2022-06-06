@@ -435,11 +435,11 @@ blockEnergeticSilver
 ingotVividAlloy
 nuggetVividAlloy
 blockVividAlloy
+materialStoneTool
 mushroomAny
-tallow
 buttonWood
 gemEnderBiotite
-materialStoneTool
+tallow
 stoneBasalt
 stoneMarble
 stoneLimestone

@@ -8,9 +8,9 @@
 !caches/
 !config/
 *.ogg
-config/fantasticlib/*
+config/fantasticlib/reference/
 !oresources/
-oresources/legendarytooltips/*
+oresources/legendarytooltips/
 !patchouli_books/
 !resources/
 !schematics
@@ -21,3 +21,9 @@ oresources/legendarytooltips/*
 !options.txt
 !optionsof.txt
 !optionsshaders.txt
+config/DarkThemeMod/logs.txt
+config/jei/worldSettings.cfg
+config/splash.properties
+config/InvTweaks/InvTweaks.cfg
+config/craftpresence.properties
+config/Special_AI.cfg
