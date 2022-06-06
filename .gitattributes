@@ -1,1 +1,2 @@
-config/Special_AI.cfg filter=defaultlistfilter
+# Auto detect text files and perform LF normalization
+* text=auto
