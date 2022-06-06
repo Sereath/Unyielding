@@ -1,7 +1,7 @@
 ##[slots]
 
 B:slot5 = 'false';
-B:slot4 = 'true';
+B:slot4 = 'false';
 B:slot3 = 'false';
 B:slot2 = 'false';
 B:slot1 = 'false';

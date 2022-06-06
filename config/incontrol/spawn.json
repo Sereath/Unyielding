@@ -626,7 +626,7 @@
 	{
 		"dimension": 10,
 		"mob": "srparasites:marauder",
-		"random": 0.00125,
+		"random": 0.00375,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
