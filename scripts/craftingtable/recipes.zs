@@ -293,6 +293,8 @@ recipes.remove(<pickletweaks:aluminum_paxel>);
 
 recipes.remove(<malisisdoors:forcefielditem>);
 
+recipes.remove(<weirdinggadget:weirding_gadget>);
+
 recipes.addShaped(<buildinggadgets:buildingtool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemPulsatingCrystal>, <ore:crystalRestonia>, <ore:itemPulsatingCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
 recipes.addShaped(<buildinggadgets:exchangertool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemPulsatingCrystal>, <ore:crystalPalis>, <ore:itemPulsatingCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
 recipes.addShaped(<buildinggadgets:copypastetool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemVibrantCrystal>, <ore:crystalRestonia>, <ore:itemVibrantCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
@@ -345,3 +347,5 @@ recipes.addShaped(<enderio:item_stellar_alloy_helmet>, [[null, null, null],[<ore
 recipes.addShaped(<theaurorian:auroriansteel>, [[<ore:ingotCerulean>, <ore:ingotMoonstone>, <theaurorian:aurorianiteingot>],[<theaurorian:aurorianiteingot>, <theaurorian:crystallineingot>, <theaurorian:crystallineingot>], [<theaurorian:umbraingot>, <theaurorian:umbraingot>, <theaurorian:crystal>]]);
 
 recipes.addShaped(<malisisdoors:forcefielditem>, [[<trinkplus:ender_gem>, <enderio:block_reinforced_obsidian>, <trinkplus:ender_gem>],[<enderio:block_reinforced_obsidian>, <techguns:itemshared:131>, <enderio:block_reinforced_obsidian>], [<trinkplus:ender_gem>, <enderio:block_reinforced_obsidian>, <trinkplus:ender_gem>]]);
+
+recipes.addShaped(<weirdinggadget:weirding_gadget>, [[<ore:ingotBronze>, <ore:pearlEnderEye>, <ore:ingotBronze>],[<ore:blockBronze>, <ore:gemGlowing>, <ore:blockBronze>], [<ore:blockElectrum>, <ore:gearBronze>, <ore:blockElectrum>]]);
