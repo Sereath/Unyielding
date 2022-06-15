@@ -15,7 +15,8 @@
     "BiomesOPlenty Sacred Oak Sapling": false,
     "Vanilla Saplings": true,
     "Bonemeal": true,
-    "Pams Harvestcraft Seeds": true
+    "Pams Harvestcraft Seeds": true,
+    "XL Food Mod Seeds": true
   },
   "defaults payment": {
     "__comment": "You can define custom payment items for the default entries here.",
@@ -33,7 +34,8 @@
     "BiomesOPlenty Sacred Oak Sapling": "1*minecraft:emerald:8",
     "Vanilla Saplings": "1*minecraft:emerald:0",
     "Bonemeal": "1*minecraft:emerald:0",
-    "Pams Harvestcraft Seeds": "1*minecraft:emerald:0"
+    "Pams Harvestcraft Seeds": "1*minecraft:emerald:0",
+    "XL Food Mod Seeds": "1*minecraft:emerald:0"
   },
   "defaults amount": {
     "__comment": "You can define custom amounts for the default entries here.",
@@ -51,7 +53,8 @@
     "BiomesOPlenty Sacred Oak Sapling": 1,
     "Vanilla Saplings": 1,
     "Bonemeal": 1,
-    "Pams Harvestcraft Seeds": 1
+    "Pams Harvestcraft Seeds": 1,
+    "XL Food Mod Seeds": 1
   },
   "defaults blacklist": [
     "examplemod:example_item"
