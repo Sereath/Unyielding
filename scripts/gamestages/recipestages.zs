@@ -5,6 +5,7 @@ import mods.recipestages.Recipes;
 Recipes.setRecipeStageByMod("ThermalExpansion", "thermaldynamics");
 Recipes.setRecipeStageByMod("ThermalExpansion", "thermalexpansion");
 Recipes.setRecipeStageByMod("ThermalExpansion", "thermalinnovation");
+Recipes.setRecipeStageByMod("ThermalExpansion", "xnet");
 
 //Recipes.setRecipeStageByMod("IndustrialRenewal", "industrialrenewal");
 
