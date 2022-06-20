@@ -384,7 +384,7 @@
 		"mobs":	[
 			{
 				"mob": "srparasites:marauder",
-				"weight": 3,
+				"weight": 2,
 				"groupcountmin": 1,
 				"groupcountmax": 1
 			}
