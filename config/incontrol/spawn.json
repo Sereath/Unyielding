@@ -585,7 +585,6 @@
 	},
 
 	//roughmobsbossesskycheck
-
 	{
 		"dimension": 0,
 		"mob": ["roughmobsrevamped:bosszombie","roughmobsrevamped:bossskeleton"],
@@ -593,12 +592,16 @@
 		"seesky": false,
 		"result": "deny"
 	},
-
 	//roughmobsbossesbeneathdespawn
-
 	{
 		"dimension": 10,
 		"mob": ["roughmobsrevamped:bosszombie","roughmobsrevamped:bossskeleton"],
+		"onjoin": true,
+		"result": "deny"
+	},
+	//roughmobsbatsdespawn
+	{
+		"mob": "roughmobsrevamped:hostilebat",
 		"onjoin": true,
 		"result": "deny"
 	},
@@ -660,6 +663,19 @@
 	},
 
 	{
+		"dimension": 0,
+		"mob": "srparasites:carrier_heavy",
+		"gamestage": "Techguns",
+		"random": 0.000875,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 4,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
 		"dimension": 10,
 		"mob": "srparasites:carrier_heavy",
 		"random": 0.0375,
@@ -698,6 +714,19 @@
 	},
 
 	{
+		"dimension": 0,
+		"mob": "srparasites:rupter",
+		"gamestage": "Techguns",
+		"random": 0.000875,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 150,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
 		"dimension": 10,
 		"mob": "srparasites:rupter",
 		"random": 0.1,
@@ -728,6 +757,19 @@
 		"result": "deny"
 	},
 
+	{
+		"dimension": 0,
+		"mob": "srparasites:sim_human",
+		"gamestage": "Techguns",
+		"random": 0.000875,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 30,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
 	{
 		"dimension": 10,
 		"mob": "srparasites:sim_human",
@@ -859,9 +901,18 @@
 	//gogcounter
 
 	{
+		"mob": "grimoireofgaia:chest",
+		"mincount": {
+			"amount": 15,
+			"mob": "grimoireofgaia:chest",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+	{
 		"mob": "grimoireofgaia:mimic",
 		"mincount": {
-			"amount": 10,
+			"amount": 15,
 			"mob": "grimoireofgaia:mimic",
 			"perchunk": true
 		},
