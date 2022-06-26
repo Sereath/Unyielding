@@ -74,24 +74,12 @@
     [k_ha33_174720.trigger]
         name = "dimension"
         identifier = "nether"
-[k_ha74hk213915_213944]
-    [k_ha74hk213915_213944.trigger]
-        name = "dimension"
-        identifier = "nether"
 [k_ha3713012901_177862]
     [k_ha3713012901_177862.trigger]
         name = "dimension"
         identifier = "nether"
 [k_ha3813020300_179029]
     [k_ha3813020300_179029.trigger]
-        name = "dimension"
-        identifier = "nether"
-[k_hah_535963]
-    [k_hah_535963.trigger]
-        name = "dimension"
-        identifier = "nether"
-[k_hzha_126323]
-    [k_hzha_126323.trigger]
         name = "dimension"
         identifier = "nether"
 [k_kha01_170310]
