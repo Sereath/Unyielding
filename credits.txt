@@ -55,31 +55,3 @@ Credits:
 		Village Building Pack and others by 0xebjc
 		
 			https://complex.ivorius.de/
-		
-		-
-		
-		Ruin templates created by ST753M (ST753Mb on the minecraft forums).
-		
-			https://www.reddit.com/r/feedthebeast/comments/bjlvpb/additional_structures_mine_craft_mods/em9epry/
-		
-		Gillymoth Ruins templates
-		
-		From Greywolfs Minecraft Ruins:
-		
-			http://greywolf.critter.net/minecraft.htm
-		
-			T. Jordan "Greywolf" Peacock.
-			
-			Kujaku10 (AKA Wendy), my co-conspirator, who created a number of the prettier structures in these packs.
-			
-			Gillymoth, a Ruins expert on the Curse Mod forums, who helped me learn the ropes.
-			
-			Syndaryl and Mentalmouse42 for help with bug fixes in several of my structures.
-			
-			Geethebluesky and Boyslittle for help catching errors.
-			
-			A1c3e5 for explaining the ever-useful "/blockdata ~ ~ ~ {}" trick for getting data for teBlock rules (such as flower pots).
-			
-			Insane96 for catching major link errors on this page.
-			
-			QuarterAnimal for new functionality and technical expertise in explaining (on the forums) the mechanics of how Ruins works behind the scenes.

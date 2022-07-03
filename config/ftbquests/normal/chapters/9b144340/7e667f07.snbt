@@ -1,9 +1,9 @@
 {
 	x: -4.5d,
 	y: -10.0d,
-	description: "To get your coordinates.",
+	description: "Coordinates",
 	text: [
-		""
+		"Get on-screen coordinates."
 	],
 	tasks: [{
 		uid: "8e8431ca",

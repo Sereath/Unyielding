@@ -17,7 +17,7 @@ import crafttweaker.item.IIngredient;
 <minecraft:stone_hoe>.maxDamage = 65;
 
 <techguns:nightvisiongoggles:52>.maxDamage = 1200;
-<techguns:jetpack:19>.maxDamage = 60;
+<techguns:jetpack:19>.maxDamage = 400;
 <techguns:tacticalmask:290>.maxDamage = 1200;
 
 <cyclicmagic:charm_antidote>.maxDamage = 8;

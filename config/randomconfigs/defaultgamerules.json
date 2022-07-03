@@ -20,7 +20,7 @@
 		"forced": true
 	},
 	"spawnRadius": { 
-		"value": 128,
+		"value": 256,
 		"forced": true
 	},
 	"doFireTick": { 
