@@ -91,15 +91,6 @@ key_key.craftpresence.config_keycode.name:0
 key_Toggle Slot Lock:82
 key_keybind.baublesinventory:18:ALT
 key_arcanearchives.gui.keybinds.manifest:0
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:0
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
-key_quark.keybind.playerSort:0
-key_quark.keybind.lockBuilding:76
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -119,6 +110,15 @@ key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
 key_quark.keybind.toggleAutojump:40
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:0
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
+key_quark.keybind.playerSort:0
+key_quark.keybind.lockBuilding:76
 key_key.conarm.toggle_helm.desc:181
 key_key.conarm.toggle_chest.desc:35
 key_key.conarm.toggle_leg.desc:0
@@ -150,7 +150,6 @@ key_Toggle Magnetism Suppressor:49
 key_key.ftbutilities.nbt:49:ALT
 key_key.ftbutilities.trash:211
 key_key.ftbquests.quests:36
-key_keybind.hammercorerenderstack:77
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
 key_neat.keybind.toggle:0
@@ -181,7 +180,6 @@ key_Camera right:205
 key_Camera closer:200
 key_Camera farther:208
 key_Swap shoulder:24
-key_Reload Default Sound Device:25
 key_key.toastcontrol.clear:0
 key_Enchantment Gui:45
 key_Granis Soul Dash:46
