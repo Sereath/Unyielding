@@ -9,7 +9,7 @@ Book.addBook("ThermalExpansion", "Thermal Expansion", "Machinery Manual", "therm
 
 //Book.addBook("IndustrialRenewal", "Industrial Renewal", "Industrial Machinery Manual", "industrialrenewal:mining", 0x8BCBED);
 
-Book.addBook("Techguns", "Techguns", "Armaments Manual", "techguns:nucleardeathray", 0xA7BB40);
+Book.addBook("Techguns", "Techguns", "Armaments Manual", "techguns:itemshared@131", 0xA7BB40);
 
 Book.addBook("ImmersiveEngineering", "Immersive Engineering", "Engineering Manual", "immersiveengineering:metal_multiblock@5", 0xD1994E);
 //Book.addBook("ImmersivePetroleum", "Immersive Petroleum", "Engineering II Manual", "immersivepetroleum:metal_device@1", 0xD1994E);
