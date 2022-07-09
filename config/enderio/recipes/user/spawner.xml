@@ -42,4 +42,9 @@
             <entity name="vc:entity_airship" costMultiplier="100.0" disabled="true" soulvial="false"/>
         </spawning>
     </recipe>
+    <recipe name="Spawner, Owlstack" required="false">
+        <spawning>
+            <entity name="ancientbeasts:owlstack" costMultiplier="100.0" disabled="true" soulvial="false"/>
+        </spawning>
+    </recipe>
 </enderio:recipes>

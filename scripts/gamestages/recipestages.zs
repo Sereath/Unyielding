@@ -5,7 +5,7 @@ import mods.recipestages.Recipes;
 Recipes.setRecipeStageByMod("ThermalExpansion", "thermaldynamics");
 Recipes.setRecipeStageByMod("ThermalExpansion", "thermalexpansion");
 Recipes.setRecipeStageByMod("ThermalExpansion", "thermalinnovation");
-Recipes.setRecipeStageByMod("ThermalExpansion", "xnet");
+//Recipes.setRecipeStageByMod("ThermalExpansion", "xnet");
 
 //Recipes.setRecipeStageByMod("IndustrialRenewal", "industrialrenewal");
 
@@ -16,8 +16,11 @@ Recipes.setRecipeStageByMod("ImmersiveEngineering", "immersivepetroleum");
 Recipes.setRecipeStageByMod("ImmersiveEngineering", "immersivetech");
 Recipes.setRecipeStageByMod("ImmersiveEngineering", "engineersdecor");
 Recipes.setRecipeStageByMod("ImmersiveEngineering", "rsgauges");
+Recipes.setRecipeStageByMod("ImmersiveEngineering", "betterboilers");
 
 Recipes.setRecipeStageByMod("ActuallyAdditions", "actuallyadditions");
+Recipes.setRecipeStageByMod("ActuallyAdditions", "portality");
+Recipes.setRecipeStageByMod("ActuallyAdditions", "xnet");
 
 Recipes.setRecipeStageByMod("EnderIO", "enderio");
 Recipes.setRecipeStageByMod("EnderIO", "environmentaltech");

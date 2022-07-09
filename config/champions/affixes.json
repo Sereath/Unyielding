@@ -128,7 +128,7 @@
     "enabled": false,
     "entityBlacklist": ["minecraft:wither", "minecraft:ender_dragon", "dungeonmobs:dmfallenangel", "theaurorian:moonqueen", "theaurorian:runestonedungeonkeeper", "theaurorian:spider",
       "iceandfire:firedragon", "iceandfire:icedragon"],
-    "alwaysOnEntity": [],
+    "alwaysOnEntity": ["minecraft:horse"],
     "tier": 1
   },
   {
