@@ -98,8 +98,6 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
-key_quark.keybind.playerSort:0
-key_quark.keybind.lockBuilding:76
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -118,6 +116,7 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
+key_quark.keybind.lockBuilding:76
 key_quark.keybind.toggleAutojump:40
 key_key.conarm.toggle_helm.desc:181
 key_key.conarm.toggle_chest.desc:35
@@ -319,17 +318,17 @@ key_key.toolbelt.cycle.left:0
 key_key.toolbelt.cycle.right:0
 key_key.toolbelt.slot:47
 key_gui.xaero_switch_waypoint_set:0
-key_gui.xaero_instant_waypoint:78
+key_gui.xaero_instant_waypoint:0
 key_gui.xaero_toggle_slime:0
 key_gui.xaero_toggle_grid:0
 key_gui.xaero_toggle_waypoints:0
 key_gui.xaero_toggle_map_waypoints:0
 key_gui.xaero_toggle_map:0
 key_gui.xaero_enlarge_map:0
-key_gui.xaero_waypoints_key:22
+key_gui.xaero_waypoints_key:22:CONTROL
 key_gui.xaero_zoom_in:0
 key_gui.xaero_zoom_out:0
-key_gui.xaero_new_waypoint:48
+key_gui.xaero_new_waypoint:48:CONTROL
 key_gui.xaero_display_all_sets:0
 key_gui.xaero_toggle_light_overlay:0
 key_gui.xaero_toggle_entity_radar:0
