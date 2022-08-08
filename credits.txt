@@ -43,10 +43,6 @@ Credits:
 		https://freesound.org/people/aeron216/
 		
 		
-	Schematics:
-	
-	https://github.com/eddoww/modded-schematics
-		
 	Structures:
 	
 	
@@ -55,3 +51,11 @@ Credits:
 		Village Building Pack and others by 0xebjc
 		
 			https://complex.ivorius.de/
+			
+			https://complex.ivorius.de/submissions/184
+			
+			
+	"Aftermath", "Air Prelude", "Apprehension", "Bent and Broken", "Blue Sizzle", "Colorless Aura", "Controlled Chaos", "Dark Walk", "Darkest Child", "Darkest Child var A", "Day of Chaos", "Decline", "Distant Tension", "Evening of Chaos", "Gagool", "Gathering Darkness", "Ghost Story", "Lone Harvest", "Night Break", "Penumbra", "Quinn's Song:  A New Man", "Quinn's Song: The Dance Begins", "Redletter", "Spacial Winds", "Spider Eyes", "The Hive", "The House of Leaves", "The Other Side of the Door", "Thunder Dreams", "Unseen Horrors"
+	Kevin MacLeod (incompetech.com)
+	Licensed under Creative Commons: By Attribution 3.0
+	http://creativecommons.org/licenses/by/3.0/

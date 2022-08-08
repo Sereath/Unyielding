@@ -688,7 +688,7 @@
 		"result": "allow"
 	},
 	{
-		"dimension": 10,
+		"dimension": [0,10],
 		"mob": "srparasites:carrier_heavy",
 		"result": "deny"
 	},
@@ -752,7 +752,7 @@
 		"result": "allow"
 	},
 	{
-		"dimension": [10,66],
+		"dimension": [0,10,66],
 		"mob": "srparasites:rupter",
 		"result": "deny"
 	},
@@ -783,7 +783,7 @@
 		"result": "allow"
 	},
 	{
-		"dimension": 10,
+		"dimension": [0,10],
 		"mob": "srparasites:sim_human",
 		"result": "deny"
 	},
