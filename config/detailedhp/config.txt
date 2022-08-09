@@ -1,7 +1,7 @@
 ##[position_health]
 
 S:orientation = 'bottom-centered';
-I:posx = '-101';
+I:posx = '-104';
 I:posy = '-36';
 
 

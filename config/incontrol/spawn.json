@@ -1014,9 +1014,11 @@
 	//erebus
 
 	{
+		"dimension": 66,
 		"mob": "erebus:erebus.grasshopper",
+		"onjoin": true,
 		"mincount": {
-			"amount": 3,
+			"amount": 4,
 			"mob": "erebus:erebus.grasshopper",
 			"perchunk": true
 		},

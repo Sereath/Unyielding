@@ -6,7 +6,6 @@
 !.gitignore
 !README.md
 !asm/
-!caches/
 !config/
 *.ogg
 config/fantasticlib/reference/
