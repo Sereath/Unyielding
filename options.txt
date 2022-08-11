@@ -88,16 +88,12 @@ key_of.key.zoom:46
 key_Change Caster Focus:33
 key_Misc Caster Toggle:34
 key_key.craftpresence.config_keycode.name:0
+key_Reload Menu | CTRL + ALT + :0
+key_Toggle Customization Overlay | CTRL + ALT + :0
 key_Toggle Slot Lock:82
+key_Take Panorama Screenshot:19
 key_keybind.baublesinventory:18:ALT
 key_arcanearchives.gui.keybinds.manifest:0
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:0
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -117,6 +113,13 @@ key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
 key_quark.keybind.lockBuilding:76
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:0
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
 key_quark.keybind.toggleAutojump:40
 key_key.conarm.toggle_helm.desc:181
 key_key.conarm.toggle_chest.desc:35
@@ -164,6 +167,10 @@ key_Camera closer:200
 key_Camera farther:208
 key_Swap shoulder:24
 key_key.toastcontrol.clear:0
+key_treechop.key.toggle_chopping:0
+key_treechop.key.toggle_felling:0
+key_treechop.key.cycle_sneak_behavior:0
+key_treechop.key.open_settings_overlay:13
 key_Enchantment Gui:45
 key_Granis Soul Dash:0
 key_Pegasus Soul Key:29
@@ -175,6 +182,7 @@ key_vc.key.moveUp:57
 key_vc.key.moveDown:45
 key_vc.key.openInventory:43
 key_vc.key.dropbomb:0
+key_key.pickup.item:0
 key_key.dismount:42
 key_key.narrator:0
 key_smoothfont.key.guiOpen:199

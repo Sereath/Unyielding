@@ -117,6 +117,9 @@ recipes.remove(<actuallyadditions:item_drill_upgrade_fortune_ii>);
 recipes.remove(<actuallyadditions:item_drill_upgrade_three_by_three>);
 recipes.remove(<actuallyadditions:item_drill_upgrade_five_by_five>);
 recipes.remove(<actuallyadditions:item_drill_upgrade_block_placing>);
+recipes.remove(<actuallyadditions:block_phantom_breaker>);
+recipes.remove(<actuallyadditions:block_directional_breaker>);
+recipes.remove(<actuallyadditions:block_breaker>);
 
 //drillhead
 recipes.remove(<thermalfoundation:material:656>);
@@ -136,29 +139,29 @@ recipes.remove(<erebus:jade_paxel>);
 
 recipes.removeByRecipeName("techguns:m4_alt");
 recipes.removeByRecipeName("techguns:m4");
-recipes.removeByRecipeName("techguns:m4_ammo_incendiary");
-recipes.removeByRecipeName("techguns:m4_ammo_default");
+//recipes.removeByRecipeName("techguns:m4_ammo_incendiary");
+//recipes.removeByRecipeName("techguns:m4_ammo_default");
 recipes.removeByRecipeName("techguns:m4_infiltrator_alt");
 recipes.removeByRecipeName("techguns:m4_infiltrator");
-recipes.removeByRecipeName("techguns:m4_infiltrator_ammo_incendiary");
-recipes.removeByRecipeName("techguns:m4_infiltrator_ammo_default");
+//recipes.removeByRecipeName("techguns:m4_infiltrator_ammo_incendiary");
+//recipes.removeByRecipeName("techguns:m4_infiltrator_ammo_default");
 recipes.removeByRecipeName("techguns:as50_alt");
 recipes.removeByRecipeName("techguns:as50");
-recipes.removeByRecipeName("techguns:as50_ammo_incendiary");
-recipes.removeByRecipeName("techguns:as50_ammo_explosive");
-recipes.removeByRecipeName("techguns:as50_ammo_default");
+//recipes.removeByRecipeName("techguns:as50_ammo_incendiary");
+//recipes.removeByRecipeName("techguns:as50_ammo_explosive");
+//recipes.removeByRecipeName("techguns:as50_ammo_default");
 recipes.removeByRecipeName("techguns:grimreaper");
-recipes.removeByRecipeName("techguns:grimreaper_ammo_default");
-recipes.removeByRecipeName("techguns:grimreaper_ammo_high_velocity");
+//recipes.removeByRecipeName("techguns:grimreaper_ammo_default");
+//recipes.removeByRecipeName("techguns:grimreaper_ammo_high_velocity");
 recipes.removeByRecipeName("techguns:antigravpack");
-//recipes.removeByRecipeName("techguns:aug_alt");
-//recipes.removeByRecipeName("techguns:aug");
+recipes.removeByRecipeName("techguns:aug_alt");
+recipes.removeByRecipeName("techguns:aug");
 //recipes.removeByRecipeName("techguns:aug_ammo_incendiary");
 //recipes.removeByRecipeName("techguns:aug_ammo_default");
 recipes.removeByRecipeName("techguns:guidedmissilelauncher_alt");
 recipes.removeByRecipeName("techguns:guidedmissilelauncher");
-recipes.removeByRecipeName("techguns:guidedmissilelauncher_ammo_default");
-recipes.removeByRecipeName("techguns:guidedmissilelauncher_ammo_high_velocity");
+//recipes.removeByRecipeName("techguns:guidedmissilelauncher_ammo_default");
+//recipes.removeByRecipeName("techguns:guidedmissilelauncher_ammo_high_velocity");
 recipes.removeByRecipeName("techguns:scar_alt");
 recipes.removeByRecipeName("techguns:scar");
 recipes.removeByRecipeName("techguns:scar_ammo_incendiary");
@@ -171,21 +174,30 @@ recipes.removeByRecipeName("techguns:pdw_alt");
 recipes.removeByRecipeName("techguns:pdw");
 recipes.removeByRecipeName("techguns:pulserifle_alt");
 recipes.removeByRecipeName("techguns:pulserifle");
-//recipes.removeByRecipeName("techguns:gaussrifle_alt");
-//recipes.removeByRecipeName("techguns:gaussrifle");
+recipes.removeByRecipeName("techguns:gaussrifle_alt");
+recipes.removeByRecipeName("techguns:gaussrifle");
 recipes.removeByRecipeName("techguns:goldenrevolver");
 recipes.removeByRecipeName("techguns:blasterrifle_alt");
 recipes.removeByRecipeName("techguns:blasterrifle");
 recipes.removeByRecipeName("techguns:mibgun_alt");
 recipes.removeByRecipeName("techguns:mibgun");
 
-recipes.removeByRecipeName("techguns:itemshared_20_as50magazineempty");
-recipes.removeByRecipeName("techguns:itemshared_19_as50magazine");
-recipes.removeByRecipeName("techguns:itemshared_107_as50magazine_incendiary");
-recipes.removeByRecipeName("techguns:itemshared_143_as50magazine_explosive");
+//recipes.removeByRecipeName("techguns:itemshared_20_as50magazineempty");
+//recipes.removeByRecipeName("techguns:itemshared_19_as50magazine");
+//recipes.removeByRecipeName("techguns:itemshared_107_as50magazine_incendiary");
+//recipes.removeByRecipeName("techguns:itemshared_143_as50magazine_explosive");
 //recipes.removeByRecipeName("techguns:itemshared_128_gaussbarrel");
-recipes.removeByRecipeName("techguns:itemshared_22_advancedmagazineempty");
-recipes.removeByRecipeName("techguns:itemshared_21_advancedmagazine");
+//recipes.removeByRecipeName("techguns:itemshared_22_advancedmagazineempty");
+//recipes.removeByRecipeName("techguns:itemshared_21_advancedmagazine");
+
+recipes.removeByRecipeName("techguns:teslagun_alt");
+recipes.removeByRecipeName("techguns:teslagun");
+recipes.removeByRecipeName("techguns:sonicshotgun_alt");
+recipes.removeByRecipeName("techguns:sonicshotgun");
+recipes.removeByRecipeName("techguns:nucleardeathray_alt");
+recipes.removeByRecipeName("techguns:nucleardeathray");
+recipes.removeByRecipeName("techguns:tfg_alt");
+recipes.removeByRecipeName("techguns:tfg");
 
 recipes.removeByRecipeName("techguns:jetpack");
 recipes.removeByRecipeName("techguns:jetpack_alt");
@@ -197,16 +209,16 @@ recipes.removeByRecipeName("techguns:itemshared_125_redstone_battery");
 
 
 //Drill
-recipes.removeByRecipeName("techguns:miningdrill_alt");
-recipes.removeByRecipeName("techguns:miningdrill");
-recipes.remove(<techguns:itemshared:119>);
-recipes.remove(<techguns:itemshared:120>);
+//recipes.removeByRecipeName("techguns:miningdrill_alt");
+//recipes.removeByRecipeName("techguns:miningdrill");
+//recipes.remove(<techguns:itemshared:119>);
+//recipes.remove(<techguns:itemshared:120>);
 
 //Powerhammer
-recipes.removeByRecipeName("techguns:powerhammer_alt");
-recipes.removeByRecipeName("techguns:powerhammer");
-recipes.remove(<techguns:itemshared:121>);
-recipes.remove(<techguns:itemshared:122>);
+//recipes.removeByRecipeName("techguns:powerhammer_alt");
+//recipes.removeByRecipeName("techguns:powerhammer");
+//recipes.remove(<techguns:itemshared:121>);
+//recipes.remove(<techguns:itemshared:122>);
 
 //Glider
 //recipes.remove(<techguns:glider>);
@@ -225,6 +237,8 @@ recipes.removeByRecipeName("techguns:tacticalmask_alt");
 recipes.removeByRecipeName("techguns:tacticalmask");
 
 recipes.removeByRecipeName("eplus:table");
+
+recipes.removeByRecipeName("tombstone:enchanted_grave_key");
 
 recipes.removeByRecipeName("theaurorian:items/auroriansteel");
 recipes.remove(<theaurorian:aurorianportalframebricks>);
@@ -302,6 +316,10 @@ recipes.remove(<vc:airship_workbench>);
 
 recipes.remove(<pickletweaks:nightvision_goggles>);
 
+recipes.remove(<corpsecomplex:scroll>);
+
+recipes.remove(<apotheosis:prismatic_web>);
+
 recipes.addShaped(<buildinggadgets:buildingtool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemPulsatingCrystal>, <ore:crystalRestonia>, <ore:itemPulsatingCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
 recipes.addShaped(<buildinggadgets:exchangertool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemPulsatingCrystal>, <ore:crystalPalis>, <ore:itemPulsatingCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
 recipes.addShaped(<buildinggadgets:copypastetool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemVibrantCrystal>, <ore:crystalRestonia>, <ore:itemVibrantCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
@@ -356,3 +374,7 @@ recipes.addShaped(<theaurorian:auroriansteel>, [[<ore:ingotCerulean>, <ore:ingot
 recipes.addShaped(<malisisdoors:forcefielditem>, [[<trinkplus:ender_gem>, <enderio:block_reinforced_obsidian>, <trinkplus:ender_gem>],[<enderio:block_reinforced_obsidian>, <techguns:itemshared:131>, <enderio:block_reinforced_obsidian>], [<trinkplus:ender_gem>, <enderio:block_reinforced_obsidian>, <trinkplus:ender_gem>]]);
 
 recipes.addShaped(<weirdinggadget:weirding_gadget>, [[<ore:ingotBronze>, <ore:pearlEnderEye>, <ore:ingotBronze>],[<ore:blockBronze>, <ore:gemGlowing>, <ore:blockBronze>], [<ore:blockElectrum>, <ore:gearBronze>, <ore:blockElectrum>]]);
+
+recipes.addShaped(<corpsecomplex:scroll>, [[null, <ore:netherStar>, null],[<ore:enderpearl>, <ore:paper>, <ore:enderpearl>], [null, <minecraft:ender_eye>, null]]);
+
+recipes.addShaped(<apotheosis:prismatic_web>, [[null, <ore:netherStar>, null],[<ore:gemPrismarine>, <minecraft:web>, <ore:gemPrismarine>], [null, <ore:gemPrismarine>, null]]);

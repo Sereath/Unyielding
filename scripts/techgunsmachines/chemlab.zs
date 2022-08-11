@@ -3,4 +3,4 @@
 import mods.techguns.ChemLab;
 import crafttweaker.item.IItemStack;
 
-ChemLab.removeRecipe(<techguns:itemshared:108>,null);
+//ChemLab.removeRecipe(<techguns:itemshared:108>,null);

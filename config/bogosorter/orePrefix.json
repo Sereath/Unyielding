@@ -12,13 +12,11 @@
     "gear",
     "stick",
     "wire",
-    "ball",
     "crystal",
     "coin",
     "fuel",
     "glass",
     "ore",
-    "oreCrystal",
     "log",
     "rod"
   ]

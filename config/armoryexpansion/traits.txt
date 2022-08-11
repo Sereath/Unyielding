@@ -248,7 +248,6 @@
   "freezing",
   "rough_armor",
   "tconevo.shadowstep_armor",
-  "shiny",
   "tconevo.blasting",
   "tamoonlit",
   "crumbling"
