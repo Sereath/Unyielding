@@ -17,7 +17,7 @@ ao:2
 renderClouds:false
 resourcePacks:["Vanilla_Future_Texture_optifine.zip","Modernity-format3-v3.7.1.zip","AudioCraftV1.6.zip","qt-rstation-variant.zip","IAF-DE4THR4SH-Dragonsteel-Weaponry-v2.0+[1.12.X].zip","Dokucraft-1.12.2-AstikorCarts.zip","BetterBuildersWands-Doku-1.12.zip","WIP-1.12-Dokucraft-TinkersConstruct.zip","EnchantingPlus-Doku-1.12.zip","IceandFire-Dokucraft-1.12.2.zip","SRParasites32X.zip","JSTR.1.12.x_S_Version.zip"]
 incompatibleResourcePacks:[]
-lastServer:unyielding.playit.gg
+lastServer:
 lang:en_us
 chatVisibility:0
 chatColors:true
@@ -93,7 +93,13 @@ key_Toggle Slot Lock:82
 key_Take Panorama Screenshot:19
 key_keybind.baublesinventory:18:ALT
 key_arcanearchives.gui.keybinds.manifest:0
-key_quark.keybind.toggleAutojump:40
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:0
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
 key_quark.keybind.lockBuilding:76
 key_quark.emote.no:0
 key_quark.emote.yes:0
@@ -113,13 +119,7 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:0
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
+key_quark.keybind.toggleAutojump:40
 key_key.conarm.toggle_helm.desc:181
 key_key.conarm.toggle_chest.desc:35
 key_key.conarm.toggle_leg.desc:0
@@ -365,10 +365,10 @@ key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
 key_key.craftpresence.config_keycode.name:0
 soundCategory_master:0.90140843
-soundCategory_music:0.85915494
+soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
-soundCategory_block:1.0
+soundCategory_block:0.6056338
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
 soundCategory_player:1.0

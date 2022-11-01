@@ -41,6 +41,16 @@ Credits:
 	
 	Visit my account to find everything I've used for this modpack:
 		https://freesound.org/people/aeron216/
+
+
+	Pixelated v1.3 EnhancedVisuals
+		nox_cgt
+	https://www.curseforge.com/minecraft/mc-mods/enhancedvisuals
+
+	Ice and Fire Mod, Resource Packs
+		javaraptor
+	https://www.curseforge.com/minecraft/texture-packs/ice-and-fire-mod-resource-packs
+	Attribution: Public Domain (This work is dedicated to the public domain.)
 		
 		
 	Structures:
