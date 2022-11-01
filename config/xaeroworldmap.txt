@@ -32,4 +32,6 @@ minZoomForLocalWaypoints:0.0
 arrowColour:-2
 minimapRadar:true
 renderWaypoints:true
+partialYTeleportation:true
+displayStainedGlass:true
 globalVersion:1

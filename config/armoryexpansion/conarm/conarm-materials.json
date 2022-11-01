@@ -507,6 +507,28 @@
   },
   {
     "coreMaterialStats": {
+      "durability": 7.0,
+      "defense": 10.8,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 4.8,
+      "modifier": 10.8,
+      "toughness": 0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 4.8,
+      "materialType": "trim"
+    },
+    "identifier": "corrupted",
+    "color": -8777561,
+    "type": "METAL",
+    "castable": true,
+    "craftable": false
+  },
+  {
+    "coreMaterialStats": {
       "durability": 70.0,
       "defense": 2.25,
       "materialType": "core"

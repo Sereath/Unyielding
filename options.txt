@@ -15,7 +15,7 @@ difficulty:3
 fancyGraphics:true
 ao:2
 renderClouds:false
-resourcePacks:["Vanilla_Future_Texture_optifine.zip","Modernity-format3-v3.7.0.zip","Pixelated_v1.3_EnhancedVisuals by nox_cgt.zip","AudioCraftV1.6.zip","qt-rstation-variant.zip","IAF-DE4THR4SH-Dragonsteel-Weaponry-v2.0+[1.12.X].zip","GoT+Dragons+-+V2.zip","Faery Pixies.zip","Monstrous Cockatrice.zip","Sea Horses.zip","Mythical+Sirens.zip","Monstrous+Sea+Serpent+1.8+.zip","Dokucraft-1.12.2-AstikorCarts.zip","BetterBuildersWands-Doku-1.12.zip","1.12-BetterFoliage-Dokucraft-v3.zip","WIP-1.12-Dokucraft-TinkersConstruct.zip","EnchantingPlus-Doku-1.12.zip","IceandFire-Dokucraft-1.12.2.zip","SRParasites32X.zip","JSTR.1.12.x_S_Version.zip"]
+resourcePacks:["Vanilla_Future_Texture_optifine.zip","Modernity-format3-v3.7.1.zip","AudioCraftV1.6.zip","qt-rstation-variant.zip","IAF-DE4THR4SH-Dragonsteel-Weaponry-v2.0+[1.12.X].zip","Dokucraft-1.12.2-AstikorCarts.zip","BetterBuildersWands-Doku-1.12.zip","WIP-1.12-Dokucraft-TinkersConstruct.zip","EnchantingPlus-Doku-1.12.zip","IceandFire-Dokucraft-1.12.2.zip","SRParasites32X.zip","JSTR.1.12.x_S_Version.zip"]
 incompatibleResourcePacks:[]
 lastServer:unyielding.playit.gg
 lang:en_us
@@ -87,15 +87,14 @@ key_key.hotbar.9:10
 key_of.key.zoom:46
 key_Change Caster Focus:33
 key_Misc Caster Toggle:34
-key_key.craftpresence.config_keycode.name:0
 key_Reload Menu | CTRL + ALT + :0
 key_Toggle Customization Overlay | CTRL + ALT + :50
 key_Toggle Slot Lock:82
 key_Take Panorama Screenshot:19
 key_keybind.baublesinventory:18:ALT
 key_arcanearchives.gui.keybinds.manifest:0
-key_quark.keybind.lockBuilding:76
 key_quark.keybind.toggleAutojump:40
+key_quark.keybind.lockBuilding:76
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -329,6 +328,7 @@ key_gui.xaero_toggle_light_overlay:0
 key_gui.xaero_toggle_entity_radar:0
 key_gui.xaero_reverse_entity_radar:0
 key_gui.xaero_toggle_manual_cave_mode:0
+key_gui.xaero_alternative_list_players:0
 key_gui.xaero_minimap_settings:21:CONTROL
 key_gui.xaero_open_map:50
 key_gui.xaero_open_settings:27
@@ -363,6 +363,7 @@ key_enderio.keybind.fovplus:0
 key_enderio.keybind.fovminus:0
 key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
+key_key.craftpresence.config_keycode.name:0
 soundCategory_master:0.90140843
 soundCategory_music:0.85915494
 soundCategory_record:1.0

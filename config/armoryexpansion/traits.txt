@@ -159,6 +159,7 @@
   "splintering2",
   "aquadynamic",
   "mundane2_armor",
+  "vile",
   "spiny_armor",
   "jagged",
   "tconevo.vampiric",
