@@ -1,0 +1,6 @@
+
+{
+  "Name": "golems.golem_obsidian",
+  "Registry ID": "golems:golem_obsidian",
+  "Class": "com.golems.entity.EntityObsidianGolem"
+}

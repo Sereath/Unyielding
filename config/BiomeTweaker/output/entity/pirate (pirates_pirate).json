@@ -1,0 +1,6 @@
+
+{
+  "Name": "pirate",
+  "Registry ID": "pirates:pirate",
+  "Class": "net.pirates.mod.entity.EntityGhostPirate"
+}

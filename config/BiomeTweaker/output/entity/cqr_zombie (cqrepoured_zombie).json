@@ -1,0 +1,6 @@
+
+{
+  "Name": "cqr_zombie",
+  "Registry ID": "cqrepoured:zombie",
+  "Class": "team.cqr.cqrepoured.entity.mobs.EntityCQRZombie"
+}

@@ -1,0 +1,6 @@
+
+{
+  "Name": "golems.golem_dispenser",
+  "Registry ID": "golems:golem_dispenser",
+  "Class": "com.golems.entity.EntityDispenserGolem"
+}

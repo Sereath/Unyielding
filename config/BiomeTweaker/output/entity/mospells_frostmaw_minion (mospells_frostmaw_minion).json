@@ -1,0 +1,6 @@
+
+{
+  "Name": "mospells:frostmaw_minion",
+  "Registry ID": "mospells:frostmaw_minion",
+  "Class": "com.windanesz.mospells.entity.EntityFrostmawMinion"
+}

@@ -1,0 +1,6 @@
+
+{
+  "Name": "ancientspellcraft:wizardmerchant",
+  "Registry ID": "ancientspellcraft:wizardmerchant",
+  "Class": "com.windanesz.ancientspellcraft.entity.living.EntityWizardMerchant"
+}

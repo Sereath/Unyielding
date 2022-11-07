@@ -1,0 +1,6 @@
+
+{
+  "Name": "grimoireofgaia.illager_inquisitor",
+  "Registry ID": "grimoireofgaia:illager_inquisitor",
+  "Class": "gaia.entity.monster.EntityGaiaIllagerInquisitor"
+}

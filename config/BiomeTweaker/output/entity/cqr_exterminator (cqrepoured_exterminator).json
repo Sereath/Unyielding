@@ -1,0 +1,6 @@
+
+{
+  "Name": "cqr_exterminator",
+  "Registry ID": "cqrepoured:exterminator",
+  "Class": "team.cqr.cqrepoured.entity.boss.exterminator.EntityCQRExterminator"
+}

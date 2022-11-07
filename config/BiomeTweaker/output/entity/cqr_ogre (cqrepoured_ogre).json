@@ -1,0 +1,6 @@
+
+{
+  "Name": "cqr_ogre",
+  "Registry ID": "cqrepoured:ogre",
+  "Class": "team.cqr.cqrepoured.entity.mobs.EntityCQROgre"
+}

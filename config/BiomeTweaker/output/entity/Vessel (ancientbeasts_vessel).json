@@ -1,0 +1,6 @@
+
+{
+  "Name": "Vessel",
+  "Registry ID": "ancientbeasts:vessel",
+  "Class": "com.unoriginal.ancientbeasts.entity.Entities.EntityVessel"
+}

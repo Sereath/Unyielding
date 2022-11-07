@@ -1,0 +1,6 @@
+
+{
+  "Name": "ancientspellcraft:entity_volcano",
+  "Registry ID": "ancientspellcraft:entity_volcano",
+  "Class": "com.windanesz.ancientspellcraft.entity.living.EntityVolcano"
+}

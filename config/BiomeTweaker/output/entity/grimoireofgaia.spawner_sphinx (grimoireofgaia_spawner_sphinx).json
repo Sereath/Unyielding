@@ -1,0 +1,6 @@
+
+{
+  "Name": "grimoireofgaia.spawner_sphinx",
+  "Registry ID": "grimoireofgaia:spawner_sphinx",
+  "Class": "gaia.entity.prop.spawner.EntityGaiaSpawnerSphinx"
+}

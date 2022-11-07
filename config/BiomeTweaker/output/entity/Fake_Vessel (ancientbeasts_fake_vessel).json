@@ -1,0 +1,6 @@
+
+{
+  "Name": "Fake_Vessel",
+  "Registry ID": "ancientbeasts:fake_vessel",
+  "Class": "com.unoriginal.ancientbeasts.entity.Entities.EntityFakeDuplicate"
+}

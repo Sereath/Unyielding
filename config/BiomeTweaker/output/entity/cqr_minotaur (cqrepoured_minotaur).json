@@ -1,0 +1,6 @@
+
+{
+  "Name": "cqr_minotaur",
+  "Registry ID": "cqrepoured:minotaur",
+  "Class": "team.cqr.cqrepoured.entity.mobs.EntityCQRMinotaur"
+}

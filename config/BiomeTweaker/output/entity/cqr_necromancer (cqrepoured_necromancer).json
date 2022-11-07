@@ -1,0 +1,6 @@
+
+{
+  "Name": "cqr_necromancer",
+  "Registry ID": "cqrepoured:necromancer",
+  "Class": "team.cqr.cqrepoured.entity.boss.EntityCQRNecromancer"
+}

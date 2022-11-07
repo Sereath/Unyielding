@@ -1,0 +1,6 @@
+
+{
+  "Name": "grimoireofgaia.spawner_beholder",
+  "Registry ID": "grimoireofgaia:spawner_beholder",
+  "Class": "gaia.entity.prop.spawner.EntityGaiaSpawnerBeholder"
+}

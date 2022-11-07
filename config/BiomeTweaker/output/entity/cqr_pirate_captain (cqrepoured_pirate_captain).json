@@ -1,0 +1,6 @@
+
+{
+  "Name": "cqr_pirate_captain",
+  "Registry ID": "cqrepoured:pirate_captain",
+  "Class": "team.cqr.cqrepoured.entity.boss.EntityCQRPirateCaptain"
+}

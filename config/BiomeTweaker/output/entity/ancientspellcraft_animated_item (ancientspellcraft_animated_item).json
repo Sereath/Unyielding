@@ -1,0 +1,6 @@
+
+{
+  "Name": "ancientspellcraft:animated_item",
+  "Registry ID": "ancientspellcraft:animated_item",
+  "Class": "com.windanesz.ancientspellcraft.entity.living.EntityAnimatedItem"
+}

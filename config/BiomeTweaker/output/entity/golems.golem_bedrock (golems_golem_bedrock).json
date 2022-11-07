@@ -1,0 +1,6 @@
+
+{
+  "Name": "golems.golem_bedrock",
+  "Registry ID": "golems:golem_bedrock",
+  "Class": "com.golems.entity.EntityBedrockGolem"
+}

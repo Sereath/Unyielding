@@ -1,0 +1,6 @@
+
+{
+  "Name": "cqr_boar_mage",
+  "Registry ID": "cqrepoured:boar_mage",
+  "Class": "team.cqr.cqrepoured.entity.boss.EntityCQRBoarmage"
+}

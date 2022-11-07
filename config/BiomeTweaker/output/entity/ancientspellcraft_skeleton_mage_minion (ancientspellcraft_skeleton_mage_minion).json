@@ -1,0 +1,6 @@
+
+{
+  "Name": "ancientspellcraft:skeleton_mage_minion",
+  "Registry ID": "ancientspellcraft:skeleton_mage_minion",
+  "Class": "com.windanesz.ancientspellcraft.entity.living.EntitySkeletonMageMinion"
+}

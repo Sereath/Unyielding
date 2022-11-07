@@ -1,0 +1,6 @@
+
+{
+  "Name": "grimoireofgaia.holstaurus",
+  "Registry ID": "grimoireofgaia:holstaurus",
+  "Class": "gaia.entity.passive.EntityGaiaNPCHolstaurus"
+}

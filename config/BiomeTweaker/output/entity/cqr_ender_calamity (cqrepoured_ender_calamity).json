@@ -1,0 +1,6 @@
+
+{
+  "Name": "cqr_ender_calamity",
+  "Registry ID": "cqrepoured:ender_calamity",
+  "Class": "team.cqr.cqrepoured.entity.boss.endercalamity.EntityCQREnderCalamity"
+}

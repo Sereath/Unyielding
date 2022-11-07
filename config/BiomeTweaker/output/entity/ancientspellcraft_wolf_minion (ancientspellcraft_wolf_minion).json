@@ -1,0 +1,6 @@
+
+{
+  "Name": "ancientspellcraft:wolf_minion",
+  "Registry ID": "ancientspellcraft:wolf_minion",
+  "Class": "com.windanesz.ancientspellcraft.entity.living.EntityWolfMinion"
+}

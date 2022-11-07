@@ -1,0 +1,6 @@
+
+{
+  "Name": "golems.golem_redstone_lamp",
+  "Registry ID": "golems:golem_redstone_lamp",
+  "Class": "com.golems.entity.EntityRedstoneLampGolem"
+}

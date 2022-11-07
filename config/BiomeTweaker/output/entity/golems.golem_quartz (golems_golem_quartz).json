@@ -1,0 +1,6 @@
+
+{
+  "Name": "golems.golem_quartz",
+  "Registry ID": "golems:golem_quartz",
+  "Class": "com.golems.entity.EntityQuartzGolem"
+}

@@ -1,0 +1,599 @@
+
+{
+  "ID": 95,
+  "Name": "AlpsFoothills",
+  "Resource Location": "biomesoplenty:alps_foothills",
+  "Class": "biomesoplenty.common.biome.overworld.BiomeGenAlps",
+  "Root Height": 3.235294,
+  "Height Variation": 1.45625,
+  "Top Block": "biomesoplenty:grass[snowy\u003dfalse,variant\u003dovergrown_stone]",
+  "Filler Block": "minecraft:stone[variant\u003dstone]",
+  "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
+  "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",
+  "Actual Filler Blocks": "Disabled. Activate in BiomeTweakerCore.",
+  "Grass Color": "Disabled. Activate in BiomeTweakerCore.",
+  "Foliage Color": "Disabled. Activate in BiomeTweakerCore.",
+  "Water Color": "4159204",
+  "Temperature": -0.25,
+  "Humidity": 0.3,
+  "Water Tint": 4159204,
+  "Enable Rain": true,
+  "Enable Snow": true,
+  "Dictionary Types": [
+    "SNOWY",
+    "MOUNTAIN",
+    "DRY",
+    "FOREST",
+    "SPARSE",
+    "COLD"
+  ],
+  "BiomeManager Entries": {},
+  "Spawnable Creatures": [
+    {
+      "Entity Class": "net.minecraft.entity.passive.EntityLlama",
+      "Weight": 5,
+      "Min Group Count": 4,
+      "Max Group Count": 6
+    },
+    {
+      "Entity Class": "epicsquid.mysticalworld.entity.EntityDeer",
+      "Weight": 6,
+      "Min Group Count": 2,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "epicsquid.mysticalworld.entity.EntityFox",
+      "Weight": 4,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "epicsquid.mysticalworld.entity.EntityBeetle",
+      "Weight": 5,
+      "Min Group Count": 2,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "epicsquid.mysticalworld.entity.EntitySprout",
+      "Weight": 2,
+      "Min Group Count": 2,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "epicsquid.mysticalworld.entity.EntityOwl",
+      "Weight": 9,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "com.Fishmod.mod_LavaCow.entities.EntityPingu",
+      "Weight": 40,
+      "Min Group Count": 4,
+      "Max Group Count": 8
+    },
+    {
+      "Entity Class": "com.setycz.chickens.entity.EntityChickensChicken",
+      "Weight": 7,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityHummingbird",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityKiwi",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityLyrebird",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityMagpie",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityOwl",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityPeafowl",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityPenguinEmperor",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityPenguinEmperor",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityPigeon",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityWoodpecker",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityCardinal",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityBluejay",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityRobin",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    }
+  ],
+  "Spawnable Monsters": [
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntitySpider",
+      "Weight": 100,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntityZombie",
+      "Weight": 95,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntityZombieVillager",
+      "Weight": 5,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntitySkeleton",
+      "Weight": 100,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntityCreeper",
+      "Weight": 100,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntitySlime",
+      "Weight": 100,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntityEnderman",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntityWitch",
+      "Weight": 5,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.dmonsters.entity.EntityMutantSteve",
+      "Weight": 8,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.dmonsters.entity.EntityFreezer",
+      "Weight": 8,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.dmonsters.entity.EntityClimber",
+      "Weight": 8,
+      "Min Group Count": 1,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "com.dmonsters.entity.EntityZombieChicken",
+      "Weight": 12,
+      "Min Group Count": 1,
+      "Max Group Count": 8
+    },
+    {
+      "Entity Class": "com.dmonsters.entity.EntityUnbornBaby",
+      "Weight": 12,
+      "Min Group Count": 1,
+      "Max Group Count": 8
+    },
+    {
+      "Entity Class": "com.dmonsters.entity.EntityFallenLeader",
+      "Weight": 12,
+      "Min Group Count": 1,
+      "Max Group Count": 8
+    },
+    {
+      "Entity Class": "com.dmonsters.entity.EntityBloodyMaiden",
+      "Weight": 8,
+      "Min Group Count": 1,
+      "Max Group Count": 8
+    },
+    {
+      "Entity Class": "com.dmonsters.entity.EntityEntrail",
+      "Weight": 12,
+      "Min Group Count": 1,
+      "Max Group Count": 8
+    },
+    {
+      "Entity Class": "com.dmonsters.entity.EntityPresent",
+      "Weight": 12,
+      "Min Group Count": 1,
+      "Max Group Count": 8
+    },
+    {
+      "Entity Class": "com.dmonsters.entity.EntityStranger",
+      "Weight": 12,
+      "Min Group Count": 1,
+      "Max Group Count": 8
+    },
+    {
+      "Entity Class": "com.dmonsters.entity.EntityHauntedCow",
+      "Weight": 8,
+      "Min Group Count": 1,
+      "Max Group Count": 8
+    },
+    {
+      "Entity Class": "com.gw.dm.entity.EntityGhoul",
+      "Weight": 20,
+      "Min Group Count": 2,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "com.gw.dm.entity.EntityAhriman",
+      "Weight": 6,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.gw.dm.entity.EntityShrieker",
+      "Weight": 15,
+      "Min Group Count": 2,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "com.gw.dm.entity.EntityUmberHulk",
+      "Weight": 6,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.gw.dm.entity.EntityHookHorror",
+      "Weight": 12,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "com.gw.dm.entity.EntityTroll",
+      "Weight": 20,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "com.gw.dm.entity.EntityCaveFisher",
+      "Weight": 12,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.gw.dm.entity.EntityDestrachan",
+      "Weight": 15,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "com.gw.dm.entity.EntityIllithid",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.gw.dm.entity.EntityNetherHound",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.gw.dm.entity.EntityRakshasa",
+      "Weight": 6,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.gw.dm.entity.EntityCockatrice",
+      "Weight": 6,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "com.gw.dm.entity.EntityManticore",
+      "Weight": 15,
+      "Min Group Count": 2,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "com.gw.dm.entity.EntityRevenant",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.gw.dm.entity.EntityVampire",
+      "Weight": 5,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.gw.dm.entity.EntityFallenAngel",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.gw.dm.entity.EntityEldermob",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.gw.dm.entity.EntityGhost",
+      "Weight": 15,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "com.unoriginal.iceologer.entity.Entity.EntityIceologer",
+      "Weight": 15,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.github.tartaricacid.touhoulittlemaid.entity.monster.EntityRinnosuke",
+      "Weight": 30,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.Fishmod.mod_LavaCow.entities.EntityZombieFrozen",
+      "Weight": 40,
+      "Min Group Count": 8,
+      "Max Group Count": 16
+    },
+    {
+      "Entity Class": "com.Fishmod.mod_LavaCow.entities.EntityUndeadSwine",
+      "Weight": 45,
+      "Min Group Count": 4,
+      "Max Group Count": 8
+    },
+    {
+      "Entity Class": "com.Fishmod.mod_LavaCow.entities.tameable.EntityMimic",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.Fishmod.mod_LavaCow.entities.EntityUndertaker",
+      "Weight": 12,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.Fishmod.mod_LavaCow.entities.EntityBanshee",
+      "Weight": 20,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.Fishmod.mod_LavaCow.entities.flying.EntityPtera",
+      "Weight": 40,
+      "Min Group Count": 2,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "com.Fishmod.mod_LavaCow.entities.flying.EntityGhostRay",
+      "Weight": 20,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "lykrast.harvestersnight.common.EntityHarvester",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "chumbanotz.mutantbeasts.entity.mutant.MutantEndermanEntity",
+      "Weight": 4,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "chumbanotz.mutantbeasts.entity.mutant.MutantCreeperEntity",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "chumbanotz.mutantbeasts.entity.mutant.MutantSkeletonEntity",
+      "Weight": 8,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "chumbanotz.mutantbeasts.entity.mutant.MutantZombieEntity",
+      "Weight": 8,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.windanesz.ancientspellcraft.entity.living.EntityVoidCreeper",
+      "Weight": 12,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.windanesz.ancientspellcraft.entity.living.EntityEvilClassWizard",
+      "Weight": 4,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "svenhjol.charm.world.entity.EntitySpectre",
+      "Weight": 100,
+      "Min Group Count": 4,
+      "Max Group Count": 8
+    },
+    {
+      "Entity Class": "com.jarhax.eerieentities.entities.EntityPumpkinSlime",
+      "Weight": 30,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
+      "Weight": 5,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.naga.EntityNaga",
+      "Weight": 36,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "com.github.alexthe666.rats.server.entity.EntityRat",
+      "Weight": 40,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "com.github.alexthe666.rats.server.entity.EntityIllagerPiper",
+      "Weight": 6,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.dhanantry.scapeandrunmonstress.entity.monster.EntityAloe",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.dhanantry.scapeandrunmonstress.entity.monster.EntityHeartDemon",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.dhanantry.scapeandrunmonstress.entity.monster.EntityPatrolman",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    }
+  ],
+  "Spawnable Water Creatures": [
+    {
+      "Entity Class": "net.minecraft.entity.passive.EntitySquid",
+      "Weight": 10,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    }
+  ],
+  "Spawnable Cave Creatures": [
+    {
+      "Entity Class": "net.minecraft.entity.passive.EntityBat",
+      "Weight": 10,
+      "Min Group Count": 8,
+      "Max Group Count": 8
+    }
+  ],
+  "Spawn Biome": false,
+  "Tweaked": false,
+  "BOP Generators": {
+    "FLOWERS Generators": [
+      {
+        "ID": "flora",
+        "Name": "glowshrooms"
+      },
+      {
+        "ID": "flora",
+        "Name": "miners_delight"
+      },
+      {
+        "ID": "flora",
+        "Name": "roots"
+      }
+    ],
+    "SAND Generators": [
+      {
+        "ID": "lakes",
+        "Name": "hot_springs"
+      },
+      {
+        "ID": "ore_single",
+        "Name": "emeralds"
+      }
+    ],
+    "TREE Generators": [
+      {
+        "ID": "weighted",
+        "Name": "trees"
+      }
+    ]
+  },
+  "BOP Owner": "BIOMESOPLENTY",
+  "BOP Weight Map": {},
+  "BOP Climate Weights": {},
+  "BOP Island Weight": 0
+}

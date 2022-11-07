@@ -1,0 +1,6 @@
+
+{
+  "Name": "grimoireofgaia.cobble_golem",
+  "Registry ID": "grimoireofgaia:cobble_golem",
+  "Class": "gaia.entity.monster.EntityGaiaCobbleGolem"
+}

@@ -1,0 +1,6 @@
+
+{
+  "Name": "dungeonmobs.dmtroll",
+  "Registry ID": "dungeonmobs:dmtroll",
+  "Class": "com.gw.dm.entity.EntityTroll"
+}

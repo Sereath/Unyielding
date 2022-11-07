@@ -1,0 +1,6 @@
+
+{
+  "Name": "cqr_illager",
+  "Registry ID": "cqrepoured:illager",
+  "Class": "team.cqr.cqrepoured.entity.mobs.EntityCQRIllager"
+}

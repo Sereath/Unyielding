@@ -1,0 +1,6 @@
+
+{
+  "Name": "mospells:barakoa_spirit_minion",
+  "Registry ID": "mospells:barakoa_spirit_minion",
+  "Class": "com.windanesz.mospells.entity.EntityBarakoaSpiritMinion"
+}

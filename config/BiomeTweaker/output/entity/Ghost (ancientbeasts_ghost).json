@@ -1,0 +1,6 @@
+
+{
+  "Name": "Ghost",
+  "Registry ID": "ancientbeasts:ghost",
+  "Class": "com.unoriginal.ancientbeasts.entity.Entities.EntityGhost"
+}

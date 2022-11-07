@@ -1,0 +1,6 @@
+
+{
+  "Name": "cqr_dummy",
+  "Registry ID": "cqrepoured:dummy",
+  "Class": "team.cqr.cqrepoured.entity.mobs.EntityCQRDummy"
+}

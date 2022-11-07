@@ -1,0 +1,6 @@
+
+{
+  "Name": "grimoireofgaia.chest",
+  "Registry ID": "grimoireofgaia:chest",
+  "Class": "gaia.entity.prop.EntityGaiaPropChestMimic"
+}

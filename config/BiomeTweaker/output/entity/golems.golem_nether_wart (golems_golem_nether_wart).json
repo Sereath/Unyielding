@@ -1,0 +1,6 @@
+
+{
+  "Name": "golems.golem_nether_wart",
+  "Registry ID": "golems:golem_nether_wart",
+  "Class": "com.golems.entity.EntityNetherWartGolem"
+}

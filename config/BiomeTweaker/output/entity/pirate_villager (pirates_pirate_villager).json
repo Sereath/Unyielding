@@ -1,0 +1,6 @@
+
+{
+  "Name": "pirate_villager",
+  "Registry ID": "pirates:pirate_villager",
+  "Class": "net.pirates.mod.entity.EntityPirateVillager"
+}

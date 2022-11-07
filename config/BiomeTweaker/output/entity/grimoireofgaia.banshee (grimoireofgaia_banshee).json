@@ -1,0 +1,6 @@
+
+{
+  "Name": "grimoireofgaia.banshee",
+  "Registry ID": "grimoireofgaia:banshee",
+  "Class": "gaia.entity.monster.EntityGaiaBanshee"
+}

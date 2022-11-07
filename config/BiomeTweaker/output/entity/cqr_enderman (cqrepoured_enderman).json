@@ -1,0 +1,6 @@
+
+{
+  "Name": "cqr_enderman",
+  "Registry ID": "cqrepoured:enderman",
+  "Class": "team.cqr.cqrepoured.entity.mobs.EntityCQREnderman"
+}

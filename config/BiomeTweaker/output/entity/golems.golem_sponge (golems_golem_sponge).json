@@ -1,0 +1,6 @@
+
+{
+  "Name": "golems.golem_sponge",
+  "Registry ID": "golems:golem_sponge",
+  "Class": "com.golems.entity.EntitySpongeGolem"
+}

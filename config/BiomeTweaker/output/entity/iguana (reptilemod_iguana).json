@@ -1,0 +1,6 @@
+
+{
+  "Name": "iguana",
+  "Registry ID": "reptilemod:iguana",
+  "Class": "com.reptiles.common.EntityIguana"
+}

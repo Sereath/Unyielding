@@ -1,0 +1,208 @@
+
+{
+  "ID": 9,
+  "Name": "The End",
+  "Resource Location": "minecraft:sky",
+  "Class": "net.minecraft.world.biome.BiomeEnd",
+  "Root Height": 0.1,
+  "Height Variation": 0.2,
+  "Top Block": "minecraft:dirt[snowy\u003dfalse,variant\u003ddirt]",
+  "Filler Block": "minecraft:dirt[snowy\u003dfalse,variant\u003ddirt]",
+  "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
+  "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",
+  "Actual Filler Blocks": "Disabled. Activate in BiomeTweakerCore.",
+  "Grass Color": "Disabled. Activate in BiomeTweakerCore.",
+  "Foliage Color": "Disabled. Activate in BiomeTweakerCore.",
+  "Water Color": "4159204",
+  "Temperature": 0.5,
+  "Humidity": 0.5,
+  "Water Tint": 4159204,
+  "Enable Rain": false,
+  "Enable Snow": false,
+  "Dictionary Types": [
+    "DRY",
+    "COLD",
+    "END"
+  ],
+  "BiomeManager Entries": {},
+  "Spawnable Creatures": [
+    {
+      "Entity Class": "epicsquid.mysticalworld.entity.EntityDeer",
+      "Weight": 6,
+      "Min Group Count": 2,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "epicsquid.mysticalworld.entity.EntityFox",
+      "Weight": 4,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "epicsquid.mysticalworld.entity.EntityEndermini",
+      "Weight": 50,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityPenguinEmperor",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    }
+  ],
+  "Spawnable Monsters": [
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntityEnderman",
+      "Weight": 10,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "com.unoriginal.ancientbeasts.entity.Entities.EntityDamcell",
+      "Weight": 40,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.unoriginal.ancientbeasts.entity.Entities.EntityBoulderer",
+      "Weight": 60,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "com.unoriginal.ancientbeasts.entity.Entities.EntityRiftedEnderman",
+      "Weight": 7,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.unoriginal.ancientbeasts.entity.Entities.EntityBonepile",
+      "Weight": 30,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "com.gw.dm.entity.EntityEldermob",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "electroblob.wizardry.entity.living.EntityLightningWraith",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "electroblob.wizardry.entity.living.EntityEvilWizard",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "lykrast.harvestersnight.common.EntityHarvester",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "chumbanotz.mutantbeasts.entity.mutant.MutantEndermanEntity",
+      "Weight": 4,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.windanesz.ancientspellcraft.entity.living.EntityVoidCreeper",
+      "Weight": 12,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.windanesz.ancientspellcraft.entity.living.EntityEvilClassWizard",
+      "Weight": 4,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "gaia.entity.prop.spawner.EntityGaiaSpawnerBeholder",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "gaia.entity.prop.spawner.EntityGaiaSpawnerEnderDragonGirl",
+      "Weight": 3,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
+      "Weight": 5,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.naga.EntityNaga",
+      "Weight": 36,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "com.dhanantry.scapeandrunmonstress.entity.monster.EntityAloe",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.dhanantry.scapeandrunmonstress.entity.monster.EntityHeartDemon",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.dhanantry.scapeandrunmonstress.entity.monster.EntityPatrolman",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    }
+  ],
+  "Spawnable Water Creatures": [],
+  "Spawnable Cave Creatures": [],
+  "Spawn Biome": false,
+  "Tweaked": false,
+  "BOP Generators": {
+    "FLOWERS Generators": [
+      {
+        "ID": "flora",
+        "Name": "glowshrooms"
+      },
+      {
+        "ID": "flora",
+        "Name": "miners_delight"
+      },
+      {
+        "ID": "flora",
+        "Name": "roots"
+      }
+    ],
+    "ORE_PRE Generators": [
+      {
+        "ID": "crystals",
+        "Name": "crystals"
+      },
+      {
+        "ID": "ore_single",
+        "Name": "amethyst"
+      },
+      {
+        "ID": "ore_single",
+        "Name": "biome_essence"
+      }
+    ]
+  },
+  "BOP Owner": "OTHER",
+  "BOP Weight Map": {},
+  "BOP Climate Weights": {},
+  "BOP Island Weight": 0
+}

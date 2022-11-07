@@ -1,0 +1,6 @@
+
+{
+  "Name": "cqr_gremlin",
+  "Registry ID": "cqrepoured:gremlin",
+  "Class": "team.cqr.cqrepoured.entity.mobs.EntityCQRGremlin"
+}

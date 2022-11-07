@@ -1,0 +1,6 @@
+
+{
+  "Name": "freezer",
+  "Registry ID": "dmonsters:freezer",
+  "Class": "com.dmonsters.entity.EntityFreezer"
+}

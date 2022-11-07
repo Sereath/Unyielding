@@ -1,0 +1,6 @@
+
+{
+  "Name": "golems.golem_hardened_clay",
+  "Registry ID": "golems:golem_hardened_clay",
+  "Class": "com.golems.entity.EntityHardenedClayGolem"
+}

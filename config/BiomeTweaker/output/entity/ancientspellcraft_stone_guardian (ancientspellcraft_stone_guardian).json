@@ -1,0 +1,6 @@
+
+{
+  "Name": "ancientspellcraft:stone_guardian",
+  "Registry ID": "ancientspellcraft:stone_guardian",
+  "Class": "com.windanesz.ancientspellcraft.entity.living.EntityStoneGuardian"
+}

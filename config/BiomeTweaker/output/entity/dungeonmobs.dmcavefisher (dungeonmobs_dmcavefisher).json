@@ -1,0 +1,6 @@
+
+{
+  "Name": "dungeonmobs.dmcavefisher",
+  "Registry ID": "dungeonmobs:dmcavefisher",
+  "Class": "com.gw.dm.entity.EntityCaveFisher"
+}

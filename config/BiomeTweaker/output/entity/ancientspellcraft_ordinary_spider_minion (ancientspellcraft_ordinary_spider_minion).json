@@ -1,0 +1,6 @@
+
+{
+  "Name": "ancientspellcraft:ordinary_spider_minion",
+  "Registry ID": "ancientspellcraft:ordinary_spider_minion",
+  "Class": "com.windanesz.ancientspellcraft.entity.living.EntityOrdinarySpiderMinion"
+}

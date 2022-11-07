@@ -1,0 +1,6 @@
+
+{
+  "Name": "grimoireofgaia.trader",
+  "Registry ID": "grimoireofgaia:trader",
+  "Class": "gaia.entity.passive.EntityGaiaNPCTrader"
+}

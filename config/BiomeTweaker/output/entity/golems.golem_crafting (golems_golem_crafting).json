@@ -1,0 +1,6 @@
+
+{
+  "Name": "golems.golem_crafting",
+  "Registry ID": "golems:golem_crafting",
+  "Class": "com.golems.entity.EntityCraftingGolem"
+}

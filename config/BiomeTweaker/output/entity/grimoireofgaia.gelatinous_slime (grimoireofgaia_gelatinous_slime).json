@@ -1,0 +1,6 @@
+
+{
+  "Name": "grimoireofgaia.gelatinous_slime",
+  "Registry ID": "grimoireofgaia:gelatinous_slime",
+  "Class": "gaia.entity.monster.EntityGaiaGelatinousSlime"
+}

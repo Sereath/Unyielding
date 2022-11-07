@@ -1,0 +1,6 @@
+
+{
+  "Name": "zombie_chicken",
+  "Registry ID": "dmonsters:zombie_chicken",
+  "Class": "com.dmonsters.entity.EntityZombieChicken"
+}

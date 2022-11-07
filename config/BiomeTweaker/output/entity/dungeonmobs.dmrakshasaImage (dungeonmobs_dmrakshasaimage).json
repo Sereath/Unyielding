@@ -1,0 +1,6 @@
+
+{
+  "Name": "dungeonmobs.dmrakshasaImage",
+  "Registry ID": "dungeonmobs:dmrakshasaimage",
+  "Class": "com.gw.dm.entity.EntityRakshasaImage"
+}

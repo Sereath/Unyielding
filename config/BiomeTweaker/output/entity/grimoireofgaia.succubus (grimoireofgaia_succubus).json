@@ -1,0 +1,6 @@
+
+{
+  "Name": "grimoireofgaia.succubus",
+  "Registry ID": "grimoireofgaia:succubus",
+  "Class": "gaia.entity.monster.EntityGaiaSuccubus"
+}

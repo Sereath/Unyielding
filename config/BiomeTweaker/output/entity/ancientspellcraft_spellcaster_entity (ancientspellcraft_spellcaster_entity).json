@@ -1,0 +1,6 @@
+
+{
+  "Name": "ancientspellcraft:spellcaster_entity",
+  "Registry ID": "ancientspellcraft:spellcaster_entity",
+  "Class": "com.windanesz.ancientspellcraft.entity.living.EntitySpellCaster"
+}

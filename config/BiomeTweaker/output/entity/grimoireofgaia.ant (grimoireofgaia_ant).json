@@ -1,0 +1,6 @@
+
+{
+  "Name": "grimoireofgaia.ant",
+  "Registry ID": "grimoireofgaia:ant",
+  "Class": "gaia.entity.monster.EntityGaiaAnt"
+}

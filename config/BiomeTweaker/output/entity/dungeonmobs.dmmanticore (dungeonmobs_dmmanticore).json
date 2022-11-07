@@ -1,0 +1,6 @@
+
+{
+  "Name": "dungeonmobs.dmmanticore",
+  "Registry ID": "dungeonmobs:dmmanticore",
+  "Class": "com.gw.dm.entity.EntityManticore"
+}

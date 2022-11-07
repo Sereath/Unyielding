@@ -1,0 +1,6 @@
+
+{
+  "Name": "dungeonmobs.dmbeholder",
+  "Registry ID": "dungeonmobs:dmbeholder",
+  "Class": "com.gw.dm.entity.EntityAhriman"
+}

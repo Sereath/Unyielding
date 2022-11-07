@@ -1,0 +1,6 @@
+
+{
+  "Name": "ancientspellcraft:pig_zombie_minion",
+  "Registry ID": "ancientspellcraft:pig_zombie_minion",
+  "Class": "com.windanesz.ancientspellcraft.entity.living.EntityPigZombieMinion"
+}

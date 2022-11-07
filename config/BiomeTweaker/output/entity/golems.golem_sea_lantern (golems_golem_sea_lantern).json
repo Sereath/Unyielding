@@ -1,0 +1,6 @@
+
+{
+  "Name": "golems.golem_sea_lantern",
+  "Registry ID": "golems:golem_sea_lantern",
+  "Class": "com.golems.entity.EntitySeaLanternGolem"
+}

@@ -1,0 +1,6 @@
+
+{
+  "Name": "grimoireofgaia.vase_nether",
+  "Registry ID": "grimoireofgaia:vase_nether",
+  "Class": "gaia.entity.prop.EntityGaiaPropVaseNether"
+}

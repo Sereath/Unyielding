@@ -1,0 +1,6 @@
+
+{
+  "Name": "golems.golem_stained_glass",
+  "Registry ID": "golems:golem_stained_glass",
+  "Class": "com.golems.entity.EntityStainedGlassGolem"
+}
