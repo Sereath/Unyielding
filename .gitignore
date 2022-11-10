@@ -8,6 +8,7 @@
 !asm/
 !config/
 *.ogg
+config/BiomeTweaker/output/biome
 config/fantasticlib/reference/
 !oresources/
 oresources/legendarytooltips/
