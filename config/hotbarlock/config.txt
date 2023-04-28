@@ -13,6 +13,6 @@ B:slot6 = 'false';
 
 ##[accessibility]
 
-B:chatoutput = 'false';
+B:chatoutput = 'true';
 B:showgui = 'true';
 B:colorblindmode = 'false';
