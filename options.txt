@@ -15,7 +15,7 @@ difficulty:3
 fancyGraphics:true
 ao:2
 renderClouds:false
-resourcePacks:["Vanilla_Future_Texture_optifine.zip","Modernity-format3-v3.7.1.zip","AudioCraftV1.6.zip","qt-rstation-variant.zip","IAF-DE4THR4SH-Dragonsteel-Weaponry-v2.0+[1.12.X].zip","Dokucraft-1.12.2-AstikorCarts.zip","BetterBuildersWands-Doku-1.12.zip","WIP-1.12-Dokucraft-TinkersConstruct.zip","EnchantingPlus-Doku-1.12.zip","IceandFire-Dokucraft-1.12.2.zip","SRParasites32X.zip","JSTR.1.12.x_S_Version.zip"]
+resourcePacks:["Vanilla_Future_Texture_optifine.zip","Modernity-format3-v3.8.2.zip","AudioCraftV1.6.zip","qt-rstation-variant.zip","IAF-DE4THR4SH-Dragonsteel-Weaponry-v2.0+[1.12.X].zip","Dokucraft-1.12.2-AstikorCarts.zip","BetterBuildersWands-Doku-1.12.zip","WIP-1.12-Dokucraft-TinkersConstruct.zip","EnchantingPlus-Doku-1.12.zip","IceandFire-Dokucraft-1.12.2.zip","SRParasites32X.zip","JSTR.1.12.x_S_Version.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

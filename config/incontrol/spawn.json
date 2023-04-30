@@ -1064,7 +1064,7 @@
 	{
 		"mob": "minecraft:slime",
 		"mincount": {
-			"amount": 90,
+			"amount": 45,
 			"mob": "minecraft:slime",
 			"perchunk": true
 		},
