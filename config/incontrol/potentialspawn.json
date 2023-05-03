@@ -548,43 +548,5 @@
 				"groupcountmax": 9
 			}
 		]
-	},
-
-	//tc
-
-	{
-		"dimension": 0,
-		"mobs":	[
-			{
-				"mob": "thaumcraft:brainyzombie",
-				"weight": 10,
-				"groupcountmin": 1,
-				"groupcountmax": 1
-			}
-		]
-	},
-
-	{
-		"dimension": 0,
-		"mobs":	[
-			{
-				"mob": "thaumcraft:giantbrainyzombie",
-				"weight": 10,
-				"groupcountmin": 1,
-				"groupcountmax": 1
-			}
-		]
-	},
-
-	{
-		"dimension": 0,
-		"mobs":	[
-			{
-				"mob": "thaumcraft:inhabitedzombie",
-				"weight": 10,
-				"groupcountmin": 1,
-				"groupcountmax": 1
-			}
-		]
 	}
 ]

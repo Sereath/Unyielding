@@ -1,7 +1,6 @@
 {
   "version": 2,
   "data": {
-    "ancientspellcraft:pocket": "PLAINS",
     "beneath:the_beneath": "PLAINS",
     "biomesoplenty:alps": "MOUNTAINS_NAKED",
     "biomesoplenty:alps_foothills": "SNOW_PINES",
@@ -184,12 +183,6 @@
     "spookybiomes:seeping_forest": "HILLS",
     "spookybiomes:sorbus_forest": "HILLS",
     "srparasites:biome_parasite": "PLAINS",
-    "thaumcraft:eerie": "PLAINS",
-    "thaumcraft:eldritch": "PLAINS",
-    "thaumcraft:magical_forest": "FOREST",
-    "thaumicaugmentation:emptiness": "PLAINS",
-    "thaumicaugmentation:emptiness_highlands": "MOUNTAINS_NAKED",
-    "thaumicaugmentation:tainted_lands": "PLAINS",
     "theaurorian:aurorianforest": "PLAINS",
     "theaurorian:aurorianforesthills": "PLAINS",
     "theaurorian:aurorianlakes": "PLAINS",

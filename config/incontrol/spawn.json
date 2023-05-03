@@ -788,65 +788,6 @@
 		"result": "deny"
 	},
 
-	//tc
-
-	{
-		"dimension": 0,
-		"mob": "thaumcraft:brainyzombie",
-		"seesky": true,
-		"random": 0.0025,
-		"maxlight": 7,
-		"minlight": 0,
-		"maxcount":	{
-			"amount": 20,
-			"perchunk": true
-		},
-		"result": "allow"
-	},
-	{
-		"dimension": 0,
-		"mob": "thaumcraft:brainyzombie",
-		"result": "deny"
-	},
-
-	{
-		"dimension": 0,
-		"mob": "thaumcraft:giantbrainyzombie",
-		"seesky": true,
-		"random": 0.0025,
-		"maxlight": 7,
-		"minlight": 0,
-		"maxcount":	{
-			"amount": 10,
-			"perchunk": true
-		},
-		"result": "allow"
-	},
-	{
-		"dimension": 0,
-		"mob": "thaumcraft:giantbrainyzombie",
-		"result": "deny"
-	},
-
-	{
-		"dimension": 0,
-		"mob": "thaumcraft:inhabitedzombie",
-		"seesky": true,
-		"random": 0.0025,
-		"maxlight": 15,
-		"minlight": 0,
-		"maxcount":	{
-			"amount": 5,
-			"perchunk": true
-		},
-		"result": "allow"
-	},
-	{
-		"dimension": 0,
-		"mob": "thaumcraft:inhabitedzombie",
-		"result": "deny"
-	},
-
 	//fishundeadmobcounter
 
 	{

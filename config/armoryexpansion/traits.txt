@@ -94,7 +94,6 @@
   "tconevo.piezoelectric",
   "slimey_green",
   "musicofthespheres",
-  "thaumic",
   "magnetic1_armor",
   "enderference",
   "splitting2",
