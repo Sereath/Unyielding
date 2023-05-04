@@ -31,3 +31,4 @@ config/CQR/configVersions.properties
 config/xaerominimap_entities.json
 config/startuptimer/config.json
 config/startuptimer/startup_times.json
+config/tconstruct_oredictcache.dat
