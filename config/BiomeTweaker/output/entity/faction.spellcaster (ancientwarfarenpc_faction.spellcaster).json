@@ -1,0 +1,6 @@
+
+{
+  "Name": "faction.spellcaster",
+  "Registry ID": "ancientwarfarenpc:faction.spellcaster",
+  "Class": "net.shadowmage.ancientwarfare.npc.entity.faction.NpcFactionSpellcaster"
+}
