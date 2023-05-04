@@ -43,79 +43,7 @@
 			"spawnWeight": 0,
 			"minimumGroupCount": 1,
 			"maximumGroupCount": 1,
-			"entity": "ebwizardry:lightning_wraith"
-		}, 
-		{
-			"spawnWeight": 0,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1,
-			"entity": "ebwizardry:evil_wizard"
-		}, 
-		{
-			"spawnWeight": 0,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 2,
-			"entity": "eyesinthedarkness:eyes"
-		}, 
-		{
-			"spawnWeight": 40,
-			"minimumGroupCount": 8,
-			"maximumGroupCount": 16,
-			"entity": "mod_lavacow:zombiefrozen"
-		}, 
-		{
-			"spawnWeight": 0,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1,
-			"entity": "mod_lavacow:mimic"
-		}, 
-		{
-			"spawnWeight": 5,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1,
-			"entity": "mod_lavacow:undertaker"
-		}, 
-		{
-			"spawnWeight": 5,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 2,
-			"entity": "mod_lavacow:banshee"
-		}, 
-		{
-			"spawnWeight": 0,
-			"minimumGroupCount": 2,
-			"maximumGroupCount": 4,
-			"entity": "mod_lavacow:ptera"
-		}, 
-		{
-			"spawnWeight": 0,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1,
-			"entity": "mod_lavacow:scarecrow"
-		}, 
-		{
-			"spawnWeight": 20,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 2,
-			"entity": "mod_lavacow:ghostray"
-		}, 
-		{
-			"spawnWeight": 0,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1,
 			"entity": "harvestersnight:harvester"
-		}, 
-		{
-			"spawnWeight": 10,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 2,
-			"entity": "thaumcraft:firebat"
-		}, 
-		{
-			"spawnWeight": 5,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1,
-			"entity": "thaumcraft:wisp"
 		}, 
 		{
 			"spawnWeight": 0,
@@ -232,52 +160,82 @@
 			"entity": "grimoireofgaia:baphomet"
 		}, 
 		{
-			"spawnWeight": 0,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 2,
-			"entity": "mowziesmobs:grottol"
-		}, 
-		{
 			"spawnWeight": 8,
 			"minimumGroupCount": 4,
 			"maximumGroupCount": 6,
 			"entity": "natura:nitrocreeper"
 		}, 
 		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mowziesmobs:grottol"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4,
+			"entity": "mowziesmobs:naga"
+		}, 
+		{
+			"spawnWeight": 7,
+			"minimumGroupCount": 3,
+			"maximumGroupCount": 5,
+			"entity": "chickens:chickenschicken"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4,
+			"entity": "exoticbirds:hummingbird"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4,
+			"entity": "exoticbirds:magpie"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4,
+			"entity": "exoticbirds:peafowl"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4,
+			"entity": "exoticbirds:emperorpenguin"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4,
+			"entity": "exoticbirds:pigeon"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4,
+			"entity": "exoticbirds:cardinal"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4,
+			"entity": "exoticbirds:bluejay"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4,
+			"entity": "exoticbirds:robin"
+		}, 
+		{
 			"spawnWeight": 10,
 			"minimumGroupCount": 8,
 			"maximumGroupCount": 12,
 			"entity": "natura:imp"
-		}, 
-		{
-			"spawnWeight": 0,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1,
-			"entity": "thaumcraft:giantbrainyzombie"
-		}, 
-		{
-			"spawnWeight": 0,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1,
-			"entity": "thaumcraft:cultistportallesser"
-		}, 
-		{
-			"spawnWeight": 0,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1,
-			"entity": "thaumcraft:brainyzombie"
-		}, 
-		{
-			"spawnWeight": 0,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1,
-			"entity": "thaumcraft:pech"
-		}, 
-		{
-			"spawnWeight": 0,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1,
-			"entity": "thaumcraft:inhabitedzombie"
 		}
 	],
 	"traits": [

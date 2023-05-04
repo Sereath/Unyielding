@@ -31,8 +31,8 @@
 		}, 
 		{
 			"spawnWeight": 20,
-			"minimumGroupCount": 4,
-			"maximumGroupCount": 2,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 4,
 			"entity": "dungeonmobs:dmnetherhound"
 		}, 
 		{
@@ -57,28 +57,10 @@
 			"spawnWeight": 0,
 			"minimumGroupCount": 1,
 			"maximumGroupCount": 1,
-			"entity": "ebwizardry:lightning_wraith"
-		}, 
-		{
-			"spawnWeight": 0,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1,
-			"entity": "ebwizardry:evil_wizard"
-		}, 
-		{
-			"spawnWeight": 0,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 2,
-			"entity": "eyesinthedarkness:eyes"
-		}, 
-		{
-			"spawnWeight": 0,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1,
 			"entity": "harvestersnight:harvester"
 		}, 
 		{
-			"spawnWeight": 10,
+			"spawnWeight": 4,
 			"minimumGroupCount": 1,
 			"maximumGroupCount": 2,
 			"entity": "minecraft:blaze"
@@ -94,18 +76,6 @@
 			"minimumGroupCount": 4,
 			"maximumGroupCount": 6,
 			"entity": "quark:wraith"
-		}, 
-		{
-			"spawnWeight": 10,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 2,
-			"entity": "thaumcraft:firebat"
-		}, 
-		{
-			"spawnWeight": 5,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1,
-			"entity": "thaumcraft:wisp"
 		}, 
 		{
 			"spawnWeight": 5,
@@ -138,52 +108,28 @@
 			"entity": "grimoireofgaia:baphomet"
 		}, 
 		{
-			"spawnWeight": 0,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 2,
-			"entity": "mowziesmobs:grottol"
-		}, 
-		{
 			"spawnWeight": 8,
 			"minimumGroupCount": 4,
 			"maximumGroupCount": 6,
 			"entity": "natura:nitrocreeper"
 		}, 
 		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mowziesmobs:grottol"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4,
+			"entity": "mowziesmobs:naga"
+		}, 
+		{
 			"spawnWeight": 10,
 			"minimumGroupCount": 8,
 			"maximumGroupCount": 12,
 			"entity": "natura:imp"
-		}, 
-		{
-			"spawnWeight": 0,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1,
-			"entity": "thaumcraft:giantbrainyzombie"
-		}, 
-		{
-			"spawnWeight": 0,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1,
-			"entity": "thaumcraft:cultistportallesser"
-		}, 
-		{
-			"spawnWeight": 0,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1,
-			"entity": "thaumcraft:brainyzombie"
-		}, 
-		{
-			"spawnWeight": 0,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1,
-			"entity": "thaumcraft:pech"
-		}, 
-		{
-			"spawnWeight": 0,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1,
-			"entity": "thaumcraft:inhabitedzombie"
 		}
 	],
 	"traits": [],

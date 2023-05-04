@@ -31,8 +31,8 @@
 		}, 
 		{
 			"spawnWeight": 20,
-			"minimumGroupCount": 4,
-			"maximumGroupCount": 2,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 4,
 			"entity": "dungeonmobs:dmnetherhound"
 		}, 
 		{
@@ -54,25 +54,7 @@
 			"entity": "mysticalworld:entity_lava_cat"
 		}, 
 		{
-			"spawnWeight": 0,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1,
-			"entity": "ebwizardry:lightning_wraith"
-		}, 
-		{
-			"spawnWeight": 0,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1,
-			"entity": "ebwizardry:evil_wizard"
-		}, 
-		{
-			"spawnWeight": 0,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 2,
-			"entity": "eyesinthedarkness:eyes"
-		}, 
-		{
-			"spawnWeight": 40,
+			"spawnWeight": 30,
 			"minimumGroupCount": 4,
 			"maximumGroupCount": 8,
 			"entity": "mod_lavacow:salamander"
@@ -90,7 +72,7 @@
 			"entity": "mutantbeasts:mutant_enderman"
 		}, 
 		{
-			"spawnWeight": 10,
+			"spawnWeight": 4,
 			"minimumGroupCount": 1,
 			"maximumGroupCount": 2,
 			"entity": "minecraft:blaze"
@@ -106,18 +88,6 @@
 			"minimumGroupCount": 4,
 			"maximumGroupCount": 6,
 			"entity": "quark:wraith"
-		}, 
-		{
-			"spawnWeight": 10,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 2,
-			"entity": "thaumcraft:firebat"
-		}, 
-		{
-			"spawnWeight": 5,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1,
-			"entity": "thaumcraft:wisp"
 		}, 
 		{
 			"spawnWeight": 5,
@@ -150,10 +120,10 @@
 			"entity": "grimoireofgaia:baphomet"
 		}, 
 		{
-			"spawnWeight": 80,
-			"minimumGroupCount": 2,
-			"maximumGroupCount": 4,
-			"entity": "grimoireofgaia:creep"
+			"spawnWeight": 8,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 6,
+			"entity": "natura:nitrocreeper"
 		}, 
 		{
 			"spawnWeight": 0,
@@ -162,10 +132,10 @@
 			"entity": "mowziesmobs:grottol"
 		}, 
 		{
-			"spawnWeight": 8,
-			"minimumGroupCount": 4,
-			"maximumGroupCount": 6,
-			"entity": "natura:nitrocreeper"
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4,
+			"entity": "mowziesmobs:naga"
 		}, 
 		{
 			"spawnWeight": 2,
@@ -174,40 +144,16 @@
 			"entity": "mysticalworld:entity_sprout"
 		}, 
 		{
+			"spawnWeight": 7,
+			"minimumGroupCount": 3,
+			"maximumGroupCount": 5,
+			"entity": "chickens:chickenschicken"
+		}, 
+		{
 			"spawnWeight": 10,
 			"minimumGroupCount": 8,
 			"maximumGroupCount": 12,
 			"entity": "natura:imp"
-		}, 
-		{
-			"spawnWeight": 0,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1,
-			"entity": "thaumcraft:giantbrainyzombie"
-		}, 
-		{
-			"spawnWeight": 0,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1,
-			"entity": "thaumcraft:cultistportallesser"
-		}, 
-		{
-			"spawnWeight": 0,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1,
-			"entity": "thaumcraft:brainyzombie"
-		}, 
-		{
-			"spawnWeight": 0,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1,
-			"entity": "thaumcraft:pech"
-		}, 
-		{
-			"spawnWeight": 0,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1,
-			"entity": "thaumcraft:inhabitedzombie"
 		}
 	],
 	"traits": [],

@@ -66,7 +66,7 @@
 				"item": "netherex:wither_bone",
 				"meta": 0,
 				"minCount": 32,
-				"maxCount": 32
+				"maxCount": 64
 			},
 			"tradeLevel": 1
 		}, 

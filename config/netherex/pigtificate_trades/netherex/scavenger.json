@@ -30,7 +30,7 @@
 			"maxTradeCount": 4,
 			"inputOne": {
 				"minCount": 16,
-				"maxCount": 16,
+				"maxCount": 32,
 				"itemBlock": "minecraft:stone",
 				"properties": {
 					"variant": "stone"

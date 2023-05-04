@@ -60,8 +60,12 @@
 				"minCount": 1,
 				"enchantments": [
 					{
-						"enchantment": "defiledlands:destructive",
+						"enchantment": "apotheosis:shield_bash",
 						"enchantmentLevel": 2
+					}, 
+					{
+						"enchantment": "uniqueebattle:ifrits_blessing",
+						"enchantmentLevel": 1
 					}
 				],
 				"maxCount": 1
