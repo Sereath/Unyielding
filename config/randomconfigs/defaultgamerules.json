@@ -5,7 +5,7 @@
 	},
 	"doMobSpawning": { 
 		"value": true,
-		"forced": true
+		"forced": false
 	},
 	"keepInventory": { 
 		"value": false,
