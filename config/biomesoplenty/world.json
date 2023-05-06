@@ -1,8 +1,8 @@
 {
-    "landScheme": "vanilla",
-    "tempScheme": "medium_zones",
-    "rainScheme": "medium_zones",
-    "biomeSize": "medium",
+    "landScheme": "continents",
+    "tempScheme": "large_zones",
+    "rainScheme": "large_zones",
+    "biomeSize": "large",
     "amplitude": 2,
     "generateBopOre": true,
     "generateBopSoils": true,
@@ -29,4 +29,4 @@
     "heightScale": 684.412,
     "upperLimitScale": 512,
     "lowerLimitScale": 512
-    }
+}
