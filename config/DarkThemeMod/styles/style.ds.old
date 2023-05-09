@@ -1,0 +1,112 @@
+version 8;
+id default;
+name "Default Style";
+icon "http://dccg.herokuapp.com/cfproject/323440/avatar";
+description "This is the default dark style";
+authors ["Zeitheron"];
+
+const gui: minecraft:textures/gui;
+const anvil: "$gui/container/anvil.png";
+const recipe_book: "$gui/recipe_book.png";
+const villager: "$gui/container/villager.png";
+
+# Include all GUI textures.
+include *:textures/gui/*
+
+# For some weird mods :/
+include *:gui/*
+include *:textures/guis/*
+include *:guis/*
+
+# Optifine compat
+exclude minecraft:optifine/gui/loading/*
+
+# Fixes Creative Tab texts for Modded and Vanilla tabs
+text transform in net.minecraft.client.gui.*;
+
+exclude $gui/bars.png;
+exclude $gui/icons.png;
+exclude $gui/resource_packs.png;
+exclude $gui/server_selection.png;
+exclude $gui/spectator_widgets.png;
+exclude $gui/world_selection.png;
+exclude $gui/widgets.png;
+exclude $gui/stream_indicator.png;
+exclude $gui/options_background.png;
+
+# Advancements
+exclude $gui/advancements/backgrounds/*;
+in "$gui/advancements/window.png" color #C3C3C3 -> #4A4D54;
+
+# JEI support
+color #D8D8D8 -> #575B60;
+color #B3B3B3 -> #3A3C3F;
+color #999999 -> #232426;
+
+# Glass
+color #E7FBFF -> #64686D;
+
+# Texture Excludes
+in "$gui/container/inventory.png" exclude rectX256(0, 166, 256, 90);
+
+in $anvil exclude rectX256(31, 7, 2, 2);
+in $anvil exclude rectX256(29, 9, 6, 2);
+in $anvil exclude rectX256(27, 11, 10, 2);
+in $anvil exclude rectX256(25, 13, 14, 2);
+in $anvil exclude rectX256(27, 15, 14, 2);
+in $anvil exclude rectX256(29, 17, 14, 2);
+in $anvil exclude rectX256(33, 19, 12, 2);
+in $anvil exclude rectX256(35, 21, 12, 2);
+in $anvil exclude rectX256(35, 23, 10, 2);
+in $anvil exclude rectX256(37, 25, 6, 2);
+in $anvil exclude rectX256(39, 27, 2, 2);
+
+in $recipe_book exclude rectX256(16, 13, 4, 1);
+in $recipe_book exclude rectX256(13, 20, 7, 1);
+in $recipe_book exclude rectX256(21, 15, 1, 4);
+in $recipe_book exclude rectX256(14, 15, 1, 7);
+in $recipe_book exclude rectX256(15, 14, 6, 6);
+
+in $villager exclude rectX256(177, 2, 10, 15);
+in $villager exclude rectX256(177, 21, 10, 15);
+in $villager exclude rectX256(189, 2, 10, 15);
+in $villager exclude rectX256(189, 21, 10, 15);
+in $villager exclude rectX256(201, 2, 10, 15);
+in $villager exclude rectX256(201, 21, 10, 15);
+
+# Texture Includes
+in "$gui/container/stats_icons.png" include rectX128(0, 0, 18, 36);
+
+# Default GUI textures:
+color #FFFFFF -> #64686D;
+color #C6C6C6 -> #4A4D54;
+color #C5C5C5 -> #4A4D54;
+color #CCCCCC -> #4A4D54;
+color #373737 -> #151719;
+color #555555 -> #151719;
+color #8B8B8B -> #35383D;
+color #686868 -> #3A3A3A;
+
+color #00073E -> #1E2631;
+color #8892C9 -> #4A5F78;
+color #343E75 -> #263649;
+color #AFB6DA -> #516377;
+
+# Text Color (most guis use the same color btw!)
+text color #404040 -> #FFFFFF;
+
+# Furnace fire textures:
+color #D84C45 -> #474F64;
+color #FFB600 -> #495675;
+color #FFFF1F -> #626E8A;
+
+# Faithful x32 by xMrVizzy & Vattic
+color #F0F0F0 -> #64686D;
+color #E2E2E2 -> #5D6266;
+color #D4D4D4 -> #575B60;
+color #CDCDCD -> #505458;
+color #B8B8B8 -> #44464B;
+color #AAAAAA -> #3D4044;
+color #8E8E8E -> #37393D;
+color #727272 -> #303236;
+color #D7D7D7 -> #4E5256;
