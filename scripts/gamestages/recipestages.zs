@@ -2,57 +2,71 @@
 
 import mods.recipestages.Recipes;
 
-Recipes.setRecipeStageByMod("ThermalExpansion", "thermaldynamics");
-Recipes.setRecipeStageByMod("ThermalExpansion", "thermalexpansion");
-Recipes.setRecipeStageByMod("ThermalExpansion", "thermalinnovation");
+Recipes.setRecipeStageByMod("TE", "thermaldynamics");
+Recipes.setRecipeStageByMod("TE", "thermalexpansion");
+Recipes.setRecipeStageByMod("TE", "thermalinnovation");
 //Recipes.setRecipeStageByMod("ThermalExpansion", "xnet");
 
 //Recipes.setRecipeStageByMod("IndustrialRenewal", "industrialrenewal");
 
-Recipes.setRecipeStageByMod("Techguns", "techguns");
+Recipes.setRecipeStageByMod("TG", "techguns");
 
-Recipes.setRecipeStageByMod("ImmersiveEngineering", "immersiveengineering");
-Recipes.setRecipeStageByMod("ImmersiveEngineering", "immersivepetroleum");
-Recipes.setRecipeStageByMod("ImmersiveEngineering", "immersivetech");
-Recipes.setRecipeStageByMod("ImmersiveEngineering", "engineersdecor");
-Recipes.setRecipeStageByMod("ImmersiveEngineering", "rsgauges");
-Recipes.setRecipeStageByMod("ImmersiveEngineering", "betterboilers");
+Recipes.setRecipeStageByMod("IE", "immersiveengineering");
+Recipes.setRecipeStageByMod("IE", "immersivepetroleum");
+Recipes.setRecipeStageByMod("IE", "immersivetech");
+Recipes.setRecipeStageByMod("IE", "engineersdecor");
+Recipes.setRecipeStageByMod("IE", "rsgauges");
+Recipes.setRecipeStageByMod("IE", "betterboilers");
 
-Recipes.setRecipeStageByMod("ActuallyAdditions", "actuallyadditions");
-Recipes.setRecipeStageByMod("ActuallyAdditions", "portality");
-Recipes.setRecipeStageByMod("ActuallyAdditions", "xnet");
+Recipes.setRecipeStageByMod("AA", "actuallyadditions");
+Recipes.setRecipeStageByMod("AA", "portality");
+Recipes.setRecipeStageByMod("AA", "xnet");
 
-Recipes.setRecipeStageByMod("EnderIO", "enderio");
-Recipes.setRecipeStageByMod("EnderIO", "environmentaltech");
-Recipes.setRecipeStageByMod("EnderIO", "etlunar");
+Recipes.setRecipeStageByMod("EIO", "enderio");
+Recipes.setRecipeStageByMod("EIO", "environmentaltech");
+Recipes.setRecipeStageByMod("EIO", "etlunar");
 
-Recipes.setRecipeStageByMod("OpenModularTurrets", "openmodularturrets");
+Recipes.setRecipeStageByMod("OMT", "openmodularturrets");
 
-Recipes.setRecipeStageByMod("Cyclic", "cyclicmagic");
+Recipes.setRecipeStageByMod("CYC", "cyclicmagic");
 
-Recipes.setRecipeStage("xat", <xat:weightless_stone>);
-Recipes.setRecipeStage("xat", <xat:inertia_null_stone>);
-Recipes.setRecipeStage("xat", <xat:greater_inertia_stone>);
-Recipes.setRecipeStage("xat", <xat:glow_ring>);
-Recipes.setRecipeStage("xat", <xat:sea_stone>);
-Recipes.setRecipeStage("xat", <xat:polarized_stone>);
-Recipes.setRecipeStage("xat", <xat:dragons_eye>);
-Recipes.setRecipeStage("xat", <xat:wither_ring>);
-Recipes.setRecipeStage("xat", <xat:poison_stone>);
-Recipes.setRecipeStage("xat", <xat:ender_tiara>);
-Recipes.setRecipeStage("xat", <xat:damage_shield>);
-Recipes.setRecipeStage("xat", <xat:arcing_orb>);
-Recipes.setRecipeStage("xat", <xat:teddy_bear>);
-Recipes.setRecipeStage("xat", <xat:faelis_claw>);
-Recipes.setRecipeStage("xat", <xat:fairy_ring>);
-Recipes.setRecipeStage("xat", <xat:dwarf_ring>);
-Recipes.setRecipeStage("xat", <xat:titan_ring>);
-Recipes.setRecipeStage("xat", <xat:goblin_ring>);
-Recipes.setRecipeStage("xat", <xat:elf_ring>);
-Recipes.setRecipeStage("xat", <xat:faelis_ring>);
-Recipes.setRecipeStage("xat", <xat:dragon_ring>);
+Recipes.setRecipeStageByMod("RB", "openblocks");
+Recipes.setRecipeStageByMod("RB", "randomthings");
 
-Recipes.setRecipeStage("xat", <trinkplus:golden_heart>);
-Recipes.setRecipeStage("xat", <trinkplus:glass_shield>);
-Recipes.setRecipeStage("xat", <trinkplus:dispel_gel>);
-Recipes.setRecipeStage("xat", <trinkplus:shadow_treads>);
+Recipes.setRecipeStage("XAT", <xat:weightless_stone>);
+Recipes.setRecipeStage("XAT", <xat:inertia_null_stone>);
+Recipes.setRecipeStage("XAT", <xat:greater_inertia_stone>);
+Recipes.setRecipeStage("XAT", <xat:glow_ring>);
+Recipes.setRecipeStage("XAT", <xat:sea_stone>);
+Recipes.setRecipeStage("XAT", <xat:polarized_stone>);
+Recipes.setRecipeStage("XAT", <xat:dragons_eye>);
+Recipes.setRecipeStage("XAT", <xat:wither_ring>);
+Recipes.setRecipeStage("XAT", <xat:poison_stone>);
+Recipes.setRecipeStage("XAT", <xat:ender_tiara>);
+Recipes.setRecipeStage("XAT", <xat:damage_shield>);
+Recipes.setRecipeStage("XAT", <xat:arcing_orb>);
+Recipes.setRecipeStage("XAT", <xat:teddy_bear>);
+Recipes.setRecipeStage("XAT", <xat:faelis_claw>);
+Recipes.setRecipeStage("XAT", <xat:fairy_ring>);
+Recipes.setRecipeStage("XAT", <xat:dwarf_ring>);
+Recipes.setRecipeStage("XAT", <xat:titan_ring>);
+Recipes.setRecipeStage("XAT", <xat:goblin_ring>);
+Recipes.setRecipeStage("XAT", <xat:elf_ring>);
+Recipes.setRecipeStage("XAT", <xat:faelis_ring>);
+Recipes.setRecipeStage("XAT", <xat:dragon_ring>);
+
+Recipes.setRecipeStage("XAT", <trinkplus:golden_heart>);
+Recipes.setRecipeStage("XAT", <trinkplus:glass_shield>);
+Recipes.setRecipeStage("XAT", <trinkplus:dispel_gel>);
+Recipes.setRecipeStage("XAT", <trinkplus:shadow_treads>);
+Recipes.setRecipeStage("XAT", <trinkplus:duality_rings>);
+Recipes.setRecipeStage("XAT", <trinkplus:friendly_fire_flower>);
+Recipes.setRecipeStage("XAT", <trinkplus:lunar_crystal>);
+Recipes.setRecipeStage("XAT", <trinkplus:harpy_feather>);
+Recipes.setRecipeStage("XAT", <trinkplus:super_damage_shield>);
+Recipes.setRecipeStage("XAT", <trinkplus:super_faelis_claw>);
+Recipes.setRecipeStage("XAT", <trinkplus:super_dispel_gel>);
+Recipes.setRecipeStage("XAT", <trinkplus:super_teddy_bear>);
+Recipes.setRecipeStage("XAT", <trinkplus:super_shadow_treads>);
+Recipes.setRecipeStage("XAT", <trinkplus:solarborn_ring>);
+Recipes.setRecipeStage("XAT", <trinkplus:azalean_ring>);
