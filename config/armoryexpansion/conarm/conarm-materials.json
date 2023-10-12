@@ -133,6 +133,28 @@
   },
   {
     "coreMaterialStats": {
+      "durability": 52.0,
+      "defense": 45.9,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 48.378944,
+      "modifier": 5.0823526,
+      "toughness": 0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 48.378944,
+      "materialType": "trim"
+    },
+    "identifier": "dragonsteel_lightning",
+    "color": -11460180,
+    "type": "METAL",
+    "castable": true,
+    "craftable": false
+  },
+  {
+    "coreMaterialStats": {
       "durability": 11.0,
       "defense": 18.0,
       "materialType": "core"

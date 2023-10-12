@@ -84,6 +84,7 @@
   "elemental",
   "enderpickup",
   "flammable",
+  "thunder2",
   "tconevo.ruination",
   "tconevo.mana_infused_armor",
   "shocking",
