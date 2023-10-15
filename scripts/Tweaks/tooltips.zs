@@ -28,6 +28,7 @@
 <mutantbeasts:mutant_skeleton_leggings>.displayName = "§dMutant Skeleton Leggings";
 <mutantbeasts:mutant_skeleton_boots>.displayName = "§dMutant Skeleton Boots";
 
+
 <iceandfire:dragonsteel_fire_helmet>.displayName = "§4Fire Dragonsteel Helmet";
 <iceandfire:dragonsteel_fire_chestplate>.displayName = "§4Fire Dragonsteel Chestplate";
 <iceandfire:dragonsteel_fire_leggings>.displayName = "§4Fire Dragonsteel Leggings";
@@ -50,6 +51,18 @@
 <iceandfire:dragonsteel_ice_axe>.displayName = "§3Ice Dragonsteel Axe";
 <iceandfire:dragonsteel_ice_shovel>.displayName = "§3Ice Dragonsteel Shovel";
 <iceandfire:dragonsteel_ice_hoe>.displayName = "§3Ice Dragonsteel Hoe";
+
+
+<iceandfire:dragonsteel_lightning_helmet>.displayName = "§1Lightning Dragonsteel Helmet";
+<iceandfire:dragonsteel_lightning_chestplate>.displayName = "§1Lightning Dragonsteel Chestplate";
+<iceandfire:dragonsteel_lightning_leggings>.displayName = "§1Lightning Dragonsteel Leggings";
+<iceandfire:dragonsteel_lightning_boots>.displayName = "§1Lightning Dragonsteel Boots";
+
+<iceandfire:dragonsteel_lightning_sword>.displayName = "§1Lightning Dragonsteel Sword";
+<iceandfire:dragonsteel_lightning_pickaxe>.displayName = "§1Lightning Dragonsteel Pickaxe";
+<iceandfire:dragonsteel_lightning_axe>.displayName = "§1Lightning Dragonsteel Axe";
+<iceandfire:dragonsteel_lightning_shovel>.displayName = "§1Lightninge Dragonsteel Shovel";
+<iceandfire:dragonsteel_lightning_hoe>.displayName = "§1Lightning Dragonsteel Hoe";
 
 
 <nyx:meteor_helm>.displayName = "§4Meteor Helmet";
