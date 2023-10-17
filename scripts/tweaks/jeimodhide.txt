@@ -1,6 +1,0 @@
-#priority 100
-//works but not needed atm
-
-for item in loadedMods["heroicarmory"].items {
-  mods.jei.JEI.hide(item);
-}
