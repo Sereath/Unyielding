@@ -990,6 +990,18 @@
 		"result": "deny"
 	},
 
+	//chickens
+
+	{
+		"mob": "chickens:chickenschicken",
+		"mincount": {
+			"amount": 45,
+			"mob": "chickens:chickenschicken",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+
 	//vanillamobcounter
 
 	{
