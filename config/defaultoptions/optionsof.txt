@@ -29,7 +29,7 @@ ofAnimatedTextures:true
 ofRainSplash:true
 ofLagometer:false
 ofShowFps:false
-ofAutoSaveTicks:4000
+ofAutoSaveTicks:3600
 ofBetterGrass:3
 ofConnectedTextures:2
 ofWeather:true
@@ -58,13 +58,13 @@ ofEmissiveTextures:true
 ofLazyChunkLoading:false
 ofRenderRegions:false
 ofSmartAnimations:true
-ofDynamicFov:false
+ofDynamicFov:true
 ofAlternateBlocks:true
 ofDynamicLights:1
 ofScreenshotSize:1
 ofCustomEntityModels:true
 ofCustomGuis:true
-ofShowGlErrors:true
+ofShowGlErrors:false
 ofFullscreenMode:Default
 ofFastMath:false
 ofFastRender:false
