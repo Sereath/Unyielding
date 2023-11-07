@@ -1016,6 +1016,7 @@
 
 	{
 		"mob": "minecraft:slime",
+		"onjoin": true,
 		"mincount": {
 			"amount": 45,
 			"mob": "minecraft:slime",
