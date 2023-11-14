@@ -93,6 +93,7 @@
 		"random": 0.0375,
 		"maxlight": 7,
 		"minlight": 0,
+		"maxheight": 128,
 		"maxcount":	{
 			"amount": 20,
 			"perchunk": true
@@ -202,6 +203,7 @@
 		"random": 0.0375,
 		"maxlight": 7,
 		"minlight": 0,
+		"maxheight": 128,
 		"maxcount":	{
 			"amount": 20,
 			"perchunk": true
@@ -252,6 +254,7 @@
 		"random": 0.025,
 		"maxlight": 7,
 		"minlight": 0,
+		"maxheight": 96,
 		"maxcount":	{
 			"amount": 12,
 			"perchunk": true
@@ -270,6 +273,7 @@
 		"random": 0.0125,
 		"maxlight": 7,
 		"minlight": 0,
+		"maxheight": 96,
 		"maxcount":	{
 			"amount": 6,
 			"perchunk": true
@@ -288,6 +292,7 @@
 		"random": 0.00875,
 		"maxlight": 7,
 		"minlight": 0,
+		"maxheight": 96,
 		"maxcount":	{
 			"amount": 3,
 			"perchunk": true
@@ -511,7 +516,7 @@
 		"mob": "grimoireofgaia:dwarf",
 		"random": 0.000875,
 		"maxcount": {
-			"amount": 15,
+			"amount": 9,
 			"perchunk": true
 		},
 		"result": "allow"
@@ -542,7 +547,7 @@
 		"mob": "grimoireofgaia:orc",
 		"random": 0.000875,
 		"maxcount": {
-			"amount": 20,
+			"amount": 3,
 			"perchunk": true
 		},
 		"result": "allow"
@@ -614,8 +619,9 @@
 		"random": 0.00375,
 		"maxlight": 7,
 		"minlight": 0,
+		"maxheight": 64,
 		"maxcount":	{
-			"amount": 3,
+			"amount": 2,
 			"perchunk": true
 		},
 		"result": "allow"
@@ -632,6 +638,7 @@
 		"random": 0.0025,
 		"maxlight": 7,
 		"minlight": 0,
+		"maxheight": 64,
 		"maxcount":	{
 			"amount": 2,
 			"perchunk": true
@@ -650,6 +657,7 @@
 		"random": 0.005,
 		"maxlight": 7,
 		"minlight": 0,
+		"maxheight": 64,
 		"maxcount":	{
 			"amount": 15,
 			"perchunk": true
@@ -681,6 +689,7 @@
 		"random": 0.0375,
 		"maxlight": 7,
 		"minlight": 0,
+		"maxheight": 64,
 		"maxcount":	{
 			"amount": 4,
 			"perchunk": true
@@ -721,7 +730,7 @@
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
-			"amount": 150,
+			"amount": 40,
 			"perchunk": true
 		},
 		"result": "allow"
@@ -732,8 +741,9 @@
 		"random": 0.1,
 		"maxlight": 7,
 		"minlight": 0,
+		"maxheight": 64,
 		"maxcount":	{
-			"amount": 150,
+			"amount": 40,
 			"perchunk": true
 		},
 		"result": "allow"
@@ -746,7 +756,7 @@
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
-			"amount": 90,
+			"amount": 30,
 			"perchunk": true
 		},
 		"result": "allow"
@@ -765,7 +775,7 @@
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
-			"amount": 30,
+			"amount": 20,
 			"perchunk": true
 		},
 		"result": "allow"
@@ -776,8 +786,9 @@
 		"random": 0.05,
 		"maxlight": 7,
 		"minlight": 0,
+		"maxheight": 64,
 		"maxcount":	{
-			"amount": 30,
+			"amount": 20,
 			"perchunk": true
 		},
 		"result": "allow"

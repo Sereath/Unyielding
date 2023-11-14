@@ -244,6 +244,7 @@
         "iceandfire:dread_horse",
         "iceandfire:dread_knight",
         "iceandfire:dread_lich",
+        "iceandfire:dread_queen",
         "iceandfire:dread_scuttler",
         "iceandfire:dread_thrall",
         "iceandfire:firedragon",
@@ -252,6 +253,7 @@
         "iceandfire:if_cockatrice",
         "iceandfire:if_hydra",
         "iceandfire:if_troll",
+        "iceandfire:lightningdragon",
         "iceandfire:myrmex_queen",
         "iceandfire:myrmex_royal",
         "iceandfire:myrmex_sentinel",
@@ -824,7 +826,8 @@
         "zawa:komododragon",
         "zawa:polarbear",
         "zawa:rattlesnake",
-        "zawa:tasmaniandevil"
+        "zawa:tasmaniandevil",
+        "zombie_players:zombie_player"
     ],
     "friendly": [
         "atum:sunspeaker",

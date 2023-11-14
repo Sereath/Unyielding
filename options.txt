@@ -91,7 +91,6 @@ key_Toggle Slot Lock:82
 key_Take Panorama Screenshot:25:ALT
 key_keybind.baublesinventory:18:ALT
 key_arcanearchives.gui.keybinds.manifest:0
-key_quark.keybind.toggleAutojump:40
 key_quark.keybind.lockBuilding:76
 key_quark.emote.no:0
 key_quark.emote.yes:0
@@ -118,6 +117,7 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
+key_quark.keybind.toggleAutojump:40
 key_key.conarm.toggle_helm.desc:181
 key_key.conarm.toggle_chest.desc:35
 key_key.conarm.toggle_leg.desc:0
@@ -130,7 +130,6 @@ key_key.xat.aux_key.desc:29
 key_key.xat.race_ability.desc:74
 key_key.spartanweaponry.access_quiver:23
 key_cos.key.opencosarmorinventory:0
-key_MoCreatures Dive:44
 key_equipmentcompare.key.showTooltips:42
 key_key.erebus.glide:34
 key_key.erebus.poweredglide:35

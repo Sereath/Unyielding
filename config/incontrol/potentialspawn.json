@@ -184,7 +184,7 @@
 		"mobs":	[
 			{
 				"mob": "techguns:supermutantbasic",
-				"weight": 30,
+				"weight": 20,
 				"groupcountmin": 2,
 				"groupcountmax": 4
 			}
@@ -344,7 +344,7 @@
 		"mobs":	[
 			{
 				"mob": "grimoireofgaia:orc",
-				"weight": 15,
+				"weight": 10,
 				"groupcountmin": 1,
 				"groupcountmax": 9
 			}
@@ -372,7 +372,7 @@
 		"mobs":	[
 			{
 				"mob": "srparasites:warden",
-				"weight": 3,
+				"weight": 2,
 				"groupcountmin": 1,
 				"groupcountmax": 1
 			}
@@ -384,7 +384,7 @@
 		"mobs":	[
 			{
 				"mob": "srparasites:marauder",
-				"weight": 2,
+				"weight": 1,
 				"groupcountmin": 1,
 				"groupcountmax": 1
 			}
