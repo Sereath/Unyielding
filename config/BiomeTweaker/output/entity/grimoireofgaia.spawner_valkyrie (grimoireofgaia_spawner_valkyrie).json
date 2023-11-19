@@ -1,6 +1,0 @@
-
-{
-  "Name": "grimoireofgaia.spawner_valkyrie",
-  "Registry ID": "grimoireofgaia:spawner_valkyrie",
-  "Class": "gaia.entity.prop.spawner.EntityGaiaSpawnerValkyrie"
-}

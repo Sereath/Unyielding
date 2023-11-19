@@ -1,6 +1,0 @@
-
-{
-  "Name": "dungeonmobs.dmeldermob",
-  "Registry ID": "dungeonmobs:dmeldermob",
-  "Class": "com.gw.dm.entity.EntityEldermob"
-}

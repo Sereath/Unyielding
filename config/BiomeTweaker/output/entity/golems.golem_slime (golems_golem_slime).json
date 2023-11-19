@@ -1,6 +1,0 @@
-
-{
-  "Name": "golems.golem_slime",
-  "Registry ID": "golems:golem_slime",
-  "Class": "com.golems.entity.EntitySlimeGolem"
-}

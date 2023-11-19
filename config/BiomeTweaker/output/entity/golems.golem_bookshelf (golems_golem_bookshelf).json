@@ -1,6 +1,0 @@
-
-{
-  "Name": "golems.golem_bookshelf",
-  "Registry ID": "golems:golem_bookshelf",
-  "Class": "com.golems.entity.EntityBookshelfGolem"
-}

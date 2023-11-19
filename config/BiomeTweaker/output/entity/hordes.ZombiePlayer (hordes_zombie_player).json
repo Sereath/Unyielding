@@ -1,6 +1,0 @@
-
-{
-  "Name": "hordes.ZombiePlayer",
-  "Registry ID": "hordes:zombie_player",
-  "Class": "net.smileycorp.hordes.common.entities.EntityZombiePlayer"
-}

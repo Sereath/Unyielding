@@ -1,6 +1,0 @@
-
-{
-  "Name": "grimoireofgaia.debug_mob",
-  "Registry ID": "grimoireofgaia:debug_mob",
-  "Class": "gaia.entity.debug.EntityDebugMob"
-}

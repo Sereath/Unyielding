@@ -3,7 +3,8 @@
 import mods.techguns.GunStats;
 import mods.techguns.ArmorStats;
 
-GunStats.setWeaponStat("sawedoff","DAMAGE",5.0);
+GunStats.setWeaponStat("sawedoff","DAMAGE",6.0);
+GunStats.setWeaponStat("combatshotgun","DAMAGE",4.5);
 
 GunStats.setWeaponStat("goldenrevolver","DAMAGE",24.0);
 GunStats.setWeaponStat("goldenrevolver","DAMAGE_MIN",12.0);

@@ -1,6 +1,0 @@
-
-{
-  "Name": "grimoireofgaia.spawner_gorgon",
-  "Registry ID": "grimoireofgaia:spawner_gorgon",
-  "Class": "gaia.entity.prop.spawner.EntityGaiaSpawnerGorgon"
-}

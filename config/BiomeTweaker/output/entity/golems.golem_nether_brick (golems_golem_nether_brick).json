@@ -1,6 +1,0 @@
-
-{
-  "Name": "golems.golem_nether_brick",
-  "Registry ID": "golems:golem_nether_brick",
-  "Class": "com.golems.entity.EntityNetherBrickGolem"
-}
