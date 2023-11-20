@@ -619,7 +619,7 @@
 		"random": 0.00375,
 		"maxlight": 7,
 		"minlight": 0,
-		"maxheight": 64,
+		"maxheight": 32,
 		"maxcount":	{
 			"amount": 2,
 			"perchunk": true
@@ -638,7 +638,7 @@
 		"random": 0.0025,
 		"maxlight": 7,
 		"minlight": 0,
-		"maxheight": 64,
+		"maxheight": 32,
 		"maxcount":	{
 			"amount": 2,
 			"perchunk": true
