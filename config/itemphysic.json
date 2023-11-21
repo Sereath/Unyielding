@@ -3,7 +3,7 @@
     "despawnItem": 3600,
     "customThrow": true,
     "fallSounds": true,
-    "enableIgniting": true,
+    "enableIgniting": false,
     "swimmingItems": {
       "entries": [
         "{id:\"material\",count:1,material:\"minecraft:planks\"}",

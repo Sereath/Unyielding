@@ -300,8 +300,8 @@ recipes.remove(<dungeontactics:stone_plate_faceplate>);
 recipes.remove(<dungeontactics:bagofhoarding>);
 recipes.removeByRecipeName("dungeontactics:misc/convenience/flint_from_gravel");
 
-recipes.remove(<pickletweaks:emerald_apple>);
-recipes.remove(<pickletweaks:diamond_apple>);
+//recipes.remove(<pickletweaks:emerald_apple>);
+//recipes.remove(<pickletweaks:diamond_apple>);
 recipes.remove(<pickletweaks:constantan_paxel>);
 recipes.remove(<pickletweaks:aluminum_paxel>);
 
@@ -309,8 +309,8 @@ recipes.remove(<malisisdoors:forcefielditem>);
 
 recipes.remove(<weirdinggadget:weirding_gadget>);
 
-recipes.remove(<extraalchemy:empty_ring>);
-recipes.remove(<extraalchemy:potion_ring>);
+//recipes.remove(<extraalchemy:empty_ring>);
+//recipes.remove(<extraalchemy:potion_ring>);
 
 recipes.remove(<vc:airship_workbench>);
 

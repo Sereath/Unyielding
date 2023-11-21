@@ -155,6 +155,13 @@
         "itemcount": "1",
         "random": "0.01"
     },
+    {
+        "mob": "techguns:psychosteve",
+        "player": true,
+        "item": "gamestagebooks:rb",
+        "itemcount": "1",
+        "random": "0.27"
+    },
 
     //bosszombie
 
@@ -220,6 +227,151 @@
         "player": true,
         "item": "gamestagebooks:cyc",
         "itemcount": "1",
+        "random": "0.09"
+    },
+
+    //Ender Dragon
+
+    {
+        "mob": "minecraft:ender_dragon",
+        "player": true,
+        "item": "xat:dragon_ring",
+        "itemcount": "1",
+        "random": "0.27"
+    },
+
+    //Wither
+
+    {
+        "mob": "minecraft:wither",
+        "player": true,
+        "item": ["trinkplus:golden_heart","trinkplus:glass_shield"],
+        "itemcount": "0-1",
+        "random": "0.18"
+    },
+    {
+        "mob": "minecraft:wither",
+        "player": true,
+        "item": ["trinkplus:dispel_gel","trinkplus:shadow_treads"],
+        "itemcount": "0-1",
+        "random": "0.18"
+    },
+    {
+        "mob": "minecraft:wither",
+        "player": true,
+        "item": ["trinkplus:duality_rings","trinkplus:friendly_fire_flower"],
+        "itemcount": "0-1",
+        "random": "0.18"
+    },
+    {
+        "mob": "minecraft:wither",
+        "player": true,
+        "item": ["trinkplus:lunar_crystal","trinkplus:harpy_feather"],
+        "itemcount": "0-1",
+        "random": "0.18"
+    },
+
+    //Nether Knight
+
+    {
+        "mob": "eerieentities:nether_knight",
+        "player": true,
+        "item": "xat:damage_shield",
+        "itemcount": "0-1",
+        "random": "0.03"
+    },
+
+    //GOG race rings
+
+    {
+        "mob": ["grimoireofgaia:bone_knight","grimoireofgaia:minotaur","grimoireofgaia:flesh_lich","grimoireofgaia:vampire"],
+        "player": true,
+        "item": ["xat:fairy_ring","xat:dwarf_ring"],
+        "itemcount": "0-1",
+        "random": "0.09"
+    },
+    {
+        "mob": ["grimoireofgaia:bone_knight","grimoireofgaia:minotaur","grimoireofgaia:flesh_lich","grimoireofgaia:vampire"],
+        "player": true,
+        "item": ["xat:titan_ring","xat:goblin_ring"],
+        "itemcount": "0-1",
+        "random": "0.09"
+    },
+    {
+        "mob": ["grimoireofgaia:bone_knight","grimoireofgaia:minotaur","grimoireofgaia:flesh_lich","grimoireofgaia:vampire"],
+        "player": true,
+        "item": ["xat:elf_ring","xat:faelis_ring"],
+        "itemcount": "0-1",
+        "random": "0.09"
+    },
+
+    {
+        "mob": "grimoireofgaia:flesh_lich",
+        "player": true,
+        "item": ["trinkplus:solarborn_ring","trinkplus:azalean_ring"],
+        "itemcount": "0-1",
+        "random": "0.06"
+    },
+    {
+        "mob": "grimoireofgaia:flesh_lich",
+        "player": true,
+        "item": "gamestagebooks:xat",
+        "itemcount": "0-1",
+        "random": "0.09"
+    },
+
+    
+    {
+        "mob": "grimoireofgaia:vampire",
+        "player": true,
+        "item": ["trinkplus:solarborn_ring","trinkplus:azalean_ring"],
+        "itemcount": "0-1",
+        "random": "0.18"
+    },
+    {
+        "mob": "grimoireofgaia:vampire",
+        "player": true,
+        "item": "gamestagebooks:xat",
+        "itemcount": "1",
+        "random": "0.27"
+    },
+
+    {
+        "mob": "grimoireofgaia:witch",
+        "player": true,
+        "item": "gamestagebooks:xat",
+        "itemcount": "0-1",
+        "random": "0.01"
+    },
+
+    //CQR
+
+    {
+        "mob": ["cqrepoured:exterminator","cqrepoured:walker_king","cqrepoured:lich","cqrepoured:pirate_captain","cqrepoured:ender_calamity","cqrepoured:boar_mage","cqrepoured:ender_king","cqrepoured:necromancer","cqrepoured:giant_spider","cqrepoured:giant_tortoise","cqrepoured:nether_dragon"],
+        "player": true,
+        "item": ["xat:weightless_stone","xat:inertia_null_stone","xat:greater_inertia_stone"],
+        "itemcount": "0-1",
+        "random": "0.09"
+    },
+    {
+        "mob": ["cqrepoured:exterminator","cqrepoured:walker_king","cqrepoured:lich","cqrepoured:pirate_captain","cqrepoured:ender_calamity","cqrepoured:boar_mage","cqrepoured:ender_king","cqrepoured:necromancer","cqrepoured:giant_spider","cqrepoured:giant_tortoise","cqrepoured:nether_dragon"],
+        "player": true,
+        "item": ["xat:glow_ring","xat:sea_stone","xat:polarized_stone"],
+        "itemcount": "0-1",
+        "random": "0.09"
+    },
+    {
+        "mob": ["cqrepoured:exterminator","cqrepoured:walker_king","cqrepoured:lich","cqrepoured:pirate_captain","cqrepoured:ender_calamity","cqrepoured:boar_mage","cqrepoured:ender_king","cqrepoured:necromancer","cqrepoured:giant_spider","cqrepoured:giant_tortoise","cqrepoured:nether_dragon"],
+        "player": true,
+        "item": ["xat:wither_ring","xat:poison_stone","xat:arcing_orb"],
+        "itemcount": "0-1",
+        "random": "0.09"
+    },
+    {
+        "mob": ["cqrepoured:exterminator","cqrepoured:walker_king","cqrepoured:lich","cqrepoured:pirate_captain","cqrepoured:ender_calamity","cqrepoured:boar_mage","cqrepoured:ender_king","cqrepoured:necromancer","cqrepoured:giant_spider","cqrepoured:giant_tortoise","cqrepoured:nether_dragon"],
+        "player": true,
+        "item": ["xat:teddy_bear","xat:faelis_claw","xat:ender_tiara"],
+        "itemcount": "0-1",
         "random": "0.09"
     }
 ]

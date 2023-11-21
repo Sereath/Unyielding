@@ -77,7 +77,7 @@
 	{
 		"dimension": 0,
 		"mob": "techguns:zombiesoldier",
-		"gamestage": "Techguns",
+		"gamestage": "tg",
 		"random": 0.00125,
 		"maxlight": 7,
 		"minlight": 0,
@@ -109,7 +109,7 @@
 	{
 		"dimension": 0,
 		"mob": "techguns:zombiefarmer",
-		"gamestage": "Techguns",
+		"gamestage": "tg",
 		"random": 0.0025,
 		"maxlight": 7,
 		"minlight": 0,
@@ -140,7 +140,7 @@
 	{
 		"dimension": 0,
 		"mob": "techguns:zombieminer",
-		"gamestage": "Techguns",
+		"gamestage": "tg",
 		"random": 0.0025,
 		"maxlight": 7,
 		"minlight": 0,
@@ -187,7 +187,7 @@
 	{
 		"dimension": 0,
 		"mob": "techguns:skeletonsoldier",
-		"gamestage": "Techguns",
+		"gamestage": "tg",
 		"random": 0.00125,
 		"maxlight": 7,
 		"minlight": 0,
@@ -219,9 +219,9 @@
 	{
 		"dimension": 0,
 		"mob": "techguns:psychosteve",
-		"gamestage": "Techguns",
+		"gamestage": "tg",
 		"seesky": false,
-		"random": 0.000375,
+		"random": 0.000625,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -673,7 +673,7 @@
 	{
 		"dimension": 0,
 		"mob": "srparasites:carrier_heavy",
-		"gamestage": "Techguns",
+		"gamestage": "tg",
 		"random": 0.000875,
 		"maxlight": 7,
 		"minlight": 0,
@@ -725,7 +725,7 @@
 	{
 		"dimension": 0,
 		"mob": "srparasites:rupter",
-		"gamestage": "Techguns",
+		"gamestage": "tg",
 		"random": 0.000875,
 		"maxlight": 7,
 		"minlight": 0,
@@ -770,7 +770,7 @@
 	{
 		"dimension": 0,
 		"mob": "srparasites:sim_human",
-		"gamestage": "Techguns",
+		"gamestage": "tg",
 		"random": 0.000875,
 		"maxlight": 7,
 		"minlight": 0,

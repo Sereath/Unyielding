@@ -8,7 +8,7 @@
   },
   {
     "identifier": "cinder",
-    "enabled": true,
+    "enabled": false,
     "entityBlacklist": ["twilightforest:snow_queen", "twilightforest:yeti_alpha", "mowziesmobs:frostmaw", "touhou_little_maid:entity.passive.maid", "srparasites:sim_bigspider", "srparasites:sim_human", "srparasites:sim_cow", "srparasites:sim_sheep", "srparasites:sim_wolf", "srparasites:sim_pig",
       "srparasites:sim_villager", "srparasites:sim_adventurer", "srparasites:sim_horse", "srparasites:sim_bear", "srparasites:sim_enderman", "srparasites:sim_dragone", "srparasites:sim_sheephead", "srparasites:sim_wolfhead",
       "srparasites:sim_cowhead", "srparasites:sim_pighead", "srparasites:sim_villagerhead", "srparasites:sim_horsehead", "srparasites:sim_humanhead", "srparasites:sim_endermanhead", "srparasites:sim_dragonehead", "srparasites:sim_adventurerhead", "srparasites:incompleteform_small", "srparasites:incompleteform_medium",
@@ -23,7 +23,7 @@
   },
   {
     "identifier": "arctic",
-    "enabled": true,
+    "enabled": false,
     "entityBlacklist": ["srparasites:sim_bigspider", "srparasites:sim_human", "srparasites:sim_cow", "srparasites:sim_sheep", "srparasites:sim_wolf", "srparasites:sim_pig",
       "srparasites:sim_villager", "srparasites:sim_adventurer", "srparasites:sim_horse", "srparasites:sim_bear", "srparasites:sim_enderman", "srparasites:sim_dragone", "srparasites:sim_sheephead", "srparasites:sim_wolfhead",
       "srparasites:sim_cowhead", "srparasites:sim_pighead", "srparasites:sim_villagerhead", "srparasites:sim_horsehead", "srparasites:sim_humanhead", "srparasites:sim_endermanhead", "srparasites:sim_dragonehead", "srparasites:sim_adventurerhead", "srparasites:incompleteform_small", "srparasites:incompleteform_medium",
@@ -142,7 +142,7 @@
     "identifier": "molten",
     "enabled": true,
     "entityBlacklist": ["twilightforest:snow_queen", "twilightforest:yeti_alpha", "mowziesmobs:frostmaw"],
-    "alwaysOnEntity": ["minecraft:wither", "minecraft:ender_dragon", "iceandfire:firedragon"],
+    "alwaysOnEntity": ["minecraft:wither", "minecraft:ender_dragon"],
     "tier": 1
   },
   {
