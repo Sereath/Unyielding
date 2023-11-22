@@ -190,7 +190,7 @@
         "player": true,
         "item": "gamestagebooks:cyc",
         "itemcount": "1",
-        "random": "0.12"
+        "random": "0.18"
     },
 
     //mutant_enderman
@@ -200,7 +200,7 @@
         "player": true,
         "item": "gamestagebooks:eio",
         "itemcount": "1",
-        "random": "0.05"
+        "random": "0.03"
     },
     {
         "mob": "mutantbeasts:mutant_enderman",
@@ -216,6 +216,24 @@
         "mob": "mutantbeasts:mutant_skeleton",
         "player": true,
         "item": "gamestagebooks:cyc",
+        "itemcount": "1",
+        "random": "0.09"
+    },
+
+    //SRP
+
+    {
+        "mob": "srparasites:warden",
+        "player": true,
+        "item": "gamestagebooks:eio",
+        "itemcount": "1",
+        "random": "0.09"
+    },
+
+    {
+        "mob": "srparasites:marauder",
+        "player": true,
+        "item": "gamestagebooks:eio",
         "itemcount": "1",
         "random": "0.09"
     },

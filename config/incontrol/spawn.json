@@ -956,7 +956,7 @@
 	{
 		"mob": "rats:rat",
 		"mincount": {
-			"amount": 80,
+			"amount": 45,
 			"mob": "rats:rat",
 			"perchunk": true
 		},
