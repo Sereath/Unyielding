@@ -355,6 +355,14 @@
     },
 
     {
+        "mob": "grimoireofgaia:dhampir",
+        "player": true,
+        "item": "gamestagebooks:xat",
+        "itemcount": "0-1",
+        "random": "0.01"
+    },
+
+    {
         "mob": "grimoireofgaia:witch",
         "player": true,
         "item": "gamestagebooks:xat",
