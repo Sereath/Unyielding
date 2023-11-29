@@ -70,3 +70,6 @@ Recipes.setRecipeStage("XAT", <trinkplus:super_teddy_bear>);
 Recipes.setRecipeStage("XAT", <trinkplus:super_shadow_treads>);
 Recipes.setRecipeStage("XAT", <trinkplus:solarborn_ring>);
 Recipes.setRecipeStage("XAT", <trinkplus:azalean_ring>);
+
+Recipes.setRecipeStageByMod("NCO", "nuclearcraft");
+Recipes.setRecipeStageByMod("NCO", "qmd");

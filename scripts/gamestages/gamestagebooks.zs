@@ -9,7 +9,7 @@ Book.addBook("TE", "Thermal Expansion", "Machinery Manual", "thermalexpansion:ca
 
 //Book.addBook("IndustrialRenewal", "Industrial Renewal", "Industrial Machinery Manual", "industrialrenewal:mining", 0x8BCBED);
 
-Book.addBook("TG", "Techguns", "Armaments Manual", "techguns:itemshared@131", 0xA7BB40);
+Book.addBook("TG", "Techguns", "Armaments Manual", "techguns:t3_power_helmet", 0xA7BB40);
 
 Book.addBook("IE", "Immersive Engineering", "Engineering Manual", "immersiveengineering:metal_multiblock@5", 0xD1994E);
 //Book.addBook("ImmersivePetroleum", "Immersive Petroleum", "Engineering II Manual", "immersivepetroleum:metal_device@1", 0xD1994E);
@@ -26,3 +26,5 @@ Book.addBook("CYC", "Cyclic", "Ancient Artifacts Manual", "cyclicmagic:glove_cli
 Book.addBook("RB", "Random Blocks", "Manual", "openblocks:tank", 0xBFBDC2);
 
 Book.addBook("XAT", "Relics", "Remnants", "xat:arcing_orb", 0xD1994E);
+
+Book.addBook("NCO", "NuclearCraft", "Brighter than the sun", "techguns:itemshared@131", 0xA7BB40);

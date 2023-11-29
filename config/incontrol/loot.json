@@ -163,7 +163,33 @@
         "random": "0.27"
     },
 
-    //Storm
+    //mutants
+
+    {
+        "mob": "techguns:supermutantbasic",
+        "player": true,
+        "item": "gamestagebooks:nco",
+        "itemcount": "1",
+        "random": "0.09"
+    },
+    
+    {
+        "mob": "techguns:supermutantheavy",
+        "player": true,
+        "item": "gamestagebooks:nco",
+        "itemcount": "1",
+        "random": "0.18"
+    },
+    
+    {
+        "mob": "techguns:supermutantelite",
+        "player": true,
+        "item": "gamestagebooks:nco",
+        "itemcount": "1",
+        "random": "0.27"
+    },
+
+    //storm
 
     {
         "mob": "techguns:stormtrooper",
@@ -171,6 +197,20 @@
         "item": "techguns:blasterrifle",
         "itemcount": "1",
         "random": "0.03"
+    },
+    {
+        "mob": "techguns:stormtrooper",
+        "player": true,
+        "item": "gamestagebooks:cyc",
+        "itemcount": "1",
+        "random": "0.02"
+    },
+    {
+        "mob": "techguns:stormtrooper",
+        "player": true,
+        "item": "gamestagebooks:eio",
+        "itemcount": "1",
+        "random": "0.01"
     },
 
     //bosszombie
