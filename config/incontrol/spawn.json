@@ -305,6 +305,24 @@
 		"result": "deny"
 	},
 
+	{
+		"dimension": 1,
+		"mob": "techguns:stormtrooper",
+		"random": 0.000625,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 16,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 1,
+		"mob": "techguns:stormtrooper",
+		"result": "deny"
+	},
+
 	//ice&fire dreads
 	
 	{

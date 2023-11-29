@@ -163,6 +163,16 @@
         "random": "0.27"
     },
 
+    //Storm
+
+    {
+        "mob": "techguns:stormtrooper",
+        "player": true,
+        "item": "techguns:blasterrifle",
+        "itemcount": "1",
+        "random": "0.03"
+    },
+
     //bosszombie
 
     {

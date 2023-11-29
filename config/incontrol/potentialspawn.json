@@ -215,6 +215,18 @@
 		]
 	},
 
+	{
+		"dimension": 1,
+		"mobs":	[
+			{
+				"mob": "techguns:stormtrooper",
+				"weight": 5,
+				"groupcountmin": 1,
+				"groupcountmax": 4
+			}
+		]
+	},
+
 	//ice&fire dreads
 	
 	{
