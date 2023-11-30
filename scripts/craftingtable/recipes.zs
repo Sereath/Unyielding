@@ -338,7 +338,7 @@ recipes.addShaped(<minecraft:nether_star> * 2, [[<nyx:fallen_star>, <nyx:fallen_
 //recipes.addShaped(<xat:wither_ring>, [[<ore:ingotGlowing>, <ore:ingotMithril>, <ore:ingotGlowing>],[<ore:ingotMithril>, <xreliquary:witherless_rose>, <ore:ingotMithril>], [<ore:ingotGlowing>, <ore:ingotMithril>, <ore:ingotGlowing>]]);
 
 recipes.addShaped(<cyclicmagic:sack_ender>, [[<ore:itemVibrantCrystal>, <ore:itemLeather>, <ore:itemVibrantCrystal>],[<ore:itemLeather>, <minecraft:ender_chest>, <ore:itemLeather>], [<ore:itemVibrantCrystal>, <ore:itemLeather>, <ore:itemVibrantCrystal>]]);
-recipes.addShaped(<cyclicmagic:storage_bag>, [[<ore:itemLeather>, <ore:itemTieStrong>, <ore:itemLeather>],[<ore:itemLeather>, <ore:gemAmber>, <ore:itemLeather>], [<ore:itemLeather>, <xat:mana_crystal>, <ore:itemLeather>]]);
+recipes.addShaped(<cyclicmagic:storage_bag>, [[<ore:itemLeather>, <xat:mana_crystal>, <ore:itemLeather>],[<ore:itemLeather>, <ore:gemAmber>, <ore:itemLeather>], [<ore:itemLeather>, <ore:itemLeather>, <ore:itemLeather>]]);
 
 recipes.addShaped(<randomthings:timeinabottle>, [[<ore:gemAmber>, <ore:gemAmber>, <ore:gemAmber>],[<minecraft:diamond_block>, <bountifulbaubles:ringoverclocking>, <minecraft:diamond_block>], [<ore:dustMithril>, <enderio:item_soul_vial>, <ore:dustMithril>]]);
 recipes.addShaped(<randomthings:chunkanalyzer>, [[<actuallyadditions:item_crystal_empowered:4>, <ore:netherStar>, <actuallyadditions:item_crystal_empowered>],[<ore:platePlatinum>, <ore:blockGlassHardened>, <ore:platePlatinum>], [<ore:plateAncientDebris>, <ore:platePlatinum>, <ore:plateAncientDebris>]]);

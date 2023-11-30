@@ -33,6 +33,9 @@ Recipes.setRecipeStageByMod("CYC", "cyclicmagic");
 Recipes.setRecipeStageByMod("RB", "openblocks");
 Recipes.setRecipeStageByMod("RB", "randomthings");
 
+Recipes.setRecipeStageByMod("NCO", "nuclearcraft");
+Recipes.setRecipeStageByMod("NCO", "qmd");
+
 Recipes.setRecipeStage("XAT", <xat:weightless_stone>);
 Recipes.setRecipeStage("XAT", <xat:inertia_null_stone>);
 Recipes.setRecipeStage("XAT", <xat:greater_inertia_stone>);
@@ -70,6 +73,3 @@ Recipes.setRecipeStage("XAT", <trinkplus:super_teddy_bear>);
 Recipes.setRecipeStage("XAT", <trinkplus:super_shadow_treads>);
 Recipes.setRecipeStage("XAT", <trinkplus:solarborn_ring>);
 Recipes.setRecipeStage("XAT", <trinkplus:azalean_ring>);
-
-Recipes.setRecipeStageByMod("NCO", "nuclearcraft");
-Recipes.setRecipeStageByMod("NCO", "qmd");

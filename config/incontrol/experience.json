@@ -1,11 +1,16 @@
 [
-	{
+	  {
       "dimension": "10",
       "player": true,
       "multxp": 1.5
     },
-	{
+    {
       "dimension": "66",
+      "player": true,
+      "multxp": 1.25
+    },
+    {
+      "dimension": "-1",
       "player": true,
       "multxp": 1.25
     }
