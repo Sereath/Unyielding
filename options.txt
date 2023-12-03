@@ -98,8 +98,6 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
-key_quark.keybind.lockBuilding:76
-key_quark.keybind.toggleAutojump:40
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -118,6 +116,8 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
+key_quark.keybind.lockBuilding:76
+key_quark.keybind.toggleAutojump:40
 key_key.conarm.toggle_helm.desc:181
 key_key.conarm.toggle_chest.desc:35
 key_key.conarm.toggle_leg.desc:0
@@ -293,7 +293,7 @@ key_key.music_player_gui:0
 key_key.music_player_toggle:0
 key_key.music_player_next:0
 key_key.music_player_previous:0
-key_key.reload_musictriggers:0
+key_key.musictriggers.gui:19:ALT
 key_key.nutrition:49
 key_key.plustic_release_entity.desc:11
 key_key.plustic_toggle_gui.desc:23
@@ -344,7 +344,7 @@ key_gui.xaero_map_zoom_out:0
 key_gui.xaero_quick_confirm:54
 key_key.sort_config:73:CONTROL
 key_key.sort:41
-key_key.drop:16
+key_key.drop:16:ALT
 key_enderio.keybind.inventory:55
 key_enderio.keybind.dsu:0
 key_enderio.keybind.glidertoggle:45:ALT

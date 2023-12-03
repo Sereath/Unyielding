@@ -35,6 +35,7 @@ Recipes.setRecipeStageByMod("RB", "randomthings");
 
 Recipes.setRecipeStageByMod("NCO", "nuclearcraft");
 Recipes.setRecipeStageByMod("NCO", "qmd");
+Recipes.setRecipeStageByMod("EIO", "reactorbuilder");
 
 Recipes.setRecipeStage("XAT", <xat:weightless_stone>);
 Recipes.setRecipeStage("XAT", <xat:inertia_null_stone>);

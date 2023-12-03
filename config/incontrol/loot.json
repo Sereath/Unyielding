@@ -277,7 +277,7 @@
         "player": true,
         "item": "gamestagebooks:eio",
         "itemcount": "1",
-        "random": "0.09"
+        "random": "0.15"
     },
 
     {
@@ -285,7 +285,7 @@
         "player": true,
         "item": "gamestagebooks:eio",
         "itemcount": "1",
-        "random": "0.09"
+        "random": "0.18"
     },
 
     //mutant_zombie

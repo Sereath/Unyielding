@@ -384,9 +384,9 @@
 		"mobs":	[
 			{
 				"mob": "srparasites:warden",
-				"weight": 2,
+				"weight": 3,
 				"groupcountmin": 1,
-				"groupcountmax": 1
+				"groupcountmax": 2
 			}
 		]
 	},
@@ -396,9 +396,9 @@
 		"mobs":	[
 			{
 				"mob": "srparasites:marauder",
-				"weight": 1,
+				"weight": 2,
 				"groupcountmin": 1,
-				"groupcountmax": 1
+				"groupcountmax": 2
 			}
 		]
 	},
@@ -408,9 +408,9 @@
 		"mobs":	[
 			{
 				"mob": "srparasites:pri_longarms",
-				"weight": 6,
+				"weight": 9,
 				"groupcountmin": 1,
-				"groupcountmax": 1
+				"groupcountmax": 2
 			}
 		]
 	},
@@ -419,9 +419,9 @@
 		"mobs":	[
 			{
 				"mob": "srparasites:pri_manducater",
-				"weight": 9,
+				"weight": 12,
 				"groupcountmin": 1,
-				"groupcountmax": 1
+				"groupcountmax": 2
 			}
 		]
 	},
@@ -430,9 +430,9 @@
 		"mobs":	[
 			{
 				"mob": "srparasites:pri_reeker",
-				"weight": 9,
+				"weight": 12,
 				"groupcountmin": 1,
-				"groupcountmax": 1
+				"groupcountmax": 2
 			}
 		]
 	},
@@ -441,9 +441,9 @@
 		"mobs":	[
 			{
 				"mob": "srparasites:pri_summoner",
-				"weight": 6,
+				"weight": 9,
 				"groupcountmin": 1,
-				"groupcountmax": 1
+				"groupcountmax": 2
 			}
 		]
 	},
@@ -452,9 +452,9 @@
 		"mobs":	[
 			{
 				"mob": "srparasites:pri_bolster",
-				"weight": 6,
+				"weight": 9,
 				"groupcountmin": 1,
-				"groupcountmax": 1
+				"groupcountmax": 2
 			}
 		]
 	},
@@ -463,9 +463,9 @@
 		"mobs":	[
 			{
 				"mob": "srparasites:pri_arachnida",
-				"weight": 6,
+				"weight": 9,
 				"groupcountmin": 1,
-				"groupcountmax": 1
+				"groupcountmax": 2
 			}
 		]
 	},
@@ -477,7 +477,7 @@
 				"mob": "srparasites:carrier_heavy",
 				"weight": 3,
 				"groupcountmin": 1,
-				"groupcountmax": 1
+				"groupcountmax": 2
 			}
 		]
 	},
@@ -488,7 +488,7 @@
 				"mob": "srparasites:carrier_heavy",
 				"weight": 15,
 				"groupcountmin": 1,
-				"groupcountmax": 1
+				"groupcountmax": 2
 			}
 		]
 	},
@@ -500,7 +500,7 @@
 				"mob": "srparasites:carrier_flying",
 				"weight": 15,
 				"groupcountmin": 1,
-				"groupcountmax": 1
+				"groupcountmax": 2
 			}
 		]
 	},
@@ -512,7 +512,7 @@
 				"mob": "srparasites:rupter",
 				"weight": 3,
 				"groupcountmin": 1,
-				"groupcountmax": 15
+				"groupcountmax": 14
 			}
 		]
 	},
@@ -523,7 +523,7 @@
 				"mob": "srparasites:rupter",
 				"weight": 45,
 				"groupcountmin": 1,
-				"groupcountmax": 15
+				"groupcountmax": 14
 			}
 		]
 	},
@@ -534,7 +534,7 @@
 				"mob": "srparasites:rupter",
 				"weight": 15,
 				"groupcountmin": 1,
-				"groupcountmax": 15
+				"groupcountmax": 14
 			}
 		]
 	},
@@ -558,6 +558,20 @@
 				"weight": 30,
 				"groupcountmin": 1,
 				"groupcountmax": 9
+			}
+		]
+	},
+
+	//NCO
+
+	{
+		"dimension": 10,
+		"mobs":	[
+			{
+				"mob": "nuclearcraft:feral_ghoul",
+				"weight": 30,
+				"groupcountmin": 1,
+				"groupcountmax": 3
 			}
 		]
 	}

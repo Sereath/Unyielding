@@ -256,7 +256,7 @@
 		"minlight": 0,
 		"maxheight": 96,
 		"maxcount":	{
-			"amount": 12,
+			"amount": 8,
 			"perchunk": true
 		},
 		"result": "allow"
@@ -275,7 +275,7 @@
 		"minlight": 0,
 		"maxheight": 96,
 		"maxcount":	{
-			"amount": 6,
+			"amount": 4,
 			"perchunk": true
 		},
 		"result": "allow"
@@ -294,7 +294,7 @@
 		"minlight": 0,
 		"maxheight": 96,
 		"maxcount":	{
-			"amount": 3,
+			"amount": 2,
 			"perchunk": true
 		},
 		"result": "allow"
@@ -672,12 +672,12 @@
 	{
 		"dimension": 10,
 		"mob": ["srparasites:pri_longarms","srparasites:pri_manducater","srparasites:pri_reeker","srparasites:pri_summoner","srparasites:pri_bolster","srparasites:pri_arachnida"],
-		"random": 0.005,
+		"random": 0.01,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxheight": 64,
 		"maxcount":	{
-			"amount": 15,
+			"amount": 18,
 			"perchunk": true
 		},
 		"result": "allow"
@@ -814,6 +814,40 @@
 	{
 		"dimension": [0,10],
 		"mob": "srparasites:sim_human",
+		"result": "deny"
+	},
+
+	//NCO
+
+	{
+		"dimension": 0,
+		"mob": "nuclearcraft:feral_ghoul",
+		"gamestage": "nco",
+		"random": 0.0025,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxcount":	{
+			"amount": 15,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 10,
+		"mob": "nuclearcraft:feral_ghoul",
+		"random": 0.05,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxheight": 192,
+		"maxcount":	{
+			"amount": 15,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": [0,10],
+		"mob": "nuclearcraft:feral_ghoul",
 		"result": "deny"
 	},
 

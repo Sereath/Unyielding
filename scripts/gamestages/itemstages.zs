@@ -30,3 +30,4 @@ mods.ItemStages.stageModItems("RB", "randomthings");
 
 mods.ItemStages.stageModItems("NCO", "nuclearcraft");
 mods.ItemStages.stageModItems("NCO", "qmd");
+mods.ItemStages.stageModItems("EIO", "reactorbuilder");
