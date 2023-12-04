@@ -288,6 +288,38 @@
         "random": "0.18"
     },
 
+    {
+        "mob": "srparasites:overseer",
+        "player": true,
+        "item": "gamestagebooks:eio",
+        "itemcount": "1",
+        "random": "0.18"
+    },
+
+    {
+        "mob": "srparasites:bomber_light",
+        "player": true,
+        "item": "gamestagebooks:eio",
+        "itemcount": "1",
+        "random": "0.18"
+    },
+    
+    {
+        "mob": "srparasites:monarch",
+        "player": true,
+        "item": "gamestagebooks:eio",
+        "itemcount": "1",
+        "random": "0.09"
+    },
+    
+    {
+        "mob": ["srparasites:warden","srparasites:marauder","srparasites:overseer","srparasites:bomber_light","srparasites:monarch"],
+        "player": true,
+        "item": ["theaurorian:scrapcrystalline","theaurorian:scrapumbra","theaurorian:scrapaurorianite","srparasites:monarch"],
+        "itemcount": "0-1",
+        "random": "0.36"
+    },
+
     //mutant_zombie
 
     {

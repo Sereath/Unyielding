@@ -28,6 +28,8 @@ mods.ItemStages.stageModItems("CYC", "cyclicmagic");
 mods.ItemStages.stageModItems("RB", "openblocks");
 mods.ItemStages.stageModItems("RB", "randomthings");
 
+mods.ItemStages.stageModItems("TE", "extendedcrafting");
+
 mods.ItemStages.stageModItems("NCO", "nuclearcraft");
 mods.ItemStages.stageModItems("NCO", "qmd");
 mods.ItemStages.stageModItems("EIO", "reactorbuilder");

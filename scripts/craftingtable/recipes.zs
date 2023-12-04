@@ -238,7 +238,7 @@ recipes.removeByRecipeName("techguns:tacticalmask");
 
 recipes.removeByRecipeName("eplus:table");
 
-recipes.removeByRecipeName("tombstone:enchanted_grave_key");
+//recipes.removeByRecipeName("tombstone:enchanted_grave_key");
 
 recipes.removeByRecipeName("theaurorian:items/auroriansteel");
 recipes.remove(<theaurorian:aurorianportalframebricks>);
@@ -327,6 +327,7 @@ recipes.addShaped(<buildinggadgets:exchangertool>, [[<ore:ingotElectricalSteel>,
 recipes.addShaped(<buildinggadgets:copypastetool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemVibrantCrystal>, <ore:crystalRestonia>, <ore:itemVibrantCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
 
 recipes.addShaped(<minecraft:nether_star> * 2, [[<nyx:fallen_star>, <nyx:fallen_star>, <nyx:fallen_star>],[<nyx:fallen_star>, <minecraft:nether_star>, <nyx:fallen_star>], [<nyx:fallen_star>, <nyx:fallen_star>, <nyx:fallen_star>]]);
+recipes.addShaped(<minecraft:name_tag> * 2, [[<nyx:fallen_star>, <nyx:fallen_star>, <nyx:fallen_star>],[<nyx:fallen_star>, <minecraft:name_tag>, <nyx:fallen_star>], [<nyx:fallen_star>, <nyx:fallen_star>, <nyx:fallen_star>]]);
 
 //recipes.addShaped(<xat:dwarf_stout>, [[<ore:ingotGlowing>, <dungeontactics:mithril_pickaxe>, <ore:ingotGlowing>],[<minecraft:dragon_breath>, <xat:dwarf_ring>, <minecraft:dragon_breath>], [<ore:ingotGlowing>, <minecraft:rabbit_stew>, <ore:ingotGlowing>]]);
 //recipes.addShaped(<xat:dragons_eye>, [[<xat:glow_ring>, <dungeontactics:mithril_sword>, <ore:gemGlowing>],[<dungeontactics:mithril_sword>, <minecraft:skull:5>, <dungeontactics:mithril_sword>], [<ore:gemGlowing>, <dungeontactics:mithril_sword>, <ore:gemGlowing>]]);
@@ -372,6 +373,8 @@ recipes.addShaped(<enderio:item_stellar_alloy_leggings>, [[<ore:ingotStellarAllo
 recipes.addShaped(<enderio:item_stellar_alloy_chestplate>, [[<ore:ingotStellarAlloy>, <ore:skullSentientEnder>, <ore:ingotStellarAlloy>],[<ore:ingotAurorianSteel>, <ore:ingotStellarAlloy>, <ore:ingotAurorianSteel>], [<ore:ingotAurorianSteel>, <ore:ingotStellarAlloy>, <ore:ingotAurorianSteel>]]);
 recipes.addShaped(<enderio:item_stellar_alloy_helmet>, [[null, null, null],[<ore:ingotAurorianSteel>, <ore:ingotStellarAlloy>, <ore:ingotAurorianSteel>], [<ore:ingotStellarAlloy>, <ore:skullSentientEnder>, <ore:ingotStellarAlloy>]]);
 recipes.addShaped(<theaurorian:auroriansteel>, [[<ore:ingotCerulean>, <ore:ingotMoonstone>, <theaurorian:aurorianiteingot>],[<theaurorian:aurorianiteingot>, <theaurorian:crystallineingot>, <theaurorian:crystallineingot>], [<theaurorian:umbraingot>, <theaurorian:umbraingot>, <theaurorian:crystal>]]);
+recipes.addShaped(<theaurorian:aurorianstone>, [[<srparasites:bone>, <thermalfoundation:material:72>, null],[<minecraft:stone>, <thermalfoundation:material:103>, null], [null, null, null]]);
+recipes.addShaped(<theaurorian:aurorianportalframebricks>, [[<jaopca:item_dustancientdebris>, <trinkplus:ascension_essence>, <theaurorian:scrapumbra>],[<trinkplus:ascension_essence>, <theaurorian:aurorianstone>, <trinkplus:ascension_essence>], [<theaurorian:scrapcrystalline>, <trinkplus:ascension_essence>, <theaurorian:scrapaurorianite>]]);
 
 recipes.addShaped(<malisisdoors:forcefielditem>, [[<trinkplus:ender_gem>, <enderio:block_reinforced_obsidian>, <trinkplus:ender_gem>],[<enderio:block_reinforced_obsidian>, <techguns:itemshared:131>, <enderio:block_reinforced_obsidian>], [<trinkplus:ender_gem>, <enderio:block_reinforced_obsidian>, <trinkplus:ender_gem>]]);
 

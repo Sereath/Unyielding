@@ -407,6 +407,42 @@
 		"dimension": 10,
 		"mobs":	[
 			{
+				"mob": "srparasites:overseer",
+				"weight": 1,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+
+	{
+		"dimension": 10,
+		"mobs":	[
+			{
+				"mob": "srparasites:bomber_light",
+				"weight": 1,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+
+	{
+		"dimension": 10,
+		"mobs":	[
+			{
+				"mob": "srparasites:monarch",
+				"weight": 2,
+				"groupcountmin": 1,
+				"groupcountmax": 2
+			}
+		]
+	},
+
+	{
+		"dimension": 10,
+		"mobs":	[
+			{
 				"mob": "srparasites:pri_longarms",
 				"weight": 9,
 				"groupcountmin": 1,

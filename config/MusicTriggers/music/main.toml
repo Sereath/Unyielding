@@ -43,7 +43,7 @@
 		fade_out = "100"
 		persistence = "0"
 		trigger_delay = "0"
-		song_delay = "200:400"
+		song_delay = "300:2100"
 		start_delay = "0"
 		stop_delay = "0"
 		fade_in = "100"

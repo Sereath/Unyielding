@@ -33,6 +33,8 @@ Recipes.setRecipeStageByMod("CYC", "cyclicmagic");
 Recipes.setRecipeStageByMod("RB", "openblocks");
 Recipes.setRecipeStageByMod("RB", "randomthings");
 
+Recipes.setRecipeStageByMod("TE", "extendedcrafting");
+
 Recipes.setRecipeStageByMod("NCO", "nuclearcraft");
 Recipes.setRecipeStageByMod("NCO", "qmd");
 Recipes.setRecipeStageByMod("EIO", "reactorbuilder");
