@@ -315,9 +315,17 @@
     {
         "mob": ["srparasites:warden","srparasites:marauder","srparasites:overseer","srparasites:bomber_light","srparasites:monarch"],
         "player": true,
-        "item": ["theaurorian:scrapcrystalline","theaurorian:scrapumbra","theaurorian:scrapaurorianite","srparasites:monarch"],
+        "item": ["theaurorian:scrapcrystalline","theaurorian:scrapumbra","theaurorian:scrapaurorianite"],
         "itemcount": "0-1",
-        "random": "0.36"
+        "random": "1.0"
+    },
+
+    {
+		"mob": ["srparasites:pri_longarms","srparasites:pri_manducater","srparasites:pri_reeker","srparasites:pri_summoner","srparasites:pri_bolster","srparasites:pri_arachnida"],
+        "player": true,
+        "item": ["theaurorian:scrapcrystalline","theaurorian:scrapumbra","theaurorian:scrapaurorianite"],
+        "itemcount": "0-1",
+        "random": "0.09"
     },
 
     //mutant_zombie

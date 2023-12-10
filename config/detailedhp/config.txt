@@ -1,15 +1,15 @@
 ##[position_health]
 
 S:orientation = 'bottom-centered';
-I:posx = '-104';
-I:posy = '-36';
+I:posx = '-110';
+I:posy = '-37';
 
 
 ##[general_health]
 
 S:basecolor = '#ff4a3d';
 S:prefix = '';
-F:scale = '0.8';
+F:scale = '0.9';
 B:showmaxhealth = 'true';
 S:suffix = '';
 B:enablehealth = 'true';

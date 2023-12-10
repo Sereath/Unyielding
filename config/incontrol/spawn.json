@@ -9,7 +9,7 @@
 		"maxlight": 15,
 		"minlight": 0,
 		"maxcount":	{
-			"amount": 40,
+			"amount": 30,
 			"perchunk": true
 		},
 		"result": "allow"
@@ -114,7 +114,7 @@
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
-			"amount": 20,
+			"amount": 15,
 			"perchunk": true
 		},
 		"result": "allow"
@@ -173,7 +173,7 @@
 		"mob": "techguns:cyberdemon",
 		"random": 0.00125,
 		"maxcount":	{
-			"amount": 10,
+			"amount": 6,
 			"perchunk": true
 		},
 		"result": "allow"
@@ -503,7 +503,7 @@
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
-			"amount": 1,
+			"amount": 2,
 			"perchunk": true
 		},
 		"result": "allow"
@@ -524,7 +524,7 @@
 		"maxheight": 64,
 		"minheight": 4,
 		"maxcount": {
-			"amount": 15,
+			"amount": 9,
 			"perchunk": true
 		},
 		"result": "allow"
@@ -534,7 +534,7 @@
 		"mob": "grimoireofgaia:dwarf",
 		"random": 0.000875,
 		"maxcount": {
-			"amount": 9,
+			"amount": 6,
 			"perchunk": true
 		},
 		"result": "allow"
@@ -555,7 +555,7 @@
 		"maxheight": 64,
 		"minheight": 4,
 		"maxcount": {
-			"amount": 20,
+			"amount": 9,
 			"perchunk": true
 		},
 		"result": "allow"
@@ -952,7 +952,7 @@
 	{
 		"mob": "futuremc:bee",
 		"mincount": {
-			"amount": 30,
+			"amount": 15,
 			"mob": "futuremc:bee",
 			"perchunk": true
 		},
@@ -993,7 +993,7 @@
 	{
 		"mob": "grimoireofgaia:centaur",
 		"mincount": {
-			"amount": 30,
+			"amount": 15,
 			"mob": "grimoireofgaia:centaur",
 			"perchunk": true
 		},
@@ -1013,7 +1013,7 @@
 	{
 		"mob": "grimoireofgaia:cyan_flower",
 		"mincount": {
-			"amount": 30,
+			"amount": 15,
 			"mob": "grimoireofgaia:cyan_flower",
 			"perchunk": true
 		},
@@ -1033,7 +1033,7 @@
 	{
 		"mob": "grimoireofgaia:satyress",
 		"mincount": {
-			"amount": 30,
+			"amount": 15,
 			"mob": "grimoireofgaia:satyress",
 			"perchunk": true
 		},
@@ -1043,7 +1043,7 @@
 	{
 		"mob": "grimoireofgaia:vase",
 		"mincount": {
-			"amount": 30,
+			"amount": 15,
 			"mob": "grimoireofgaia:vase",
 			"perchunk": true
 		},
@@ -1053,7 +1053,7 @@
 	{
 		"mob": "grimoireofgaia:vase_nether",
 		"mincount": {
-			"amount": 30,
+			"amount": 15,
 			"mob": "grimoireofgaia:vase_nether",
 			"perchunk": true
 		},
@@ -1065,7 +1065,7 @@
 	{
 		"mob": "rats:rat",
 		"mincount": {
-			"amount": 45,
+			"amount": 30,
 			"mob": "rats:rat",
 			"perchunk": true
 		},
@@ -1115,7 +1115,7 @@
 	{
 		"mob": "chickens:chickenschicken",
 		"mincount": {
-			"amount": 45,
+			"amount": 15,
 			"mob": "chickens:chickenschicken",
 			"perchunk": true
 		},
@@ -1138,7 +1138,7 @@
 		"mob": "minecraft:slime",
 		"onjoin": true,
 		"mincount": {
-			"amount": 45,
+			"amount": 30,
 			"mob": "minecraft:slime",
 			"perchunk": true
 		},
