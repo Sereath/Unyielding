@@ -78,7 +78,7 @@
 		"dimension": 0,
 		"mob": "techguns:zombiesoldier",
 		"gamestage": "tg",
-		"random": 0.00125,
+		"random": 0.0025,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -110,7 +110,7 @@
 		"dimension": 0,
 		"mob": "techguns:zombiefarmer",
 		"gamestage": "tg",
-		"random": 0.0025,
+		"random": 0.00375,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -141,7 +141,7 @@
 		"dimension": 0,
 		"mob": "techguns:zombieminer",
 		"gamestage": "tg",
-		"random": 0.0025,
+		"random": 0.00375,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -188,7 +188,7 @@
 		"dimension": 0,
 		"mob": "techguns:skeletonsoldier",
 		"gamestage": "tg",
-		"random": 0.00125,
+		"random": 0.0025,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -221,7 +221,7 @@
 		"mob": "techguns:psychosteve",
 		"gamestage": "tg",
 		"seesky": false,
-		"random": 0.000625,
+		"random": 0.000875,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -457,7 +457,7 @@
 		"dimension": 0,
 		"mob": "grimoireofgaia:deathword",
 		"seesky": false,
-		"random": 0.00125,
+		"random": 0.0025,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount": {
@@ -499,7 +499,7 @@
 		"biome": ["Cold Taiga", "Cold Taiga Hills", "Cold Taiga M", "Taiga M", "Ominous Woods", "Redwood Forest", "Shield", "Dark Forest", "Dead Forest", "Forest", "Roofed Forest", "Magical Forest", "Tall Oak Forest", "Fungi Forest", "Thicket", "Coniferous Forest", "Snowy Coniferous Forest", "MountainFoothills"],
 		"biometype": ["FOREST", "CONIFEROUS", "DENSE", "THEMED_TREES", "SPOOKY", "MEGA_TAIGA_TREES", "MEGA_TAIGA_SPRUCE_TREES", "MAGICAL", "DEAD"],
 		"seesky": true,
-		"random": 0.000625,
+		"random": 0.000875,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -582,7 +582,7 @@
 		"dimension": [0,424],
 		"mob": "eyesinthedarkness:eyes",
 		"seesky": false,
-		"random": 0.005,
+		"random": 0.00625,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -749,7 +749,7 @@
 		"dimension": 0,
 		"mob": "srparasites:carrier_heavy",
 		"gamestage": "tg",
-		"random": 0.000875,
+		"random": 0.001,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -801,7 +801,7 @@
 		"dimension": 0,
 		"mob": "srparasites:rupter",
 		"gamestage": "tg",
-		"random": 0.000875,
+		"random": 0.001,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -846,7 +846,7 @@
 		"dimension": 0,
 		"mob": "srparasites:sim_human",
 		"gamestage": "tg",
-		"random": 0.000875,
+		"random": 0.001,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{

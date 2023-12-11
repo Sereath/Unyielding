@@ -37,6 +37,7 @@ key_Toggle Slot Lock:82:NONE
 key_Take Panorama Screenshot:25:ALT
 key_keybind.baublesinventory:18:ALT
 key_arcanearchives.gui.keybinds.manifest:0:NONE
+key_quark.keybind.toggleAutojump:40:NONE
 key_quark.keybind.dropoff:0:NONE
 key_quark.keybind.changeHotbar:0:NONE
 key_quark.keybind.chestSort:0:NONE
@@ -44,6 +45,7 @@ key_quark.keybind.chestDropoff:0:NONE
 key_quark.keybind.chestMerge:0:NONE
 key_quark.keybind.chestRestock:0:NONE
 key_quark.keybind.chestExtract:0:NONE
+key_quark.keybind.lockBuilding:76:NONE
 key_quark.emote.no:0:NONE
 key_quark.emote.yes:0:NONE
 key_quark.emote.wave:0:NONE
@@ -62,8 +64,6 @@ key_quark.emote.dab:0:NONE
 key_quark.emote.jet:0:NONE
 key_quark.emote.exorcist:0:NONE
 key_quark.emote.zombie:0:NONE
-key_quark.keybind.lockBuilding:76:NONE
-key_quark.keybind.toggleAutojump:40:NONE
 key_key.conarm.toggle_helm.desc:181:NONE
 key_key.conarm.toggle_chest.desc:35:NONE
 key_key.conarm.toggle_leg.desc:0:NONE
@@ -151,7 +151,7 @@ key_key.jei.bookmark:59:NONE
 key_key.jei.toggleBookmarkOverlay:0:NONE
 key_key.aquaacrobatics.toggle_crawling:0:ALT
 key_key.cofh.multimode:47:NONE
-key_tombstone.message.knowledge_of_death:0:NONE
+key_tombstone.message.knowledge_of_death:72:NONE
 key_key.dragon_fireAttack:-100:NONE
 key_key.dragon_strike:34:NONE
 key_key.dragon_down:45:NONE
@@ -170,7 +170,7 @@ key_key.connected_area:0:NONE
 key_key.rotate_mirror:79:NONE
 key_key.material_list:81:NONE
 key_key.sethorse.desc:25:NONE
-key_key.callhorse.desc:47:NONE
+key_key.callhorse.desc:80:NONE
 key_key.showstats.desc:37:NONE
 key_key.carry.desc:42:NONE
 key_Reputation GUI:62:NONE

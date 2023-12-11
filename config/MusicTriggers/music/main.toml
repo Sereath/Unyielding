@@ -3,6 +3,12 @@
 # for any specific questions you might have regarding the main config file
 
 [triggers]
+	[triggers.mob]
+		detection_range = "64"
+		identifier = "aqueen"
+		priority = "17"
+		mob_targeting = false
+		resource_name = [ "theaurorian:moonqueen" ]
 	[triggers.dead]
 		priority = "15"
 	[triggers.lowhp]
@@ -48,6 +54,9 @@
 		stop_delay = "0"
 		fade_in = "100"
 [songs]
+	[songs.cf]
+		volume = "1.2"
+		triggers = [ "mob-aqueen" ]
 	[songs.p_sha_326085]
 		triggers = [ "bloodmoon" ]
 	[songs.k_hev1609250978_367197]
