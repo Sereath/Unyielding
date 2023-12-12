@@ -220,7 +220,6 @@
 		"dimension": 0,
 		"mob": "techguns:psychosteve",
 		"gamestage": "tg",
-		"seesky": false,
 		"random": 0.000875,
 		"maxlight": 7,
 		"minlight": 0,
@@ -748,7 +747,7 @@
 	{
 		"dimension": 0,
 		"mob": "srparasites:carrier_heavy",
-		"gamestage": "tg",
+		"gamestage": "eio",
 		"random": 0.001,
 		"maxlight": 7,
 		"minlight": 0,
@@ -800,7 +799,7 @@
 	{
 		"dimension": 0,
 		"mob": "srparasites:rupter",
-		"gamestage": "tg",
+		"gamestage": "eio",
 		"random": 0.001,
 		"maxlight": 7,
 		"minlight": 0,
@@ -845,7 +844,7 @@
 	{
 		"dimension": 0,
 		"mob": "srparasites:sim_human",
-		"gamestage": "tg",
+		"gamestage": "eio",
 		"random": 0.001,
 		"maxlight": 7,
 		"minlight": 0,
@@ -1072,7 +1071,7 @@
 		"result": "deny"
 	},
 
-	//erebus
+	//erebuscounter
 
 	{
 		"dimension": 66,
@@ -1086,7 +1085,7 @@
 		"result": "deny"
 	},
 
-	//mutantbeasts
+	//mutantbeastscounter
 
 	{
 		"mob": "mutantbeasts:mutant_enderman",
@@ -1098,7 +1097,7 @@
 		"result": "deny"
 	},
 
-	//ancientbeasts
+	//ancientbeastscounter
 
 	{
 		"mob": "ancientbeasts:rifted_enderman",
@@ -1110,13 +1109,25 @@
 		"result": "deny"
 	},
 
-	//chickens
+	//chickenscounter
 
 	{
 		"mob": "chickens:chickenschicken",
 		"mincount": {
 			"amount": 15,
 			"mob": "chickens:chickenschicken",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+
+	//salmoncounter
+
+	{
+		"mob": "oe:salmon",
+		"mincount": {
+			"amount": 20,
+			"mob": "oe:salmon",
 			"perchunk": true
 		},
 		"result": "deny"
