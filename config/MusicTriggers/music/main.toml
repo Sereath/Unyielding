@@ -3,6 +3,14 @@
 # for any specific questions you might have regarding the main config file
 
 [triggers]
+	[[triggers.time]]
+		priority = "3"
+		time_bundle = "night"
+		identifier = "night"
+	[[triggers.time]]
+		priority = "2"
+		time_bundle = "day"
+		identifier = "day"
 	[triggers.mob]
 		detection_range = "64"
 		identifier = "aqueen"
@@ -54,24 +62,40 @@
 		stop_delay = "0"
 		fade_in = "100"
 [songs]
+	[songs.ap]
+		volume = "1.2"
+		triggers = [ "dimension-overworld" "time-night" ]
+	[songs.ca]
+		triggers = [ "dimension-overworld" "time-night" ]
+	[songs.dca]
+		volume = "0.7"
+		triggers = [ "dimension-overworld" "time-night" ]
+	[songs.dcb]
+		volume = "0.7"
+		triggers = [ "dimension-overworld" "time-night" ]
+	[songs.de]
+		volume = "0.9"
+		triggers = [ "dimension-overworld" "time-night" ]
+	[songs.dw]
+		triggers = [ "dimension-overworld" "time-night" ]
+	[songs.lh]
+		triggers = [ "dimension-overworld" "time-night" ]
+	[songs.qsanm]
+		triggers = [ "dimension-overworld" "time-night" ]
+	[songs.qstdb]
+		triggers = [ "dimension-overworld" "time-night" ]
+	[songs.tosd]
+		triggers = [ "dimension-overworld" "time-night" ]
 	[songs.cf]
 		volume = "1.2"
 		triggers = [ "mob-aqueen" ]
-	[songs.p_sha_326085]
-		triggers = [ "bloodmoon" ]
-	[songs.k_hev1609250978_367197]
-		triggers = [ "bloodmoon" ]
-	[songs.k_ha49182111_190687]
-		triggers = [ "bloodmoon" ]
-	[songs.k_ha42178043_182115]
-		triggers = [ "bloodmoon" ]
 	[songs.t_se1_178113]
 		triggers = [ "dimension-erebus" ]
 	[songs.t_etmbl_277192]
 		triggers = [ "dimension-erebus" ]
-	[songs.nightbreak]
+	[songs.nbk]
 		triggers = [ "menu" ]
-	[songs.gatheringdarkness]
+	[songs.gd]
 		volume = "0.7"
 		triggers = [ "dimension-erebus" ]
 	[songs.k_ha71_13032200_211559]
@@ -207,23 +231,23 @@
 	[songs.k_ha06_170329]
 		triggers = [ "dimension-nether" ]
 	[songs.nb]
-		triggers = [ "dimension-overworld" ]
+		triggers = [ "dimension-overworld" "time-day" ]
 	[songs.na]
-		triggers = [ "dimension-overworld" ]
+		triggers = [ "dimension-overworld" "time-day" ]
 	[songs.h2]
-		triggers = [ "dimension-overworld" ]
+		triggers = [ "dimension-overworld" "time-day" ]
 	[songs.cc]
-		triggers = [ "dimension-overworld" ]
+		triggers = [ "dimension-overworld" "time-day" ]
 	[songs.c6]
-		triggers = [ "dimension-overworld" ]
+		triggers = [ "dimension-overworld" "time-day" ]
 	[songs.c5]
-		triggers = [ "dimension-overworld" ]
+		triggers = [ "dimension-overworld" "time-day" ]
 	[songs.c4]
-		triggers = [ "dimension-overworld" ]
+		triggers = [ "dimension-overworld" "time-day" ]
 	[songs.c3]
-		triggers = [ "dimension-overworld" ]
+		triggers = [ "dimension-overworld" "time-day" ]
 	[songs.c2]
-		triggers = [ "dimension-overworld" ]
+		triggers = [ "dimension-overworld" "time-day" ]
 	[songs.c1]
-		triggers = [ "dimension-overworld" ]
+		triggers = [ "dimension-overworld" "time-day" ]
 	[songs.universal]

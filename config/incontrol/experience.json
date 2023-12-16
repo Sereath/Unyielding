@@ -10,8 +10,19 @@
       "multxp": 1.25
     },
     {
+      "dimension": "424",
+      "player": true,
+      "multxp": 1.25
+    },
+    {
       "dimension": "-1",
       "player": true,
       "multxp": 1.25
+    },
+    {
+      "dimension": "0",
+      "player": true,
+      "multxp": 1.25,
+      "mintime": 13000
     }
 ]

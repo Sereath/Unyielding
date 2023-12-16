@@ -945,6 +945,15 @@
 		},
 		"result": "deny"
 	},
+	{
+		"mob": "mod_lavacow:weta",
+		"mincount": {
+			"amount": 15,
+			"mob": "mod_lavacow:weta",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
 
 	//beecounter
 
@@ -1059,6 +1068,16 @@
 		"result": "deny"
 	},
 
+	{
+		"mob": "grimoireofgaia:ant_hill",
+		"mincount": {
+			"amount": 15,
+			"mob": "grimoireofgaia:ant_hill",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+
 	//ratsmobcounter
 
 	{
@@ -1128,6 +1147,18 @@
 		"mincount": {
 			"amount": 20,
 			"mob": "oe:salmon",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+
+	//quarkcounter
+
+	{
+		"mob": "quark:stoneling",
+		"mincount": {
+			"amount": 15,
+			"mob": "quark:stoneling",
 			"perchunk": true
 		},
 		"result": "deny"
