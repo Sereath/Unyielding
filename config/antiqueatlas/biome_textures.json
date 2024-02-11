@@ -172,6 +172,8 @@
     "minecraft:taiga_cold_hills": "SNOW_PINES_HILLS",
     "minecraft:taiga_hills": "PINES_HILLS",
     "minecraft:void": "END_VOID",
+    "mocreatures:wyvern_desert_isles": "PLAINS",
+    "mocreatures:wyvern_isles": "PLAINS",
     "netherex:arctic_abyss": "SNOW",
     "netherex:fungi_forest": "SAVANNA",
     "netherex:ruthless_sands": "SAVANNA",
