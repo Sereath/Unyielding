@@ -305,6 +305,8 @@ key_key.plustic_toggle_tool.desc:51:ALT
 key_key.plustic_fruit_salad.desc:12:ALT
 key_key.plustic_mots.desc:13:ALT
 key_xreliquary.keybind.fortune_coin:0
+key_key.quit.fastQuit:16
+key_key.quit.bossKey:48
 key_key.arms.desc:0
 key_key.mod.desc:77
 key_key.head.desc:0
