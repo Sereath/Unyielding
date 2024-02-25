@@ -3,6 +3,7 @@
 mods.ItemStages.stageModItems("TE", "thermaldynamics");
 mods.ItemStages.stageModItems("TE", "thermalexpansion");
 mods.ItemStages.stageModItems("TE", "thermalinnovation");
+mods.ItemStages.stageModItems("TE", "superiorshields");
 
 mods.ItemStages.stageModItems("TG", "techguns");
 
@@ -16,6 +17,7 @@ mods.ItemStages.stageModItems("IE", "betterboilers");
 mods.ItemStages.stageModItems("AA", "actuallyadditions");
 mods.ItemStages.stageModItems("AA", "portality");
 mods.ItemStages.stageModItems("AA", "xnet");
+mods.ItemStages.stageModItems("AA", "emergingtechnology");
 
 mods.ItemStages.stageModItems("EIO", "enderio");
 mods.ItemStages.stageModItems("EIO", "environmentaltech");

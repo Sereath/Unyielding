@@ -6,6 +6,7 @@ Recipes.setRecipeStageByMod("TE", "thermaldynamics");
 Recipes.setRecipeStageByMod("TE", "thermalexpansion");
 Recipes.setRecipeStageByMod("TE", "thermalinnovation");
 //Recipes.setRecipeStageByMod("ThermalExpansion", "xnet");
+Recipes.setRecipeStageByMod("TE", "superiorshields");
 
 //Recipes.setRecipeStageByMod("IndustrialRenewal", "industrialrenewal");
 
@@ -21,6 +22,7 @@ Recipes.setRecipeStageByMod("IE", "betterboilers");
 Recipes.setRecipeStageByMod("AA", "actuallyadditions");
 Recipes.setRecipeStageByMod("AA", "portality");
 Recipes.setRecipeStageByMod("AA", "xnet");
+Recipes.setRecipeStageByMod("AA", "emergingtechnology");
 
 Recipes.setRecipeStageByMod("EIO", "enderio");
 Recipes.setRecipeStageByMod("EIO", "environmentaltech");
