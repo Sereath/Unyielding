@@ -11,7 +11,8 @@ Book.addBook("TE", "Thermal Expansion", "Machinery Manual", "thermalexpansion:ca
 
 Book.addBook("TG", "Techguns", "Armaments Manual", "techguns:t3_power_helmet", 0xA7BB40);
 
-Book.addBook("IE", "Immersive Engineering", "Engineering Manual", "immersiveengineering:metal_multiblock@5", 0xD1994E);
+Book.addBook("MG", "Magneticraft", "Magneticraft Manual", "magneticraft:inserter", 0xD1994E);
+//Book.addBook("IE", "Immersive Engineering", "Engineering Manual", "immersiveengineering:metal_multiblock@5", 0xD1994E);
 //Book.addBook("ImmersivePetroleum", "Immersive Petroleum", "Engineering II Manual", "immersivepetroleum:metal_device@1", 0xD1994E);
 //Book.addBook("ImmersiveTechnology", "Immersive Technology", "Engineering III Manual", "immersivetech:metal_device", 0xD1994E);
 

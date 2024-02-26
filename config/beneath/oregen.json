@@ -90,8 +90,8 @@
     "maxy": 224
   },
   {
-    "ore": "immersiveengineering:ore",
-    "oremeta": 5,
+    "ore": "nuclearcraft:ore",
+    "oremeta": 4,
     "source": "minecraft:stone",
     "srcmeta": 0,
     "veins": 2,

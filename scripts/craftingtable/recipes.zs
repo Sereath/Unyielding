@@ -125,12 +125,12 @@ recipes.remove(<actuallyadditions:block_breaker>);
 //drillhead
 recipes.remove(<thermalfoundation:material:656>);
 
-recipes.remove(<immersiveengineering:drill>);
-recipes.remove(<immersiveengineering:drillhead>);
+//recipes.remove(<immersiveengineering:drill>);
+//recipes.remove(<immersiveengineering:drillhead>);
 
-recipes.remove(<immersiveengineering:toolupgrade:2>);
-recipes.remove(<immersiveengineering:toolupgrade:1>);
-recipes.remove(<immersiveengineering:toolupgrade>);
+//recipes.remove(<immersiveengineering:toolupgrade:2>);
+//recipes.remove(<immersiveengineering:toolupgrade:1>);
+//recipes.remove(<immersiveengineering:toolupgrade>);
 
 recipes.remove(<openblocks:generic>);
 
@@ -323,7 +323,7 @@ recipes.remove(<apotheosis:prismatic_web>);
 
 recipes.remove(<xreliquary:twilight_cloak>);
 
-recipes.remove(<immersiveengineering:conveyor>);
+//recipes.remove(<immersiveengineering:conveyor>);
 
 recipes.addShaped(<buildinggadgets:buildingtool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemPulsatingCrystal>, <ore:crystalRestonia>, <ore:itemPulsatingCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
 recipes.addShaped(<buildinggadgets:exchangertool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemPulsatingCrystal>, <ore:crystalPalis>, <ore:itemPulsatingCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);

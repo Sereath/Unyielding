@@ -12,12 +12,13 @@ Recipes.setRecipeStageByMod("TE", "superiorshields");
 
 Recipes.setRecipeStageByMod("TG", "techguns");
 
-Recipes.setRecipeStageByMod("IE", "immersiveengineering");
-Recipes.setRecipeStageByMod("IE", "immersivepetroleum");
-Recipes.setRecipeStageByMod("IE", "immersivetech");
-Recipes.setRecipeStageByMod("IE", "engineersdecor");
-Recipes.setRecipeStageByMod("IE", "rsgauges");
-Recipes.setRecipeStageByMod("IE", "betterboilers");
+Recipes.setRecipeStageByMod("MG", "magneticraft");
+//Recipes.setRecipeStageByMod("IE", "immersiveengineering");
+//Recipes.setRecipeStageByMod("IE", "immersivepetroleum");
+//Recipes.setRecipeStageByMod("IE", "immersivetech");
+Recipes.setRecipeStageByMod("MG", "engineersdecor");
+Recipes.setRecipeStageByMod("MG", "rsgauges");
+Recipes.setRecipeStageByMod("MG", "betterboilers");
 
 Recipes.setRecipeStageByMod("AA", "actuallyadditions");
 Recipes.setRecipeStageByMod("AA", "portality");

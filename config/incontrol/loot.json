@@ -31,7 +31,7 @@
     {
         "mob": "techguns:zombiesoldier",
         "player": true,
-        "item": "gamestagebooks:ie",
+        "item": "gamestagebooks:mg",
         "itemcount": "1",
         "random": "0.009"
     },
@@ -48,7 +48,7 @@
     {
         "mob": "techguns:zombiefarmer",
         "player": true,
-        "item": "gamestagebooks:ie",
+        "item": "gamestagebooks:mg",
         "itemcount": "1",
         "random": "0.006"
     },
@@ -65,7 +65,7 @@
     {
         "mob": "techguns:zombieminer",
         "player": true,
-        "item": "gamestagebooks:ie",
+        "item": "gamestagebooks:mg",
         "itemcount": "1",
         "random": "0.006"
     },
@@ -82,7 +82,7 @@
     {
         "mob": "techguns:cyberdemon",
         "player": true,
-        "item": "gamestagebooks:ie",
+        "item": "gamestagebooks:mg",
         "itemcount": "1",
         "random": "0.09"
     },
@@ -113,7 +113,7 @@
     {
         "mob": "techguns:skeletonsoldier",
         "player": true,
-        "item": "gamestagebooks:ie",
+        "item": "gamestagebooks:mg",
         "itemcount": "1",
         "random": "0.009"
     },
@@ -130,7 +130,7 @@
     {
         "mob": "techguns:psychosteve",
         "player": true,
-        "item": "gamestagebooks:ie",
+        "item": "gamestagebooks:mg",
         "itemcount": "1",
         "random": "0.27"
     },

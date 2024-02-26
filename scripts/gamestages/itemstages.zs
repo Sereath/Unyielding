@@ -7,12 +7,13 @@ mods.ItemStages.stageModItems("TE", "superiorshields");
 
 mods.ItemStages.stageModItems("TG", "techguns");
 
-mods.ItemStages.stageModItems("IE", "immersiveengineering");
-mods.ItemStages.stageModItems("IE", "immersivepetroleum");
-mods.ItemStages.stageModItems("IE", "immersivetech");
-mods.ItemStages.stageModItems("IE", "engineersdecor");
-mods.ItemStages.stageModItems("IE", "rsgauges");
-mods.ItemStages.stageModItems("IE", "betterboilers");
+mods.ItemStages.stageModItems("MG", "magneticraft");
+//mods.ItemStages.stageModItems("IE", "immersiveengineering");
+//mods.ItemStages.stageModItems("IE", "immersivepetroleum");
+//mods.ItemStages.stageModItems("IE", "immersivetech");
+mods.ItemStages.stageModItems("MG", "engineersdecor");
+mods.ItemStages.stageModItems("MG", "rsgauges");
+mods.ItemStages.stageModItems("MG", "betterboilers");
 
 mods.ItemStages.stageModItems("AA", "actuallyadditions");
 mods.ItemStages.stageModItems("AA", "portality");
