@@ -98,8 +98,8 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
-key_quark.keybind.lockBuilding:76
 key_quark.keybind.toggleAutojump:40
+key_quark.keybind.lockBuilding:76
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -253,12 +253,6 @@ key_key.keyWheel:0
 key_key.keyExtraCraftin:0
 key_key.toggleLiquids:75
 key_key.toggleVisible:71
-key_key.dungeontactics.rocketjump.desc:57
-key_key.dungeontactics.shieldbash.desc:0
-key_key.dungeontactics.trinket1.desc:44
-key_key.dungeontactics.trinket2.desc:45
-key_key.dungeontactics.trinket3.desc:0
-key_key.dungeontactics.trinket4.desc:47
 key_key.elenaidodge.dodge:-96
 key_keybind.enderskills.skill_bound.rotate_right:32:ALT
 key_keybind.enderskills.skill_bound.rotate_left:30:ALT
@@ -289,6 +283,10 @@ key_key.itemzoom.toggle:0
 key_key.itemzoom.hold:0
 key_key.itemzoom.zoom.in:0
 key_key.itemzoom.zoom.out:0
+key_key.jeiutilities.displayRecipe:29
+key_key.jeiutilities.pickBookmark:-98
+key_key.jeiutilities.transferRecipe:17:CONTROL
+key_key.jeiutilities.transferRecipeMax:20:CONTROL
 key_key.music_player_gui:0
 key_key.music_player_toggle:0
 key_key.music_player_next:0

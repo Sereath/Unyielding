@@ -5,6 +5,8 @@ mods.ItemStages.stageModItems("TE", "thermalexpansion");
 mods.ItemStages.stageModItems("TE", "thermalinnovation");
 mods.ItemStages.stageModItems("TE", "superiorshields");
 
+mods.ItemStages.stageModItems("IR", "industrialrenewal");
+
 mods.ItemStages.stageModItems("TG", "techguns");
 
 mods.ItemStages.stageModItems("MG", "magneticraft");

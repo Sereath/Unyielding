@@ -70,26 +70,6 @@
     "maxy": 186
   },
   {
-    "ore": "dungeontactics:silver_ore",
-    "oremeta": 0,
-    "source": "minecraft:stone",
-    "srcmeta": 0,
-    "veins": 6,
-    "size": 12,
-    "miny": 10,
-    "maxy": 224
-  },
-  {
-    "ore": "dungeontactics:mithril_ore",
-    "oremeta": 0,
-    "source": "minecraft:stone",
-    "srcmeta": 0,
-    "veins": 3,
-    "size": 6,
-    "miny": 10,
-    "maxy": 224
-  },
-  {
     "ore": "nuclearcraft:ore",
     "oremeta": 4,
     "source": "minecraft:stone",

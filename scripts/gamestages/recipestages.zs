@@ -8,7 +8,7 @@ Recipes.setRecipeStageByMod("TE", "thermalinnovation");
 //Recipes.setRecipeStageByMod("ThermalExpansion", "xnet");
 Recipes.setRecipeStageByMod("TE", "superiorshields");
 
-//Recipes.setRecipeStageByMod("IndustrialRenewal", "industrialrenewal");
+Recipes.setRecipeStageByMod("IR", "industrialrenewal");
 
 Recipes.setRecipeStageByMod("TG", "techguns");
 

@@ -7,7 +7,7 @@ import mods.gamestagebooks.Book;
 Book.addBook("TE", "Thermal Expansion", "Machinery Manual", "thermalexpansion:capacitor@4", 0x35749F);
 //Book.addBook("ThermalInnovation", "Thermal Innovation", "Machinery III Manual", "thermalinnovation:drill@4", 0x35749F);
 
-//Book.addBook("IndustrialRenewal", "Industrial Renewal", "Industrial Machinery Manual", "industrialrenewal:mining", 0x8BCBED);
+Book.addBook("IR", "Industrial Renewal", "Industrial Machinery Manual", "industrialrenewal:mining", 0x8BCBED);
 
 Book.addBook("TG", "Techguns", "Armaments Manual", "techguns:t3_power_helmet", 0xA7BB40);
 
