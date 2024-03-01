@@ -35,6 +35,7 @@ Recipes.setRecipeStageByMod("CYC", "cyclicmagic");
 
 Recipes.setRecipeStageByMod("RB", "openblocks");
 Recipes.setRecipeStageByMod("RB", "randomthings");
+Recipes.setRecipeStageByMod("RB", "compositegear");
 
 //Recipes.setRecipeStageByMod("TE", "extendedcrafting");
 
