@@ -45,6 +45,28 @@
   },
   {
     "coreMaterialStats": {
+      "durability": 79.0,
+      "defense": 27.0,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 113.68422,
+      "modifier": 19.058823,
+      "toughness": 0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 113.68422,
+      "materialType": "trim"
+    },
+    "identifier": "prog.orichalcum",
+    "color": -10027145,
+    "type": "METAL",
+    "castable": true,
+    "craftable": false
+  },
+  {
+    "coreMaterialStats": {
       "durability": 14.0,
       "defense": 10.125,
       "materialType": "core"
@@ -551,6 +573,28 @@
   },
   {
     "coreMaterialStats": {
+      "durability": 21.0,
+      "defense": 13.5,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 18.947369,
+      "modifier": 11.181176,
+      "toughness": 0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 18.947369,
+      "materialType": "trim"
+    },
+    "identifier": "prog.hellsteel",
+    "color": -26368,
+    "type": "METAL",
+    "castable": true,
+    "craftable": false
+  },
+  {
+    "coreMaterialStats": {
       "durability": 70.0,
       "defense": 2.25,
       "materialType": "core"
@@ -589,6 +633,28 @@
     },
     "identifier": "tritonite",
     "color": -22016,
+    "type": "METAL",
+    "castable": true,
+    "craftable": false
+  },
+  {
+    "coreMaterialStats": {
+      "durability": 79.0,
+      "defense": 27.0,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 75.789474,
+      "modifier": 16.517645,
+      "toughness": 0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 75.789474,
+      "materialType": "trim"
+    },
+    "identifier": "prog.titanium",
+    "color": -5592355,
     "type": "METAL",
     "castable": true,
     "craftable": false
@@ -1095,6 +1161,50 @@
     },
     "identifier": "dyonite",
     "color": -11141291,
+    "type": "METAL",
+    "castable": true,
+    "craftable": false
+  },
+  {
+    "coreMaterialStats": {
+      "durability": 79.0,
+      "defense": 27.0,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 113.68422,
+      "modifier": 19.058823,
+      "toughness": 0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 113.68422,
+      "materialType": "trim"
+    },
+    "identifier": "prog.mithril",
+    "color": -10040065,
+    "type": "METAL",
+    "castable": true,
+    "craftable": false
+  },
+  {
+    "coreMaterialStats": {
+      "durability": 79.0,
+      "defense": 27.0,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 113.68422,
+      "modifier": 19.058823,
+      "toughness": 0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 113.68422,
+      "materialType": "trim"
+    },
+    "identifier": "prog.adamantite",
+    "color": -39305,
     "type": "METAL",
     "castable": true,
     "craftable": false

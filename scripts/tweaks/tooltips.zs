@@ -202,3 +202,20 @@
 
 <mowziesmobs:wrought_axe>.displayName = "§4Axe of a Thousand Metals";
 <mowziesmobs:wrought_helmet>.displayName = "§4Wrought Helm";
+
+//<progressivecore:chunk_titanium>.displayName = "Runite Chunk";
+//<progressivecore:ore_titanium>.displayName = "Runite Ore";
+//<progressivecore:ore_nether_titanium>.displayName = "Runite Ore";
+//<progressivecore:ingot_titanium>.displayName = "Runite Ingot";
+//<progressivecore:block_titanium>.displayName = "Runite Block";
+//<progressivecore:sword_titanium>.displayName = "Runite Sword";
+//<progressivecore:pickaxe_titanium>.displayName = "Runite Pickaxe";
+//<progressivecore:axe_titanium>.displayName = "Runite Axe";
+//<progressivecore:shovel_titanium>.displayName = "Runite Shovel";
+//<progressivecore:hoe_titanium>.displayName = "Runite Hoe";
+//<progressivecore:helmet_titanium>.displayName = "Runite Helmet";
+//<progressivecore:chestplate_titanium>.displayName = "Runite Chestplate";
+//<progressivecore:leggings_titanium>.displayName = "Runite Leggings";
+//<progressivecore:boots_titanium>.displayName = "Runite Boots";
+//<progressivecore:smelter4>.displayName = "Runite Smelter";
+//<progressivecore:smelter4_on>.displayName = "Runite Smelter";
