@@ -132,7 +132,7 @@
       },
       "texLocation": "minecraft:textures/gui/options_background.png"
     },
-    "worldGuiBackground": {
+    "altGuiBackground": {
       "start": {
         "red": 16,
         "green": 16,
@@ -174,8 +174,7 @@
     },
     "dynamicIcons": {
       "Sereath": "https://mc-heads.net/avatar/1d7be0a0ae364f3ea9834a4c89e15201",
-      "default": "https://via.placeholder.com/256.png",
-      "192.168.100.2": "https://api.mcsrvstat.us/icon/192.168.100.2"
+      "default": "https://via.placeholder.com/256.png"
     },
     "dynamicVariables": {
       "default": "Example Text",
