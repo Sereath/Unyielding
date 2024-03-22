@@ -73,22 +73,25 @@
 	[songs.k_ha50121369_192433]
 		triggers = [ "dimension-overworld" "height-underground" ]
 	[songs.ap]
-		volume = "1.2"
+		volume = "1.3"
 		triggers = [ "dimension-overworld" "time-night" ]
 	[songs.ca]
-		triggers = [ "dimension-overworld" "time-night" ]
-	[songs.dca]
-		volume = "0.7"
-		triggers = [ "dimension-overworld" "time-night" ]
-	[songs.dcb]
-		volume = "0.7"
-		triggers = [ "dimension-overworld" "time-night" ]
-	[songs.de]
 		volume = "0.9"
 		triggers = [ "dimension-overworld" "time-night" ]
+	[songs.dca]
+		volume = "0.4"
+		triggers = [ "dimension-overworld" "time-night" ]
+	[songs.dcb]
+		volume = "0.4"
+		triggers = [ "dimension-overworld" "time-night" ]
+	[songs.de]
+		volume = "0.7"
+		triggers = [ "dimension-overworld" "time-night" ]
 	[songs.dw]
+		volume = "0.9"
 		triggers = [ "dimension-overworld" "time-night" ]
 	[songs.lh]
+		volume = "0.9"
 		triggers = [ "dimension-overworld" "time-night" ]
 	[songs.qsanm]
 		triggers = [ "dimension-overworld" "time-night" ]

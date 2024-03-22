@@ -23,14 +23,14 @@
 <srparasites:weapon_bow_sentient>.displayName = "§5Sentient greatbow";
 //<srparasites:weapon_bow_sentient>.addTooltip(format.darkRed("..."));
 
-<srparasites:armor_helm>.displayName = "§dLiving Helm";
-<srparasites:armor_chest>.displayName = "§dLiving Chest";
-<srparasites:armor_pants>.displayName = "§dLiving Pants";
+<srparasites:armor_helm>.displayName = "§dLiving Helmet";
+<srparasites:armor_chest>.displayName = "§dLiving Chestplate";
+<srparasites:armor_pants>.displayName = "§dLiving Leggings";
 <srparasites:armor_boots>.displayName = "§dLiving Boots";
 
-<srparasites:armor_helm_sentient>.displayName = "§5Sentient Helm";
-<srparasites:armor_chest_sentient>.displayName = "§5Sentient Chest";
-<srparasites:armor_pants_sentient>.displayName = "§5Sentient Pants";
+<srparasites:armor_helm_sentient>.displayName = "§5Sentient Helmet";
+<srparasites:armor_chest_sentient>.displayName = "§5Sentient Chestplate";
+<srparasites:armor_pants_sentient>.displayName = "§5Sentient Leggings";
 <srparasites:armor_boots_sentient>.displayName = "§5Sentient Boots";
 
 
@@ -202,6 +202,37 @@
 
 <mowziesmobs:wrought_axe>.displayName = "§4Axe of a Thousand Metals";
 <mowziesmobs:wrought_helmet>.displayName = "§4Wrought Helm";
+
+
+<enderio:item_dark_steel_helmet>.displayName = "§bDark Helmet";
+<enderio:item_dark_steel_chestplate>.displayName = "§bDark Chestplate";
+<enderio:item_dark_steel_leggings>.displayName = "§bDark Leggings";
+<enderio:item_dark_steel_boots>.displayName = "§bDark Boots";
+<enderio:item_dark_steel_shield>.displayName = "§bDark Shield";
+<enderio:item_dark_steel_sword>.displayName = "§bThe Ender";
+<enderio:item_dark_steel_pickaxe>.displayName = "§bDark Pickaxe";
+<enderio:item_dark_steel_axe>.displayName = "§bDark Axe";
+<enderio:item_dark_steel_bow>.displayName = "§bDark Bow";
+<enderio:item_dark_steel_shears>.displayName = "§bDark Shears";
+
+<enderio:item_end_steel_helmet>.displayName = "§3Ender Helmet";
+<enderio:item_end_steel_chestplate>.displayName = "§3Ender Chestplate";
+<enderio:item_end_steel_leggings>.displayName = "§3Ender Leggings";
+<enderio:item_end_steel_boots>.displayName = "§3Ender Boots";
+<enderio:item_end_steel_shield>.displayName = "§3Ender Shield";
+<enderio:item_end_steel_sword>.displayName = "§3The Ender Mark II";
+<enderio:item_end_steel_pickaxe>.displayName = "§3Ender Pickaxe";
+<enderio:item_end_steel_axe>.displayName = "§3Ender Axe";
+<enderio:item_end_steel_bow>.displayName = "§3Ender Bow";
+
+<enderio:item_stellar_alloy_helmet>.displayName = "§6Stellar Helmet";
+<enderio:item_stellar_alloy_chestplate>.displayName = "§6Stellar Chestplate";
+<enderio:item_stellar_alloy_leggings>.displayName = "§6Stellar Leggings";
+<enderio:item_stellar_alloy_boots>.displayName = "§6Stellar Boots";
+<enderio:item_stellar_alloy_sword>.displayName = "§6The Ender Mark IV";
+<enderio:item_stellar_alloy_pickaxe>.displayName = "§6Stellar Pickaxe";
+<enderio:item_stellar_alloy_axe>.displayName = "§6Stellar Axe";
+
 
 //<progressivecore:chunk_titanium>.displayName = "Runite Chunk";
 //<progressivecore:ore_titanium>.displayName = "Runite Ore";
