@@ -187,7 +187,6 @@
   "bouncy_armor",
   "tconevo.second_wind_armor",
   "sharp",
-  "jaded",
   "flame2",
   "tconevo.astral",
   "apocalypse",
