@@ -340,7 +340,7 @@
 	},
 
 	{
-		"dimension": [0,66],
+		"dimension": 0,
 		"mobs":	[
 			{
 				"mob": "grimoireofgaia:dwarf",
@@ -352,7 +352,7 @@
 	},
 
 	{
-		"dimension": [0,66],
+		"dimension": 0,
 		"mobs":	[
 			{
 				"mob": "grimoireofgaia:orc",
@@ -558,17 +558,6 @@
 			{
 				"mob": "srparasites:rupter",
 				"weight": 45,
-				"groupcountmin": 1,
-				"groupcountmax": 14
-			}
-		]
-	},
-	{
-		"dimension": 66,
-		"mobs":	[
-			{
-				"mob": "srparasites:rupter",
-				"weight": 15,
 				"groupcountmin": 1,
 				"groupcountmax": 14
 			}

@@ -197,9 +197,6 @@
 <rats:plague_scythe>.displayName = "§5Black Death Scythe";
 
 
-<erebus:war_hammer>.displayName = "§6Quake";
-
-
 <mowziesmobs:wrought_axe>.displayName = "§4Axe of a Thousand Metals";
 <mowziesmobs:wrought_helmet>.displayName = "§4Wrought Helm";
 

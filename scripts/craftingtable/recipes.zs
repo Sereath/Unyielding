@@ -134,10 +134,6 @@ recipes.remove(<thermalfoundation:material:656>);
 
 recipes.remove(<openblocks:generic>);
 
-recipes.remove(<erebus:portal_activator>);
-recipes.remove(<erebus:gaean_keystone>);
-recipes.remove(<erebus:jade_paxel>);
-
 recipes.removeByRecipeName("techguns:m4_alt");
 recipes.removeByRecipeName("techguns:m4");
 //recipes.removeByRecipeName("techguns:m4_ammo_incendiary");

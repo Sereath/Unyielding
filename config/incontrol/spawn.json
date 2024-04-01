@@ -529,17 +529,7 @@
 		"result": "allow"
 	},
 	{
-		"dimension": 66,
-		"mob": "grimoireofgaia:dwarf",
-		"random": 0.000875,
-		"maxcount": {
-			"amount": 6,
-			"perchunk": true
-		},
-		"result": "allow"
-	},
-	{
-		"dimension": [0,66],
+		"dimension": 0,
 		"mob": "grimoireofgaia:dwarf",
 		"result": "deny"
 	},
@@ -560,17 +550,7 @@
 		"result": "allow"
 	},
 	{
-		"dimension": 66,
-		"mob": "grimoireofgaia:orc",
-		"random": 0.000875,
-		"maxcount": {
-			"amount": 3,
-			"perchunk": true
-		},
-		"result": "allow"
-	},
-	{
-		"dimension": [0,66],
+		"dimension": 0,
 		"mob": "grimoireofgaia:orc",
 		"result": "deny"
 	},
@@ -823,20 +803,7 @@
 		"result": "allow"
 	},
 	{
-		"dimension": 66,
-		"mob": "srparasites:rupter",
-		"block": "dimstack:portal",
-		"random": 0.000875,
-		"maxlight": 7,
-		"minlight": 0,
-		"maxcount":	{
-			"amount": 30,
-			"perchunk": true
-		},
-		"result": "allow"
-	},
-	{
-		"dimension": [0,10,66],
+		"dimension": [0,10],
 		"mob": "srparasites:rupter",
 		"result": "deny"
 	},
@@ -1085,20 +1052,6 @@
 		"mincount": {
 			"amount": 30,
 			"mob": "rats:rat",
-			"perchunk": true
-		},
-		"result": "deny"
-	},
-
-	//erebuscounter
-
-	{
-		"dimension": 66,
-		"mob": "erebus:erebus.grasshopper",
-		"onjoin": true,
-		"mincount": {
-			"amount": 4,
-			"mob": "erebus:erebus.grasshopper",
 			"perchunk": true
 		},
 		"result": "deny"
