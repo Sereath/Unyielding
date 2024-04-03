@@ -9,6 +9,7 @@
         <spawning>
             <entity name="iceandfire:firedragon" costMultiplier="100.0" disabled="true" soulvial="false"/>
             <entity name="iceandfire:icedragon" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="iceandfire:lightningdragon" costMultiplier="100.0" disabled="true" soulvial="false"/>
         </spawning>
     </recipe>
     <recipe name="Spawner, Touhou Little Maid" required="false">
