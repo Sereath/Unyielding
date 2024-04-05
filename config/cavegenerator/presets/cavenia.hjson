@@ -1,0 +1,72 @@
+{
+  imports: ground.hjson::NATURAL_STONE
+  enabled: true
+  dimensions: [ -54 ]
+  replaceableBlocks: $NATURAL_STONE
+  replaceDecorators: true
+  caverns: {
+    height: [ 64, 128 ]
+    ceiling: {
+      frequency: 0.02
+      range: [ -5, 0 ]
+    }
+    floor: {
+      frequency: 0.02
+      range: [ -2, 2 ]
+    }
+    generators: [
+      {
+        frequency: 0.0125
+        stretch: 0.5
+        lacunarity: 1
+        gain: 0.25
+        jitter: 0.45
+        jitterX: 0.75
+        jitterY: 0.9
+        jitterZ: 0.9
+        octaves: 1
+        perturb: true
+        perturbAmp: 5
+        perturbFreq: 0.1
+        invert: true
+        type: Cellular
+        interp: Quintic
+        fractal: FBM
+        distFunc: Euclidean
+        returnType: Distance3Div
+        cellularLookup: Simplex
+        seed: 1
+        threshold: -0.125
+      }
+    ]
+  }
+  rooms: {
+    scale: 6
+    stretch: 0.5
+  }
+  tunnels: {
+    count: 7
+    height: [ 64, 128 ]
+    systemChance: 0.00050
+    noiseYReduction: false
+    distance: 320
+    resizeBranches: false
+    scale: {
+      startVal: 1
+      startValRandFactor: 0.2
+      randFactor: 0
+    }
+    stretch: {
+      startVal: 1
+      randFactor: 0
+    }
+    dYaw: {
+      factor: 0.6
+      randFactor: 3
+    }
+    dPitch: {
+      factor: 0.5
+      randFactor: 1
+    }
+  }
+}

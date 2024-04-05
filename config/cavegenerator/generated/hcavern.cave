@@ -1,0 +1,116 @@
+{
+  enabled: true
+  dimensions: [ -51 ]
+  replaceableBlocks: [
+    minecraft:stone
+    minecraft:stone:1
+    minecraft:stone:2
+    minecraft:stone:3
+    minecraft:stone:4
+    minecraft:stone:5
+    minecraft:stone:6
+    minecraft:grass
+    minecraft:dirt
+    minecraft:dirt:1
+    minecraft:dirt:2
+    minecraft:cobblestone
+    minecraft:sand
+    minecraft:sand:1
+    minecraft:gravel
+    minecraft:sandstone
+    minecraft:sandstone:1
+    minecraft:sandstone:2
+    minecraft:mossy_cobblestone
+    minecraft:ice
+    minecraft:snow
+    minecraft:clay
+    minecraft:end_stone
+    minecraft:stained_hardened_clay
+    minecraft:stained_hardened_clay:1
+    minecraft:stained_hardened_clay:2
+    minecraft:stained_hardened_clay:3
+    minecraft:stained_hardened_clay:4
+    minecraft:stained_hardened_clay:5
+    minecraft:stained_hardened_clay:6
+    minecraft:stained_hardened_clay:7
+    minecraft:stained_hardened_clay:8
+    minecraft:stained_hardened_clay:9
+    minecraft:stained_hardened_clay:10
+    minecraft:stained_hardened_clay:11
+    minecraft:stained_hardened_clay:12
+    minecraft:stained_hardened_clay:13
+    minecraft:stained_hardened_clay:14
+    minecraft:stained_hardened_clay:15
+    minecraft:hardened_clay
+    minecraft:packed_ice
+    minecraft:red_sandstone
+    minecraft:red_sandstone:1
+    minecraft:red_sandstone:2
+  ]
+  replaceDecorators: true
+  caverns: {
+    height: [ 162, 254 ]
+    ceiling: {
+      frequency: 0.02
+      range: [ -5, 0 ]
+    }
+    floor: {
+      frequency: 0.02
+      range: [ -2, 2 ]
+    }
+    generators: [
+      {
+        frequency: 0.0125
+        stretch: 0.5
+        lacunarity: 1
+        gain: 0.25
+        jitter: 0.45
+        jitterX: 0.75
+        jitterY: 0.9
+        jitterZ: 0.9
+        octaves: 1
+        perturb: true
+        perturbAmp: 5
+        perturbFreq: 0.1
+        invert: true
+        type: Cellular
+        interp: Quintic
+        fractal: FBM
+        distFunc: Euclidean
+        returnType: Distance3Div
+        cellularLookup: Simplex
+        seed: 1
+        threshold: -0.125
+      }
+    ]
+  }
+  rooms: {
+    scale: 6
+    stretch: 0.5
+  }
+  tunnels: {
+    count: 7
+    height: [ 162, 254 ]
+    systemChance: 0.00050
+    noiseYReduction: false
+    distance: 320
+    resizeBranches: false
+    scale: {
+      startVal: 1
+      startValRandFactor: 0.2
+      randFactor: 0
+    }
+    stretch: {
+      startVal: 1
+      randFactor: 0
+    }
+    dYaw: {
+      factor: 0.6
+      randFactor: 3
+    }
+    dPitch: {
+      factor: 0.5
+      randFactor: 1
+    }
+  }
+}
