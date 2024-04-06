@@ -1,6 +1,6 @@
 {
-  enabled: true
-  dimensions: [ -54 ]
+  enabled: false
+  dimensions: [ 3 ]
   replaceableBlocks: [
     minecraft:stone
     minecraft:stone:1

@@ -57,7 +57,7 @@ INIT() {
 	
 	!stacking dimensions on top of each other so they get connected via portals (order bottom to top):
 	!add("dimstack", [<dimId>...]#);
-	add("dimstack", [10, -52, -51, -54, 0]#); !overworld on top of x on top of beneath (rem '!' to enable)
+	add("dimstack", [10, 7, 5, 3, 0]#); !overworld on top of x on top of beneath (rem '!' to enable)
 	
 	!creating new dimensions for the game:
 	!add("dimension", <id>, <generator>, <biome>, <horizonHeight>, <cloudHeight>, <hasSkylight>, <waterEvaporates>, <isNetherlike>, <hasSky&Clouds>, <hasFog>, [<voidFogY>, <fogRed>, <fogGreen>, <fogBlue>]#);
@@ -72,14 +72,14 @@ INIT() {
 	
 	!lower the portal ceiling height in the nether
 	!dim_ceiling:-1 = 127;
-	dim_ceiling:-54 = 127;
+	dim_ceiling:3 = 127;
 	!Note: setting dim_ceiling to negative values will flip the dimension upside down, meaning that floor and ceiling portals are swapped.
 	
 	!prevent bedrock from being generated in ...
 	rem_block_gen:0 = "minecraft:bedrock"; !the Overworld (rem '!' to enable)
-	rem_block_gen:-54 = "minecraft:bedrock"; !the Cavenia
-	rem_block_gen:-51 = "minecraft:bedrock"; !the Hcavern
-	rem_block_gen:-52 = "minecraft:bedrock"; !the Acavern
+	rem_block_gen:3 = "minecraft:bedrock"; !the Cavenia
+	rem_block_gen:5 = "minecraft:bedrock"; !the Hcavern
+	rem_block_gen:7 = "minecraft:bedrock"; !the Acavern
 	rem_block_gen:10 = "minecraft:bedrock"; !the Beneath
 	!rem_block_gen:-1 = "minecraft:bedrock"; !the Nether (rem '!' to enable)
 	
@@ -100,9 +100,9 @@ INIT() {
 	!add("basicLayer", <dimId>, <blockstate>, [<startY>, <minY>, <maxY>, <endY>]#);
 	!add("basicLayer", -1, "dimstack:bedrock@12", [118, 120, 121, 123]#); !put our fiery bedrock at nether celing just below the portal (rem '!' to enable)
 	add("basicLayer", 0, "dimstack:bedrock@0", [1, 1, 2, 2]#);
-	add("basicLayer", -54, "dimstack:bedrock@0", [1, 1, 2, 2]#);
-	add("basicLayer", -51, "dimstack:bedrock@1", [1, 1, 2, 2]#);
-	add("basicLayer", -52, "dimstack:bedrock@1", [1, 1, 2, 2]#);
+	add("basicLayer", 3, "dimstack:bedrock@0", [1, 1, 2, 2]#);
+	add("basicLayer", 5, "dimstack:bedrock@1", [1, 1, 2, 2]#);
+	add("basicLayer", 7, "dimstack:bedrock@1", [1, 1, 2, 2]#);
 	add("basicLayer", 10, "minecraft:bedrock", [0, 0, 2, 2]#);
 	!remove the '!' in the following line to enable top half nether generation
 	!netherTop();

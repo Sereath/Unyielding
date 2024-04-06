@@ -125,13 +125,6 @@ recipes.remove(<actuallyadditions:block_breaker>);
 //drillhead
 recipes.remove(<thermalfoundation:material:656>);
 
-//recipes.remove(<immersiveengineering:drill>);
-//recipes.remove(<immersiveengineering:drillhead>);
-
-//recipes.remove(<immersiveengineering:toolupgrade:2>);
-//recipes.remove(<immersiveengineering:toolupgrade:1>);
-//recipes.remove(<immersiveengineering:toolupgrade>);
-
 recipes.remove(<openblocks:generic>);
 
 recipes.removeByRecipeName("techguns:m4_alt");
@@ -246,8 +239,6 @@ recipes.remove(<theaurorian:aurorianstone>);
 recipes.remove(<pickletweaks:constantan_paxel>);
 recipes.remove(<pickletweaks:aluminum_paxel>);
 
-recipes.remove(<malisisdoors:forcefielditem>);
-
 recipes.remove(<weirdinggadget:weirding_gadget>);
 
 //recipes.remove(<extraalchemy:empty_ring>);
@@ -262,8 +253,6 @@ recipes.remove(<corpsecomplex:scroll>);
 recipes.remove(<apotheosis:prismatic_web>);
 
 recipes.remove(<xreliquary:twilight_cloak>);
-
-//recipes.remove(<immersiveengineering:conveyor>);
 
 recipes.addShaped(<buildinggadgets:buildingtool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemPulsatingCrystal>, <ore:crystalRestonia>, <ore:itemPulsatingCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
 recipes.addShaped(<buildinggadgets:exchangertool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemPulsatingCrystal>, <ore:crystalPalis>, <ore:itemPulsatingCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
@@ -318,8 +307,6 @@ recipes.addShaped(<enderio:item_stellar_alloy_helmet>, [[null, null, null],[<ore
 recipes.addShaped(<theaurorian:auroriansteel>, [[<ore:ingotCerulean>, <ore:ingotMoonstone>, <theaurorian:aurorianiteingot>],[<theaurorian:aurorianiteingot>, <theaurorian:crystallineingot>, <theaurorian:crystallineingot>], [<theaurorian:umbraingot>, <theaurorian:umbraingot>, <theaurorian:crystal>]]);
 recipes.addShaped(<theaurorian:aurorianstone>, [[<srparasites:bone>, <thermalfoundation:material:72>, null],[<minecraft:stone>, <thermalfoundation:material:103>, null], [null, null, null]]);
 recipes.addShaped(<theaurorian:aurorianportalframebricks>, [[<jaopca:item_dustancientdebris>, <trinkplus:ascension_essence>, <theaurorian:scrapumbra>],[<trinkplus:ascension_essence>, <theaurorian:aurorianstone>, <trinkplus:ascension_essence>], [<theaurorian:scrapcrystalline>, <trinkplus:ascension_essence>, <theaurorian:scrapaurorianite>]]);
-
-recipes.addShaped(<malisisdoors:forcefielditem>, [[<trinkplus:ender_gem>, <enderio:block_reinforced_obsidian>, <trinkplus:ender_gem>],[<enderio:block_reinforced_obsidian>, <techguns:itemshared:131>, <enderio:block_reinforced_obsidian>], [<trinkplus:ender_gem>, <enderio:block_reinforced_obsidian>, <trinkplus:ender_gem>]]);
 
 recipes.addShaped(<weirdinggadget:weirding_gadget>, [[<ore:ingotBronze>, <ore:pearlEnderEye>, <ore:ingotBronze>],[<ore:blockBronze>, <ore:gemGlowing>, <ore:blockBronze>], [<ore:blockElectrum>, <ore:gearBronze>, <ore:blockElectrum>]]);
 
