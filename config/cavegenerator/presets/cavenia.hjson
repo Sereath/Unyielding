@@ -5,7 +5,7 @@
   replaceableBlocks: $NATURAL_STONE
   replaceDecorators: true
   caverns: {
-    height: [ 64, 128 ]
+    height: [ 64, 126 ]
     ceiling: {
       frequency: 0.02
       range: [ -5, 0 ]
@@ -46,7 +46,7 @@
   }
   tunnels: {
     count: 7
-    height: [ 64, 128 ]
+    height: [ 64, 126 ]
     systemChance: 0.00050
     noiseYReduction: false
     distance: 320
