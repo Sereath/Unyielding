@@ -36,7 +36,7 @@
         returnType: Distance3Div
         cellularLookup: Simplex
         seed: 1
-        threshold: -0.125
+        threshold: -0.15
       }
     ]
   }
@@ -77,7 +77,7 @@
   ]
   ravines: [
     {
-      chance: 0.01
+      chance: 0.02
       distance: 320
       originHeight: [ 4, 24 ]
     }

@@ -1,0 +1,73 @@
+{
+    "dimensions": [
+        {
+            "dim": 3,
+            "dimensiontype": {
+                "id": 3,
+                "name": "Ancient",
+                "suffix": "_dim3",
+                "keeploaded": false,
+                "worldprovider": "WorldProviderSurfaceJED",
+                "require_exact_match": true
+            },
+            "chunkgenerator": "com.noobanidus.superflatcaves.ChunkGeneratorFlatCaves",
+            "worldinfo_onetime": {
+                "generatorName": "flat",
+                "generatorOptions": "3;1*minecraft:bedrock,126*minecraft:stone,1*minecraft:bedrock;1;caves,ravines,dungeon,decoration,mineshaft,lake,lava_lake",
+                "GameRules": {
+                    "doDaylightCycle": "false"
+                },
+                "DayTime": 18000
+            }
+        },
+        {
+            "dim": 5,
+            "dimensiontype": {
+                "id": 5,
+                "name": "Underworld",
+                "suffix": "_dim5",
+                "keeploaded": false,
+                "worldprovider": "WorldProviderSurfaceJED",
+                "require_exact_match": true
+            },
+            "chunkgenerator": "com.noobanidus.superflatcaves.ChunkGeneratorFlatCaves",
+            "worldinfo_onetime": {
+                "generatorName": "flat",
+                "generatorOptions": "3;1*minecraft:bedrock,254*minecraft:stone,1*minecraft:bedrock;1;caves,ravines,dungeon,decoration,mineshaft,lake,lava_lake",
+                "GameRules": {
+                    "doDaylightCycle": "false"
+                },
+                "DayTime": 18000
+            }
+        },
+        {
+            "dim": 7,
+            "dimensiontype": {
+                "id": 7,
+                "name": "Aqua",
+                "suffix": "_dim7",
+                "keeploaded": false,
+                "worldprovider": "WorldProviderSurfaceJED",
+                "require_exact_match": true
+            },
+            "chunkgenerator": "com.noobanidus.superflatcaves.ChunkGeneratorFlatCaves",
+            "worldinfo_onetime": {
+                "generatorName": "flat",
+                "generatorOptions": "3;1*minecraft:bedrock,254*minecraft:stone,1*minecraft:bedrock;1;caves,ravines,dungeon,decoration,mineshaft,lake,lava_lake",
+                "GameRules": {
+                    "doDaylightCycle": "false"
+                },
+                "DayTime": 18000
+            }
+        },
+        {
+            "dim": 10,
+            "worldinfo_onetime": {
+                "GameRules": {
+                    "doDaylightCycle": "false"
+                },
+                "DayTime": 18000
+            }
+        }
+	]
+}

@@ -1,11 +1,11 @@
 {
   imports: ground.hjson::NATURAL_STONE
-  enabled: false
-  dimensions: [ 5 ]
+  enabled: true
+  dimensions: [ 7 ]
   replaceableBlocks: $NATURAL_STONE
   replaceDecorators: true
   caverns: {
-    height: [ 162, 254 ]
+    height: [ 128, 254 ]
     ceiling: {
       frequency: 0.02
       range: [ -5, 0 ]
@@ -36,7 +36,7 @@
         returnType: Distance3Div
         cellularLookup: Simplex
         seed: 1
-        threshold: -0.125
+        threshold: -0.3
       }
     ]
   }
@@ -46,14 +46,14 @@
   }
   tunnels: {
     count: 7
-    height: [ 162, 254 ]
+    height: [ 48, 254 ]
     systemChance: 0.00050
     noiseYReduction: false
     distance: 320
     resizeBranches: false
     scale: {
       startVal: 1
-      startValRandFactor: 0.2
+      startValRandFactor: 0.4
       randFactor: 0
     }
     stretch: {

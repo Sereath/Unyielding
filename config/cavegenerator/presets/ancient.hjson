@@ -1,6 +1,6 @@
 {
   imports: ground.hjson::NATURAL_STONE
-  enabled: false
+  enabled: true
   dimensions: [ 3 ]
   replaceableBlocks: $NATURAL_STONE
   replaceDecorators: true
@@ -36,7 +36,7 @@
         returnType: Distance3Div
         cellularLookup: Simplex
         seed: 1
-        threshold: -0.125
+        threshold: -0.3
       }
     ]
   }
@@ -46,14 +46,14 @@
   }
   tunnels: {
     count: 7
-    height: [ 64, 126 ]
+    height: [ 4, 126 ]
     systemChance: 0.00050
     noiseYReduction: false
     distance: 320
     resizeBranches: false
     scale: {
       startVal: 1
-      startValRandFactor: 0.2
+      startValRandFactor: 0.4
       randFactor: 0
     }
     stretch: {
