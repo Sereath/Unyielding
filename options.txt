@@ -110,6 +110,7 @@ key_key.xat.trinket_arcing_attack.desc:0
 key_key.xat.aux_key.desc:29
 key_key.xat.race_ability.desc:74
 key_key.spartanweaponry.access_quiver:23
+key_key.fart.desc:34
 key_ChatFlow:88
 key_cos.key.opencosarmorinventory:0
 key_MoCreatures Dive:44
@@ -313,12 +314,14 @@ key_gui.xaero_toggle_entity_radar:0
 key_gui.xaero_reverse_entity_radar:0
 key_gui.xaero_toggle_manual_cave_mode:0
 key_gui.xaero_alternative_list_players:0
+key_gui.xaero_toggle_tracked_players:0
 key_gui.xaero_minimap_settings:21:CONTROL
 key_gui.xaero_open_map:50
 key_gui.xaero_open_settings:27
 key_gui.xaero_map_zoom_in:0
 key_gui.xaero_map_zoom_out:0
 key_gui.xaero_quick_confirm:54
+key_gui.xaero_toggle_dimension:0
 key_key.sort_config:73:CONTROL
 key_key.sort:41
 key_key.drop:16:ALT

@@ -94,15 +94,17 @@ INIT() {
 	!barrier_block:13 = [it("minecraft:diamond_hoe"), "axe:3", 1.5, /0, true]; !another example (makes the diamond hoe usefull)
 	!barrier_block:12 = [it("minecraft:obsidian"), "pickaxe:3", 8.0, /0, true]; !fiery bedrock as nether progression gate
 	barrier_block:0 = [it(), "pickaxe:4", 25.0, /0, true]; !overworld to underground barrier
-	barrier_block:1 = [it(), "pickaxe:6", 50.0, /0, true]; !overworld to beneath barrier
+	barrier_block:1 = [it(), "pickaxe:5", 50.0, /0, true]; !overworld to beneath barrier
+	barrier_block:2 = [it(), "pickaxe:6", 75.0, /0, true]; !overworld to beneath barrier
+	barrier_block:3 = [it(), "pickaxe:7", 100.0, /0, true]; !overworld to beneath barrier
 	
 	!custom block layers
 	!add("basicLayer", <dimId>, <blockstate>, [<startY>, <minY>, <maxY>, <endY>]#);
 	!add("basicLayer", -1, "dimstack:bedrock@12", [118, 120, 121, 123]#); !put our fiery bedrock at nether celing just below the portal (rem '!' to enable)
 	add("basicLayer", 0, "dimstack:bedrock@0", [1, 1, 2, 2]#);
-	add("basicLayer", 3, "dimstack:bedrock@0", [1, 1, 2, 2]#);
-	add("basicLayer", 5, "dimstack:bedrock@1", [1, 1, 2, 2]#);
-	add("basicLayer", 7, "dimstack:bedrock@1", [1, 1, 2, 2]#);
+	add("basicLayer", 3, "dimstack:bedrock@1", [1, 1, 2, 2]#);
+	add("basicLayer", 5, "dimstack:bedrock@2", [1, 1, 2, 2]#);
+	add("basicLayer", 7, "dimstack:bedrock@3", [1, 1, 2, 2]#);
 	add("basicLayer", 10, "minecraft:bedrock", [0, 0, 2, 2]#);
 	!remove the '!' in the following line to enable top half nether generation
 	!netherTop();

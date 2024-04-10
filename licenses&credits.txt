@@ -73,3 +73,15 @@ Credits:
 	No changes have been made to any of the tracks used.
 
 	do/portal_spread.zs by krutoy242
+	
+	---
+	
+	In principle, the aforementioned content is licensed under their respective licences. They remain the property of their original creators.
+	Do what you like with them, as long as you respect their licence.
+	
+	However, the textures, structures and scripts that I, Sereath/7ereath, have written myself are still under my ownership.
+	You may modify the modpack for your personal use (playing, learning), but you may not re-upload it for the purpose of public distribution without permission.
+	You may not use any of the custom content created for this modpack and claim it as your own (such as textures, structures, scripts).
+	You are not allowed to redistribute any of the content I have specifically created. However, you may reuse the content listed above for your own modpack.
+	
+	---
