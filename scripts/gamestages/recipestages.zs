@@ -5,7 +5,6 @@ import mods.recipestages.Recipes;
 Recipes.setRecipeStageByMod("TE", "thermaldynamics");
 Recipes.setRecipeStageByMod("TE", "thermalexpansion");
 Recipes.setRecipeStageByMod("TE", "thermalinnovation");
-//Recipes.setRecipeStageByMod("ThermalExpansion", "xnet");
 Recipes.setRecipeStageByMod("TE", "superiorshields");
 
 Recipes.setRecipeStageByMod("IR", "industrialrenewal");
@@ -21,15 +20,16 @@ Recipes.setRecipeStageByMod("MG", "rsgauges");
 Recipes.setRecipeStageByMod("MG", "betterboilers");
 
 Recipes.setRecipeStageByMod("AA", "actuallyadditions");
-Recipes.setRecipeStageByMod("AA", "portality");
 Recipes.setRecipeStageByMod("AA", "xnet");
-Recipes.setRecipeStageByMod("AA", "emergingtechnology");
 
 Recipes.setRecipeStageByMod("EIO", "enderio");
 Recipes.setRecipeStageByMod("EIO", "environmentaltech");
 Recipes.setRecipeStageByMod("EIO", "etlunar");
 
 Recipes.setRecipeStageByMod("OMT", "openmodularturrets");
+Recipes.setRecipeStageByMod("OMT", "portality");
+Recipes.setRecipeStageByMod("OMT", "emergingtechnology");
+Recipes.setRecipeStageByMod("OMT", "cfm");
 
 Recipes.setRecipeStageByMod("CYC", "cyclicmagic");
 

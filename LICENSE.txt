@@ -1,0 +1,33 @@
+# Unyielding Project License
+
+## 1. Definitions
+- "The Project" refers to the "Unyielding" modpack for Minecraft, as available on CurseForge.
+- "Assets" refers to any files included in the Project, including but not limited to code, textures, models, and music tracks.
+- "Royalty Free Music" refers to the music tracks included in the Project that are licensed under a royalty-free license.
+
+## 2. License Grant
+Subject to the terms of this License, the Project author grants you a non-exclusive, non-transferable, revocable license to install and use the Project for personal, non-commercial use.
+
+## 3. Restrictions
+You may not claim the Assets as your own. You may not redistribute the Assets. You may not use the Assets for commercial purposes. You may not reupload the Project or any of the Assets to any other website or platform without permission.
+
+## 4. Royalty Free Music
+The Project includes Royalty Free Music. These music tracks are licensed under a separate royalty-free license, and their use is subject to the terms of that license. You may not claim the Royalty Free Music as your own, as it remains the property of its original creators.
+
+## 5. Custom Content
+The textures, structures, and scripts created by the Project author (Sereath/7ereath) are the property of the author. You may modify this custom content for personal use (playing, learning), but you may not re-upload it for the purpose of public distribution without permission. You may not claim this custom content as your own. Redistribution of this custom content is not allowed.
+
+## 6. Termination
+This License is effective until terminated. Your rights under this License will terminate automatically without notice from the Project author if you fail to comply with any term(s) of this License.
+
+## 7. Disclaimer of Warranty
+The Project is provided "as is" and the Project author makes no warranties, either express or implied, about the Project.
+
+## 8. Limitation of Liability
+In no event shall the Project author be liable for any damages, including but not limited to any loss of profits, loss of data, or other incidental or consequential damages arising out of the use or inability to use the Project.
+
+## 9. Governing Law
+This License shall be governed by the laws of the country in which the Project author resides.
+
+## 10. Entire Agreement
+This License constitutes the entire agreement between you and the Project author and supersedes any prior agreements or understandings.

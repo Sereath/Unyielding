@@ -12,7 +12,7 @@
 		"count": 1,
 		"rarity": 144,
 		"min_y": 16,
-		"max_y": 128,
+		"max_y": 64,
 		"use_relative_y": false,
 		"density": 136,
 		"vertical_size": 14,

@@ -18,15 +18,16 @@ mods.ItemStages.stageModItems("MG", "rsgauges");
 mods.ItemStages.stageModItems("MG", "betterboilers");
 
 mods.ItemStages.stageModItems("AA", "actuallyadditions");
-mods.ItemStages.stageModItems("AA", "portality");
 mods.ItemStages.stageModItems("AA", "xnet");
-mods.ItemStages.stageModItems("AA", "emergingtechnology");
 
 mods.ItemStages.stageModItems("EIO", "enderio");
 mods.ItemStages.stageModItems("EIO", "environmentaltech");
 mods.ItemStages.stageModItems("EIO", "etlunar");
 
 mods.ItemStages.stageModItems("OMT", "openmodularturrets");
+mods.ItemStages.stageModItems("OMT", "portality");
+mods.ItemStages.stageModItems("OMT", "emergingtechnology");
+mods.ItemStages.stageModItems("OMT", "cfm");
 
 mods.ItemStages.stageModItems("CYC", "cyclicmagic");
 
