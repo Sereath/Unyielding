@@ -69,4 +69,10 @@
       randFactor: 1
     }
   }
+  caveBlocks: [
+    {
+      states: water
+      height: [ 0, 216 ]
+    }
+  ]
 }

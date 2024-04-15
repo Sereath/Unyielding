@@ -115,7 +115,7 @@
   }
   caveBlocks: [
     {
-      states: lava
+      states: water
       height: [ 0, 8 ]
     }
   ]

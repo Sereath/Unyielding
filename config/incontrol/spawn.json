@@ -596,7 +596,7 @@
 	},
 	//roughmobsbossesbeneathdespawn
 	{
-		"dimension": 10,
+		"dimension": [3,5,7,10],
 		"mob": ["roughmobsrevamped:bosszombie","roughmobsrevamped:bossskeleton"],
 		"onjoin": true,
 		"result": "deny"
