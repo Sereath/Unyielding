@@ -49,23 +49,22 @@
   ]
   replaceDecorators: true
   caverns: {
-    height: [ 48, 240 ]
+    height: [ 48, 208 ]
     ceiling: {
       frequency: 0.02
-      cache: true
-      range: [ 8, 8 ]
+      range: [ -8, 8 ]
     }
     floor: {
       frequency: 0.02
-      cache: true
       range: [ 0, 8 ]
     }
     generators: [
       {
         frequency: 0.005
-        stretch: 4
+        stretch: 3
         lacunarity: 1
         gain: 0.1
+        jitter: 0.45
         jitterX: 1.5
         jitterY: 0.25
         jitterZ: 1.5
@@ -79,10 +78,9 @@
         fractal: FBM
         distFunc: Manhattan
         returnType: Distance3Add
+        cellularLookup: Simplex
         seed: 10
         threshold: 0.75
-        offset: -30
-        cache: true
       }
     ]
   }
