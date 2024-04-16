@@ -49,10 +49,10 @@
   ]
   replaceDecorators: true
   caverns: {
-    height: [ 160, 240 ]
+    height: [ 144, 250 ]
     ceiling: {
       frequency: 0.02
-      range: [ -8, 8 ]
+      range: [ -4, 4 ]
     }
     floor: {
       frequency: 0.02
@@ -116,7 +116,7 @@
   caveBlocks: [
     {
       states: water
-      height: [ 0, 216 ]
+      height: [ 0, 180 ]
     }
   ]
 }

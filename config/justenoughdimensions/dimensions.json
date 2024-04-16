@@ -2,6 +2,7 @@
     "dimensions": [
         {
             "dim": 3,
+            "biome": "beneath:the_beneath",
             "dimensiontype": {
                 "id": 3,
                 "name": "Ancient",
@@ -22,6 +23,7 @@
         },
         {
             "dim": 5,
+            "biome": "beneath:the_beneath",
             "dimensiontype": {
                 "id": 5,
                 "name": "Underworld",
@@ -42,6 +44,7 @@
         },
         {
             "dim": 7,
+            "biome": "beneath:the_beneath",
             "dimensiontype": {
                 "id": 7,
                 "name": "Aqua",
@@ -53,7 +56,7 @@
             "chunkgenerator": "com.noobanidus.superflatcaves.ChunkGeneratorFlatCaves",
             "worldinfo_onetime": {
                 "generatorName": "flat",
-                "generatorOptions": "3;1*minecraft:bedrock,254*minecraft:stone,1*minecraft:bedrock;1;caves,ravines,dungeon,decoration,mineshaft,lake,lava_lake",
+                "generatorOptions": "3;1*minecraft:bedrock,254*minecraft:stone,1*minecraft:bedrock;1;caves,ravines,dungeon,decoration,lake,lava_lake",
                 "GameRules": {
                     "doDaylightCycle": "false"
                 },

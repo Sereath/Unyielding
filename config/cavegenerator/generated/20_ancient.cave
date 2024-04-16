@@ -49,10 +49,10 @@
   ]
   replaceDecorators: true
   caverns: {
-    height: [ 80, 112 ]
+    height: [ 80, 122 ]
     ceiling: {
       frequency: 0.02
-      range: [ -8, 8 ]
+      range: [ -4, 4 ]
     }
     floor: {
       frequency: 0.02
