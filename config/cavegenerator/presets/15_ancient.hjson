@@ -1,11 +1,11 @@
 {
   imports: ground.hjson::NATURAL_STONE
   enabled: true
-  dimensions: [ 7 ]
+  dimensions: [ 3 ]
   replaceableBlocks: $NATURAL_STONE
   replaceDecorators: true
   caverns: {
-    height: [ 48, 240 ]
+    height: [ 48, 120 ]
     ceiling: {
       frequency: 0.02
       cache: true
@@ -44,8 +44,8 @@
   }
   caveBlocks: [
     {
-      states: water
-      height: [ 0, 216 ]
+      states: gravel
+      height: [ 0, 48 ]
     }
   ]
 }

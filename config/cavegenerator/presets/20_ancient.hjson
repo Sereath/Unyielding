@@ -5,7 +5,7 @@
   replaceableBlocks: $NATURAL_STONE
   replaceDecorators: true
   caverns: {
-    height: [ 64, 126 ]
+    height: [ 80, 126 ]
     ceiling: {
       frequency: 0.02
       range: [ -5, 0 ]
@@ -69,4 +69,10 @@
       randFactor: 1
     }
   }
+  caveBlocks: [
+    {
+      states: gravel
+      height: [ 0, 8 ]
+    }
+  ]
 }

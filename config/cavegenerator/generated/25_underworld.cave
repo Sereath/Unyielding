@@ -1,6 +1,6 @@
 {
   enabled: true
-  dimensions: [ 7 ]
+  dimensions: [ 5 ]
   replaceableBlocks: [
     minecraft:stone
     minecraft:stone:1
@@ -88,8 +88,8 @@
   }
   caveBlocks: [
     {
-      states: water
-      height: [ 0, 216 ]
+      states: gravel
+      height: [ 0, 48 ]
     }
   ]
 }

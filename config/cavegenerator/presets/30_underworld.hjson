@@ -46,7 +46,7 @@
   }
   tunnels: {
     count: 7
-    height: [ 48, 254 ]
+    height: [ 4, 254 ]
     systemChance: 0.00050
     noiseYReduction: false
     distance: 320
@@ -69,4 +69,10 @@
       randFactor: 1
     }
   }
+  caveBlocks: [
+    {
+      states: gravel
+      height: [ 0, 8 ]
+    }
+  ]
 }
