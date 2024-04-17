@@ -20,11 +20,9 @@
 			"retrogen": "false",
 			"biome": "all",
 			"dimension": {
-				"restriction": "blacklist",
+				"restriction": "whitelist",
 				"value": [
-					-1,
-					1
-					10
+					0
 				]
 			}
 		},
@@ -47,11 +45,9 @@
 			"retrogen": "false",
 			"biome": "all",
 			"dimension": {
-				"restriction": "blacklist",
+				"restriction": "whitelist",
 				"value": [
-					-1,
-					1
-					10
+					0
 				]
 			}
 		},
@@ -84,11 +80,9 @@
 			"retrogen": "false",
 			"biome": "all",
 			"dimension": {
-				"restriction": "blacklist",
+				"restriction": "whitelist",
 				"value": [
-					-1,
-					1
-					10
+					0
 				]
 			}
 		},
@@ -121,11 +115,9 @@
 			"retrogen": "false",
 			"biome": "all",
 			"dimension": {
-				"restriction": "blacklist",
+				"restriction": "whitelist",
 				"value": [
-					-1,
-					1
-					10
+					0
 				]
 			}
 		},
@@ -148,11 +140,9 @@
 			"retrogen": "false",
 			"biome": "all",
 			"dimension": {
-				"restriction": "blacklist",
+				"restriction": "whitelist",
 				"value": [
-					-1,
-					1
-					10
+					0
 				]
 			}
 		},
@@ -185,11 +175,9 @@
 			"retrogen": "false",
 			"biome": "all",
 			"dimension": {
-				"restriction": "blacklist",
+				"restriction": "whitelist",
 				"value": [
-					-1,
-					1
-					10
+					0
 				]
 			}
 		},
@@ -212,11 +200,9 @@
 			"retrogen": "false",
 			"biome": "all",
 			"dimension": {
-				"restriction": "blacklist",
+				"restriction": "whitelist",
 				"value": [
-					-1,
-					1
-					10
+					0
 				]
 			}
 		},
@@ -244,16 +230,14 @@
 				"cluster-size": 1
 			},
 			"cluster-count": 1,
-			"min-height": 0,
+			"min-height": 2,
 			"max-height": 12,
 			"retrogen": "false",
 			"biome": "all",
 			"dimension": {
-				"restriction": "blacklist",
+				"restriction": "whitelist",
 				"value": [
-					-1,
-					1
-					10
+					0
 				]
 			}
 		},
@@ -284,11 +268,9 @@
 				]
 			},
 			"dimension": {
-				"restriction": "blacklist",
+				"restriction": "whitelist",
 				"value": [
-					-1,
-					1
-					10
+					0
 				]
 			}
 		},
@@ -311,11 +293,9 @@
 			"retrogen": "false",
 			"biome": "all",
 			"dimension": {
-				"restriction": "blacklist",
+				"restriction": "whitelist",
 				"value": [
-					-1,
-					1
-					10
+					0
 				]
 			}
 		}
