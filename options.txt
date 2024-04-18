@@ -91,6 +91,7 @@ key_Toggle Slot Lock:82
 key_Take Panorama Screenshot:25:ALT
 key_keybind.baublesinventory:18:ALT
 key_arcanearchives.gui.keybinds.manifest:0
+key_quark.keybind.lockBuilding:76
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:0
 key_quark.keybind.chestSort:0
@@ -98,7 +99,6 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
-key_quark.keybind.lockBuilding:76
 key_key.conarm.toggle_helm.desc:181
 key_key.conarm.toggle_chest.desc:35
 key_key.conarm.toggle_leg.desc:0
@@ -153,6 +153,8 @@ key_key.pickup.item:0
 key_key.dismount:42
 key_key.narrator:0
 key_smoothfont.key.guiOpen:199
+key_key.quit.fastQuit:16
+key_key.quit.bossKey:48
 key_keybind.awCore.alt.item.use.1:44
 key_keybind.awCore.alt.item.use.2:45
 key_keybind.awCore.alt.item.use.3:0
@@ -279,8 +281,6 @@ key_key.plustic_toggle_tool.desc:51:ALT
 key_key.plustic_fruit_salad.desc:12:ALT
 key_key.plustic_mots.desc:13:ALT
 key_xreliquary.keybind.fortune_coin:0
-key_key.quit.fastQuit:16
-key_key.quit.bossKey:48
 key_key.arms.desc:0
 key_key.mod.desc:62
 key_key.head.desc:0
