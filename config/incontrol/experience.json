@@ -1,14 +1,4 @@
 [
-	  {
-      "dimension": "10",
-      "player": true,
-      "multxp": 1.5
-    },
-    {
-      "dimension": "66",
-      "player": true,
-      "multxp": 1.25
-    },
     {
       "dimension": "424",
       "player": true,
@@ -24,5 +14,25 @@
       "player": true,
       "multxp": 1.25,
       "mintime": 13000
+    },
+	  {
+      "dimension": "3",
+      "player": true,
+      "multxp": 1.25
+    },
+	  {
+      "dimension": "5",
+      "player": true,
+      "multxp": 1.5
+    },
+	  {
+      "dimension": "7",
+      "player": true,
+      "multxp": 1.75
+    },
+	  {
+      "dimension": "10",
+      "player": true,
+      "multxp": 2.0
     }
 ]

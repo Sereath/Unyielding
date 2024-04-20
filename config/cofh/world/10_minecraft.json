@@ -8,9 +8,9 @@
 				"material": "minecraft:stone",
 				"cluster-size": 17
 			},
-			"cluster-count": 20,
-			"min-height": 16,
-			"max-height": 128,
+			"cluster-count": 40,
+			"min-height": 2,
+			"max-height": 254,
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {
@@ -31,9 +31,9 @@
 				"material": "minecraft:stone",
 				"cluster-size": 9
 			},
-			"cluster-count": 16,
-			"min-height": 4,
-			"max-height": 64,
+			"cluster-count": 32,
+			"min-height": 2,
+			"max-height": 240,
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {
@@ -54,9 +54,9 @@
 				"material": "minecraft:stone",
 				"cluster-size": 9
 			},
-			"cluster-count": 2,
-			"min-height": 4,
-			"max-height": 32,
+			"cluster-count": 8,
+			"min-height": 2,
+			"max-height": 240,
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {
@@ -77,9 +77,9 @@
 				"material": "minecraft:stone",
 				"cluster-size": 8
 			},
-			"cluster-count": 8,
+			"cluster-count": 32,
 			"min-height": 2,
-			"max-height": 16,
+			"max-height": 240,
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {
@@ -100,9 +100,9 @@
 				"material": "minecraft:stone",
 				"cluster-size": 8
 			},
-			"cluster-count": 2,
+			"cluster-count": 8,
 			"min-height": 2,
-			"max-height": 16,
+			"max-height": 240,
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {
@@ -123,8 +123,8 @@
 				"material": "minecraft:stone",
 				"cluster-size": 7
 			},
-			"cluster-count": 2,
-			"center-height": 16,
+			"cluster-count": 8,
+			"center-height": 64,
 			"spread": 16,
 			"retrogen": false,
 			"biome": "all",
@@ -152,24 +152,10 @@
 				"min": 3,
 				"max": 6
 			},
-			"min-height": 4,
-			"max-height": 24,
+			"min-height": 2,
+			"max-height": 240,
 			"retrogen": false,
-			"biome": {
-				"restriction": "whitelist",
-				"value": [
-					{
-						"type": "id",
-						"entry": [
-							"extreme_hills",
-							"smaller_extreme_hills",
-							"extreme_hills_with_trees",
-							"mutated_extreme_hills",
-							"mutated_extreme_hills_with_trees"
-						]
-					}
-				]
-			},
+			"biome": "all",
 			"dimension": {
 				"restriction": "whitelist",
 				"value": [
@@ -193,25 +179,11 @@
 				"material": "minecraft:stone",
 				"cluster-size": 9
 			},
-			"cluster-count": 7,
+			"cluster-count": 28,
 			"min-height": 2,
-			"max-height": 64,
+			"max-height": 240,
 			"retrogen": false,
-			"biome": {
-				"restriction": "whitelist",
-				"value": [
-					{
-						"type": "id",
-						"entry": [
-							"extreme_hills",
-							"smaller_extreme_hills",
-							"extreme_hills_with_trees",
-							"mutated_extreme_hills",
-							"mutated_extreme_hills_with_trees"
-						]
-					}
-				]
-			},
+			"biome": "all",
 			"dimension": {
 				"restriction": "whitelist",
 				"value": [
