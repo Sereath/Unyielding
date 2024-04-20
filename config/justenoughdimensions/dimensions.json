@@ -2,7 +2,7 @@
     "dimensions": [
         {
             "dim": 3,
-            "biome": "beneath:the_beneath",
+            "biome": "biometweaker:ancient_underground",
             "dimensiontype": {
                 "id": 3,
                 "name": "Ancient",
@@ -14,16 +14,12 @@
             "chunkgenerator": "com.noobanidus.superflatcaves.ChunkGeneratorFlatCaves",
             "worldinfo_onetime": {
                 "generatorName": "flat",
-                "generatorOptions": "3;1*minecraft:bedrock,126*minecraft:stone,1*minecraft:bedrock;1;caves,ravines,dungeon,decoration,mineshaft,lake,lava_lake",
-                "GameRules": {
-                    "doDaylightCycle": "false"
-                },
-                "DayTime": 18000
+                "generatorOptions": "3;1*minecraft:bedrock,126*minecraft:stone,1*minecraft:bedrock;1;caves,ravines,dungeon,decoration,mineshaft,lake,lava_lake"
             }
         },
         {
             "dim": 5,
-            "biome": "beneath:the_beneath",
+            "biome": "biometweaker:underworld_underground",
             "dimensiontype": {
                 "id": 5,
                 "name": "Underworld",
@@ -35,16 +31,12 @@
             "chunkgenerator": "com.noobanidus.superflatcaves.ChunkGeneratorFlatCaves",
             "worldinfo_onetime": {
                 "generatorName": "flat",
-                "generatorOptions": "3;1*minecraft:bedrock,254*minecraft:stone,1*minecraft:bedrock;1;caves,ravines,dungeon,decoration,mineshaft,lake,lava_lake",
-                "GameRules": {
-                    "doDaylightCycle": "false"
-                },
-                "DayTime": 18000
+                "generatorOptions": "3;1*minecraft:bedrock,254*minecraft:stone,1*minecraft:bedrock;1;caves,ravines,dungeon,decoration,mineshaft,lake,lava_lake"
             }
         },
         {
             "dim": 7,
-            "biome": "beneath:the_beneath",
+            "biome": "biometweaker:aqua_underground",
             "dimensiontype": {
                 "id": 7,
                 "name": "Aqua",
@@ -56,20 +48,7 @@
             "chunkgenerator": "com.noobanidus.superflatcaves.ChunkGeneratorFlatCaves",
             "worldinfo_onetime": {
                 "generatorName": "flat",
-                "generatorOptions": "3;1*minecraft:bedrock,254*minecraft:stone,1*minecraft:bedrock;1;caves,ravines,dungeon,decoration,lake,lava_lake",
-                "GameRules": {
-                    "doDaylightCycle": "false"
-                },
-                "DayTime": 18000
-            }
-        },
-        {
-            "dim": 10,
-            "worldinfo_onetime": {
-                "GameRules": {
-                    "doDaylightCycle": "false"
-                },
-                "DayTime": 18000
+                "generatorOptions": "3;1*minecraft:bedrock,254*minecraft:stone,1*minecraft:bedrock;1;caves,ravines,dungeon,decoration,lake,lava_lake"
             }
         }
 	]

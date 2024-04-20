@@ -1,24 +1,28 @@
 {
+	"dependencies": "thermalfoundation",
 	"populate": {
-		"ender": {
+		"umana": {
 			"distribution": "uniform",
 			"generator": {
 				"block": {
-					"name": "enderskills:ender_ore",
-					"metadata": 0
+					"name": "thermalfoundation:ore",
+					"metadata": 8
 				},
 				"material": "minecraft:stone",
-				"cluster-size": 3
+				"cluster-size": 4
 			},
-			"cluster-count": 24,
+			"cluster-count": 1,
 			"min-height": 2,
-			"max-height": 240,
+			"max-height": 16,
 			"retrogen": "false",
 			"biome": "all",
 			"dimension": {
 				"restriction": "whitelist",
 				"value": [
-					0
+					3,
+					5,
+					7,
+					10
 				]
 			}
 		}

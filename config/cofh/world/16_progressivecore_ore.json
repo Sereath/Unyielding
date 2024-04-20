@@ -1,6 +1,6 @@
 {
 	"populate": {
-		"opal": {
+		"uopal": {
 			"distribution": "uniform",
 			"generator": {
 				"block": {
@@ -18,11 +18,14 @@
 			"dimension": {
 				"restriction": "whitelist",
 				"value": [
-					0
+					3,
+					5,
+					7,
+					10
 				]
 			}
 		},
-		"adamantite": {
+		"uadamantite": {
 			"distribution": "uniform",
 			"generator": {
 				"block": {
@@ -40,11 +43,14 @@
 			"dimension": {
 				"restriction": "whitelist",
 				"value": [
-					0
+					3,
+					5,
+					7,
+					10
 				]
 			}
 		},
-		"mithril": {
+		"umithril": {
 			"distribution": "uniform",
 			"generator": {
 				"block": {
@@ -62,11 +68,14 @@
 			"dimension": {
 				"restriction": "whitelist",
 				"value": [
-					0
+					3,
+					5,
+					7,
+					10
 				]
 			}
 		},
-		"orichalcum": {
+		"uorichalcum": {
 			"distribution": "uniform",
 			"generator": {
 				"block": {
@@ -84,11 +93,14 @@
 			"dimension": {
 				"restriction": "whitelist",
 				"value": [
-					0
+					3,
+					5,
+					7,
+					10
 				]
 			}
 		},
-		"runite": {
+		"urunite": {
 			"distribution": "uniform",
 			"generator": {
 				"block": {
@@ -106,7 +118,10 @@
 			"dimension": {
 				"restriction": "whitelist",
 				"value": [
-					0
+					3,
+					5,
+					7,
+					10
 				]
 			}
 		}

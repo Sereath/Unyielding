@@ -1,112 +1,127 @@
 {
 	"populate": {
-		"opal": {
+		"uthorium": {
 			"distribution": "uniform",
 			"generator": {
 				"block": {
-					"name": "progressivecore:oregem",
+					"name": "nuclearcraft:ore",
+					"metadata": 3
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 1
+			},
+			"cluster-count": 2,
+			"min-height": 2,
+			"max-height": 12,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					3,
+					5,
+					7,
+					10
+				]
+			}
+		},
+		"uuranium": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "nuclearcraft:ore",
 					"metadata": 4
 				},
 				"material": "minecraft:stone",
-				"cluster-size": 3
+				"cluster-size": 1
 			},
-			"cluster-count": 24,
+			"cluster-count": 1,
 			"min-height": 2,
-			"max-height": 240,
+			"max-height": 8,
 			"retrogen": "false",
 			"biome": "all",
 			"dimension": {
 				"restriction": "whitelist",
 				"value": [
-					0
+					3,
+					5,
+					7,
+					10
 				]
 			}
 		},
-		"adamantite": {
+		"uboron": {
 			"distribution": "uniform",
 			"generator": {
 				"block": {
-					"name": "progressivecore:ore_adamantite",
-					"metadata": 0
+					"name": "nuclearcraft:ore",
+					"metadata": 5
 				},
 				"material": "minecraft:stone",
-				"cluster-size": 3
+				"cluster-size": 2
 			},
-			"cluster-count": 6,
-			"min-height": 2,
-			"max-height": 240,
+			"cluster-count": 2,
+			"min-height": 12,
+			"max-height": 24,
 			"retrogen": "false",
 			"biome": "all",
 			"dimension": {
 				"restriction": "whitelist",
 				"value": [
-					0
+					3,
+					5,
+					7,
+					10
 				]
 			}
 		},
-		"mithril": {
+		"ulithium": {
 			"distribution": "uniform",
 			"generator": {
 				"block": {
-					"name": "progressivecore:ore_mithril",
-					"metadata": 0
+					"name": "nuclearcraft:ore",
+					"metadata": 6
 				},
 				"material": "minecraft:stone",
-				"cluster-size": 3
+				"cluster-size": 2
 			},
-			"cluster-count": 6,
-			"min-height": 2,
-			"max-height": 240,
+			"cluster-count": 2,
+			"min-height": 12,
+			"max-height": 24,
 			"retrogen": "false",
 			"biome": "all",
 			"dimension": {
 				"restriction": "whitelist",
 				"value": [
-					0
+					3,
+					5,
+					7,
+					10
 				]
 			}
 		},
-		"orichalcum": {
+		"umagnesium": {
 			"distribution": "uniform",
 			"generator": {
 				"block": {
-					"name": "progressivecore:ore_orichalcum",
-					"metadata": 0
+					"name": "nuclearcraft:ore",
+					"metadata": 7
 				},
 				"material": "minecraft:stone",
-				"cluster-size": 3
+				"cluster-size": 2
 			},
-			"cluster-count": 6,
-			"min-height": 2,
-			"max-height": 240,
+			"cluster-count": 2,
+			"min-height": 12,
+			"max-height": 24,
 			"retrogen": "false",
 			"biome": "all",
 			"dimension": {
 				"restriction": "whitelist",
 				"value": [
-					0
-				]
-			}
-		},
-		"runite": {
-			"distribution": "uniform",
-			"generator": {
-				"block": {
-					"name": "progressivecore:ore_titanium",
-					"metadata": 0
-				},
-				"material": "minecraft:stone",
-				"cluster-size": 3
-			},
-			"cluster-count": 6,
-			"min-height": 2,
-			"max-height": 240,
-			"retrogen": "false",
-			"biome": "all",
-			"dimension": {
-				"restriction": "whitelist",
-				"value": [
-					0
+					3,
+					5,
+					7,
+					10
 				]
 			}
 		}
