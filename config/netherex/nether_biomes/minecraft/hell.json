@@ -188,12 +188,6 @@
 			"minimumGroupCount": 8,
 			"maximumGroupCount": 12,
 			"entity": "natura:imp"
-		}, 
-		{
-			"spawnWeight": 100,
-			"minimumGroupCount": 5,
-			"maximumGroupCount": 10,
-			"entity": "betternether:firefly"
 		}
 	],
 	"traits": [

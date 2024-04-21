@@ -1,10 +1,22 @@
 {
+  "iceandfire:myrmex_queen": 10,
+  "minecraft:pig": 10,
+  "betteranimalsplus:eel_freshwater": 10,
+  "iceandfire:hippogryph": 10,
+  "minecraft:sheep": 10,
   "iceandfire:myrmex_soldier": 10,
   "iceandfire:myrmex_sentinel": 10,
   "iceandfire:deathworm": 10,
-  "iceandfire:myrmex_queen": 10,
+  "minecraft:cow": 10,
+  "minecraft:chicken": 10,
+  "iceandfire:firedragon": 10,
+  "iceandfire:lightningdragon": 10,
+  "betteranimalsplus:lamprey": 10,
+  "iceandfire:icedragon": 10,
   "iceandfire:myrmex_worker": 10,
   "iceandfire:myrmex_royal": 10,
+  "rats:rat": 10,
+  "betteranimalsplus:eel_saltwater": 10,
   "minecraft:rabbit": 6,
-  "iceandfire:hippogryph": 10
+  "betteranimalsplus:shark": 10
 }
