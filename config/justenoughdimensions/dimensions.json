@@ -15,6 +15,22 @@
             "worldinfo_onetime": {
                 "generatorName": "flat",
                 "generatorOptions": "3;1*minecraft:bedrock,126*minecraft:stone,1*minecraft:bedrock;1;caves,ravines,dungeon,decoration,mineshaft,lake,lava_lake"
+            },
+            "jed": {
+                "SpawnPointSearchType": {
+                    "type": "cavern",
+                    "min_y": 116,
+                    "max_y": 124
+                },
+                "CanRespawnHere": false,
+                "RespawnDimension": 0,
+                "CanSleepHere": "deny",
+                "SkyColor": "133700",
+                "SkyRenderType": 1,
+                "SkyDisableFlags": 7,
+                "CustomDayCycle": true,
+                "DayLength": 24000,
+                "NightLength": 24000
             }
         },
         {
@@ -32,6 +48,22 @@
             "worldinfo_onetime": {
                 "generatorName": "flat",
                 "generatorOptions": "3;1*minecraft:bedrock,254*minecraft:stone,1*minecraft:bedrock;1;caves,ravines,dungeon,decoration,mineshaft,lake,lava_lake"
+            },
+            "jed": {
+                "SpawnPointSearchType": {
+                    "type": "cavern",
+                    "min_y": 244,
+                    "max_y": 252
+                },
+                "CanRespawnHere": false,
+                "RespawnDimension": 0,
+                "CanSleepHere": "deny",
+                "SkyColor": "001017",
+                "SkyRenderType": 1,
+                "SkyDisableFlags": 7,
+                "CustomDayCycle": true,
+                "DayLength": 24000,
+                "NightLength": 24000
             }
         },
         {
@@ -49,6 +81,22 @@
             "worldinfo_onetime": {
                 "generatorName": "flat",
                 "generatorOptions": "3;1*minecraft:bedrock,254*minecraft:stone,1*minecraft:bedrock;1;caves,ravines,dungeon,decoration,lake,lava_lake"
+            },
+            "jed": {
+                "SpawnPointSearchType": {
+                    "type": "cavern",
+                    "min_y": 244,
+                    "max_y": 252
+                },
+                "CanRespawnHere": false,
+                "RespawnDimension": 0,
+                "CanSleepHere": "deny",
+                "SkyColor": "001737",
+                "SkyRenderType": 1,
+                "SkyDisableFlags": 7,
+                "CustomDayCycle": true,
+                "DayLength": 24000,
+                "NightLength": 24000
             }
         }
 	]

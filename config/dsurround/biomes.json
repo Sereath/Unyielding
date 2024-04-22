@@ -1,6 +1,30 @@
 {
     "biomes": [
         {
+            "conditions": "biome.name == 'Abyss'",
+            "dust": true,
+            "dustColor": "38,35,32",
+            "fog": true,
+            "fogColor": "190,157,67",
+            "fogDensity": 0.8
+        },
+        {
+            "conditions": "biome.name == 'Underworld'",
+            "dust": true,
+            "dustColor": "38,35,32",
+            "fog": true,
+            "fogColor": "190,157,67",
+            "fogDensity": 0.6
+        },
+        {
+            "conditions": "biome.name == 'Chasm'",
+            "dust": true,
+            "dustColor": "38,35,32",
+            "fog": true,
+            "fogColor": "190,157,67",
+            "fogDensity": 0.4
+        },
+        {
             "conditions": "biome.name == 'The Beneath'",
             "dust": true,
             "dustColor": "38,35,32",
