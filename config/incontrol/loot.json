@@ -353,28 +353,28 @@
     {
         "mob": "minecraft:wither",
         "player": true,
-        "item": ["trinkplus:golden_heart","trinkplus:glass_shield"],
+        "item": ["progressivecore:reality_crystal","xat:mana_crystal"],
         "itemcount": "0-1",
         "random": "0.18"
     },
     {
         "mob": "minecraft:wither",
         "player": true,
-        "item": ["trinkplus:dispel_gel","trinkplus:shadow_treads"],
+        "item": ["progressivecore:reality_crystal","xat:mana_crystal"],
         "itemcount": "0-1",
         "random": "0.18"
     },
     {
         "mob": "minecraft:wither",
         "player": true,
-        "item": ["trinkplus:duality_rings","trinkplus:friendly_fire_flower"],
+        "item": ["progressivecore:reality_crystal","xat:mana_crystal"],
         "itemcount": "0-1",
         "random": "0.18"
     },
     {
         "mob": "minecraft:wither",
         "player": true,
-        "item": ["trinkplus:lunar_crystal","trinkplus:harpy_feather"],
+        "item": ["progressivecore:reality_crystal","xat:mana_crystal"],
         "itemcount": "0-1",
         "random": "0.18"
     },
@@ -416,7 +416,7 @@
     {
         "mob": "grimoireofgaia:flesh_lich",
         "player": true,
-        "item": ["trinkplus:solarborn_ring","trinkplus:azalean_ring"],
+        "item": ["progressivecore:reality_crystal","xat:mana_crystal"],
         "itemcount": "0-1",
         "random": "0.06"
     },
@@ -432,7 +432,7 @@
     {
         "mob": "grimoireofgaia:vampire",
         "player": true,
-        "item": ["trinkplus:solarborn_ring","trinkplus:azalean_ring"],
+        "item": ["progressivecore:reality_crystal","xat:mana_crystal"],
         "itemcount": "0-1",
         "random": "0.18"
     },

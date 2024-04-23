@@ -306,7 +306,7 @@ recipes.addShaped(<enderio:item_stellar_alloy_chestplate>, [[<ore:ingotStellarAl
 recipes.addShaped(<enderio:item_stellar_alloy_helmet>, [[null, null, null],[<ore:ingotAurorianSteel>, <ore:ingotStellarAlloy>, <ore:ingotAurorianSteel>], [<ore:ingotStellarAlloy>, <ore:skullSentientEnder>, <ore:ingotStellarAlloy>]]);
 recipes.addShaped(<theaurorian:auroriansteel>, [[<ore:ingotCerulean>, <ore:ingotMoonstone>, <theaurorian:aurorianiteingot>],[<theaurorian:aurorianiteingot>, <theaurorian:crystallineingot>, <theaurorian:crystallineingot>], [<theaurorian:umbraingot>, <theaurorian:umbraingot>, <theaurorian:crystal>]]);
 recipes.addShaped(<theaurorian:aurorianstone>, [[<srparasites:bone>, <thermalfoundation:material:72>, null],[<minecraft:stone>, <thermalfoundation:material:103>, null], [null, null, null]]);
-recipes.addShaped(<theaurorian:aurorianportalframebricks>, [[<jaopca:item_dustancientdebris>, <trinkplus:ascension_essence>, <theaurorian:scrapumbra>],[<trinkplus:ascension_essence>, <theaurorian:aurorianstone>, <trinkplus:ascension_essence>], [<theaurorian:scrapcrystalline>, <trinkplus:ascension_essence>, <theaurorian:scrapaurorianite>]]);
+recipes.addShaped(<theaurorian:aurorianportalframebricks>, [[<jaopca:item_dustancientdebris>, <progressivecore:reality_crystal>, <theaurorian:scrapumbra>],[<progressivecore:reality_crystal>, <theaurorian:aurorianstone>, <progressivecore:reality_crystal>], [<theaurorian:scrapcrystalline>, <progressivecore:reality_crystal>, <theaurorian:scrapaurorianite>]]);
 
 recipes.addShaped(<weirdinggadget:weirding_gadget>, [[<ore:ingotBronze>, <ore:pearlEnderEye>, <ore:ingotBronze>],[<ore:blockBronze>, <ore:gemGlowing>, <ore:blockBronze>], [<ore:blockElectrum>, <ore:gearBronze>, <ore:blockElectrum>]]);
 

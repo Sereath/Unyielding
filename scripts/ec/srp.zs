@@ -39,8 +39,8 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <srparasites:armor_helm_sentien
 	[null, null, null, null, null, null, null, null, null], 
 	[null, <ore:plateDenseTitanium>, <ore:plateDenseTitanium>, <ore:plateDenseTitanium>, <ore:plateDenseAncientDebris>, <ore:plateDenseTitanium>, <ore:plateDenseTitanium>, <ore:plateDenseTitanium>, null], 
 	[<ore:plateDensePlatinum>, <ore:plateDenseMithril>, <theaurorian:crystallineingot>, <theaurorian:crystallineingot>, <theaurorian:umbraingot>, <theaurorian:crystallineingot>, <theaurorian:crystallineingot>, <ore:plateDenseMithril>, <ore:plateDensePlatinum>], 
-	[<ore:plateDensePlatinum>, <ore:plateDenseMithril>, <theaurorian:crystallineingot>, <trinkplus:ascension_essence>, <extendedcrafting:singularity:7>, <trinkplus:ascension_essence>, <theaurorian:crystallineingot>, <ore:plateDenseMithril>, <ore:plateDensePlatinum>], 
-	[null, <ore:plateDenseIridium>, <trinkplus:ascension_essence>, <tconevo:material:2>, <srparasites:armor_helm>, <tconevo:material:2>, <trinkplus:ascension_essence>, <ore:plateDenseIridium>, null], 
+	[<ore:plateDensePlatinum>, <ore:plateDenseMithril>, <theaurorian:crystallineingot>, <progressivecore:reality_crystal>, <extendedcrafting:singularity:7>, <progressivecore:reality_crystal>, <theaurorian:crystallineingot>, <ore:plateDenseMithril>, <ore:plateDensePlatinum>], 
+	[null, <ore:plateDenseIridium>, <progressivecore:reality_crystal>, <tconevo:material:2>, <srparasites:armor_helm>, <tconevo:material:2>, <progressivecore:reality_crystal>, <ore:plateDenseIridium>, null], 
 	[null, <ore:plateDenseIridium>, <tconevo:material:2>, <theaurorian:aurorianiteingot>, <theaurorian:umbraingot>, <theaurorian:aurorianiteingot>, <tconevo:material:2>, <ore:plateDenseIridium>, null], 
 	[<ore:plateDensePlatinum>, <ore:plateDenseAmythest>, <theaurorian:aurorianiteingot>, <theaurorian:aurorianiteingot>, <theaurorian:umbraingot>, <theaurorian:aurorianiteingot>, <theaurorian:aurorianiteingot>, <ore:plateDenseAmythest>, <ore:plateDensePlatinum>], 
 	[<ore:plateDensePlatinum>, <ore:plateDenseMithril>, <ore:plateDenseAmythest>, <ore:plateDenseMithril>, null, <ore:plateDenseMithril>, <ore:plateDenseAmythest>, <ore:plateDenseMithril>, <ore:plateDensePlatinum>], 
@@ -50,8 +50,8 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <srparasites:armor_helm_sentien
 mods.extendedcrafting.TableCrafting.addShaped(0, <srparasites:armor_chest_sentient>, [
 	[<ore:plateDenseTitanium>, <ore:plateDenseTitanium>, <ore:plateDenseTitanium>, null, null, null, <ore:plateDenseTitanium>, <ore:plateDenseTitanium>, <ore:plateDenseTitanium>], 
 	[<ore:plateDenseTitanium>, null, <theaurorian:crystallineingot>, <theaurorian:crystallineingot>, null, <theaurorian:crystallineingot>, <theaurorian:crystallineingot>, null, <ore:plateDenseTitanium>], 
-	[<ore:plateDenseTitanium>, null, <trinkplus:ascension_essence>, <theaurorian:crystallineingot>, <theaurorian:umbraingot>, <theaurorian:crystallineingot>, <trinkplus:ascension_essence>, null, <ore:plateDenseTitanium>], 
-	[null, <ore:plateDenseIridium>, <tconevo:material:2>, <trinkplus:ascension_essence>, <extendedcrafting:singularity:1>, <trinkplus:ascension_essence>, <tconevo:material:2>, <ore:plateDenseIridium>, null], 
+	[<ore:plateDenseTitanium>, null, <progressivecore:reality_crystal>, <theaurorian:crystallineingot>, <theaurorian:umbraingot>, <theaurorian:crystallineingot>, <progressivecore:reality_crystal>, null, <ore:plateDenseTitanium>], 
+	[null, <ore:plateDenseIridium>, <tconevo:material:2>, <progressivecore:reality_crystal>, <extendedcrafting:singularity:1>, <progressivecore:reality_crystal>, <tconevo:material:2>, <ore:plateDenseIridium>, null], 
 	[null, <ore:plateDenseIridium>, <theaurorian:aurorianiteingot>, <tconevo:material:2>, <srparasites:armor_chest>, <tconevo:material:2>, <theaurorian:aurorianiteingot>, <ore:plateDenseIridium>, null], 
 	[<ore:plateDensePlatinum>, <ore:plateDenseAmythest>, <theaurorian:aurorianiteingot>, <theaurorian:umbraingot>, <theaurorian:umbraingot>, <theaurorian:umbraingot>, <theaurorian:aurorianiteingot>, <ore:plateDenseAmythest>, <ore:plateDensePlatinum>], 
 	[<ore:plateDensePlatinum>, <ore:plateDenseMithril>, <ore:plateDenseAmythest>, <theaurorian:aurorianiteingot>, <ore:plateDenseAncientDebris>, <theaurorian:aurorianiteingot>, <ore:plateDenseAmythest>, <ore:plateDenseMithril>, <ore:plateDensePlatinum>], 
@@ -63,8 +63,8 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <srparasites:armor_pants_sentie
 	[<ore:plateDensePlatinum>, <ore:plateDensePlatinum>, <ore:plateDensePlatinum>, <ore:plateDensePlatinum>, <ore:plateDensePlatinum>, <ore:plateDensePlatinum>, <ore:plateDensePlatinum>, <ore:plateDensePlatinum>, <ore:plateDensePlatinum>], 
 	[<ore:plateDensePlatinum>, <ore:plateDenseMithril>, <ore:plateDenseMithril>, <ore:plateDenseMithril>, <ore:plateDenseAncientDebris>, <ore:plateDenseMithril>, <ore:plateDenseMithril>, <ore:plateDenseMithril>, <ore:plateDensePlatinum>], 
 	[<ore:plateDensePlatinum>, <ore:plateDenseMithril>, <theaurorian:crystallineingot>, <theaurorian:crystallineingot>, <theaurorian:umbraingot>, <theaurorian:crystallineingot>, <theaurorian:crystallineingot>, <ore:plateDenseMithril>, <ore:plateDensePlatinum>], 
-	[<ore:plateDensePlatinum>, <ore:plateDenseMithril>, <theaurorian:crystallineingot>, <trinkplus:ascension_essence>, <extendedcrafting:singularity:6>, <trinkplus:ascension_essence>, <theaurorian:crystallineingot>, <ore:plateDenseMithril>, <ore:plateDensePlatinum>], 
-	[null, <ore:plateDenseIridium>, <trinkplus:ascension_essence>, <tconevo:material:2>, <srparasites:armor_pants>, <tconevo:material:2>, <trinkplus:ascension_essence>, <ore:plateDenseIridium>, null], 
+	[<ore:plateDensePlatinum>, <ore:plateDenseMithril>, <theaurorian:crystallineingot>, <progressivecore:reality_crystal>, <extendedcrafting:singularity:6>, <progressivecore:reality_crystal>, <theaurorian:crystallineingot>, <ore:plateDenseMithril>, <ore:plateDensePlatinum>], 
+	[null, <ore:plateDenseIridium>, <progressivecore:reality_crystal>, <tconevo:material:2>, <srparasites:armor_pants>, <tconevo:material:2>, <progressivecore:reality_crystal>, <ore:plateDenseIridium>, null], 
 	[null, <ore:plateDenseIridium>, <tconevo:material:2>, <theaurorian:aurorianiteingot>, <theaurorian:umbraingot>, <theaurorian:aurorianiteingot>, <tconevo:material:2>, <ore:plateDenseIridium>, null], 
 	[null, <ore:plateDenseAmythest>, <theaurorian:aurorianiteingot>, <theaurorian:aurorianiteingot>, <theaurorian:umbraingot>, <theaurorian:aurorianiteingot>, <theaurorian:aurorianiteingot>, <ore:plateDenseAmythest>, null], 
 	[null, <ore:plateDenseTitanium>, <ore:plateDenseAmythest>, <ore:plateDenseTitanium>, null, <ore:plateDenseTitanium>, <ore:plateDenseAmythest>, <ore:plateDenseTitanium>, null], 
@@ -74,8 +74,8 @@ mods.extendedcrafting.TableCrafting.addShaped(0, <srparasites:armor_pants_sentie
 mods.extendedcrafting.TableCrafting.addShaped(0, <srparasites:armor_boots_sentient>, [
 	[null, null, null, null, null, null, null, null, null], 
 	[<ore:plateDensePlatinum>, <ore:plateDenseMithril>, <theaurorian:crystallineingot>, <theaurorian:crystallineingot>, <ore:plateDenseAncientDebris>, <theaurorian:crystallineingot>, <theaurorian:crystallineingot>, <ore:plateDenseMithril>, <ore:plateDensePlatinum>], 
-	[null, <ore:plateDenseMithril>, <trinkplus:ascension_essence>, <theaurorian:crystallineingot>, <theaurorian:umbraingot>, <theaurorian:crystallineingot>, <trinkplus:ascension_essence>, <ore:plateDenseMithril>, null], 
-	[<ore:plateDensePlatinum>, <ore:plateDenseMithril>, <tconevo:material:2>, <trinkplus:ascension_essence>, <extendedcrafting:singularity:3>, <trinkplus:ascension_essence>, <tconevo:material:2>, <ore:plateDenseMithril>, <ore:plateDensePlatinum>], 
+	[null, <ore:plateDenseMithril>, <progressivecore:reality_crystal>, <theaurorian:crystallineingot>, <theaurorian:umbraingot>, <theaurorian:crystallineingot>, <progressivecore:reality_crystal>, <ore:plateDenseMithril>, null], 
+	[<ore:plateDensePlatinum>, <ore:plateDenseMithril>, <tconevo:material:2>, <progressivecore:reality_crystal>, <extendedcrafting:singularity:3>, <progressivecore:reality_crystal>, <tconevo:material:2>, <ore:plateDenseMithril>, <ore:plateDensePlatinum>], 
 	[null, <ore:plateDenseIridium>, <theaurorian:aurorianiteingot>, <tconevo:material:2>, <srparasites:armor_boots>, <tconevo:material:2>, <theaurorian:aurorianiteingot>, <ore:plateDenseIridium>, null], 
 	[null, <ore:plateDenseIridium>, <theaurorian:aurorianiteingot>, <theaurorian:umbraingot>, <theaurorian:umbraingot>, <theaurorian:umbraingot>, <theaurorian:aurorianiteingot>, <ore:plateDenseIridium>, null], 
 	[null, <ore:plateDenseAmythest>, <ore:plateDenseAmythest>, <theaurorian:aurorianiteingot>, null, <theaurorian:aurorianiteingot>, <ore:plateDenseAmythest>, <ore:plateDenseAmythest>, null], 
@@ -106,10 +106,10 @@ mods.extendedcrafting.CombinationCrafting.addRecipe(<srparasites:weapon_scythe_s
 	<tconevo:material:2>,
 	<tconevo:material:2>,
 	<tconevo:material:2>,
-	<trinkplus:ascension_essence>,
-	<trinkplus:ascension_essence>,
-	<trinkplus:ascension_essence>,
-	<trinkplus:ascension_essence>,
+	<progressivecore:reality_crystal>,
+	<progressivecore:reality_crystal>,
+	<progressivecore:reality_crystal>,
+	<progressivecore:reality_crystal>,
 ]);
 
 mods.extendedcrafting.CombinationCrafting.addRecipe(<srparasites:weapon_axe_sentient>, 1000000000, 1000000, <srparasites:weapon_axe>, [
@@ -133,10 +133,10 @@ mods.extendedcrafting.CombinationCrafting.addRecipe(<srparasites:weapon_axe_sent
 	<tconevo:material:2>,
 	<tconevo:material:2>,
 	<tconevo:material:2>,
-	<trinkplus:ascension_essence>,
-	<trinkplus:ascension_essence>,
-	<trinkplus:ascension_essence>,
-	<trinkplus:ascension_essence>,
+	<progressivecore:reality_crystal>,
+	<progressivecore:reality_crystal>,
+	<progressivecore:reality_crystal>,
+	<progressivecore:reality_crystal>,
 ]);
 
 mods.extendedcrafting.CombinationCrafting.addRecipe(<srparasites:weapon_sword_sentient>, 1000000000, 1000000, <srparasites:weapon_sword>, [
@@ -160,10 +160,10 @@ mods.extendedcrafting.CombinationCrafting.addRecipe(<srparasites:weapon_sword_se
 	<tconevo:material:2>,
 	<tconevo:material:2>,
 	<tconevo:material:2>,
-	<trinkplus:ascension_essence>,
-	<trinkplus:ascension_essence>,
-	<trinkplus:ascension_essence>,
-	<trinkplus:ascension_essence>,
+	<progressivecore:reality_crystal>,
+	<progressivecore:reality_crystal>,
+	<progressivecore:reality_crystal>,
+	<progressivecore:reality_crystal>,
 ]);
 
 mods.extendedcrafting.CombinationCrafting.addRecipe(<srparasites:weapon_cleaver_sentient>, 1000000000, 1000000, <srparasites:weapon_cleaver>, [
@@ -187,10 +187,10 @@ mods.extendedcrafting.CombinationCrafting.addRecipe(<srparasites:weapon_cleaver_
 	<tconevo:material:2>,
 	<tconevo:material:2>,
 	<tconevo:material:2>,
-	<trinkplus:ascension_essence>,
-	<trinkplus:ascension_essence>,
-	<trinkplus:ascension_essence>,
-	<trinkplus:ascension_essence>,
+	<progressivecore:reality_crystal>,
+	<progressivecore:reality_crystal>,
+	<progressivecore:reality_crystal>,
+	<progressivecore:reality_crystal>,
 ]);
 
 mods.extendedcrafting.CombinationCrafting.addRecipe(<srparasites:weapon_bow_sentient>, 1000000000, 1000000, <srparasites:weapon_bow>, [
@@ -214,8 +214,8 @@ mods.extendedcrafting.CombinationCrafting.addRecipe(<srparasites:weapon_bow_sent
 	<tconevo:material:2>,
 	<tconevo:material:2>,
 	<tconevo:material:2>,
-	<trinkplus:ascension_essence>,
-	<trinkplus:ascension_essence>,
-	<trinkplus:ascension_essence>,
-	<trinkplus:ascension_essence>,
+	<progressivecore:reality_crystal>,
+	<progressivecore:reality_crystal>,
+	<progressivecore:reality_crystal>,
+	<progressivecore:reality_crystal>,
 ]);

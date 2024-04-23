@@ -56,13 +56,10 @@ key_key.xat.trinket_arcing_attack.desc:0:NONE
 key_key.xat.aux_key.desc:29:NONE
 key_key.xat.race_ability.desc:74:NONE
 key_key.spartanweaponry.access_quiver:23:NONE
+key_key.fart.desc:34:NONE
 key_ChatFlow:88:NONE
 key_cos.key.opencosarmorinventory:0:NONE
 key_MoCreatures Dive:44:NONE
-key_key.erebus.glide:34:NONE
-key_key.erebus.poweredglide:35:NONE
-key_key.erebus.beetleram:0:NONE
-key_key.erebus.beetlemine:0:NONE
 key_Toggle Magnetism Suppressor:49:NONE
 key_key.ftbutilities.nbt:49:ALT
 key_key.ftbutilities.trash:211:NONE
@@ -75,7 +72,7 @@ key_openblocks.keybind.vario_vol_up:0:NONE
 key_openblocks.keybind.vario_vol_down:0:NONE
 key_key.toggleFoVChanges:51:SHIFT
 key_key.reloadSoundSystem:66:SHIFT
-key_key.toggleTimeOfDayOverlay:43:CONTROL
+key_key.toggleTimeOfDayOverlay:68:NONE
 key_key.togglePotionParticles:66:CONTROL
 key_key.betterfoliage.gui:66:NONE
 key_Camera left:203:NONE
@@ -102,6 +99,8 @@ key_key.pickup.item:0:NONE
 key_key.dismount:42:NONE
 key_key.narrator:0:NONE
 key_smoothfont.key.guiOpen:199:NONE
+key_key.quit.fastQuit:16:NONE
+key_key.quit.bossKey:48:NONE
 key_keybind.awCore.alt.item.use.1:44:NONE
 key_keybind.awCore.alt.item.use.2:45:NONE
 key_keybind.awCore.alt.item.use.3:0:NONE
@@ -228,8 +227,6 @@ key_key.plustic_toggle_tool.desc:51:ALT
 key_key.plustic_fruit_salad.desc:12:ALT
 key_key.plustic_mots.desc:13:ALT
 key_xreliquary.keybind.fortune_coin:0:NONE
-key_key.quit.fastQuit:16:NONE
-key_key.quit.bossKey:48:NONE
 key_key.arms.desc:0:NONE
 key_key.mod.desc:62:NONE
 key_key.head.desc:0:NONE
@@ -263,12 +260,14 @@ key_gui.xaero_toggle_entity_radar:0:NONE
 key_gui.xaero_reverse_entity_radar:0:NONE
 key_gui.xaero_toggle_manual_cave_mode:0:NONE
 key_gui.xaero_alternative_list_players:0:NONE
+key_gui.xaero_toggle_tracked_players:0:NONE
 key_gui.xaero_minimap_settings:21:CONTROL
 key_gui.xaero_open_map:50:NONE
 key_gui.xaero_open_settings:27:NONE
 key_gui.xaero_map_zoom_in:0:NONE
 key_gui.xaero_map_zoom_out:0:NONE
 key_gui.xaero_quick_confirm:54:NONE
+key_gui.xaero_toggle_dimension:0:NONE
 key_key.sort_config:73:CONTROL
 key_key.sort:41:NONE
 key_key.drop:16:ALT

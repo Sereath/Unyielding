@@ -2,7 +2,7 @@
 
 ## 1. Definitions
 - "The Project" refers to the "Unyielding" modpack for Minecraft, as available on CurseForge.
-- "Assets" refers to any files included in the Project, including but not limited to code, textures, models, and music tracks.
+- "Assets" refers to any files included in the Project, including but not limited to code, textures and models.
 - "Royalty Free Music" refers to the music tracks included in the Project that are licensed under a royalty-free attribution license.
 
 ## 2. License Grant
@@ -15,7 +15,7 @@ You may not claim the Assets as your own. You may not redistribute the Assets. Y
 The Project includes Royalty Free Music. These music tracks are licensed under a separate royalty-free attribution license, and their use is subject to the terms of that license. You may not claim the Royalty Free Music as your own, as it remains the property of its original creators.
 
 ## 5. Custom Content
-The textures, structures, and scripts created by the Project author (Sereath/7ereath) are the property of the author. You may modify this custom content for personal use (playing, learning), but you may not re-upload it for the purpose of public distribution without permission. You may not claim this custom content as your own. Redistribution of this custom content is not allowed.
+The textures, structures, and scripts created by the Project author (Sereath/7ereath) are the property of the author. You may modify this custom content for personal use (playing, learning), but you may not re-upload it for the purpose of public distribution without permission. You may not claim this custom content as your own. Redistribution is not allowed.
 
 ## 6. Termination
 This License is effective until terminated. Your rights under this License will terminate automatically without notice from the Project author if you fail to comply with any term(s) of this License.
