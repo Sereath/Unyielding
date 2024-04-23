@@ -9,11 +9,6 @@ customization-meta {
 }
 
 customization {
-  path = resources/unyielding/textures/gui/spire.png
-  action = texturizebackground
-}
-
-customization {
   keepaspectratio = false
   action = backgroundoptions
 }
@@ -206,11 +201,27 @@ customization {
 }
 
 customization {
-  orientation = bottom-centered
+  orientation = top-left
   delayappearanceseconds = 1.0
-  path = resources/unyielding/textures/gui/unyielding-title.png
+  path = resources/unyielding/textures/gui/spire20.png
   fadein = true
   fadeinspeed = 1.0
+  x = 0
+  width = %guiwidth%
+  actionid = e024f5ba-df99-4f97-a045-0512e820d7851713860025432
+  action = addtexture
+  y = 0
+  delayappearance = true
+  delayappearanceeverytime = true
+  height = %guiheight%
+}
+
+customization {
+  orientation = bottom-centered
+  delayappearanceseconds = 2.0
+  path = resources/unyielding/textures/gui/unyielding-title.png
+  fadein = true
+  fadeinspeed = 2.0
   x = -224
   width = 451
   actionid = 9ac6bd0b-c210-4ffe-ac35-caef53e476411660294805178

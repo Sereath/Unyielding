@@ -1,0 +1,9 @@
+type = panorama
+
+panorama-meta {
+  name = stone04
+  speed = 1.0
+  fov = 90.0
+  angle = 5.0
+  start_rotation = 0
+}
