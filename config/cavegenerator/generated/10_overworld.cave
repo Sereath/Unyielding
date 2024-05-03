@@ -116,7 +116,7 @@
   caveBlocks: [
     {
       states: water
-      height: [ 0, 8 ]
+      height: [ 0, 4 ]
     }
   ]
   ravines: [
