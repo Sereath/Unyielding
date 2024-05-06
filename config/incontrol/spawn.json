@@ -601,12 +601,6 @@
 		"onjoin": true,
 		"result": "deny"
 	},
-	//roughmobsbatsdespawn
-	{
-		"mob": "roughmobsrevamped:hostilebat",
-		"onjoin": true,
-		"result": "deny"
-	},
 
 	//srp
 
@@ -1098,7 +1092,7 @@
 	{
 		"mob": "oe:salmon",
 		"mincount": {
-			"amount": 20,
+			"amount": 15,
 			"mob": "oe:salmon",
 			"perchunk": true
 		},

@@ -1,11 +1,4 @@
-/*
-    Spartan Netherite Future MC Smithing Table integration.
-
-    This script will change all Spartan Netherite recipes into Smithing Table recipes. To use this script, download Crafttweaker
-    and place this file into the 'scripts' folder.
-
-    This script will automatically adjust if specific weapons are disabled, so there is no need to remove entries.
-*/
+#priority 300
 
 import mods.futuremc.SmithingTable;
 
