@@ -296,6 +296,7 @@ key_key.toolbelt.slot:47
 key_key.travelersbackpack.inventory:48
 key_key.travelersbackpack.toggle_tank:49
 key_key.travelersbackpack.cycle_tool:44
+key_keybind.universaltweaks.clear_toasts:11:CONTROL
 key_gui.xaero_switch_waypoint_set:0
 key_gui.xaero_instant_waypoint:0
 key_gui.xaero_toggle_slime:0

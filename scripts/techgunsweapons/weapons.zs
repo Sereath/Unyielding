@@ -48,7 +48,7 @@ GunStats.setWeaponStat("nucleardeathray","DAMAGE_MIN",6.0);
 
 GunStats.setWeaponStat("tfg","DAMAGE",80.0);
 GunStats.setWeaponStat("tfg","DAMAGE_MIN",80.0);
-GunStats.setWeaponStat("tfg","BULLET_SPEED",1.25);
+GunStats.setWeaponStat("tfg","BULLET_SPEED",0.7);
 
 GunStats.setWeaponStat("laserpistol","DAMAGE",7.0);
 

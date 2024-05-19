@@ -226,6 +226,11 @@ recipes.removeByRecipeName("techguns:nightvisiongoggles");
 recipes.removeByRecipeName("techguns:tacticalmask_alt");
 recipes.removeByRecipeName("techguns:tacticalmask");
 
+recipes.removeByRecipeName("techguns:metalpanel_0_alt");
+recipes.removeByRecipeName("techguns:metalpanel_0");
+recipes.removeByRecipeName("techguns:nethermetal_0");
+recipes.removeByRecipeName("techguns:concrete_0");
+
 recipes.removeByRecipeName("eplus:table");
 
 //recipes.removeByRecipeName("tombstone:enchanted_grave_key");
@@ -296,6 +301,10 @@ recipes.addShaped(<techguns:jetpack>, [[<techguns:itemshared:27>, null, <techgun
 recipes.addShaped(<techguns:itemshared:90>, [[<techguns:itemshared:60>, <techguns:itemshared:60>, <techguns:itemshared:60>],[<enderio:item_alloy_ingot:6>, <techguns:itemshared:60>, <enderio:item_alloy_ingot:6>], [<techguns:itemshared:60>, <techguns:itemshared:60>, <techguns:itemshared:60>]]);
 recipes.addShaped(<techguns:itemshared:91>, [[<mod_lavacow:curseweave_cloth>, <enderio:item_alloy_ingot:6>, <mod_lavacow:curseweave_cloth>],[<mod_lavacow:curseweave_cloth>, <enderio:item_alloy_ingot:6>, <mod_lavacow:curseweave_cloth>], [<mod_lavacow:curseweave_cloth>, <enderio:item_alloy_ingot:6>, <mod_lavacow:curseweave_cloth>]]);
 recipes.addShaped(<techguns:jumppack>, [[<enderio:item_alloy_nugget>, null, <enderio:item_alloy_nugget>],[<thermalfoundation:material:352>, <techguns:itemshared:90>, <thermalfoundation:material:352>], [<techguns:itemshared:23>, null, <techguns:itemshared:23>]]);
+
+recipes.addShaped(<techguns:metalpanel> * 16, [[<minecraft:stone:*>, <magneticraft:heavy_plates:6>, <minecraft:stone:*>],[<magneticraft:heavy_plates:6>, <minecraft:stone:*>, <magneticraft:heavy_plates:6>], [<minecraft:stone:*>, <magneticraft:heavy_plates:6>, <minecraft:stone:*>]]);
+recipes.addShaped(<techguns:nethermetal> * 16, [[<minecraft:netherrack:*>, <magneticraft:heavy_plates:6>, <minecraft:netherrack:*>],[<magneticraft:heavy_plates:6>, <minecraft:netherrack:*>, <magneticraft:heavy_plates:6>], [<minecraft:netherrack:*>, <magneticraft:heavy_plates:6>, <minecraft:netherrack:*>]]);
+recipes.addShaped(<techguns:concrete> * 16, [[<minecraft:concrete:*>, <magneticraft:heavy_plates:6>, <minecraft:concrete:*>],[<magneticraft:heavy_plates:6>, <minecraft:concrete:*>, <magneticraft:heavy_plates:6>], [<minecraft:concrete:*>, <magneticraft:heavy_plates:6>, <minecraft:concrete:*>]]);
 
 recipes.addShaped(<enderio:item_stellar_alloy_axe>, [[<ore:ingotAurorianSteel>, <ore:ingotStellarAlloy>, null],[<ore:ingotStellarAlloy>, <ore:skullSentientEnder>, null], [null, <ore:itemInfinityRod>, null]]);
 recipes.addShaped(<enderio:item_stellar_alloy_pickaxe>, [[<ore:ingotStellarAlloy>, <ore:ingotAurorianSteel>, <ore:ingotStellarAlloy>],[null, <ore:skullSentientEnder>, null], [null, <ore:itemInfinityRod>, null]]);
