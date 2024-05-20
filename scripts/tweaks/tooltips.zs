@@ -1,27 +1,37 @@
-<srparasites:weapon_scythe>.displayName = "§dLiving scythe";
+<srparasites:weapon_scythe>.displayName = "§dLiving Scythe";
 //<srparasites:weapon_scythe>.addTooltip(format.darkRed("..."));
-<srparasites:weapon_scythe_sentient>.displayName = "§5Sentient greatscythe";
+<srparasites:weapon_scythe_sentient>.displayName = "§5Sentient Greatscythe";
 //<srparasites:weapon_scythe_sentient>.addTooltip(format.darkRed("..."));
 
-<srparasites:weapon_axe>.displayName = "§dLiving axe";
+<srparasites:weapon_axe>.displayName = "§dLiving Axe";
 //<srparasites:weapon_axe>.addTooltip(format.darkRed("..."));
-<srparasites:weapon_axe_sentient>.displayName = "§5Sentient greataxe";
+<srparasites:weapon_axe_sentient>.displayName = "§5Sentient Greataxe";
 //<srparasites:weapon_axe_sentient>.addTooltip(format.darkRed("..."));
 
-<srparasites:weapon_sword>.displayName = "§dLiving sword";
+<srparasites:weapon_sword>.displayName = "§dLiving Sword";
 //<srparasites:weapon_sword>.addTooltip(format.darkRed("..."));
-<srparasites:weapon_sword_sentient>.displayName = "§5Sentient greatsword";
+<srparasites:weapon_sword_sentient>.displayName = "§5Sentient Greatsword";
 //<srparasites:weapon_sword_sentient>.addTooltip(format.darkRed("..."));
 
-<srparasites:weapon_cleaver>.displayName = "§dLiving cleaver";
+<srparasites:weapon_cleaver>.displayName = "§dLiving Cleaver";
 //<srparasites:weapon_cleaver>.addTooltip(format.darkRed("..."));
-<srparasites:weapon_cleaver_sentient>.displayName = "§5Sentient greatcleaver";
+<srparasites:weapon_cleaver_sentient>.displayName = "§5Sentient Greatcleaver";
 //<srparasites:weapon_cleaver_sentient>.addTooltip(format.darkRed("..."));
 
-<srparasites:weapon_bow>.displayName = "§dLiving bow";
+<srparasites:weapon_bow>.displayName = "§dLiving Bow";
 //<srparasites:weapon_bow>.addTooltip(format.darkRed("..."));
-<srparasites:weapon_bow_sentient>.displayName = "§5Sentient greatbow";
+<srparasites:weapon_bow_sentient>.displayName = "§5Sentient Greatbow";
 //<srparasites:weapon_bow_sentient>.addTooltip(format.darkRed("..."));
+
+<srparasites:weapon_maul>.displayName = "§dLiving Maul";
+//<srparasites:weapon_maul>.addTooltip(format.darkRed("..."));
+<srparasites:weapon_maul_sentient>.displayName = "§5Sentient Greatmaul";
+//<srparasites:weapon_maul_sentient>.addTooltip(format.darkRed("..."));
+
+<srparasites:weapon_lance>.displayName = "§dLiving Lance";
+//<srparasites:weapon_lance>.addTooltip(format.darkRed("..."));
+<srparasites:weapon_lance_sentient>.displayName = "§5Sentient Greatlance";
+//<srparasites:weapon_lance_sentient>.addTooltip(format.darkRed("..."));
 
 <srparasites:armor_helm>.displayName = "§dLiving Helmet";
 <srparasites:armor_chest>.displayName = "§dLiving Chestplate";
