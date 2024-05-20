@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "TGTAmmoE",
+  "items": [
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 16,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 29,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 30,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

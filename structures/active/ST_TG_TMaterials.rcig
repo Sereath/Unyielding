@@ -1,0 +1,287 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "TGTMaterials",
+  "items": [
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "techguns:basicore",
+        "damage": 3,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 78,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 85,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.016732392832636833,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 92,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "techguns:basicore",
+        "damage": 4,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 97,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0976562350988388,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 98,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.016732392832636833,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 131,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 32,
+      "item": {
+        "id": "thermalfoundation:material",
+        "damage": 160,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 16,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 84,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 16,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 64,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 53,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 66,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "futuremc:ancient_debris",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "futuremc:netherite_scrap",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "futuremc:netherite_ingot",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.03422137722373009,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "nyx:meteor_ingot",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 12,
+      "item": {
+        "id": "thermalfoundation:coin",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 12,
+      "item": {
+        "id": "thermalfoundation:coin",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 12,
+      "item": {
+        "id": "thermalfoundation:coin",
+        "damage": 66,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 12,
+      "item": {
+        "id": "thermalfoundation:coin",
+        "damage": 67,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "thermalfoundation:coin",
+        "damage": 70,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "thermalfoundation:coin",
+        "damage": 71,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "thermalfoundation:coin",
+        "damage": 72,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 12,
+      "item": {
+        "id": "thermalfoundation:coin",
+        "damage": 99,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "thermalfoundation:coin",
+        "damage": 101,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "thermalfoundation:coin",
+        "damage": 102,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "thermalfoundation:coin",
+        "damage": 103,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

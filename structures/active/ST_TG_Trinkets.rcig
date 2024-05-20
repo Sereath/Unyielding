@@ -1,0 +1,778 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "TGTrinkets",
+  "items": [
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "extraalchemy:potion_ring",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "minecraft:night_vision"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "extraalchemy:potion_ring",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "extraalchemy:sails_strong"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "extraalchemy:potion_ring",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "extraalchemy:learning_strong"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "extraalchemy:potion_ring",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "extraalchemy:leech_strong"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "extraalchemy:potion_ring",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "minecraft:strong_leaping"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "extraalchemy:potion_ring",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "extraalchemy:hurry_strong"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "extraalchemy:potion_ring",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "extraalchemy:photosynthesis_strong"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "extraalchemy:potion_ring",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "extraalchemy:crumbling_strong"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "extraalchemy:potion_ring",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "minecraft:strong_strength"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "extraalchemy:potion_ring",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "minecraft:strong_regeneration"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "extraalchemy:potion_ring",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "minecraft:strong_swiftness"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "extraalchemy:potion_ring",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "extraalchemy:reincarnation_strong"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.007257797755300999,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "extraalchemy:potion_ring",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "minecraft:invisibility"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "extraalchemy:potion_ring",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "minecraft:fire_resistance"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "extraalchemy:potion_ring",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "minecraft:water_breathing"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bountifulbaubles:trinketballoon",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bountifulbaubles:trinketmagiclenses",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bountifulbaubles:trinketapple",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bountifulbaubles:trinketvitamins",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bountifulbaubles:trinketluckyhorseshoe",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bountifulbaubles:amuletsingluttony",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bountifulbaubles:crowngold",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bountifulbaubles:amuletsinpride",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bountifulbaubles:amuletsinwrath",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bountifulbaubles:ringoverclocking",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bountifulbaubles:trinketshulkerheart",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bountifulbaubles:ringfreeaction",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bountifulbaubles:trinketbezoar",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "bountifulbaubles:enderdragonscale",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "bountifulbaubles:brokenblackdragonscale",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bountifulbaubles:trinketblackdragonscale",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.03422137722373009,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bountifulbaubles:trinketmixeddragonscale",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bountifulbaubles:shieldcobalt",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "HideFlags": {
+              "nbtType": "int",
+              "nbt": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bountifulbaubles:trinketobsidianskull",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bountifulbaubles:shieldobsidian",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "HideFlags": {
+              "nbtType": "int",
+              "nbt": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.03422137722373009,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bountifulbaubles:trinketankhcharm",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.016732392832636833,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bountifulbaubles:shieldankh",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "HideFlags": {
+              "nbtType": "int",
+              "nbt": 2
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bountifulbaubles:trinketbrokenheart",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bountifulbaubles:ringflywheel",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bountifulbaubles:ringflywheeladvanced",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bountifulbaubles:magicmirror",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.16315889358520508,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "bountifulbaubles:potionrecall",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.03422137722373009,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "bountifulbaubles:wormholemirror",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "bountifulbaubles:potionwormhole",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "randomthings:chunkanalyzer",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.016732392832636833,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "randomthings:timeinabottle",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "timeData": {
+              "nbtType": "compound",
+              "nbt": {}
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.016732392832636833,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "srparasites:weapon_scythe",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.016732392832636833,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "srparasites:weapon_axe",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.016732392832636833,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "srparasites:weapon_sword",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.016732392832636833,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "srparasites:weapon_cleaver",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.016732392832636833,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "srparasites:weapon_bow",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.016732392832636833,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "srparasites:weapon_maul",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.016732392832636833,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "srparasites:weapon_lance",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.004506520461291075,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "srparasites:weapon_scythe_sentient",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.004506520461291075,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "srparasites:weapon_axe_sentient",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.004506520461291075,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "srparasites:weapon_sword_sentient",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.004506520461291075,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "srparasites:weapon_cleaver_sentient",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.004506520461291075,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "srparasites:weapon_bow_sentient",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.004506520461291075,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "srparasites:weapon_maul_sentient",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.004506520461291075,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "srparasites:weapon_lance_sentient",
+        "damage": 0,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

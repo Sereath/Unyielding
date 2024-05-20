@@ -1,0 +1,267 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "TGTAmmo",
+  "items": [
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 32,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 29,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 16,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 30,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 32,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 125,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 16,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 126,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 32,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 21,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 16,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 22,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 32,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 27,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 16,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 28,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 16,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 127,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 32,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 17,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 16,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 114,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 16,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 18,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 117,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 16,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 19,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 107,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 20,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 32,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 16,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 109,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 32,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 2,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.32298368215560913,
+      "min": 1,
+      "max": 16,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 106,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 16,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 7,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 145,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 16,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 25,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 26,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 31,
+        "count": 1
+      }
+    },
+    {
+      "weight": 1.0,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "techguns:itemshared",
+        "damage": 32,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}
