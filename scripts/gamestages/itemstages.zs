@@ -27,7 +27,6 @@ mods.ItemStages.stageModItems("EIO", "etlunar");
 mods.ItemStages.stageModItems("OMT", "openmodularturrets");
 mods.ItemStages.stageModItems("OMT", "portality");
 mods.ItemStages.stageModItems("OMT", "emergingtechnology");
-mods.ItemStages.stageModItems("OMT", "cfm");
 
 mods.ItemStages.stageModItems("CYC", "cyclicmagic");
 

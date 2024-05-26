@@ -29,7 +29,6 @@ Recipes.setRecipeStageByMod("EIO", "etlunar");
 Recipes.setRecipeStageByMod("OMT", "openmodularturrets");
 Recipes.setRecipeStageByMod("OMT", "portality");
 Recipes.setRecipeStageByMod("OMT", "emergingtechnology");
-Recipes.setRecipeStageByMod("OMT", "cfm");
 
 Recipes.setRecipeStageByMod("CYC", "cyclicmagic");
 
