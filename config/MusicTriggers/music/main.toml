@@ -208,10 +208,13 @@
 	[songs.e1]
 		triggers = [ "dimension-end" ]
 	[songs.k_ha14_135836]
+		volume = "0.9"
 		triggers = [ "dimension-end" ]
 	[songs.k_ha7212xcdq_13052514_212045]
+		volume = "0.9"
 		triggers = [ "dimension-end" ]
 	[songs.t_hba_178607]
+		volume = "0.9"
 		triggers = [ "dimension-end" ]
 	[songs.n4]
 		triggers = [ "dimension-nether" ]
