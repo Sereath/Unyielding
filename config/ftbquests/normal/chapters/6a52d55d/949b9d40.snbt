@@ -1,11 +1,11 @@
 {
-	x: 3.0d,
-	y: -4.0d,
+	x: 0.5d,
+	y: 9.5d,
 	tasks: [{
-		uid: "f4475f89",
+		uid: "730dd2d7",
 		type: "item",
 		items: [{
-			id: "cyclicmagic:storage_bag",
+			id: "iceandfire:dragonsteel_lightning_helmet",
 			tag: {}
 		}],
 		ignore_damage: true,

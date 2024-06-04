@@ -1,11 +1,12 @@
 {
-	x: -1.0d,
+	x: 0.5d,
 	y: 11.5d,
 	tasks: [{
-		uid: "311cd4fc",
+		uid: "e2c4c393",
 		type: "item",
 		items: [{
-			item: "iceandfire:dragonsteel_fire_leggings"
+			id: "iceandfire:dragonsteel_lightning_leggings",
+			tag: {}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

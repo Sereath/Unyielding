@@ -1,0 +1,23 @@
+{
+	title: "§3Tips",
+	x: 1.0d,
+	y: -3.0d,
+	text: [
+		"		Press NUM 0 to lock/unlock a hotbar slot.",
+		"",
+		"		No more lava bucketing everything without risk, get some tongs or mitts before doing so.",
+		"",
+		"		Debug info has been disabled, grab a compass if you want to see the coordinates on screen.",
+		"",
+		"		Get an Antique Atlas if you want both the coordinates and a minimap on screen.",
+		"",
+		"		Mana Infused Ingots are the universal material for reforging your equipment."
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "73a8573f",
+		type: "checkmark",
+		title: "Tips",
+		icon: "minecraft:stone_pickaxe"
+	}]
+}

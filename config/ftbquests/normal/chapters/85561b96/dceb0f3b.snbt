@@ -25,19 +25,60 @@
 						Name: "qualitytools"
 					}],
 					Name: "quality.prospecting.name"
+				},
+				"xat:Trinket": {
+					variant: 0,
+					slot: -1,
+					handler: "None",
+					exp: 0,
+					mana: 0.0f,
+					main.ability: 0b,
+					alt.ability: 0b,
+					crafter.name: "",
+					crafter.uuid: "",
+					Counters: {},
+					Elements: {
+						primary: "xat:neutral",
+						secondary: "xat:neutral",
+						sub: {}
+					}
 				}
 			},
 			ForgeCaps: {
 				"xat:trinket": {
-					target: -1,
-					slot: -1,
-					handler: 0,
-					hitcount: 0,
-					exp: 0,
-					mana: 0,
-					main.ability: 0b,
-					alt.ability: 0b,
-					player.status: -1
+					Quality: {
+						Slots: [
+							"baubles_trinket",
+							"offhand"
+						],
+						Color: "blue",
+						AttributeModifiers: [{
+							UUIDMost: -5227861070772550267L,
+							UUIDLeast: -5685884684642057474L,
+							Amount: 0.029999999329447746d,
+							AttributeName: "potioncore.digSpeed",
+							Operation: 2,
+							Name: "qualitytools"
+						}],
+						Name: "quality.prospecting.name"
+					},
+					"xat:Trinket": {
+						variant: 0,
+						slot: -1,
+						handler: "None",
+						exp: 0,
+						mana: 0.0f,
+						main.ability: 0b,
+						alt.ability: 0b,
+						crafter.name: "",
+						crafter.uuid: "",
+						Counters: {},
+						Elements: {
+							primary: "xat:neutral",
+							secondary: "xat:neutral",
+							sub: {}
+						}
+					}
 				}
 			}
 		}],

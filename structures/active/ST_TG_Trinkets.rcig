@@ -110,25 +110,6 @@
           "nbt": {
             "Potion": {
               "nbtType": "string",
-              "nbt": "extraalchemy:hurry_strong"
-            }
-          }
-        }
-      }
-    },
-    {
-      "weight": 1.0,
-      "min": 1,
-      "max": 1,
-      "item": {
-        "id": "extraalchemy:potion_ring",
-        "damage": 0,
-        "count": 1,
-        "tag": {
-          "nbtType": "compound",
-          "nbt": {
-            "Potion": {
-              "nbtType": "string",
               "nbt": "extraalchemy:photosynthesis_strong"
             }
           }

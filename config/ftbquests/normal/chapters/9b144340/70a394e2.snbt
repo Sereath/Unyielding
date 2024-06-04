@@ -1,0 +1,24 @@
+{
+	title: "§3Tips",
+	x: -1.0d,
+	y: -3.0d,
+	description: "§aRead this",
+	text: [
+		"		Press F4 to disable the \"Real First Person 2\" mod.",
+		"",
+		"		Press J to see some game tips.",
+		"",
+		"		To check the recipe for something, press R while hovering over it. Press U to see its uses.",
+		"",
+		"		Don't forget about your starter backpack, it contains some very useful items and can be equipped as a bauble.",
+		"",
+		"		If music stops playing. Press Alt + R to reload its configurations."
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "a6585693",
+		type: "checkmark",
+		title: "Tips",
+		icon: "minecraft:stone_axe"
+	}]
+}
