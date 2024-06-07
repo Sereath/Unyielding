@@ -29,7 +29,7 @@ fullscreen:false
 enableVsync:false
 useVbo:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 touchscreen:false
 overrideWidth:0
@@ -91,6 +91,7 @@ key_Toggle Slot Lock:82
 key_Take Panorama Screenshot:25:ALT
 key_keybind.baublesinventory:18:ALT
 key_arcanearchives.gui.keybinds.manifest:0
+key_quark.keybind.lockBuilding:76
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:0
 key_quark.keybind.chestSort:0
@@ -98,7 +99,6 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
-key_quark.keybind.lockBuilding:76
 key_key.conarm.toggle_helm.desc:181
 key_key.conarm.toggle_chest.desc:35
 key_key.conarm.toggle_leg.desc:0
@@ -117,6 +117,15 @@ key_Toggle Magnetism Suppressor:49
 key_key.ftbutilities.nbt:49:ALT
 key_key.ftbutilities.trash:211
 key_key.ftbquests.quests:36
+key_key.mount.dismount:0
+key_key.mount.descend:42
+key_key.mount.ability:45
+key_key.mount.inventory:0
+key_key.index:64
+key_key.beastiary:0
+key_key.pets:0
+key_key.summoning:0
+key_key.minions:19
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
 key_neat.keybind.toggle:0
@@ -127,7 +136,6 @@ key_key.toggleFoVChanges:51:SHIFT
 key_key.reloadSoundSystem:66:SHIFT
 key_key.toggleTimeOfDayOverlay:68
 key_key.togglePotionParticles:66:CONTROL
-key_key.betterfoliage.gui:66
 key_Camera left:203
 key_Camera right:205
 key_Camera closer:200
