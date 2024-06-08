@@ -1,0 +1,10 @@
+{
+    "url": "https://cdn.modrinth.com/data/BWzyO8Qc/versions/C6XM5NGb/InvHUD_Configurable-1.0.1.jar",
+	"installationPolicy": {
+		"continueOnFailedDownload": true,
+		"optionalKey": "$",
+		"selectedByDefault": true,
+		"name": "InvHUD_Configurable",
+		"description": "Expansion module for InventoryHUD+"
+    }
+}

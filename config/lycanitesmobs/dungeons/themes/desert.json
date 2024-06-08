@@ -1,6 +1,6 @@
 {
   "name": "desert",
-  "loadDefault": true,
+  "loadDefault": false,
   "floorPattern": "random",
   "wallPattern": "random",
   "ceilingPattern": "random",
@@ -79,7 +79,7 @@
       "weight": 8
     },
     {
-      "blockId": "lycanitesmobs:ooze",
+      "blockId": "thermalfoundation:fluid_pyrotheum",
       "weight": 8
     }
   ]

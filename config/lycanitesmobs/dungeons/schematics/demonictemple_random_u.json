@@ -23,8 +23,8 @@
   ],
   "placer": {
     "type": "random",
-    "minY": 64,
-    "maxY": 80
+    "minY": 48,
+    "maxY": 192
   },
   "themes": [
     "demonic"

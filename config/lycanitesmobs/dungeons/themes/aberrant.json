@@ -1,6 +1,6 @@
 {
   "name": "aberrant",
-  "loadDefault": true,
+  "loadDefault": false,
   "floorPattern": "random",
   "wallPattern": "random",
   "ceilingPattern": "random",
@@ -14,7 +14,7 @@
       "weight": 2
     },
     {
-      "blockId": "minecraft:end_stone",
+      "blockId": "minecraft:obsidian",
       "weight": 0
     }
   ],
@@ -48,7 +48,7 @@
       "weight": 8
     },
     {
-      "blockId": "minecraft:end_stone",
+      "blockId": "minecraft:obsidian",
       "weight": 8
     }
   ],
