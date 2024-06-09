@@ -75,11 +75,11 @@
   ],
   "pitBlocks": [
     {
-      "blockId": "lycanitesmobs:acid",
+      "blockId": "thermalfoundation:fluid_cryotheum",
       "weight": 8
     },
     {
-      "blockId": "lycanitesmobs:ooze",
+      "blockId": "thermalfoundation:fluid_pyrotheum",
       "weight": 8
     }
   ]

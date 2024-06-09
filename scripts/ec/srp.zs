@@ -1,5 +1,4 @@
 #priority 450
-#reloadable
 
 //living
 mods.extendedcrafting.TableCrafting.addShaped(0, <srparasites:armor_helm>, [

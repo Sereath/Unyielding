@@ -1,5 +1,4 @@
 #priority 450
-#reloadable
 
 mods.extendedcrafting.TableCrafting.addShaped(0, <eplus:advanced_table>, [
 	[<ore:gemGlowing>, null, <ore:blockMithril>, null, <ore:gemGlowing>], 

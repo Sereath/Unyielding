@@ -1,6 +1,6 @@
 {
   "name": "demonictemple",
-  "loadDefault": true,
+  "loadDefault": false,
   "sectorCountMin": 10,
   "sectorCountMax": 20,
   "corridorToCorridorChance": 0.1,
@@ -107,7 +107,7 @@
       "mobSizeScale": 2,
       "naturalDespawn": "false",
       "mobLevel": 30,
-      "spawnAsBoss": true,
+      "spawnAsBoss": false,
       "dungeonLevelMin": "0",
       "dungeonLevelMax": 2,
       "dungeonBoss": true,
@@ -127,7 +127,7 @@
       "mobSizeScale": 2,
       "naturalDespawn": "false",
       "mobLevel": 50,
-      "spawnAsBoss": true,
+      "spawnAsBoss": false,
       "dungeonLevelMin": 3,
       "dungeonLevelMax": 4,
       "dungeonBoss": true,
@@ -152,7 +152,7 @@
       "mobNameTag": "Pain Elemental",
       "naturalDespawn": "false",
       "mobLevel": 10,
-      "spawnAsBoss": true,
+      "spawnAsBoss": false,
       "dungeonLevelMin": 5,
       "dungeonBoss": true,
       "mobDrops": [
@@ -176,7 +176,7 @@
       "mobNameTag": "Azazel",
       "naturalDespawn": "false",
       "mobLevel": 10,
-      "spawnAsBoss": true,
+      "spawnAsBoss": false,
       "dungeonLevelMin": 5,
       "dungeonBoss": true,
       "mobDrops": [

@@ -1,5 +1,4 @@
 #priority 490
-#reloadable
 
 import crafttweaker.item.IItemStack;
 import crafttweaker.data.IData;
