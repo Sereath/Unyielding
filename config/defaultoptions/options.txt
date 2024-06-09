@@ -15,8 +15,8 @@ difficulty:3
 fancyGraphics:true
 ao:2
 renderClouds:false
-resourcePacks:["Unity-1.6.4-1.12.zip","Clear Glass Pack 1.11 or 1.12.zip","Techguns Re.zip","AudioCraftV1.6.zip","qt-rstation-variant.zip","Authentic Shadows_1.11-1.12.zip","LowOnFire_1.12.zip"]
-incompatibleResourcePacks:[]
+resourcePacks:["Unity-1.6.4-1.12.zip","Clear Glass Pack 1.11 or 1.12.zip","Techguns Re.zip","AudioCraftV1.6.zip","qt-rstation-variant.zip","Authentic Shadows_1.11-1.12.zip","LowOnFire_1.12.zip","Lycanites Redux - v8.0.0.zip"]
+incompatibleResourcePacks:["Lycanites Redux - v8.0.0.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
