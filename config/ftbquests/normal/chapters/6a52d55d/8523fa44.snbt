@@ -1,0 +1,17 @@
+{
+	x: 29.5d,
+	y: 3.5d,
+	dependencies: [
+		"71c62b39"
+	],
+	tasks: [{
+		uid: "3fb76f6c",
+		type: "item",
+		items: [{
+			id: "srparasites:armor_helm",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

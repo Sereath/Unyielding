@@ -1,0 +1,14 @@
+{
+	x: -1.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "24a9399a",
+		type: "item",
+		items: [{
+			id: "iceandfire:armor_copper_metal_leggings",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

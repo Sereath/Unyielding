@@ -1,0 +1,15 @@
+{
+	title: "Basic",
+	loot_size: 1,
+	rewards: [{
+		title: "Rucksack",
+		item: "travelersbackpack:travelers_backpack"
+	},
+	{
+		xp_levels: 16,
+		type: "xp_levels"
+	},
+	{
+		item: "simple_paraglider:paraglider"
+	}]
+}

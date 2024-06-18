@@ -1,0 +1,17 @@
+{
+	x: 29.5d,
+	y: 8.0d,
+	dependencies: [
+		"9db2046d"
+	],
+	tasks: [{
+		uid: "909ae4ec",
+		type: "item",
+		items: [{
+			id: "srparasites:armor_boots",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

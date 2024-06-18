@@ -1,0 +1,17 @@
+{
+	x: 32.0d,
+	y: 8.0d,
+	dependencies: [
+		"ab843361"
+	],
+	tasks: [{
+		uid: "27d1b9d0",
+		type: "item",
+		items: [{
+			id: "srparasites:armor_boots_sentient",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

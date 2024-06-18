@@ -1,0 +1,17 @@
+{
+	x: 32.0d,
+	y: 3.5d,
+	dependencies: [
+		"8523fa44"
+	],
+	tasks: [{
+		uid: "cf86c776",
+		type: "item",
+		items: [{
+			id: "srparasites:armor_helm_sentient",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

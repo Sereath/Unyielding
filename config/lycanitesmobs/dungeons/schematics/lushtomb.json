@@ -15,7 +15,8 @@
       "biomeTags": [
         "forest",
         "jungle",
-        "swamp"
+        "swamp",
+        "lush"
       ],
       "biomeTagListType": "whitelist"
     }

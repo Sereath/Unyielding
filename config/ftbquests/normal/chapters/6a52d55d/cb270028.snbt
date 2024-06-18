@@ -1,0 +1,14 @@
+{
+	x: -1.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "b2c246b5",
+		type: "item",
+		items: [{
+			id: "iceandfire:armor_copper_metal_chestplate",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

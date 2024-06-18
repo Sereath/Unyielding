@@ -1,11 +1,16 @@
 {
 	title: "§3Survival",
+	icon: "thermalfoundation:tool.sword_bronze",
 	x: 0.0d,
 	y: -1.5d,
 	text: [
 		"		You will retain your equipped armour and hand items upon death. Everything else will be stored in a tombstone.",
 		"",
-		"		You can dodge! Press the forward button on your mouse."
+		"		You can dodge! Press the forward button on your mouse.",
+		"",
+		"		Press NUM 0 to lock/unlock a hotbar slot.",
+		"",
+		"		Get an Antique Atlas if you want both the coordinates and a minimap on screen."
 	],
 	size: 1.5d,
 	tasks: [{
@@ -13,5 +18,15 @@
 		type: "checkmark",
 		title: "Tips",
 		icon: "minecraft:stone_sword"
+	}],
+	rewards: [{
+		uid: "2633a9ab",
+		type: "choice",
+		table: 0
+	},
+	{
+		uid: "aa26cfaf",
+		type: "loot",
+		table: 3
 	}]
 }

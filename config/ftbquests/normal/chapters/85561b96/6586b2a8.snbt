@@ -1,0 +1,53 @@
+{
+	x: -0.5d,
+	y: -4.0d,
+	tasks: [{
+		uid: "4bfd5fe9",
+		type: "item",
+		items: [{
+			id: "xat:dragon_ring",
+			tag: {
+				"xat:Trinket": {
+					variant: 0,
+					slot: -1,
+					handler: "None",
+					exp: 0,
+					mana: 0.0f,
+					main.ability: 0b,
+					alt.ability: 0b,
+					crafter.name: "",
+					crafter.uuid: "",
+					Counters: {},
+					Elements: {
+						primary: "xat:neutral",
+						secondary: "xat:neutral",
+						sub: {}
+					}
+				}
+			},
+			ForgeCaps: {
+				"xat:trinket": {
+					"xat:Trinket": {
+						variant: 0,
+						slot: -1,
+						handler: "None",
+						exp: 0,
+						mana: 0.0f,
+						main.ability: 0b,
+						alt.ability: 0b,
+						crafter.name: "",
+						crafter.uuid: "",
+						Counters: {},
+						Elements: {
+							primary: "xat:neutral",
+							secondary: "xat:neutral",
+							sub: {}
+						}
+					}
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

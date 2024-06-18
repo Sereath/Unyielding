@@ -1,5 +1,5 @@
 {
-	x: -2.0d,
+	x: -1.0d,
 	y: -7.0d,
 	description: "Watch out for zombies, they hate beds.",
 	text: [

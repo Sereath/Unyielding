@@ -1,0 +1,17 @@
+{
+	x: 31.5d,
+	y: 5.0d,
+	dependencies: [
+		"718f7acd"
+	],
+	tasks: [{
+		uid: "f3cb9c6e",
+		type: "item",
+		items: [{
+			id: "srparasites:armor_chest_sentient",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,17 +1,16 @@
 {
 	title: "§3Tips",
+	icon: "thermalfoundation:tool.pickaxe_bronze",
 	x: 1.0d,
 	y: -3.0d,
 	text: [
-		"		Press NUM 0 to lock/unlock a hotbar slot.",
-		"",
 		"		No more lava bucketing everything without risk, get some tongs or mitts before doing so.",
 		"",
 		"		Debug info has been disabled, grab a compass if you want to see the coordinates on screen.",
 		"",
-		"		Get an Antique Atlas if you want both the coordinates and a minimap on screen.",
+		"		Glowing Gems are the universal material for reforging your equipment.",
 		"",
-		"		Mana Infused Ingots are the universal material for reforging your equipment."
+		"		If music stops playing. Press Alt + R to reload its configurations."
 	],
 	size: 1.5d,
 	tasks: [{
@@ -19,5 +18,10 @@
 		type: "checkmark",
 		title: "Tips",
 		icon: "minecraft:stone_pickaxe"
+	}],
+	rewards: [{
+		uid: "f776f03c",
+		type: "loot",
+		table: 4
 	}]
 }

@@ -1,0 +1,14 @@
+{
+	x: -1.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "70169f29",
+		type: "item",
+		items: [{
+			id: "iceandfire:armor_copper_metal_boots",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 31.5d,
+	y: 6.5d,
+	dependencies: [
+		"6bf90479"
+	],
+	tasks: [{
+		uid: "d3ccc638",
+		type: "item",
+		items: [{
+			id: "srparasites:armor_pants_sentient",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -57,7 +57,7 @@ recipes.remove(<buildinggadgets:buildingtool>);
 recipes.remove(<buildinggadgets:exchangertool>);
 recipes.remove(<buildinggadgets:copypastetool>);
 
-recipes.remove(<darkutils:charm_portal>);
+//recipes.remove(<darkutils:charm_portal>);
 
 recipes.remove(<randomthings:spectreanchor>);
 recipes.remove(<randomthings:chunkanalyzer>);
@@ -245,8 +245,8 @@ recipes.remove(<pickletweaks:aluminum_paxel>);
 
 recipes.remove(<weirdinggadget:weirding_gadget>);
 
-//recipes.remove(<extraalchemy:empty_ring>);
-//recipes.remove(<extraalchemy:potion_ring>);
+recipes.remove(<extraalchemy:empty_ring>);
+recipes.remove(<extraalchemy:potion_ring>);
 
 recipes.remove(<vc:airship_workbench>);
 

@@ -1,0 +1,25 @@
+{
+	title: "One",
+	loot_size: 1,
+	rewards: [{
+		item: "iceandfire:copper_sword"
+	},
+	{
+		item: "iceandfire:copper_axe"
+	},
+	{
+		item: "spartanweaponry:spear_copper"
+	},
+	{
+		item: "cqrepoured:staff_healing"
+	},
+	{
+		item: "mysticbows:bow"
+	},
+	{
+		item: "mysticbows:quick_bow"
+	},
+	{
+		item: "mysticbows:heavy_bow"
+	}]
+}
