@@ -1,0 +1,14 @@
+{
+	x: 0.5d,
+	y: 11.0d,
+	tasks: [{
+		uid: "4efb7b91",
+		type: "item",
+		items: [{
+			id: "iceandfire:armor_amythest_leggings",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

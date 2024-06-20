@@ -1,0 +1,14 @@
+{
+	x: -1.0d,
+	y: 10.5d,
+	tasks: [{
+		uid: "c15957e6",
+		type: "item",
+		items: [{
+			id: "iceandfire:armor_electric_leggings",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 2.0d,
+	y: 8.5d,
+	tasks: [{
+		uid: "a1cbff05",
+		type: "item",
+		items: [{
+			id: "iceandfire:armor_copper_helmet",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

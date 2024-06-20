@@ -1,0 +1,14 @@
+{
+	x: 3.5d,
+	y: 12.0d,
+	tasks: [{
+		uid: "4dcf0603",
+		type: "item",
+		items: [{
+			id: "iceandfire:armor_black_boots",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

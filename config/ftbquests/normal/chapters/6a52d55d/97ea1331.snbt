@@ -1,0 +1,14 @@
+{
+	x: 0.5d,
+	y: 9.0d,
+	tasks: [{
+		uid: "5a8cc16c",
+		type: "item",
+		items: [{
+			id: "iceandfire:armor_amythest_helmet",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 3.5d,
+	y: 9.0d,
+	tasks: [{
+		uid: "812870d2",
+		type: "item",
+		items: [{
+			id: "iceandfire:armor_black_helmet",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

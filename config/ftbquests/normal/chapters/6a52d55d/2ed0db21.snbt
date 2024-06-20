@@ -1,0 +1,14 @@
+{
+	x: -1.0d,
+	y: 8.5d,
+	tasks: [{
+		uid: "93237fa9",
+		type: "item",
+		items: [{
+			id: "iceandfire:armor_electric_helmet",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -1.0d,
+	y: 9.5d,
+	tasks: [{
+		uid: "8bfaf470",
+		type: "item",
+		items: [{
+			id: "iceandfire:armor_electric_chestplate",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
