@@ -26,7 +26,7 @@
   "placer": {
     "type": "random",
     "minY": 48,
-    "maxY": 96
+    "maxY": 80
   },
   "themes": [
     "lush"
