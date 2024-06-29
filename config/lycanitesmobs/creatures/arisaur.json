@@ -6,7 +6,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityArisaur",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelArisaur",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -27,7 +27,7 @@
       "-mountain",
       "-snowy"
     ],
-    "spawnWeight": 8,
+    "spawnWeight": 4,
     "dungeonWeight": 0,
     "spawnAreaLimit": 5,
     "spawnGroupMin": 1,
