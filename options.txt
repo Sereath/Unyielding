@@ -117,7 +117,7 @@ key_Toggle Magnetism Suppressor:49
 key_key.ftbutilities.nbt:49:ALT
 key_key.ftbutilities.trash:211
 key_key.ftbquests.quests:36
-key_key.mount.dismount:0
+key_key.mount.dismount:56
 key_key.mount.descend:42
 key_key.mount.ability:45
 key_key.mount.inventory:0
