@@ -57,6 +57,7 @@ recipes.remove(<buildinggadgets:buildingtool>);
 recipes.remove(<buildinggadgets:exchangertool>);
 recipes.remove(<buildinggadgets:copypastetool>);
 
+recipes.remove(<darkutils:charm_gluttony>);
 //recipes.remove(<darkutils:charm_portal>);
 
 recipes.remove(<randomthings:spectreanchor>);
