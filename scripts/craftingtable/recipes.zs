@@ -259,6 +259,15 @@ recipes.remove(<apotheosis:prismatic_web>);
 
 recipes.remove(<xreliquary:twilight_cloak>);
 
+recipes.remove(<iceandfire:armor_copper_metal_helmet>);
+recipes.remove(<iceandfire:armor_copper_metal_chestplate>);
+recipes.remove(<iceandfire:armor_copper_metal_leggings>);
+recipes.remove(<iceandfire:armor_copper_metal_boots>);
+recipes.remove(<iceandfire:armor_silver_metal_helmet>);
+recipes.remove(<iceandfire:armor_silver_metal_chestplate>);
+recipes.remove(<iceandfire:armor_silver_metal_leggings>);
+recipes.remove(<iceandfire:armor_silver_metal_boots>);
+
 recipes.addShaped(<buildinggadgets:buildingtool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemPulsatingCrystal>, <ore:crystalRestonia>, <ore:itemPulsatingCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
 recipes.addShaped(<buildinggadgets:exchangertool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemPulsatingCrystal>, <ore:crystalPalis>, <ore:itemPulsatingCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
 recipes.addShaped(<buildinggadgets:copypastetool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemVibrantCrystal>, <ore:crystalRestonia>, <ore:itemVibrantCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
@@ -322,3 +331,12 @@ recipes.addShaped(<weirdinggadget:weirding_gadget>, [[<ore:ingotBronze>, <ore:pe
 recipes.addShaped(<corpsecomplex:scroll>, [[null, <ore:netherStar>, null],[<ore:enderpearl>, <ore:paper>, <ore:enderpearl>], [null, <minecraft:ender_eye>, null]]);
 
 recipes.addShaped(<apotheosis:prismatic_web>, [[null, <ore:netherStar>, null],[<ore:gemPrismarine>, <minecraft:web>, <ore:gemPrismarine>], [null, <ore:gemPrismarine>, null]]);
+
+recipes.addShaped(<iceandfire:armor_copper_metal_helmet>, [[null, <ore:dustGlowing>, null],[<ore:ingotCopper>, <ore:ingotCopper>, <ore:ingotCopper>], [<ore:ingotCopper>, null, <ore:ingotCopper>]]);
+recipes.addShaped(<iceandfire:armor_copper_metal_chestplate>, [[<ore:ingotCopper>, <ore:gemGlowing>, <ore:ingotCopper>],[<ore:ingotCopper>, <ore:ingotCopper>, <ore:ingotCopper>], [<ore:ingotCopper>, <ore:ingotCopper>, <ore:ingotCopper>]]);
+recipes.addShaped(<iceandfire:armor_copper_metal_leggings>, [[<ore:ingotCopper>, <ore:ingotCopper>, <ore:ingotCopper>],[<ore:ingotCopper>, <ore:dustGlowing>, <ore:ingotCopper>], [<ore:ingotCopper>, null, <ore:ingotCopper>]]);
+recipes.addShaped(<iceandfire:armor_copper_metal_boots>, [[null, null, null],[<ore:ingotCopper>, <ore:dustGlowing>, <ore:ingotCopper>], [<ore:ingotCopper>, null, <ore:ingotCopper>]]);
+recipes.addShaped(<iceandfire:armor_silver_metal_helmet>, [[null, <ore:dustGlowing>, null],[<ore:ingotSilver>, <ore:ingotSilver>, <ore:ingotSilver>], [<ore:ingotSilver>, null, <ore:ingotSilver>]]);
+recipes.addShaped(<iceandfire:armor_silver_metal_chestplate>, [[<ore:ingotSilver>, <ore:gemGlowing>, <ore:ingotSilver>],[<ore:ingotSilver>, <ore:ingotSilver>, <ore:ingotSilver>], [<ore:ingotSilver>, <ore:ingotSilver>, <ore:ingotSilver>]]);
+recipes.addShaped(<iceandfire:armor_silver_metal_leggings>, [[<ore:ingotSilver>, <ore:ingotSilver>, <ore:ingotSilver>],[<ore:ingotSilver>, <ore:dustGlowing>, <ore:ingotSilver>], [<ore:ingotSilver>, null, <ore:ingotSilver>]]);
+recipes.addShaped(<iceandfire:armor_silver_metal_boots>, [[null, null, null],[<ore:ingotSilver>, <ore:dustGlowing>, <ore:ingotSilver>], [<ore:ingotSilver>, null, <ore:ingotSilver>]]);
