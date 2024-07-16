@@ -30,8 +30,38 @@
   "dimensionSettings": {
     "fallbackDimensionIcon": "unknown",
     "dimensionData": {
+      "aqua": {
+        "textOverride": "In the Chasm",
+        "iconOverride": "skeleton"
+      },
       "default": {
         "textOverride": "In the {dimension.name}"
+      },
+      "the_nether": {
+        "textOverride": "In The Nether"
+      },
+      "underworld": {
+        "textOverride": "In the {dimension.name}",
+        "iconOverride": "skeleton"
+      },
+      "the_end": {
+        "textOverride": "In The End"
+      },
+      "wyvern_skylands": {
+        "textOverride": "In the {dimension.name}",
+        "iconOverride": "skeleton"
+      },
+      "ancient": {
+        "textOverride": "In the Abyss",
+        "iconOverride": "skeleton"
+      },
+      "the_beneath": {
+        "textOverride": "In {dimension.name}",
+        "iconOverride": "unyieldinglogo1024v2"
+      },
+      "theaurorian": {
+        "textOverride": "In The Aurorian",
+        "iconOverride": "skeleton"
       }
     }
   },
@@ -163,7 +193,7 @@
       "gameState": "{getOrDefault(server.message)} {getOrDefault(pack.name)}",
       "largeImageKey": "{getFirst(menu.icon, dimension.icon)}",
       "largeImageText": "{getFirst(menu.message, dimension.message)}",
-      "smallImageKey": "{getFirst(server.icon, pack.icon)}",
+      "smallImageKey": "unyieldinglogo1024v2",
       "smallImageText": "{getOrDefault(server.message)} {getOrDefault(pack.name)}",
       "startTimestamp": "{data.general.time}",
       "endTimestamp": "",
