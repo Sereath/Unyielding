@@ -11,8 +11,8 @@
     "detectBiomeData": true,
     "detectDimensionData": true,
     "detectWorldData": true,
-    "clientId": "450485984333660181",
-    "defaultIcon": "grass",
+    "clientId": "891044579887972372",
+    "defaultIcon": "unyieldinglogo1024v2",
     "enableJoinRequests": false,
     "partyPrivacyLevel": 1,
     "preferredClientLevel": 3,
@@ -53,10 +53,10 @@
       "textOverride": "Loading..."
     },
     "lanData": {
-      "textOverride": "Playing on a LAN Server"
+      "textOverride": "LAN Server"
     },
     "singleplayerData": {
-      "textOverride": "Playing Singleplayer"
+      "textOverride": "Singleplayer"
     },
     "realmData": {
       "textOverride": "Playing on {server.motd.raw}"
