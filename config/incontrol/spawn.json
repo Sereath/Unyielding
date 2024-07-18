@@ -1039,18 +1039,6 @@
 		"result": "deny"
 	},
 
-	//ratsmobcounter
-
-	{
-		"mob": "rats:rat",
-		"mincount": {
-			"amount": 30,
-			"mob": "rats:rat",
-			"perchunk": true
-		},
-		"result": "deny"
-	},
-
 	//mutantbeastscounter
 
 	{

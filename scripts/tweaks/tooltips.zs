@@ -206,8 +206,6 @@
 
 
 <harvestersnight:harvester_scythe>.displayName = "§dThe Harvester's Scythe";
-<rats:black_death_mask>.displayName = "§5Black Death Mask";
-<rats:plague_scythe>.displayName = "§5Black Death Scythe";
 
 
 <mowziesmobs:wrought_axe>.displayName = "§4Axe of a Thousand Metals";
