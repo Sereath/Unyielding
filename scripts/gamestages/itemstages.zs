@@ -8,6 +8,7 @@ mods.ItemStages.stageModItems("TE", "superiorshields");
 mods.ItemStages.stageModItems("IR", "industrialrenewal");
 
 mods.ItemStages.stageModItems("TG", "techguns");
+mods.ItemStages.stageModItems("TG", "soviet");
 
 mods.ItemStages.stageModItems("MG", "magneticraft");
 //mods.ItemStages.stageModItems("IE", "immersiveengineering");

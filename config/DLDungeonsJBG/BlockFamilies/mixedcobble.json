@@ -1,7 +1,7 @@
 {
   "name": "mixed_cobble",
   "blocks": [
-    "minecraft:cobblestone",
-    "minecraft:mossy_cobblestone"
+    "soviet:white_soviet_bricks",
+    "soviet:white_soviet_bricks_crack"
   ]
 } 

@@ -1,7 +1,7 @@
 {
   "name": "mixed_bricks_1",
   "blocks": [
-    "minecraft:stonebrick",
-    "minecraft:stonebrick(1)"
+    "soviet:ye_bricks_3",
+    "soviet:ye_bricks_3_crack"
   ]
 } 

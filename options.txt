@@ -278,7 +278,7 @@ key_key.music_player_gui:0
 key_key.music_player_toggle:0
 key_key.music_player_next:0
 key_key.music_player_previous:0
-key_key.musictriggers.gui:19
+key_key.musictriggers.gui:19:ALT
 key_key.nutrition:49
 key_key.plustic_release_entity.desc:11
 key_key.plustic_toggle_gui.desc:23

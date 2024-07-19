@@ -1,9 +1,9 @@
 {
   "name": "crumbling_walls_1",
   "blocks": [
-    "minecraft:stonebrick",
-    "minecraft:stonebrick(1)",
-    "minecraft:stonebrick(2)",
+    "soviet:ye_bricks_3",
+    "soviet:ye_bricks_3_crack",
+    "soviet:ye_bricks_2_crack",
     "minecraft:air"
   ]
 } 
