@@ -77,8 +77,8 @@
 	{
 		"dimension": 0,
 		"mob": "techguns:zombiesoldier",
-		"gamestage": "tg",
 		"random": 0.0025,
+		"gamestage": "tg",
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -109,8 +109,8 @@
 	{
 		"dimension": 0,
 		"mob": "techguns:zombiefarmer",
-		"gamestage": "tg",
 		"random": 0.00375,
+		"gamestage": "tg",
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -140,8 +140,8 @@
 	{
 		"dimension": 0,
 		"mob": "techguns:zombieminer",
-		"gamestage": "tg",
 		"random": 0.00375,
+		"gamestage": "tg",
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -187,8 +187,8 @@
 	{
 		"dimension": 0,
 		"mob": "techguns:skeletonsoldier",
-		"gamestage": "tg",
 		"random": 0.0025,
+		"gamestage": "tg",
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -219,8 +219,8 @@
 	{
 		"dimension": 0,
 		"mob": "techguns:psychosteve",
-		"gamestage": "tg",
 		"random": 0.000875,
+		"gamestage": "tg",
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -327,8 +327,8 @@
 	{
 		"dimension": 0,
 		"mob": "iceandfire:dread_thrall",
-		"seesky": true,
 		"random": 0.0025,
+		"seesky": true,
 		"maxlight": 7,
 		"minlight": 0,
 		"minheight": 50,
@@ -348,8 +348,8 @@
 	{
 		"dimension": 0,
 		"mob": "iceandfire:dread_ghoul",
-		"seesky": true,
 		"random": 0.00125,
+		"seesky": true,
 		"maxlight": 7,
 		"minlight": 0,
 		"minheight": 50,
@@ -369,8 +369,8 @@
 	{
 		"dimension": 0,
 		"mob": "iceandfire:dread_beast",
-		"seesky": true,
 		"random": 0.00125,
+		"seesky": true,
 		"maxlight": 7,
 		"minlight": 0,
 		"minheight": 50,
@@ -390,8 +390,8 @@
 	{
 		"dimension": 0,
 		"mob": "iceandfire:dread_scuttler",
-		"seesky": true,
 		"random": 0.000875,
+		"seesky": true,
 		"maxlight": 7,
 		"minlight": 0,
 		"minheight": 50,
@@ -411,8 +411,8 @@
 	{
 		"dimension": 0,
 		"mob": "iceandfire:dread_lich",
-		"seesky": true,
 		"random": 0.000625,
+		"seesky": true,
 		"maxlight": 7,
 		"minlight": 0,
 		"minheight": 50,
@@ -432,8 +432,8 @@
 	{
 		"dimension": 0,
 		"mob": "iceandfire:dread_knight",
-		"seesky": true,
 		"random": 0.00125,
+		"seesky": true,
 		"maxlight": 7,
 		"minlight": 0,
 		"minheight": 50,
@@ -455,8 +455,8 @@
 	{
 		"dimension": 0,
 		"mob": "grimoireofgaia:deathword",
-		"seesky": false,
 		"random": 0.0025,
+		"seesky": false,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount": {
@@ -474,10 +474,10 @@
 	{
 		"dimension": 0,
 		"mob": "grimoireofgaia:dhampir",
+		"random": 0.00125,
+		"seesky": true,
 		"biome": ["Cold Taiga", "Cold Taiga Hills", "Cold Taiga M", "Taiga M", "Ominous Woods", "Redwood Forest", "Shield", "Dark Forest", "Dead Forest", "Forest", "Roofed Forest", "Magical Forest", "Tall Oak Forest", "Fungi Forest", "Thicket", "Coniferous Forest", "Snowy Coniferous Forest", "MountainFoothills"],
 		"biometype": ["FOREST", "CONIFEROUS", "DENSE", "THEMED_TREES", "SPOOKY", "MEGA_TAIGA_TREES", "MEGA_TAIGA_SPRUCE_TREES", "MAGICAL", "DEAD"],
-		"seesky": true,
-		"random": 0.00125,
 		"maxlight": 15,
 		"minlight": 0,
 		"maxcount":	{
@@ -495,10 +495,10 @@
 	{
 		"dimension": 0,
 		"mob": "grimoireofgaia:vampire",
+		"random": 0.000875,
+		"seesky": true,
 		"biome": ["Cold Taiga", "Cold Taiga Hills", "Cold Taiga M", "Taiga M", "Ominous Woods", "Redwood Forest", "Shield", "Dark Forest", "Dead Forest", "Forest", "Roofed Forest", "Magical Forest", "Tall Oak Forest", "Fungi Forest", "Thicket", "Coniferous Forest", "Snowy Coniferous Forest", "MountainFoothills"],
 		"biometype": ["FOREST", "CONIFEROUS", "DENSE", "THEMED_TREES", "SPOOKY", "MEGA_TAIGA_TREES", "MEGA_TAIGA_SPRUCE_TREES", "MAGICAL", "DEAD"],
-		"seesky": true,
-		"random": 0.000875,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -516,8 +516,8 @@
 	{
 		"dimension": 0,
 		"mob": "grimoireofgaia:dwarf",
-		"seesky": false,
 		"random": 0.0025,
+		"seesky": false,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxheight": 64,
@@ -537,8 +537,8 @@
 	{
 		"dimension": 0,
 		"mob": "grimoireofgaia:orc",
-		"seesky": false,
 		"random": 0.0025,
+		"seesky": false,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxheight": 64,
@@ -560,8 +560,8 @@
 	{
 		"dimension": [0,424],
 		"mob": "eyesinthedarkness:eyes",
-		"seesky": false,
 		"random": 0.00625,
+		"seesky": false,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -721,8 +721,8 @@
 	{
 		"dimension": 0,
 		"mob": "srparasites:carrier_heavy",
-		"gamestage": "eio",
 		"random": 0.001,
+		"gamestage": "eio",
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -773,8 +773,8 @@
 	{
 		"dimension": 0,
 		"mob": "srparasites:rupter",
-		"gamestage": "eio",
 		"random": 0.001,
+		"gamestage": "eio",
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -805,8 +805,8 @@
 	{
 		"dimension": 0,
 		"mob": "srparasites:sim_human",
-		"gamestage": "eio",
 		"random": 0.001,
+		"gamestage": "eio",
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
@@ -839,8 +839,8 @@
 	{
 		"dimension": 0,
 		"mob": "nuclearcraft:feral_ghoul",
-		"gamestage": "nco",
 		"random": 0.0025,
+		"gamestage": "nco",
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{
