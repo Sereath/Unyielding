@@ -32,3 +32,28 @@ import crafttweaker.item.IIngredient;
 <cqrepoured:hookshot>.maxDamage = 90;
 <cqrepoured:longshot>.maxDamage = 60;
 <cqrepoured:spiderhook>.maxDamage = 30;
+
+val metalpanel as IItemStack = <techguns:metalpanel>;
+val nethermetal as IItemStack = <techguns:nethermetal>;
+val concrete as IItemStack = <techguns:concrete>;
+metalpanel.hardness = 18;
+nethermetal.hardness = 21;
+concrete.hardness = 15;
+val stairs_metal as IItemStack = <techguns:stairs_metal>;
+val stairs_concrete as IItemStack = <techguns:stairs_concrete>;
+stairs_metal.hardness = 18;
+stairs_concrete.hardness = 15;
+val bunkerdoor as IItemStack = <techguns:bunkerdoor>;
+val door3x3 as IItemStack = <techguns:door3x3>;
+bunkerdoor.hardness = 18;
+door3x3.hardness = 15;
+
+val obsidian as IItemStack = <minecraft:obsidian>;
+obsidian.hardness = 17;
+val chisel_obsidian as IItemStack = <chisel:obsidian>;
+chisel_obsidian.hardness = 17;
+//didntworkwithspecificmetadata
+//val bleeding_obsidian as IItemStack = <srparasites:parasiterubble:7>;
+//bleeding_obsidian.hardness = 16;
+val parasiterubble as IItemStack = <srparasites:parasiterubble>;
+parasiterubble.hardness = 5;
