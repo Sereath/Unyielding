@@ -196,7 +196,7 @@
         "player": true,
         "item": "techguns:blasterrifle",
         "itemcount": "1",
-        "random": "0.03"
+        "random": "0.01"
     },
     {
         "mob": "techguns:stormtrooper",
@@ -270,6 +270,16 @@
         "random": "0.09"
     },
 
+    //mutant_zombie
+
+    {
+        "mob": "mutantbeasts:mutant_zombie",
+        "player": true,
+        "item": "gamestagebooks:cyc",
+        "itemcount": "1",
+        "random": "0.09"
+    },
+    
     //SRP
 
     {
@@ -325,16 +335,6 @@
         "player": true,
         "item": ["theaurorian:scrapcrystalline","theaurorian:scrapumbra","theaurorian:scrapaurorianite"],
         "itemcount": "0-1",
-        "random": "0.09"
-    },
-
-    //mutant_zombie
-
-    {
-        "mob": "mutantbeasts:mutant_zombie",
-        "player": true,
-        "item": "gamestagebooks:cyc",
-        "itemcount": "1",
         "random": "0.09"
     },
 
