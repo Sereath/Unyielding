@@ -189,7 +189,7 @@
         "random": "0.27"
     },
 
-    //storm
+    //stormtrooper
 
     {
         "mob": "techguns:stormtrooper",
@@ -338,7 +338,7 @@
         "random": "0.09"
     },
 
-    //Ender Dragon
+    //ender_dragon
 
     {
         "mob": "minecraft:ender_dragon",
@@ -348,7 +348,7 @@
         "random": "0.27"
     },
 
-    //Wither
+    //wither
 
     {
         "mob": "minecraft:wither",
@@ -379,7 +379,17 @@
         "random": "0.18"
     },
 
-    //Nether Knight
+    //skeletonking
+
+    {
+        "mob": "mod_lavacow:skeletonking",
+        "player": true,
+        "item": ["lootchests:loot_crate@1","lootchests:loot_crate@2","lootchests:loot_crate@3"],
+        "itemcount": "0-1",
+        "random": "0.18"
+    },
+
+    //nether_knight
 
     {
         "mob": "eerieentities:nether_knight",
