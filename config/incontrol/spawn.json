@@ -1120,5 +1120,18 @@
 			"perchunk": true
 		},
 		"result": "deny"
+	},
+
+	//srphack
+
+	{
+		"mob": "srparasites:beckon_siv",
+		"onjoin": true,
+		"mincount": {
+			"amount": 12,
+			"mob": "srparasites:beckon_siv",
+			"perchunk": true
+		},
+		"result": "deny"
 	}
 ]
