@@ -1,0 +1,10 @@
+{
+    "url": "https://cdn.modrinth.com/data/Si3V1hU5/versions/9q3GDlyZ/hitindication-1.12.2-1.4.jar",
+	"installationPolicy": {
+		"continueOnFailedDownload": true,
+		"optionalKey": "$",
+		"selectedByDefault": true,
+		"name": "Hit_Indication",
+		"description": "Hit Indication"
+    }
+}
