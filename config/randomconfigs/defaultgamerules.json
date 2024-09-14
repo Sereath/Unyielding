@@ -27,6 +27,10 @@
 		"value": true,
 		"forced": false
 	},
+	"showDeathMessages": { 
+		"value": false,
+		"forced": false
+	},
 	"MODE_OR_WORLD_TYPE_SPECIFIC": { 
 		"survival": { 
 			"DIFFICULTY": { 

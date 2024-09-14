@@ -55,13 +55,12 @@
 		priority = "1"
 		resource_name = [ "0" ]
 		identifier = "overworld"
-	[triggers.bloodmoon]
 	[triggers.menu]
 	[triggers.universal]
 		fade_out = "100"
 		persistence = "0"
 		trigger_delay = "0"
-		song_delay = "300:2100"
+		song_delay = "6000:12000"
 		start_delay = "0"
 		stop_delay = "0"
 		fade_in = "100"

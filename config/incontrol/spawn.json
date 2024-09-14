@@ -587,6 +587,7 @@
 	},
 
 	//roughmobsbossesskycheck
+	
 	{
 		"dimension": 0,
 		"mob": ["roughmobsrevamped:bosszombie","roughmobsrevamped:bossskeleton"],
@@ -594,7 +595,9 @@
 		"seesky": false,
 		"result": "deny"
 	},
+	
 	//roughmobsbossesbeneathdespawn
+
 	{
 		"dimension": [3,5,7,10],
 		"mob": ["roughmobsrevamped:bosszombie","roughmobsrevamped:bossskeleton"],
@@ -915,6 +918,15 @@
 		},
 		"result": "deny"
 	},
+	{
+		"mob": "mod_lavacow:banshee",
+		"mincount": {
+			"amount": 5,
+			"mob": "mod_lavacow:banshee",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
 
 	//beecounter
 
@@ -948,7 +960,6 @@
 		},
 		"result": "deny"
 	},
-
 	{
 		"mob": "grimoireofgaia:arachne",
 		"mincount": {
@@ -958,7 +969,6 @@
 		},
 		"result": "deny"
 	},
-	
 	{
 		"mob": "grimoireofgaia:centaur",
 		"mincount": {
@@ -968,7 +978,6 @@
 		},
 		"result": "deny"
 	},
-
 	{
 		"mob": "grimoireofgaia:creep",
 		"mincount": {
@@ -978,7 +987,6 @@
 		},
 		"result": "deny"
 	},
-
 	{
 		"mob": "grimoireofgaia:cyan_flower",
 		"mincount": {
@@ -988,7 +996,6 @@
 		},
 		"result": "deny"
 	},
-
 	{
 		"mob": "grimoireofgaia:ender_eye",
 		"mincount": {
@@ -998,7 +1005,6 @@
 		},
 		"result": "deny"
 	},
-	
 	{
 		"mob": "grimoireofgaia:satyress",
 		"mincount": {
@@ -1008,7 +1014,6 @@
 		},
 		"result": "deny"
 	},
-
 	{
 		"mob": "grimoireofgaia:vase",
 		"mincount": {
@@ -1018,7 +1023,6 @@
 		},
 		"result": "deny"
 	},
-
 	{
 		"mob": "grimoireofgaia:vase_nether",
 		"mincount": {
@@ -1028,7 +1032,6 @@
 		},
 		"result": "deny"
 	},
-
 	{
 		"mob": "grimoireofgaia:ant_hill",
 		"mincount": {
@@ -1068,7 +1071,7 @@
 	{
 		"mob": "chickens:chickenschicken",
 		"mincount": {
-			"amount": 15,
+			"amount": 5,
 			"mob": "chickens:chickenschicken",
 			"perchunk": true
 		},
@@ -1110,7 +1113,6 @@
 		},
 		"result": "deny"
 	},
-
 	{
 		"mob": "minecraft:slime",
 		"onjoin": true,
@@ -1121,17 +1123,108 @@
 		},
 		"result": "deny"
 	},
+	{
+		"mob": "minecraft:enderman",
+		"mincount": {
+			"amount": 6,
+			"mob": "minecraft:enderman",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+	{
+		"mob": "minecraft:creeper",
+		"mincount": {
+			"amount": 12,
+			"mob": "minecraft:creeper",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+	{
+		"mob": "minecraft:skeleton",
+		"mincount": {
+			"amount": 30,
+			"mob": "minecraft:skeleton",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+	{
+		"mob": "minecraft:zombie",
+		"mincount": {
+			"amount": 60,
+			"mob": "minecraft:zombie",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
 
 	//srphack
 
 	{
+		"mob": "srparasites:beckon_si",
+		"onjoin": true,
+		"mincount": {
+			"amount": 9,
+			"mob": "srparasites:beckon_si",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+	{
+		"mob": "srparasites:beckon_sii",
+		"onjoin": true,
+		"mincount": {
+			"amount": 7,
+			"mob": "srparasites:beckon_sii",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+	{
+		"mob": "srparasites:beckon_siii",
+		"onjoin": true,
+		"mincount": {
+			"amount": 5,
+			"mob": "srparasites:beckon_siii",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+	{
 		"mob": "srparasites:beckon_siv",
 		"onjoin": true,
 		"mincount": {
-			"amount": 12,
+			"amount": 3,
 			"mob": "srparasites:beckon_siv",
 			"perchunk": true
 		},
+		"result": "deny"
+	},
+	{
+		"mob": "srparasites:fer_enderman",
+		"onjoin": true,
+		"mincount": {
+			"amount": 13,
+			"mob": "srparasites:fer_enderman",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+	{
+		"mob": "srparasites:sim_enderman",
+		"onjoin": true,
+		"mincount": {
+			"amount": 13,
+			"mob": "srparasites:sim_enderman",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+	{
+		"mob": ["srparasites:dispatcher_si","srparasites:dispatcher_sii","srparasites:dispatcher_siii","srparasites:dispatcher_siv"],
+		"onjoin": true,
 		"result": "deny"
 	}
 ]

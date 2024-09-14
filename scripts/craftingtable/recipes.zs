@@ -244,7 +244,7 @@ recipes.remove(<theaurorian:aurorianstone>);
 recipes.remove(<pickletweaks:constantan_paxel>);
 recipes.remove(<pickletweaks:aluminum_paxel>);
 
-recipes.remove(<weirdinggadget:weirding_gadget>);
+//recipes.remove(<weirdinggadget:weirding_gadget>);
 
 recipes.remove(<extraalchemy:empty_ring>);
 recipes.remove(<extraalchemy:potion_ring>);
@@ -326,7 +326,7 @@ recipes.addShaped(<theaurorian:auroriansteel>, [[<ore:ingotCerulean>, <ore:ingot
 recipes.addShaped(<theaurorian:aurorianstone>, [[<srparasites:bone>, <thermalfoundation:material:72>, null],[<minecraft:stone>, <thermalfoundation:material:103>, null], [null, null, null]]);
 recipes.addShaped(<theaurorian:aurorianportalframebricks>, [[<jaopca:item_dustancientdebris>, <progressivecore:reality_crystal>, <theaurorian:scrapumbra>],[<progressivecore:reality_crystal>, <theaurorian:aurorianstone>, <progressivecore:reality_crystal>], [<theaurorian:scrapcrystalline>, <progressivecore:reality_crystal>, <theaurorian:scrapaurorianite>]]);
 
-recipes.addShaped(<weirdinggadget:weirding_gadget>, [[<ore:ingotBronze>, <ore:pearlEnderEye>, <ore:ingotBronze>],[<ore:blockBronze>, <ore:gemGlowing>, <ore:blockBronze>], [<ore:blockElectrum>, <ore:gearBronze>, <ore:blockElectrum>]]);
+//recipes.addShaped(<weirdinggadget:weirding_gadget>, [[<ore:ingotBronze>, <ore:pearlEnderEye>, <ore:ingotBronze>],[<ore:blockBronze>, <ore:gemGlowing>, <ore:blockBronze>], [<ore:blockElectrum>, <ore:gearBronze>, <ore:blockElectrum>]]);
 
 recipes.addShaped(<corpsecomplex:scroll>, [[null, <ore:netherStar>, null],[<ore:enderpearl>, <ore:paper>, <ore:enderpearl>], [null, <minecraft:ender_eye>, null]]);
 

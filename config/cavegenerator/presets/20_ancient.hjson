@@ -5,7 +5,7 @@
   replaceableBlocks: $NATURAL_STONE
   replaceDecorators: true
   caverns: {
-    height: [ 80, 122 ]
+    height: [ 80, 250 ]
     ceiling: {
       frequency: 0.02
       range: [ -4, 4 ]
@@ -36,7 +36,7 @@
         returnType: Distance3Div
         cellularLookup: Simplex
         seed: 1
-        threshold: -0.3
+        threshold: -0.15
       }
     ]
   }
@@ -46,7 +46,7 @@
   }
   tunnels: {
     count: 7
-    height: [ 4, 126 ]
+    height: [ 4, 254 ]
     systemChance: 0.00050
     noiseYReduction: false
     distance: 320
