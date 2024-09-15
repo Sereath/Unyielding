@@ -1,43 +1,43 @@
 #priority 950
 
-mods.ItemStages.stageModItems("TE", "thermaldynamics");
-mods.ItemStages.stageModItems("TE", "thermalexpansion");
-mods.ItemStages.stageModItems("TE", "thermalinnovation");
-mods.ItemStages.stageModItems("TE", "superiorshields");
+mods.ItemStages.stageModItems("te", "thermaldynamics");
+mods.ItemStages.stageModItems("te", "thermalexpansion");
+mods.ItemStages.stageModItems("te", "thermalinnovation");
+mods.ItemStages.stageModItems("te", "superiorshields");
 
-mods.ItemStages.stageModItems("IR", "industrialrenewal");
+mods.ItemStages.stageModItems("ir", "industrialrenewal");
 
-mods.ItemStages.stageModItems("TG", "techguns");
-mods.ItemStages.stageModItems("TG", "soviet");
+mods.ItemStages.stageModItems("tg", "techguns");
+mods.ItemStages.stageModItems("tg", "soviet");
 
-mods.ItemStages.stageModItems("MG", "magneticraft");
+mods.ItemStages.stageModItems("mg", "magneticraft");
 //mods.ItemStages.stageModItems("IE", "immersiveengineering");
 //mods.ItemStages.stageModItems("IE", "immersivepetroleum");
 //mods.ItemStages.stageModItems("IE", "immersivetech");
-mods.ItemStages.stageModItems("MG", "engineersdecor");
-mods.ItemStages.stageModItems("MG", "rsgauges");
-mods.ItemStages.stageModItems("MG", "betterboilers");
+mods.ItemStages.stageModItems("mg", "engineersdecor");
+mods.ItemStages.stageModItems("mg", "rsgauges");
+mods.ItemStages.stageModItems("mg", "betterboilers");
 
-mods.ItemStages.stageModItems("AA", "actuallyadditions");
-mods.ItemStages.stageModItems("AA", "xnet");
+mods.ItemStages.stageModItems("aa", "actuallyadditions");
+mods.ItemStages.stageModItems("aa", "xnet");
 
-mods.ItemStages.stageModItems("EIO", "enderio");
-mods.ItemStages.stageModItems("EIO", "environmentaltech");
-mods.ItemStages.stageModItems("EIO", "etlunar");
+mods.ItemStages.stageModItems("eio", "enderio");
+mods.ItemStages.stageModItems("eio", "environmentaltech");
+mods.ItemStages.stageModItems("eio", "etlunar");
 
-mods.ItemStages.stageModItems("OMT", "openmodularturrets");
-mods.ItemStages.stageModItems("OMT", "portality");
-mods.ItemStages.stageModItems("OMT", "scannable");
-//mods.ItemStages.stageModItems("OMT", "emergingtechnology");
+mods.ItemStages.stageModItems("omt", "openmodularturrets");
+mods.ItemStages.stageModItems("omt", "portality");
+mods.ItemStages.stageModItems("omt", "scannable");
+//mods.ItemStages.stageModItems("omt", "emergingtechnology");
 
-mods.ItemStages.stageModItems("CYC", "cyclicmagic");
+mods.ItemStages.stageModItems("cyc", "cyclicmagic");
 
-mods.ItemStages.stageModItems("RB", "openblocks");
-mods.ItemStages.stageModItems("RB", "randomthings");
-mods.ItemStages.stageModItems("RB", "compositegear");
+mods.ItemStages.stageModItems("rb", "openblocks");
+mods.ItemStages.stageModItems("rb", "randomthings");
+mods.ItemStages.stageModItems("rb", "compositegear");
 
-//mods.ItemStages.stageModItems("TE", "extendedcrafting");
+//mods.ItemStages.stageModItems("te", "extendedcrafting");
 
-mods.ItemStages.stageModItems("NCO", "nuclearcraft");
-mods.ItemStages.stageModItems("NCO", "qmd");
-mods.ItemStages.stageModItems("EIO", "reactorbuilder");
+mods.ItemStages.stageModItems("nco", "nuclearcraft");
+mods.ItemStages.stageModItems("nco", "qmd");
+mods.ItemStages.stageModItems("eio", "reactorbuilder");

@@ -27,6 +27,10 @@ recipes.remove(<cyclicmagic:magnet_anti_block>);
 recipes.remove(<cyclicmagic:tool_warp_spawn>);
 recipes.remove(<cyclicmagic:tool_warp_home>);
 recipes.remove(<cyclicmagic:book_ender>);
+recipes.remove(<cyclicmagic:cable_wireless>);
+recipes.remove(<cyclicmagic:cable_wireless_energy>);
+recipes.remove(<cyclicmagic:cable_wireless_fluid>);
+recipes.remove(<cyclicmagic:card_location>);
 
 recipes.remove(<bountifulbaubles:phantomprism>);
 recipes.remove(<bountifulbaubles:amuletsinwrath>);
@@ -86,6 +90,15 @@ recipes.remove(<randomthings:diviningrod:3>);
 recipes.remove(<randomthings:diviningrod:2>);
 recipes.remove(<randomthings:diviningrod:1>);
 recipes.remove(<randomthings:diviningrod>);
+recipes.remove(<randomthings:advanceditemcollector>);
+recipes.remove(<randomthings:spectrelens>);
+recipes.remove(<randomthings:spectreenergyinjector>);
+recipes.remove(<randomthings:spectrecoil_normal>);
+recipes.remove(<randomthings:spectrecoil_redstone>);
+recipes.remove(<randomthings:spectrecoil_ender>);
+recipes.remove(<randomthings:spectrecharger>);
+recipes.remove(<randomthings:spectrecharger:1>);
+recipes.remove(<randomthings:spectrecharger:2>);
 
 recipes.remove(<waystones:waystone>);
 
@@ -286,9 +299,21 @@ recipes.addShaped(<minecraft:name_tag> * 2, [[<nyx:fallen_star>, <nyx:fallen_sta
 
 recipes.addShaped(<cyclicmagic:sack_ender>, [[<ore:itemVibrantCrystal>, <ore:itemLeather>, <ore:itemVibrantCrystal>],[<ore:itemLeather>, <minecraft:ender_chest>, <ore:itemLeather>], [<ore:itemVibrantCrystal>, <ore:itemLeather>, <ore:itemVibrantCrystal>]]);
 recipes.addShaped(<cyclicmagic:storage_bag>, [[<ore:itemLeather>, <xat:mana_crystal>, <ore:itemLeather>],[<ore:itemLeather>, <ore:gemAmber>, <ore:itemLeather>], [<ore:itemLeather>, <ore:itemLeather>, <ore:itemLeather>]]);
+recipes.addShaped(<cyclicmagic:cable_wireless>, [[<ore:ingotAurorianSteel>, <minecraft:sponge>, <ore:ingotAurorianSteel>],[<ore:gearVibrant>, <iceandfire:lightning_dragon_heart>, <ore:gearVibrant>], [<ore:ingotAurorianSteel>, <minecraft:sponge>, <ore:ingotAurorianSteel>]]);
+recipes.addShaped(<cyclicmagic:cable_wireless_energy>, [[<ore:ingotAurorianSteel>, <minecraft:sponge>, <ore:ingotAurorianSteel>],[<ore:gearVibrant>, <iceandfire:fire_dragon_heart>, <ore:gearVibrant>], [<ore:ingotAurorianSteel>, <minecraft:sponge>, <ore:ingotAurorianSteel>]]);
+recipes.addShaped(<cyclicmagic:cable_wireless_fluid>, [[<ore:ingotAurorianSteel>, <minecraft:sponge>, <ore:ingotAurorianSteel>],[<ore:gearVibrant>, <iceandfire:ice_dragon_heart>, <ore:gearVibrant>], [<ore:ingotAurorianSteel>, <minecraft:sponge>, <ore:ingotAurorianSteel>]]);
+recipes.addShaped(<cyclicmagic:card_location>, [[null, <ore:cutSapphire>, null],[null, <mod_lavacow:curseweave_cloth>, null], [null, <netherex:frost_rod>, null]]);
 
 recipes.addShaped(<randomthings:timeinabottle>, [[<ore:gemAmber>, <ore:gemAmber>, <ore:gemAmber>],[<minecraft:diamond_block>, <bountifulbaubles:ringoverclocking>, <minecraft:diamond_block>], [<ore:dustMithril>, <enderio:item_soul_vial>, <ore:dustMithril>]]);
 recipes.addShaped(<randomthings:chunkanalyzer>, [[<actuallyadditions:item_crystal_empowered:4>, <ore:netherStar>, <actuallyadditions:item_crystal_empowered>],[<ore:platePlatinum>, <ore:blockGlassHardened>, <ore:platePlatinum>], [<ore:plateAncientDebris>, <ore:platePlatinum>, <ore:plateAncientDebris>]]);
+recipes.addShaped(<randomthings:spectrelens>, [[<randomthings:ingredient:3>, <ore:itemVibrantCrystal>, <randomthings:ingredient:3>],[<ore:itemPulsatingCrystal>, <ore:blockGlassHardenedWhite>, <ore:itemPulsatingCrystal>], [<randomthings:ingredient:3>, <ore:itemVibrantCrystal>, <randomthings:ingredient:3>]]);
+recipes.addShaped(<randomthings:spectreenergyinjector>, [[<enderio:block_reinforced_obsidian>, <randomthings:spectrelens>, <enderio:block_reinforced_obsidian>],[<randomthings:ingredient:12>, <minecraft:beacon>, <randomthings:ingredient:12>], [<enderio:block_reinforced_obsidian>, <randomthings:ingredient:12>, <enderio:block_reinforced_obsidian>]]);
+recipes.addShaped(<randomthings:spectrecoil_normal>, [[<ore:itemEnderCrystal>, <enderio:block_reinforced_obsidian>, <randomthings:ingredient:12>],[<enderio:block_reinforced_obsidian>, <randomthings:ingredient:3>, <enderio:block_reinforced_obsidian>], [<randomthings:ingredient:12>, <enderio:block_reinforced_obsidian>, <ore:itemAttractorCrystal>]]);
+recipes.addShaped(<randomthings:spectrecoil_redstone>, [[<ore:itemAttractorCrystal>, <randomthings:ingredient:12>, <ore:itemPrecientCrystal>],[<randomthings:ingredient:12>, <randomthings:spectrecoil_normal>, <randomthings:ingredient:12>], [<ore:itemPrecientCrystal>, <randomthings:ingredient:12>, <ore:itemAttractorCrystal>]]);
+recipes.addShaped(<randomthings:spectrecoil_ender>, [[<ore:itemWeatherCrystal>, <randomthings:ingredient:12>, <ore:itemPrecientCrystal>],[<randomthings:ingredient:12>, <randomthings:spectrecoil_redstone>, <randomthings:ingredient:12>], [<ore:itemPrecientCrystal>, <randomthings:ingredient:12>, <ore:itemWeatherCrystal>]]);
+recipes.addShaped(<randomthings:spectrecharger>, [[<randomthings:ingredient:12>, <enderio:block_reinforced_obsidian>, <ore:itemEnderCrystal>],[<enderio:block_reinforced_obsidian>, <randomthings:ingredient:3>, <enderio:block_reinforced_obsidian>], [<ore:itemAttractorCrystal>, <enderio:block_reinforced_obsidian>, <randomthings:ingredient:12>]]);
+recipes.addShaped(<randomthings:spectrecharger:1>, [[<ore:itemPrecientCrystal>, <randomthings:ingredient:12>, <ore:itemAttractorCrystal>],[<randomthings:ingredient:12>, <randomthings:spectrecharger>, <randomthings:ingredient:12>], [<ore:itemAttractorCrystal>, <randomthings:ingredient:12>, <ore:itemPrecientCrystal>]]);
+recipes.addShaped(<randomthings:spectrecharger:2>, [[<ore:itemPrecientCrystal>, <randomthings:ingredient:12>, <ore:itemWeatherCrystal>],[<randomthings:ingredient:12>, <randomthings:spectrecharger:1>, <randomthings:ingredient:12>], [<ore:itemWeatherCrystal>, <randomthings:ingredient:12>, <ore:itemPrecientCrystal>]]);
 
 recipes.addShaped(<shipwrecks_winslow:diving_boots>, [[<minecraft:slime_ball>, null, <minecraft:slime_ball>],[<minecraft:iron_ingot>, null, <minecraft:iron_ingot>], [null, null, null]]);
 recipes.addShaped(<shipwrecks_winslow:diving_legs>, [[<minecraft:iron_ingot>, <minecraft:slime_ball>, <minecraft:iron_ingot>],[<minecraft:iron_ingot>, null, <minecraft:iron_ingot>], [<minecraft:slime_ball>, null, <minecraft:slime_ball>]]);
