@@ -357,6 +357,8 @@ recipes.addShaped(<corpsecomplex:scroll>, [[null, <ore:netherStar>, null],[<ore:
 
 recipes.addShaped(<apotheosis:prismatic_web>, [[null, <ore:netherStar>, null],[<ore:gemPrismarine>, <minecraft:web>, <ore:gemPrismarine>], [null, <ore:gemPrismarine>, null]]);
 
+recipes.addShaped(<srparasites:nodecompass>, [[<ore:itemPrecientCrystal>, <srparasites:lurecomponent5>, <ore:itemWeatherCrystal>],[<srparasites:living_core>, <nyx:meteor_finder>, <srparasites:living_core>], [<ore:itemWeatherCrystal>, <techguns:itemshared:131>, <ore:itemPrecientCrystal>]]);
+
 recipes.addShaped(<iceandfire:armor_copper_metal_helmet>, [[null, <ore:dustGlowing>, null],[<ore:ingotCopper>, <ore:ingotCopper>, <ore:ingotCopper>], [<ore:ingotCopper>, null, <ore:ingotCopper>]]);
 recipes.addShaped(<iceandfire:armor_copper_metal_chestplate>, [[<ore:ingotCopper>, <ore:gemGlowing>, <ore:ingotCopper>],[<ore:ingotCopper>, <ore:ingotCopper>, <ore:ingotCopper>], [<ore:ingotCopper>, <ore:ingotCopper>, <ore:ingotCopper>]]);
 recipes.addShaped(<iceandfire:armor_copper_metal_leggings>, [[<ore:ingotCopper>, <ore:ingotCopper>, <ore:ingotCopper>],[<ore:ingotCopper>, <ore:dustGlowing>, <ore:ingotCopper>], [<ore:ingotCopper>, null, <ore:ingotCopper>]]);

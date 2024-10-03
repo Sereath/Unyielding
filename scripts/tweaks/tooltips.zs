@@ -260,4 +260,4 @@
 //<progressivecore:smelter4_on>.displayName = "Runite Smelter";
 
 
-<randomthings:chunkanalyzer>.addTooltip(format.aqua("A GPS!"));
+<randomthings:chunkanalyzer>.addTooltip(format.darkGreen("GPS"));

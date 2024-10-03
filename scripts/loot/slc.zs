@@ -38,6 +38,11 @@ common.addItemEntry(<bountifulbaubles:trinketmagiclenses>, 5, 1, [Functions.setC
 common.addItemEntry(<bountifulbaubles:trinketapple>, 5, 1, [Functions.setCount(1, 1)], []);
 common.addItemEntry(<bountifulbaubles:trinketvitamins>, 5, 1, [Functions.setCount(1, 1)], []);
 common.addItemEntry(<bountifulbaubles:trinketluckyhorseshoe>, 5, 1, [Functions.setCount(1, 1)], []);
+common.addItemEntry(<randomthings:diviningrod>, 5, 1, [Functions.setCount(1, 1)], []);
+common.addItemEntry(<randomthings:diviningrod:3>, 5, 1, [Functions.setCount(1, 1)], []);
+common.addItemEntry(<randomthings:diviningrod:8>, 5, 1, [Functions.setCount(1, 1)], []);
+common.addItemEntry(<randomthings:diviningrod:9>, 5, 1, [Functions.setCount(1, 1)], []);
+common.addItemEntry(<randomthings:diviningrod:12>, 5, 1, [Functions.setCount(1, 1)], []);
 
 
 //uncommon
@@ -67,6 +72,11 @@ uncommon.addItemEntry(<bountifulbaubles:trinketbrokenheart>, 5, 1, [Functions.se
 uncommon.addItemEntry(<bountifulbaubles:ringflywheel>, 5, 1, [Functions.setCount(1, 1)], []);
 uncommon.addItemEntry(<bountifulbaubles:potionrecall>, 5, 1, [Functions.setCount(1, 1)], []);
 uncommon.addItemEntry(<randomthings:chunkanalyzer>, 5, 1, [Functions.setCount(1, 1)], []);
+uncommon.addItemEntry(<randomthings:diviningrod:2>, 5, 1, [Functions.setCount(1, 1)], []);
+uncommon.addItemEntry(<randomthings:diviningrod:4>, 5, 1, [Functions.setCount(1, 1)], []);
+uncommon.addItemEntry(<randomthings:diviningrod:10>, 5, 1, [Functions.setCount(1, 1)], []);
+uncommon.addItemEntry(<randomthings:diviningrod:11>, 5, 1, [Functions.setCount(1, 1)], []);
+uncommon.addItemEntry(<randomthings:diviningrod:13>, 5, 1, [Functions.setCount(1, 1)], []);
 
 
 //rare
@@ -85,6 +95,10 @@ rare.addItemEntry(<bountifulbaubles:trinketobsidianskull>, 10, 1, [Functions.set
 rare.addItemEntry(<bountifulbaubles:ringflywheeladvanced>, 10, 1, [Functions.setCount(1, 1)], []);
 rare.addItemEntry(<bountifulbaubles:magicmirror>, 10, 1, [Functions.setCount(1, 1)], []);
 rare.addItemEntry(<bountifulbaubles:potionwormhole>, 10, 1, [Functions.setCount(1, 1)], []);
+rare.addItemEntry(<randomthings:diviningrod:1>, 10, 1, [Functions.setCount(1, 1)], []);
+rare.addItemEntry(<randomthings:diviningrod:5>, 10, 1, [Functions.setCount(1, 1)], []);
+rare.addItemEntry(<randomthings:diviningrod:6>, 10, 1, [Functions.setCount(1, 1)], []);
+rare.addItemEntry(<randomthings:diviningrod:18>, 10, 1, [Functions.setCount(1, 1)], []);
 
 
 //mythic
@@ -105,3 +119,7 @@ mythic.addItemEntry(<srparasites:weapon_cleaver>, 5, 1, [Functions.setCount(1, 1
 mythic.addItemEntry(<srparasites:weapon_bow>, 5, 1, [Functions.setCount(1, 1)], []);
 mythic.addItemEntry(<srparasites:weapon_maul>, 5, 1, [Functions.setCount(1, 1)], []);
 mythic.addItemEntry(<srparasites:weapon_lance>, 5, 1, [Functions.setCount(1, 1)], []);
+mythic.addItemEntry(<randomthings:diviningrod:7>, 5, 1, [Functions.setCount(1, 1)], []);
+mythic.addItemEntry(<randomthings:diviningrod:14>, 5, 1, [Functions.setCount(1, 1)], []);
+mythic.addItemEntry(<randomthings:diviningrod:15>, 5, 1, [Functions.setCount(1, 1)], []);
+mythic.addItemEntry(<randomthings:diviningrod:16>, 5, 1, [Functions.setCount(1, 1)], []);

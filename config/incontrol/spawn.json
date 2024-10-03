@@ -1071,7 +1071,7 @@
 	{
 		"mob": "chickens:chickenschicken",
 		"mincount": {
-			"amount": 5,
+			"amount": 3,
 			"mob": "chickens:chickenschicken",
 			"perchunk": true
 		},
@@ -1206,7 +1206,7 @@
 		"mob": "srparasites:fer_enderman",
 		"onjoin": true,
 		"mincount": {
-			"amount": 13,
+			"amount": 9,
 			"mob": "srparasites:fer_enderman",
 			"perchunk": true
 		},
@@ -1216,7 +1216,7 @@
 		"mob": "srparasites:sim_enderman",
 		"onjoin": true,
 		"mincount": {
-			"amount": 13,
+			"amount": 9,
 			"mob": "srparasites:sim_enderman",
 			"perchunk": true
 		},

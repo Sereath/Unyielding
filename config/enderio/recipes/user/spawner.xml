@@ -48,4 +48,51 @@
             <entity name="ancientbeasts:owlstack" costMultiplier="100.0" disabled="true" soulvial="false"/>
         </spawning>
     </recipe>
+    <recipe name="Spawner, Chickens" required="false">
+        <spawning>
+            <entity name="chickens:chickenschicken" costMultiplier="100.0" disabled="true" soulvial="false"/>
+        </spawning>
+    </recipe>
+    <recipe name="Spawner, SRP" required="false">
+        <spawning>
+            <entity name="srparasites:hi_blaze" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:hi_golem" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:hi_skeleton" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:beckon_si" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:beckon_sii" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:beckon_siii" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:beckon_siv" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:dispatcherten" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:dispatcher_si" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:dispatcher_sii" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:dispatcher_siii" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:dispatcher_siv" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:kyphosis" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:sentry" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:seizer" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:worm" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:host" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:hostii" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:heed" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:crux" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:thrall" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:overseer" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:vigilante" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:warden" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:bomber_light" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:marauder" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:monarch" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:grunt" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:bomber_heavy" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:wraith" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:bogle" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:haunter" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:carrier_colony" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:succor" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:seeker" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:architect" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:anc_dreadnaut" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:anc_overlord" costMultiplier="100.0" disabled="true" soulvial="false"/>
+        </spawning>
+    </recipe>
 </enderio:recipes>

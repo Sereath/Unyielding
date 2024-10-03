@@ -16,9 +16,10 @@ import crafttweaker.item.IIngredient;
 <minecraft:stone_axe>.maxDamage = 65;
 <minecraft:stone_hoe>.maxDamage = 65;
 
-<techguns:nightvisiongoggles:52>.maxDamage = 1200;
-<techguns:jetpack:19>.maxDamage = 400;
-<techguns:tacticalmask:290>.maxDamage = 1200;
+<techguns:nightvisiongoggles>.maxDamage = 1200;
+<techguns:jetpack>.maxDamage = 200;
+<techguns:tacticalmask>.maxDamage = 1200;
+<techguns:antigravpack>.maxDamage = 100;
 
 <cyclicmagic:charm_antidote>.maxDamage = 8;
 <cyclicmagic:charm_water>.maxDamage = 16;
@@ -52,8 +53,13 @@ val obsidian as IItemStack = <minecraft:obsidian>;
 obsidian.hardness = 17;
 val chisel_obsidian as IItemStack = <chisel:obsidian>;
 chisel_obsidian.hardness = 17;
+val eioro as IItemStack = <enderio:block_reinforced_obsidian>;
+eioro.hardness = 18;
 //didntworkwithspecificmetadata
 //val bleeding_obsidian as IItemStack = <srparasites:parasiterubble:7>;
 //bleeding_obsidian.hardness = 16;
 val parasiterubble as IItemStack = <srparasites:parasiterubble>;
 parasiterubble.hardness = 5;
+
+val miaglass as IItemStack = <mia:armored_glass>;
+miaglass.hardness = 3;
