@@ -76,6 +76,13 @@
             <entity name="srparasites:heed" costMultiplier="100.0" disabled="true" soulvial="false"/>
             <entity name="srparasites:crux" costMultiplier="100.0" disabled="true" soulvial="false"/>
             <entity name="srparasites:thrall" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:ada_longarms" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:ada_manducater" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:ada_reeker" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:ada_yelloweye" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:ada_summoner" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:ada_bolster" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:ada_arachnida" costMultiplier="100.0" disabled="true" soulvial="false"/>
             <entity name="srparasites:overseer" costMultiplier="100.0" disabled="true" soulvial="false"/>
             <entity name="srparasites:vigilante" costMultiplier="100.0" disabled="true" soulvial="false"/>
             <entity name="srparasites:warden" costMultiplier="100.0" disabled="true" soulvial="false"/>

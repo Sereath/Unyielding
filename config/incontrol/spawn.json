@@ -293,7 +293,7 @@
 		"minlight": 0,
 		"maxheight": 96,
 		"maxcount":	{
-			"amount": 1,
+			"amount": 2,
 			"perchunk": true
 		},
 		"result": "allow"
@@ -418,7 +418,7 @@
 		"minheight": 50,
 		"winter": true,
 		"maxcount":	{
-			"amount": 1,
+			"amount": 2,
 			"perchunk": true
 		},
 		"result": "allow"
