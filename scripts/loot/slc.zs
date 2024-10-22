@@ -77,6 +77,7 @@ uncommon.addItemEntry(<randomthings:diviningrod:4>, 5, 1, [Functions.setCount(1,
 uncommon.addItemEntry(<randomthings:diviningrod:10>, 5, 1, [Functions.setCount(1, 1)], []);
 uncommon.addItemEntry(<randomthings:diviningrod:11>, 5, 1, [Functions.setCount(1, 1)], []);
 uncommon.addItemEntry(<randomthings:diviningrod:13>, 5, 1, [Functions.setCount(1, 1)], []);
+uncommon.addItemEntry(<pickletweaks:nightvision_goggles>, 5, 1, [Functions.setCount(1, 1)], []);
 
 
 //rare
@@ -99,6 +100,8 @@ rare.addItemEntry(<randomthings:diviningrod:1>, 10, 1, [Functions.setCount(1, 1)
 rare.addItemEntry(<randomthings:diviningrod:5>, 10, 1, [Functions.setCount(1, 1)], []);
 rare.addItemEntry(<randomthings:diviningrod:6>, 10, 1, [Functions.setCount(1, 1)], []);
 rare.addItemEntry(<randomthings:diviningrod:18>, 10, 1, [Functions.setCount(1, 1)], []);
+rare.addItemEntry(<pickletweaks:nightvision_goggles>, 10, 1, [Functions.setCount(1, 1)], []);
+rare.addItemEntry(<pickletweaks:nightvision_goggles_c>, 10, 1, [Functions.setCount(1, 1)], []);
 
 
 //mythic
