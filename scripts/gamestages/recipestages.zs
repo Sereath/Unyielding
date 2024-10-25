@@ -10,6 +10,7 @@ Recipes.setRecipeStageByMod("te", "superiorshields");
 Recipes.setRecipeStageByMod("ir", "industrialrenewal");
 
 Recipes.setRecipeStageByMod("tg", "techguns");
+//137
 
 Recipes.setRecipeStageByMod("mg", "magneticraft");
 //Recipes.setRecipeStageByMod("IE", "immersiveengineering");
@@ -36,6 +37,7 @@ Recipes.setRecipeStageByMod("cyc", "cyclicmagic");
 Recipes.setRecipeStageByMod("rb", "openblocks");
 Recipes.setRecipeStageByMod("rb", "randomthings");
 Recipes.setRecipeStageByMod("rb", "compositegear");
+Recipes.setRecipeStageByMod("rb", "refinedrelocation");
 
 //Recipes.setRecipeStageByMod("te", "extendedcrafting");
 

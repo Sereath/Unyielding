@@ -1,5 +1,7 @@
 #priority 950
 
+//137
+
 mods.ItemStages.stageModItems("te", "thermaldynamics");
 mods.ItemStages.stageModItems("te", "thermalexpansion");
 mods.ItemStages.stageModItems("te", "thermalinnovation");
@@ -35,6 +37,7 @@ mods.ItemStages.stageModItems("cyc", "cyclicmagic");
 mods.ItemStages.stageModItems("rb", "openblocks");
 mods.ItemStages.stageModItems("rb", "randomthings");
 mods.ItemStages.stageModItems("rb", "compositegear");
+mods.ItemStages.stageModItems("rb", "refinedrelocation");
 
 //mods.ItemStages.stageModItems("te", "extendedcrafting");
 
