@@ -6,7 +6,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityBalayang",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelBalayang",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -27,7 +27,7 @@
       "-cold",
       "-snowy"
     ],
-    "spawnWeight": 6,
+    "spawnWeight": 4,
     "dungeonWeight": 200,
     "spawnAreaLimit": 3,
     "spawnGroupMin": 1,

@@ -6,7 +6,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityKobold",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelKobold",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -26,7 +26,7 @@
       "savanna",
       "-snowy"
     ],
-    "spawnWeight": 6,
+    "spawnWeight": 8,
     "dungeonWeight": 200,
     "spawnAreaLimit": 5,
     "spawnGroupMin": 1,

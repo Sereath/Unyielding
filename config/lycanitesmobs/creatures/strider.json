@@ -6,7 +6,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityStrider",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelStrider",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -25,7 +25,7 @@
       "-ocean",
       "-beach"
     ],
-    "spawnWeight": 2,
+    "spawnWeight": 1,
     "dungeonWeight": 0,
     "spawnAreaLimit": 1,
     "spawnGroupMin": 1,

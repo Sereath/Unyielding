@@ -6,7 +6,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityBeholder",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelBeholder",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -23,7 +23,7 @@
     "biomeTags": [
       "mountain"
     ],
-    "spawnWeight": 8,
+    "spawnWeight": 2,
     "dungeonWeight": 0,
     "spawnAreaLimit": 1,
     "spawnGroupMin": 1,

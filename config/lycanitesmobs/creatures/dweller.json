@@ -6,7 +6,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityDweller",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelDweller",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -25,7 +25,7 @@
       "spooky",
       "jungle"
     ],
-    "spawnWeight": 8,
+    "spawnWeight": 4,
     "dungeonWeight": 200,
     "spawnAreaLimit": 5,
     "spawnGroupMin": 1,
