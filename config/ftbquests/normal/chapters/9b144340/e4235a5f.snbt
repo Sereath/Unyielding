@@ -23,5 +23,10 @@
 		uid: "f776f03c",
 		type: "loot",
 		table: 4
+	},
+	{
+		uid: "99e44435",
+		type: "item",
+		item: "flaskoflife:flask_healing"
 	}]
 }

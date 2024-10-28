@@ -4,6 +4,8 @@
 	x: 0.0d,
 	y: -1.5d,
 	text: [
+		"		Natural regeneration is disabled.",
+		"",
 		"		You will retain your equipped armour and hand items upon death. Everything else will be stored in a tombstone.",
 		"",
 		"		You can dodge! Press the forward button on your mouse.",

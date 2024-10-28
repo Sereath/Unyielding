@@ -36,8 +36,7 @@
 					Counters: {},
 					Elements: {
 						primary: "xat:neutral",
-						secondary: "xat:neutral",
-						sub: {}
+						secondary: "xat:neutral"
 					}
 				}
 			},
@@ -72,8 +71,7 @@
 						Counters: {},
 						Elements: {
 							primary: "xat:neutral",
-							secondary: "xat:neutral",
-							sub: {}
+							secondary: "xat:neutral"
 						}
 					}
 				}

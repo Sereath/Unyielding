@@ -261,3 +261,14 @@
 
 
 <randomthings:chunkanalyzer>.addTooltip(format.darkGreen("GPS"));
+
+<flaskoflife:flask_healing>.displayName = "§bFlask of Life";
+<flaskoflife:flask_healing>.addTooltip(format.darkGreen("Replenish by ctrl/shift-right clicking on a bed or beacon"));
+
+<roughtweaks:salve>.addTooltip(format.darkGreen("2 uses"));
+<roughtweaks:plaster>.addTooltip(format.darkGreen("4 uses"));
+<roughtweaks:bandage>.addTooltip(format.darkGreen("8 uses"));
+<roughtweaks:medikit>.displayName = "§bMedikit";
+<roughtweaks:medikit>.addTooltip(format.darkGreen("16 uses"));
+<roughtweaks:medikitenchanted>.displayName = "§eEnchanted Medikit";
+<roughtweaks:medikitenchanted>.addTooltip(format.darkGreen("32 uses"));

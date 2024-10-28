@@ -246,7 +246,9 @@ recipes.removeByRecipeName("techguns:concrete_0");
 
 recipes.removeByRecipeName("eplus:table");
 
-//recipes.removeByRecipeName("tombstone:enchanted_grave_key");
+recipes.removeByRecipeName("tombstone:enchanted_grave_key");
+recipes.remove(<tombstone:crafting_ingredient>);
+recipes.remove(<tombstone:crafting_ingredient:1>);
 
 recipes.removeByRecipeName("theaurorian:items/auroriansteel");
 recipes.remove(<theaurorian:aurorianportalframebricks>);
@@ -272,6 +274,8 @@ recipes.remove(<apotheosis:prismatic_web>);
 
 recipes.remove(<xreliquary:twilight_cloak>);
 
+recipes.remove(<flaskoflife:flask_healing>);
+
 recipes.remove(<iceandfire:armor_copper_metal_helmet>);
 recipes.remove(<iceandfire:armor_copper_metal_chestplate>);
 recipes.remove(<iceandfire:armor_copper_metal_leggings>);
@@ -287,6 +291,9 @@ recipes.addShaped(<buildinggadgets:copypastetool>, [[<ore:ingotElectricalSteel>,
 
 recipes.addShaped(<minecraft:nether_star> * 2, [[<nyx:fallen_star>, <nyx:fallen_star>, <nyx:fallen_star>],[<nyx:fallen_star>, <minecraft:nether_star>, <nyx:fallen_star>], [<nyx:fallen_star>, <nyx:fallen_star>, <nyx:fallen_star>]]);
 recipes.addShaped(<minecraft:name_tag> * 2, [[<nyx:fallen_star>, <nyx:fallen_star>, <nyx:fallen_star>],[<nyx:fallen_star>, <minecraft:name_tag>, <nyx:fallen_star>], [<nyx:fallen_star>, <nyx:fallen_star>, <nyx:fallen_star>]]);
+
+recipes.addShaped(<tombstone:crafting_ingredient>, [[<randomthings:ingredient:2>, <ore:stickWood>, <randomthings:ingredient:2>],[<ore:dustGrave>, <mod_lavacow:curseweave_cloth>, <ore:dustGrave>], [<randomthings:ingredient:2>, <ore:stickWood>, <randomthings:ingredient:2>]]);
+recipes.addShaped(<tombstone:crafting_ingredient:1>, [[null, <randomthings:ingredient:2>, null],[<ore:dustGrave>, <ore:graveMarble>, <ore:dustGrave>], [null, <randomthings:ingredient:2>, null]]);
 
 //recipes.addShaped(<xat:dwarf_stout>, [[<ore:ingotGlowing>, <dungeontactics:mithril_pickaxe>, <ore:ingotGlowing>],[<minecraft:dragon_breath>, <xat:dwarf_ring>, <minecraft:dragon_breath>], [<ore:ingotGlowing>, <minecraft:rabbit_stew>, <ore:ingotGlowing>]]);
 //recipes.addShaped(<xat:dragons_eye>, [[<xat:glow_ring>, <dungeontactics:mithril_sword>, <ore:gemGlowing>],[<dungeontactics:mithril_sword>, <minecraft:skull:5>, <dungeontactics:mithril_sword>], [<ore:gemGlowing>, <dungeontactics:mithril_sword>, <ore:gemGlowing>]]);
@@ -353,9 +360,11 @@ recipes.addShaped(<theaurorian:aurorianportalframebricks>, [[<jaopca:item_dustan
 
 //recipes.addShaped(<weirdinggadget:weirding_gadget>, [[<ore:ingotBronze>, <ore:pearlEnderEye>, <ore:ingotBronze>],[<ore:blockBronze>, <ore:gemGlowing>, <ore:blockBronze>], [<ore:blockElectrum>, <ore:gearBronze>, <ore:blockElectrum>]]);
 
-recipes.addShaped(<corpsecomplex:scroll>, [[null, <ore:netherStar>, null],[<ore:enderpearl>, <ore:paper>, <ore:enderpearl>], [null, <minecraft:ender_eye>, null]]);
+recipes.addShaped(<corpsecomplex:scroll>, [[null, <ore:dustGlowing>, null],[<minecraft:rotten_flesh>, <ore:paper>, <minecraft:rotten_flesh>], [null, <ore:enderpearl>, null]]);
 
 recipes.addShaped(<apotheosis:prismatic_web>, [[null, <ore:netherStar>, null],[<ore:gemPrismarine>, <minecraft:web>, <ore:gemPrismarine>], [null, <ore:gemPrismarine>, null]]);
+
+recipes.addShaped(<flaskoflife:flask_healing>, [[<minecraft:speckled_melon>, <grimoireofgaia:misc_giga_gear>, <minecraft:speckled_melon>],[<ore:itemVibrantCrystal>, <minecraft:glass_bottle>, <ore:itemVibrantCrystal>], [<minecraft:speckled_melon>, <xat:restoration_serum>, <minecraft:speckled_melon>]]);
 
 recipes.addShaped(<srparasites:nodecompass>, [[<ore:itemPrecientCrystal>, <srparasites:lurecomponent5>, <ore:itemWeatherCrystal>],[<srparasites:living_core>, <nyx:meteor_finder>, <srparasites:living_core>], [<ore:itemWeatherCrystal>, <techguns:itemshared:131>, <ore:itemPrecientCrystal>]]);
 
