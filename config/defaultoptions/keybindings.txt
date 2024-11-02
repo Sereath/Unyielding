@@ -37,6 +37,7 @@ key_Toggle Slot Lock:82:NONE
 key_Take Panorama Screenshot:25:ALT
 key_keybind.baublesinventory:18:ALT
 key_arcanearchives.gui.keybinds.manifest:0:NONE
+key_quark.keybind.lockBuilding:76:NONE
 key_quark.keybind.dropoff:0:NONE
 key_quark.keybind.changeHotbar:0:NONE
 key_quark.keybind.chestSort:0:NONE
@@ -44,7 +45,6 @@ key_quark.keybind.chestDropoff:0:NONE
 key_quark.keybind.chestMerge:0:NONE
 key_quark.keybind.chestRestock:0:NONE
 key_quark.keybind.chestExtract:0:NONE
-key_quark.keybind.lockBuilding:76:NONE
 key_key.conarm.toggle_helm.desc:181:NONE
 key_key.conarm.toggle_chest.desc:35:NONE
 key_key.conarm.toggle_leg.desc:0:NONE
@@ -58,12 +58,12 @@ key_key.xat.race_ability.desc:74:NONE
 key_key.spartanweaponry.access_quiver:23:NONE
 key_ChatFlow:88:NONE
 key_cos.key.opencosarmorinventory:0:NONE
-key_MoCreatures Dive:44:NONE
+key_Flying Mount Descent (Mo' Creatures):44:NONE
 key_Toggle Magnetism Suppressor:49:NONE
 key_key.ftbutilities.nbt:49:ALT
 key_key.ftbutilities.trash:211:NONE
 key_key.ftbquests.quests:36:NONE
-key_key.mount.dismount:0:NONE
+key_key.mount.dismount:56:NONE
 key_key.mount.descend:42:NONE
 key_key.mount.ability:45:NONE
 key_key.mount.inventory:0:NONE
@@ -75,7 +75,7 @@ key_key.minions:19:NONE
 key_key.moreoverlays.lightoverlay.desc:65:NONE
 key_key.moreoverlays.chunkbounds.desc:67:NONE
 key_neat.keybind.toggle:0:NONE
-key_openblocks.keybind.vario_switch:47:NONE
+key_openblocks.keybind.vario_switch:0:NONE
 key_openblocks.keybind.vario_vol_up:0:NONE
 key_openblocks.keybind.vario_vol_down:0:NONE
 key_key.toggleFoVChanges:51:SHIFT
@@ -102,9 +102,10 @@ key_vc.key.moveUp:57:NONE
 key_vc.key.moveDown:45:NONE
 key_vc.key.openInventory:43:NONE
 key_vc.key.dropbomb:0:NONE
+key_dshuds.keybind.SelectionBox:48:NONE
+key_dshuds.keybind.LightLevel:65:NONE
+key_dshuds.keybind.ChunkBorders:67:NONE
 key_key.pickup.item:0:NONE
-key_key.dismount:42:NONE
-key_key.narrator:0:NONE
 key_smoothfont.key.guiOpen:199:NONE
 key_key.quit.fastQuit:16:NONE
 key_key.quit.bossKey:48:NONE
@@ -245,11 +246,22 @@ key_techguns.key.toggleJetpack:0:NONE
 key_key.toolbelt.open:55:NONE
 key_key.toolbelt.cycle.left:0:NONE
 key_key.toolbelt.cycle.right:0:NONE
-key_key.toolbelt.slot:47:NONE
+key_key.toolbelt.slot:47:CONTROL
 key_key.travelersbackpack.inventory:48:NONE
 key_key.travelersbackpack.toggle_tank:49:NONE
 key_key.travelersbackpack.cycle_tool:44:NONE
 key_keybind.universaltweaks.clear_toasts:11:CONTROL
+key_keybind.universaltweaks.dismount:42:NONE
+key_key.push_to_talk:0:NONE
+key_key.whisper:0:NONE
+key_key.mute_microphone:50:NONE
+key_key.disable_voice_chat:49:NONE
+key_key.hide_icons:35:NONE
+key_key.voice_chat:47:NONE
+key_key.voice_chat_settings:0:NONE
+key_key.voice_chat_group:34:NONE
+key_key.voice_chat_toggle_recording:0:NONE
+key_key.voice_chat_adjust_volumes:0:NONE
 key_gui.xaero_switch_waypoint_set:0:NONE
 key_gui.xaero_instant_waypoint:0:NONE
 key_gui.xaero_toggle_slime:0:NONE

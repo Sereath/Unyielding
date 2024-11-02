@@ -91,6 +91,7 @@ key_Toggle Slot Lock:82
 key_Take Panorama Screenshot:25:ALT
 key_keybind.baublesinventory:18:ALT
 key_arcanearchives.gui.keybinds.manifest:0
+key_quark.keybind.lockBuilding:76
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:0
 key_quark.keybind.chestSort:0
@@ -98,7 +99,6 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
-key_quark.keybind.lockBuilding:76
 key_key.conarm.toggle_helm.desc:181
 key_key.conarm.toggle_chest.desc:35
 key_key.conarm.toggle_leg.desc:0
@@ -129,7 +129,7 @@ key_key.minions:19
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
 key_neat.keybind.toggle:0
-key_openblocks.keybind.vario_switch:47
+key_openblocks.keybind.vario_switch:0
 key_openblocks.keybind.vario_vol_up:0
 key_openblocks.keybind.vario_vol_down:0
 key_key.toggleFoVChanges:51:SHIFT
@@ -160,8 +160,6 @@ key_dshuds.keybind.SelectionBox:48
 key_dshuds.keybind.LightLevel:65
 key_dshuds.keybind.ChunkBorders:67
 key_key.pickup.item:0
-key_key.dismount:42
-key_key.narrator:0
 key_smoothfont.key.guiOpen:199
 key_key.quit.fastQuit:16
 key_key.quit.bossKey:48
@@ -302,11 +300,22 @@ key_techguns.key.toggleJetpack:0
 key_key.toolbelt.open:55
 key_key.toolbelt.cycle.left:0
 key_key.toolbelt.cycle.right:0
-key_key.toolbelt.slot:47
+key_key.toolbelt.slot:47:CONTROL
 key_key.travelersbackpack.inventory:48
 key_key.travelersbackpack.toggle_tank:49
 key_key.travelersbackpack.cycle_tool:44
 key_keybind.universaltweaks.clear_toasts:11:CONTROL
+key_keybind.universaltweaks.dismount:42
+key_key.push_to_talk:0
+key_key.whisper:0
+key_key.mute_microphone:50
+key_key.disable_voice_chat:49
+key_key.hide_icons:35
+key_key.voice_chat:47
+key_key.voice_chat_settings:0
+key_key.voice_chat_group:34
+key_key.voice_chat_toggle_recording:0
+key_key.voice_chat_adjust_volumes:0
 key_gui.xaero_switch_waypoint_set:0
 key_gui.xaero_instant_waypoint:0
 key_gui.xaero_toggle_slime:0
