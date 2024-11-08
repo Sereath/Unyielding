@@ -272,3 +272,15 @@
 <roughtweaks:medikit>.addTooltip(format.darkGreen("16 uses"));
 <roughtweaks:medikitenchanted>.displayName = "§eEnchanted Medikit";
 <roughtweaks:medikitenchanted>.addTooltip(format.darkGreen("32 uses"));
+
+<contenttweaker:book1>.displayName = "§bThermal Expansion";
+<contenttweaker:book2>.displayName = "§bTechguns";
+<contenttweaker:book3>.displayName = "§bMagneticraft";
+<contenttweaker:book4>.displayName = "§bActually Additions";
+<contenttweaker:book5>.displayName = "§bEnder IO";
+<contenttweaker:book6>.displayName = "§bOpen Modular Turrets";
+<contenttweaker:book7>.displayName = "§bCyclic";
+<contenttweaker:book8>.displayName = "§bRandom Blocks";
+<contenttweaker:book9>.displayName = "§bRelics";
+<contenttweaker:book10>.displayName = "§bNuclearCraft";
+<contenttweaker:book11>.displayName = "§bIndustrial Renewal";
