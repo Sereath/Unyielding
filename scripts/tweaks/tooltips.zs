@@ -263,7 +263,7 @@
 <randomthings:chunkanalyzer>.addTooltip(format.darkGreen("GPS"));
 
 <flaskoflife:flask_healing>.displayName = "§bFlask of Life";
-<flaskoflife:flask_healing>.addTooltip(format.darkGreen("Replenish by ctrl/shift-right clicking on a bed or beacon"));
+<flaskoflife:flask_healing>.addTooltip(format.darkGreen("Replenish by crouch-right clicking on a bed or beacon"));
 
 <roughtweaks:salve>.addTooltip(format.darkGreen("2 uses"));
 <roughtweaks:plaster>.addTooltip(format.darkGreen("4 uses"));
@@ -284,3 +284,15 @@
 <contenttweaker:book9>.displayName = "§bRelics";
 <contenttweaker:book10>.displayName = "§bNuclearCraft";
 <contenttweaker:book11>.displayName = "§bIndustrial Renewal";
+
+<unyielding:scraps1>.displayName = "§bte";
+<unyielding:scraps2>.displayName = "§btg";
+<unyielding:scraps3>.displayName = "§bmg";
+<unyielding:scraps4>.displayName = "§baa";
+<unyielding:scraps5>.displayName = "§beio";
+<unyielding:scraps6>.displayName = "§bomt";
+<unyielding:scraps7>.displayName = "§bcyc";
+<unyielding:scraps8>.displayName = "§brb";
+<unyielding:scraps9>.displayName = "§bxat";
+<unyielding:scraps10>.displayName = "§bnco";
+<unyielding:scraps11>.displayName = "§bir";

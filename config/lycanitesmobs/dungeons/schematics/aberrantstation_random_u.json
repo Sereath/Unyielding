@@ -192,7 +192,7 @@
       "mobNameTag": "Anarchical Hound",
       "mobSizeScale": 2,
       "naturalDespawn": "false",
-      "mobLevel": 5,
+      "mobLevel": 50,
       "spawnAsBoss": false,
       "dungeonLevelMin": 4,
       "dungeonLevelMax": 4,

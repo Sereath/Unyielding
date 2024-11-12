@@ -4,7 +4,7 @@ import mods.contenttweaker.VanillaFactory;
 import mods.contenttweaker.Commands;
 import mods.contenttweaker.IItemRightClick;
 
-// Book 1
+//book1
 var book1 = VanillaFactory.createItem("book1");
 book1.maxStackSize = 1;
 book1.itemRightClick = function(stack, world, player, hand) {
@@ -17,7 +17,7 @@ book1.itemRightClick = function(stack, world, player, hand) {
 };
 book1.register();
 
-// Book 2
+//book2
 var book2 = VanillaFactory.createItem("book2");
 book2.maxStackSize = 1;
 book2.itemRightClick = function(stack, world, player, hand) {
@@ -30,7 +30,7 @@ book2.itemRightClick = function(stack, world, player, hand) {
 };
 book2.register();
 
-// Book 3
+//book3
 var book3 = VanillaFactory.createItem("book3");
 book3.maxStackSize = 1;
 book3.itemRightClick = function(stack, world, player, hand) {
@@ -43,7 +43,7 @@ book3.itemRightClick = function(stack, world, player, hand) {
 };
 book3.register();
 
-// Book 4
+//book4
 var book4 = VanillaFactory.createItem("book4");
 book4.maxStackSize = 1;
 book4.itemRightClick = function(stack, world, player, hand) {
@@ -56,7 +56,7 @@ book4.itemRightClick = function(stack, world, player, hand) {
 };
 book4.register();
 
-// Book 5
+//book5
 var book5 = VanillaFactory.createItem("book5");
 book5.maxStackSize = 1;
 book5.itemRightClick = function(stack, world, player, hand) {
@@ -69,7 +69,7 @@ book5.itemRightClick = function(stack, world, player, hand) {
 };
 book5.register();
 
-// Book 6
+//book6
 var book6 = VanillaFactory.createItem("book6");
 book6.maxStackSize = 1;
 book6.itemRightClick = function(stack, world, player, hand) {
@@ -82,7 +82,7 @@ book6.itemRightClick = function(stack, world, player, hand) {
 };
 book6.register();
 
-// Book 7
+//book7
 var book7 = VanillaFactory.createItem("book7");
 book7.maxStackSize = 1;
 book7.itemRightClick = function(stack, world, player, hand) {
@@ -95,7 +95,7 @@ book7.itemRightClick = function(stack, world, player, hand) {
 };
 book7.register();
 
-// Book 8
+//book8
 var book8 = VanillaFactory.createItem("book8");
 book8.maxStackSize = 1;
 book8.itemRightClick = function(stack, world, player, hand) {
@@ -108,7 +108,7 @@ book8.itemRightClick = function(stack, world, player, hand) {
 };
 book8.register();
 
-// Book 9
+//book9
 var book9 = VanillaFactory.createItem("book9");
 book9.maxStackSize = 1;
 book9.itemRightClick = function(stack, world, player, hand) {
@@ -121,7 +121,7 @@ book9.itemRightClick = function(stack, world, player, hand) {
 };
 book9.register();
 
-// Book 10
+//book10
 var book10 = VanillaFactory.createItem("book10");
 book10.maxStackSize = 1;
 book10.itemRightClick = function(stack, world, player, hand) {
@@ -134,7 +134,7 @@ book10.itemRightClick = function(stack, world, player, hand) {
 };
 book10.register();
 
-// Book 11
+//book11
 var book11 = VanillaFactory.createItem("book11");
 book11.maxStackSize = 1;
 book11.itemRightClick = function(stack, world, player, hand) {
