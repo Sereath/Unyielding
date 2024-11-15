@@ -8,6 +8,73 @@
         "itemcount": "1-2/2-4/4-8",
         "random": "0.15"
     },
+    {
+        "mob": "minecraft:zombie",
+        "player": true,
+        "item": "ancientwarfarenpc:coin",
+        "nbt": "{metal: \"copper\"}",
+        "itemcount": "1-2/2-3/3-4",
+        "random": "0.16"
+    },
+    {
+        "mob": "minecraft:zombie",
+        "player": true,
+        "item": "ancientwarfarenpc:coin",
+        "nbt": "{metal: \"silver\"}",
+        "itemcount": "1-2/2-3/3-4",
+        "random": "0.08"
+    },
+    {
+        "mob": "minecraft:zombie",
+        "player": true,
+        "item": "ancientwarfarenpc:coin",
+        "nbt": "{metal: \"gold\"}",
+        "itemcount": "1-2/2-3/3-4",
+        "random": "0.01"
+    },
+    {
+        "mob": "minecraft:zombie",
+        "player": true,
+        "item": "ancientwarfarenpc:coin",
+        "nbt": "{metal: \"ancient\"}",
+        "itemcount": "1",
+        "random": "0.0003"
+    },
+
+    //gog
+
+    {
+        "mod": "grimoireofgaia",
+        "player": true,
+        "item": "ancientwarfarenpc:coin",
+        "nbt": "{metal: \"copper\"}",
+        "itemcount": "1-2/2-3/3-4",
+        "random": "0.48"
+    },
+    {
+        "mod": "grimoireofgaia",
+        "player": true,
+        "item": "ancientwarfarenpc:coin",
+        "nbt": "{metal: \"silver\"}",
+        "itemcount": "1-2/2-3/3-4",
+        "random": "0.24"
+    },
+    {
+        "mod": "grimoireofgaia",
+        "player": true,
+        "item": "ancientwarfarenpc:coin",
+        "nbt": "{metal: \"gold\"}",
+        "itemcount": "1-2/2-3/3-4",
+        "random": "0.03"
+    },
+    {
+        "mod": "grimoireofgaia",
+        "player": true,
+        "item": "ancientwarfarenpc:coin",
+        "nbt": "{metal: \"ancient\"}",
+        "itemcount": "1",
+        "random": "0.0009"
+    },
 
     //techguns
 
@@ -24,14 +91,14 @@
     {
         "mob": "techguns:zombiesoldier",
         "player": true,
-        "item": "contenttweaker:book2",
+        "item": "unyielding:scraps2",
         "itemcount": "1",
         "random": "0.003"
     },
     {
         "mob": "techguns:zombiesoldier",
         "player": true,
-        "item": "contenttweaker:book3",
+        "item": "unyielding:scraps3",
         "itemcount": "1",
         "random": "0.009"
     },
@@ -41,14 +108,14 @@
     {
         "mob": "techguns:zombiefarmer",
         "player": true,
-        "item": "contenttweaker:book2",
+        "item": "unyielding:scraps2",
         "itemcount": "1",
         "random": "0.002"
     },
     {
         "mob": "techguns:zombiefarmer",
         "player": true,
-        "item": "contenttweaker:book3",
+        "item": "unyielding:scraps3",
         "itemcount": "1",
         "random": "0.006"
     },
@@ -58,14 +125,14 @@
     {
         "mob": "techguns:zombieminer",
         "player": true,
-        "item": "contenttweaker:book2",
+        "item": "unyielding:scraps2",
         "itemcount": "1",
         "random": "0.002"
     },
     {
         "mob": "techguns:zombieminer",
         "player": true,
-        "item": "contenttweaker:book3",
+        "item": "unyielding:scraps3",
         "itemcount": "1",
         "random": "0.006"
     },
@@ -75,28 +142,28 @@
     {
         "mob": "techguns:cyberdemon",
         "player": true,
-        "item": "contenttweaker:book2",
+        "item": "unyielding:scraps2",
         "itemcount": "1",
         "random": "0.03"
     },
     {
         "mob": "techguns:cyberdemon",
         "player": true,
-        "item": "contenttweaker:book3",
+        "item": "unyielding:scraps3",
         "itemcount": "1",
         "random": "0.09"
     },
     {
         "mob": "techguns:cyberdemon",
         "player": true,
-        "item": "contenttweaker:book1",
+        "item": "unyielding:scraps1",
         "itemcount": "1",
         "random": "0.01"
     },
     {
         "mob": "techguns:cyberdemon",
         "player": true,
-        "item": "contenttweaker:book4",
+        "item": "unyielding:scraps4",
         "itemcount": "1",
         "random": "0.01"
     },
@@ -106,14 +173,14 @@
     {
         "mob": "techguns:skeletonsoldier",
         "player": true,
-        "item": "contenttweaker:book2",
+        "item": "unyielding:scraps2",
         "itemcount": "1",
         "random": "0.003"
     },
     {
         "mob": "techguns:skeletonsoldier",
         "player": true,
-        "item": "contenttweaker:book3",
+        "item": "unyielding:scraps3",
         "itemcount": "1",
         "random": "0.009"
     },
@@ -123,49 +190,49 @@
     {
         "mob": "techguns:psychosteve",
         "player": true,
-        "item": "contenttweaker:book2",
+        "item": "unyielding:scraps2",
         "itemcount": "1",
         "random": "0.09"
     },
     {
         "mob": "techguns:psychosteve",
         "player": true,
-        "item": "contenttweaker:book3",
+        "item": "unyielding:scraps3",
         "itemcount": "1",
         "random": "0.27"
     },
     {
         "mob": "techguns:psychosteve",
         "player": true,
-        "item": "contenttweaker:book1",
+        "item": "unyielding:scraps1",
         "itemcount": "1",
         "random": "0.03"
     },
     {
         "mob": "techguns:psychosteve",
         "player": true,
-        "item": "contenttweaker:book4",
+        "item": "unyielding:scraps4",
         "itemcount": "1",
         "random": "0.03"
     },
     {
         "mob": "techguns:psychosteve",
         "player": true,
-        "item": "contenttweaker:book6",
+        "item": "unyielding:scraps6",
         "itemcount": "1",
         "random": "0.01"
     },
     {
         "mob": "techguns:psychosteve",
         "player": true,
-        "item": "contenttweaker:book8",
+        "item": "unyielding:scraps8",
         "itemcount": "1",
         "random": "0.27"
     },
     {
         "mob": "techguns:psychosteve",
         "player": true,
-        "item": "contenttweaker:book11",
+        "item": "unyielding:scraps11",
         "itemcount": "1",
         "random": "0.27"
     },
@@ -175,7 +242,7 @@
     {
         "mob": "techguns:supermutantbasic",
         "player": true,
-        "item": "contenttweaker:book10",
+        "item": "unyielding:scraps10",
         "itemcount": "1",
         "random": "0.09"
     },
@@ -183,7 +250,7 @@
     {
         "mob": "techguns:supermutantheavy",
         "player": true,
-        "item": "contenttweaker:book10",
+        "item": "unyielding:scraps10",
         "itemcount": "1",
         "random": "0.18"
     },
@@ -191,7 +258,7 @@
     {
         "mob": "techguns:supermutantelite",
         "player": true,
-        "item": "contenttweaker:book10",
+        "item": "unyielding:scraps10",
         "itemcount": "1",
         "random": "0.27"
     },
@@ -208,14 +275,14 @@
     {
         "mob": "techguns:stormtrooper",
         "player": true,
-        "item": "contenttweaker:book7",
+        "item": "unyielding:scraps7",
         "itemcount": "1",
         "random": "0.02"
     },
     {
         "mob": "techguns:stormtrooper",
         "player": true,
-        "item": "contenttweaker:book5",
+        "item": "unyielding:scraps5",
         "itemcount": "1",
         "random": "0.01"
     },
@@ -225,7 +292,7 @@
     {
         "mob": "roughmobsrevamped:bosszombie",
         "player": true,
-        "item": "contenttweaker:book7",
+        "item": "unyielding:scraps7",
         "itemcount": "1",
         "random": "0.09"
     },
@@ -235,7 +302,7 @@
     {
         "mob": "roughmobsrevamped:bossskeleton",
         "player": true,
-        "item": "contenttweaker:book7",
+        "item": "unyielding:scraps7",
         "itemcount": "1",
         "random": "0.09"
     },
@@ -245,7 +312,7 @@
     {
         "mob": "mutantbeasts:mutant_creeper",
         "player": true,
-        "item": "contenttweaker:book7",
+        "item": "unyielding:scraps7",
         "itemcount": "1",
         "random": "0.18"
     },
@@ -255,14 +322,14 @@
     {
         "mob": "mutantbeasts:mutant_enderman",
         "player": true,
-        "item": "contenttweaker:book5",
+        "item": "unyielding:scraps5",
         "itemcount": "1",
         "random": "0.03"
     },
     {
         "mob": "mutantbeasts:mutant_enderman",
         "player": true,
-        "item": "contenttweaker:book7",
+        "item": "unyielding:scraps7",
         "itemcount": "1",
         "random": "0.15"
     },
@@ -272,7 +339,7 @@
     {
         "mob": "mutantbeasts:mutant_skeleton",
         "player": true,
-        "item": "contenttweaker:book7",
+        "item": "unyielding:scraps7",
         "itemcount": "1",
         "random": "0.09"
     },
@@ -282,7 +349,7 @@
     {
         "mob": "mutantbeasts:mutant_zombie",
         "player": true,
-        "item": "contenttweaker:book7",
+        "item": "unyielding:scraps7",
         "itemcount": "1",
         "random": "0.09"
     },
@@ -292,7 +359,7 @@
     {
         "mob": "srparasites:warden",
         "player": true,
-        "item": "contenttweaker:book5",
+        "item": "unyielding:scraps5",
         "itemcount": "1",
         "random": "0.15"
     },
@@ -300,7 +367,7 @@
     {
         "mob": "srparasites:marauder",
         "player": true,
-        "item": "contenttweaker:book5",
+        "item": "unyielding:scraps5",
         "itemcount": "1",
         "random": "0.18"
     },
@@ -308,7 +375,7 @@
     {
         "mob": "srparasites:overseer",
         "player": true,
-        "item": "contenttweaker:book5",
+        "item": "unyielding:scraps5",
         "itemcount": "1",
         "random": "0.18"
     },
@@ -316,7 +383,7 @@
     {
         "mob": "srparasites:bomber_light",
         "player": true,
-        "item": "contenttweaker:book5",
+        "item": "unyielding:scraps5",
         "itemcount": "1",
         "random": "0.18"
     },
@@ -324,7 +391,7 @@
     {
         "mob": "srparasites:monarch",
         "player": true,
-        "item": "contenttweaker:book5",
+        "item": "unyielding:scraps5",
         "itemcount": "1",
         "random": "0.09"
     },
@@ -440,7 +507,7 @@
     {
         "mob": "grimoireofgaia:flesh_lich",
         "player": true,
-        "item": "contenttweaker:book9",
+        "item": "unyielding:scraps9",
         "itemcount": "0-1",
         "random": "0.09"
     },
@@ -456,7 +523,7 @@
     {
         "mob": "grimoireofgaia:vampire",
         "player": true,
-        "item": "contenttweaker:book9",
+        "item": "unyielding:scraps9",
         "itemcount": "1",
         "random": "0.27"
     },
@@ -464,7 +531,7 @@
     {
         "mob": "grimoireofgaia:dhampir",
         "player": true,
-        "item": "contenttweaker:book9",
+        "item": "unyielding:scraps9",
         "itemcount": "0-1",
         "random": "0.01"
     },
@@ -472,7 +539,7 @@
     {
         "mob": "grimoireofgaia:witch",
         "player": true,
-        "item": "contenttweaker:book9",
+        "item": "unyielding:scraps9",
         "itemcount": "0-1",
         "random": "0.01"
     },

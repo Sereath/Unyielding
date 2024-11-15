@@ -296,3 +296,5 @@
 <unyielding:scraps9>.displayName = "§bxat";
 <unyielding:scraps10>.displayName = "§bnco";
 <unyielding:scraps11>.displayName = "§bir";
+
+<progressivecore:reality_crystal>.displayName = "§bReality Crystal";
