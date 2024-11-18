@@ -200,6 +200,10 @@
 <theaurorian:aurorianstone>.displayName = "§bAurorian Stone";
 <theaurorian:aurorianportalframebricks>.displayName = "§3Aurorian Portal Frame";
 
+<theaurorian:scrapaurorianite>.displayName = "§bAurorianite Scrap";
+<theaurorian:scrapcrystalline>.displayName = "§bCrystalline Scrap";
+<theaurorian:scrapumbra>.displayName = "§bUmbra Scrap";
+
 
 <cqrepoured:sword_walker>.displayName = "§dWalker King Sword";
 <cqrepoured:shield_walker_king>.displayName = "§dWalker King Shield";

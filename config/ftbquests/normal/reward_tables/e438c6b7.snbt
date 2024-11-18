@@ -29,56 +29,56 @@
 				},
 				{
 					Slot: 3b,
-					id: "cathedral:cathedral_railing_various",
-					Count: 8b,
+					id: "mysticalworld:charred_log",
+					Count: 32b,
 					Damage: 0s
 				},
 				{
 					Slot: 4b,
-					id: "cathedral:cathedral_pillar_various",
-					Count: 8b,
+					id: "mysticalworld:mud_block",
+					Count: 32b,
 					Damage: 0s
 				},
 				{
 					Slot: 5b,
-					id: "cathedral:cathedral_glass_stained",
-					Count: 8b,
+					id: "mysticalworld:mud_brick",
+					Count: 32b,
 					Damage: 0s
 				},
 				{
 					Slot: 6b,
-					id: "cathedral:cathedral_chain_various",
-					Count: 8b,
+					id: "mysticalworld:thatch",
+					Count: 32b,
 					Damage: 0s
 				},
 				{
 					Slot: 7b,
-					id: "cathedral:deckprism",
+					id: "rustic:lantern_wood",
 					Count: 4b,
-					Damage: 9s
+					Damage: 0s
 				},
 				{
 					Slot: 8b,
 					id: "cathedral:extras_block_stone",
-					Count: 64b,
+					Count: 32b,
 					Damage: 0s
 				},
 				{
 					Slot: 9b,
 					id: "minecraft:cobblestone",
-					Count: 64b,
+					Count: 32b,
 					Damage: 0s
 				},
 				{
 					Slot: 10b,
 					id: "chisel:cobblestone",
-					Count: 64b,
+					Count: 32b,
 					Damage: 1s
 				},
 				{
 					Slot: 11b,
 					id: "chisel:cobblestonemossy",
-					Count: 64b,
+					Count: 32b,
 					Damage: 1s
 				},
 				{
@@ -96,7 +96,7 @@
 				{
 					Slot: 14b,
 					id: "chisel:hardenedclay1",
-					Count: 64b,
+					Count: 32b,
 					Damage: 8s
 				},
 				{
@@ -168,7 +168,7 @@
 				{
 					Slot: 26b,
 					id: "minecraft:log",
-					Count: 64b,
+					Count: 32b,
 					Damage: 0s
 				},
 				{
@@ -260,19 +260,19 @@
 				},
 				{
 					Slot: 38b,
-					id: "mcwlights:oak_tiki_torch",
-					Count: 4b,
+					id: "cathedral:cathedral_chain_various",
+					Count: 8b,
 					Damage: 0s
 				},
 				{
 					Slot: 39b,
-					id: "mcwlights:framed_torch",
-					Count: 4b,
-					Damage: 0s
+					id: "cathedral:deckprism",
+					Count: 1b,
+					Damage: 9s
 				},
 				{
 					Slot: 40b,
-					id: "rustic:lantern_wood",
+					id: "cathedral:cathedral_glass_stained",
 					Count: 4b,
 					Damage: 0s
 				},
@@ -400,8 +400,8 @@
 			tag: {
 				Items: [{
 					Slot: 0b,
-					id: "minecraft:arrow",
-					Count: 64b,
+					id: "cqrepoured:potion_healing",
+					Count: 8b,
 					Damage: 0s
 				},
 				{
@@ -447,13 +447,13 @@
 				{
 					Slot: 7b,
 					id: "minecraft:bread",
-					Count: 4b,
+					Count: 2b,
 					Damage: 0s
 				},
 				{
 					Slot: 8b,
 					id: "tconstruct:edible",
-					Count: 4b,
+					Count: 2b,
 					Damage: 10s
 				},
 				{
@@ -547,7 +547,7 @@
 				Items: [{
 					Slot: 0b,
 					id: "minecraft:splash_potion",
-					Count: 16b,
+					Count: 8b,
 					Damage: 0s,
 					tag: {
 						Potion: "minecraft:long_night_vision"
@@ -556,7 +556,7 @@
 				{
 					Slot: 1b,
 					id: "extraalchemy:breakable_potion",
-					Count: 16b,
+					Count: 8b,
 					Damage: 0s,
 					tag: {
 						Potion: "cofhcore:regeneration2+",
@@ -578,7 +578,7 @@
 				{
 					Slot: 2b,
 					id: "extraalchemy:breakable_potion",
-					Count: 16b,
+					Count: 8b,
 					Damage: 0s,
 					tag: {
 						Potion: "cofhcore:absorption2+",
@@ -600,7 +600,7 @@
 				{
 					Slot: 3b,
 					id: "xreliquary:potion",
-					Count: 16b,
+					Count: 8b,
 					Damage: 0s,
 					tag: {
 						effects: [{
@@ -615,7 +615,7 @@
 				{
 					Slot: 4b,
 					id: "xreliquary:potion",
-					Count: 16b,
+					Count: 8b,
 					Damage: 0s,
 					tag: {
 						effects: [{
@@ -630,7 +630,7 @@
 				{
 					Slot: 5b,
 					id: "minecraft:lingering_potion",
-					Count: 16b,
+					Count: 8b,
 					Damage: 0s,
 					tag: {
 						Potion: "potioncore:solid_core"
@@ -639,7 +639,7 @@
 				{
 					Slot: 6b,
 					id: "extraalchemy:breakable_potion",
-					Count: 8b,
+					Count: 4b,
 					Damage: 0s,
 					tag: {
 						Potion: "oe:turtle_master_strong",
@@ -674,7 +674,7 @@
 				{
 					Slot: 7b,
 					id: "minecraft:splash_potion",
-					Count: 8b,
+					Count: 4b,
 					Damage: 0s,
 					tag: {
 						Potion: "potioncore:strong_revival"
@@ -683,13 +683,13 @@
 				{
 					Slot: 8b,
 					id: "xreliquary:angelheart_vial",
-					Count: 4b,
+					Count: 2b,
 					Damage: 0s
 				},
 				{
 					Slot: 9b,
 					id: "xreliquary:potion",
-					Count: 16b,
+					Count: 8b,
 					Damage: 0s,
 					tag: {
 						effects: [{
@@ -704,7 +704,7 @@
 				{
 					Slot: 10b,
 					id: "xreliquary:potion",
-					Count: 8b,
+					Count: 4b,
 					Damage: 0s,
 					tag: {
 						effects: [{
@@ -759,7 +759,7 @@
 				{
 					Slot: 17b,
 					id: "minecraft:lingering_potion",
-					Count: 4b,
+					Count: 2b,
 					Damage: 0s,
 					tag: {
 						Potion: "oe:turtle_master"
