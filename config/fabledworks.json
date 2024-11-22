@@ -2,7 +2,7 @@
 	"_comment": "======== CONFIG FOR FABLED WORKS ========",
 	"general": {
 		"_comment": "======== GENERAL ========",
-		"Traits only come from loot": true,
+		"Traits only come from loot": false,
 		"Weights": {
 			"Chance to have no traits": 0.0,
 			"Uncommon": 100,
@@ -19,10 +19,6 @@
 		],
 		"Allow Any": false,
 		"Whitelist": [
-			"randomthings:spectresword",
-			"randomthings:spectrepickaxe",
-			"randomthings:spectreaxe",
-			"randomthings:spectreshovel",
 			"soviet:hammer",
 			"ancientbeasts:tough_glove",
 			"ancientbeasts:spear",
@@ -500,55 +496,12 @@
 			"heroicarmory:nhgrayswandir",
 			"heroicarmory:nhsilversaber",
 			"heroicarmory:abcmexcalibur",
-			"natura:ghostwood_sword",
-			"natura:ghostwood_pickaxe",
-			"natura:ghostwood_shovel",
-			"natura:ghostwood_axe",
-			"natura:ghostwood_kama",
-			"natura:bloodwood_sword",
-			"natura:bloodwood_pickaxe",
-			"natura:bloodwood_shovel",
-			"natura:bloodwood_axe",
-			"natura:bloodwood_kama",
-			"natura:darkwood_sword",
-			"natura:darkwood_pickaxe",
-			"natura:darkwood_shovel",
-			"natura:darkwood_axe",
-			"natura:darkwood_kama",
-			"natura:fusewood_sword",
-			"natura:fusewood_pickaxe",
-			"natura:fusewood_shovel",
-			"natura:fusewood_axe",
-			"natura:fusewood_kama",
-			"natura:netherquartz_sword",
-			"natura:netherquartz_pickaxe",
-			"natura:netherquartz_shovel",
-			"natura:netherquartz_axe",
-			"natura:netherquartz_kama",
 			"mowziesmobs:wrought_axe",
 			"mowziesmobs:spear",
 			"mowziesmobs:naga_fang_dagger",
 			"mutantbeasts:creeper_shard",
 			"mutantbeasts:endersoul_hand",
 			"mutantbeasts:hulk_hammer",
-			"netherex:withered_amedian_sword",
-			"netherex:withered_amedian_pickaxe",
-			"netherex:withered_amedian_shovel",
-			"netherex:withered_amedian_axe",
-			"netherex:withered_amedian_hoe",
-			"netherex:withered_amedian_hammer",
-			"netherex:blazed_amedian_sword",
-			"netherex:blazed_amedian_pickaxe",
-			"netherex:blazed_amedian_shovel",
-			"netherex:blazed_amedian_axe",
-			"netherex:blazed_amedian_hoe",
-			"netherex:blazed_amedian_hammer",
-			"netherex:frosted_amedian_sword",
-			"netherex:frosted_amedian_pickaxe",
-			"netherex:frosted_amedian_shovel",
-			"netherex:frosted_amedian_axe",
-			"netherex:frosted_amedian_hoe",
-			"netherex:frosted_amedian_hammer",
 			"nyx:meteor_shovel",
 			"nyx:meteor_axe",
 			"nyx:scythe",
@@ -559,7 +512,6 @@
 			"oe:trident",
 			"xreliquary:mercy_cross",
 			"xreliquary:magicbane",
-			"soulshardsrespawn:vile_sword",
 			"spartanfire:katana_dragonbone",
 			"spartanfire:greatsword_dragonbone",
 			"spartanfire:longsword_dragonbone",
@@ -832,24 +784,6 @@
 			"theaurorian:umbrapickaxe",
 			"theaurorian:umbrasword",
 			"touhou_little_maid:hakurei_gohei",
-			"cyclicmagic:crystal_pickaxe",
-			"cyclicmagic:crystal_axe",
-			"cyclicmagic:crystal_spade",
-			"cyclicmagic:crystal_hoe",
-			"cyclicmagic:crystal_sword",
-			"cyclicmagic:sword_weakness",
-			"cyclicmagic:sword_slowness",
-			"cyclicmagic:sword_ender",
-			"cyclicmagic:netherbrick_pickaxe",
-			"cyclicmagic:netherbrick_axe",
-			"cyclicmagic:netherbrick_spade",
-			"cyclicmagic:netherbrick_hoe",
-			"cyclicmagic:sandstone_pickaxe",
-			"cyclicmagic:sandstone_axe",
-			"cyclicmagic:sandstone_spade",
-			"cyclicmagic:sandstone_hoe",
-			"cyclicmagic:sandstone_sword",
-			"cyclicmagic:mattock",
 			"mysticalworld:amethyst_knife",
 			"mysticalworld:copper_knife",
 			"mysticalworld:silver_knife",
@@ -879,11 +813,11 @@
 		"Traits": [
 			{
 				"_comment": "This is a heavily marked up example. The next one will be without comments.",
-				"Name": "sharp",
-				"Default Text": "Cutting Edge",
+				"Name": "light",
+				"Default Text": "Haste",
 				"Conflicts": [
 					"heavy",
-					"long"
+					"great"
 				],
 				"Weight": 100,
 				"Attributes": {
@@ -907,32 +841,32 @@
 						],
 						"Main Hand": {
 							"Uncommon": {
-								"Multiply": 1.05
+								"Add": 1.0
 							},
 							"Rare": {
-								"Multiply": 1.1
+								"Add": 1.0
 							},
 							"Epic": {
-								"Multiply": 1.15
+								"Add": 2.0
 							},
 							"Legendary": {
-								"Multiply": 1.2
+								"Add": 2.0
 							}
 						}
 					},
 					"generic.attackSpeed": {
 						"Main Hand": {
 							"Uncommon": {
-								"Multiply": 0.95
+								"Add": 0.1
 							},
 							"Rare": {
-								"Multiply": 0.95
+								"Add": 0.1
 							},
 							"Epic": {
-								"Multiply": 0.9
+								"Add": 0.2
 							},
 							"Legendary": {
-								"Multiply": 0.9
+								"Add": 0.3
 							}
 						}
 					}
@@ -971,40 +905,40 @@
 				"Name": "heavy",
 				"Default Text": "Force",
 				"Conflicts": [
-					"sharp",
-					"long"
+					"light",
+					"great"
 				],
 				"Weight": 100,
 				"Attributes": {
 					"generic.attackDamage": {
 						"Main Hand": {
 							"Uncommon": {
-								"Multiply": 1.2
+								"Add": 7.0
 							},
 							"Rare": {
-								"Multiply": 1.4
+								"Add": 8.0
 							},
 							"Epic": {
-								"Multiply": 1.6
+								"Add": 9.0
 							},
 							"Legendary": {
-								"Multiply": 1.8
+								"Add": 10.0
 							}
 						}
 					},
 					"generic.attackSpeed": {
 						"Main Hand": {
 							"Uncommon": {
-								"Multiply": 1.05
+								"Add": -0.1
 							},
 							"Rare": {
-								"Multiply": 1.1
+								"Add": -0.1
 							},
 							"Epic": {
-								"Multiply": 1.15
+								"Add": -0.2
 							},
 							"Legendary": {
-								"Multiply": 1.2
+								"Add": -0.3
 							}
 						}
 					}
@@ -1025,10 +959,10 @@
 				}
 			},
 			{
-				"Name": "long",
+				"Name": "great",
 				"Default Text": "Reach",
 				"Conflicts": [
-					"sharp",
+					"light",
 					"heavy"
 				],
 				"Weight": 100,
@@ -1036,16 +970,16 @@
 					"generic.attackDamage": {
 						"Main Hand": {
 							"Uncommon": {
-								"Multiply": 1.1
+								"Add": 2.0
 							},
 							"Rare": {
-								"Multiply": 1.2
+								"Add": 3.0
 							},
 							"Epic": {
-								"Multiply": 1.3
+								"Add": 4.0
 							},
 							"Legendary": {
-								"Multiply": 1.4
+								"Add": 5.0
 							}
 						}
 					},
