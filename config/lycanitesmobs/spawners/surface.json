@@ -2,7 +2,7 @@
   "name": "surface",
   "type": "spawner",
   "enabled": true,
-  "loadDefault": true,
+  "loadDefault": false,
   "mobCountMin": 2,
   "ignoreBiomes": false,
   "ignoreLightLevel": false,
@@ -12,7 +12,7 @@
     {
       "type": "world",
       "chance": 0.25,
-      "tickRate": 3200
+      "tickRate": 9600
     }
   ],
   "locations": [

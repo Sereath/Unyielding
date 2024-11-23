@@ -27,7 +27,7 @@
       "type": "player",
       "count": 1,
       "chance": 0.75,
-      "tickRate": 100,
+      "tickRate": 300,
       "conditions": [
         {
           "type": "player",
@@ -39,7 +39,7 @@
       "type": "player",
       "count": 0,
       "chance": 1,
-      "tickRate": 100,
+      "tickRate": 300,
       "conditions": [
         {
           "type": "player",

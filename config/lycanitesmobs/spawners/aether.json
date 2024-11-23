@@ -2,7 +2,7 @@
   "name": "aether",
   "type": "spawner",
   "enabled": true,
-  "loadDefault": true,
+  "loadDefault": false,
   "mobCountMin": 2,
   "ignoreBiomes": false,
   "ignoreLightLevel": false,
@@ -20,7 +20,7 @@
     {
       "type": "world",
       "chance": 0.75,
-      "tickRate": 1600
+      "tickRate": 4800
     }
   ],
   "locations": [

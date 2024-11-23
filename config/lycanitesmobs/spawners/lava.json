@@ -2,7 +2,7 @@
   "name": "lava",
   "type": "spawner",
   "enabled": true,
-  "loadDefault": true,
+  "loadDefault": false,
   "mobCountMin": 4,
   "ignoreDimensions": true,
   "ignoreBiomes": true,
@@ -13,7 +13,7 @@
     {
       "type": "world",
       "chance": 0.25,
-      "tickRate": 400
+      "tickRate": 1200
     }
   ],
   "locations": [

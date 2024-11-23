@@ -2,7 +2,7 @@
   "name": "beast",
   "type": "spawner",
   "enabled": false,
-  "loadDefault": true,
+  "loadDefault": false,
   "mobCountMin": 6,
   "ignoreBiomes": false,
   "ignoreLightLevel": false,
@@ -11,7 +11,7 @@
     {
       "type": "world",
       "chance": 1,
-      "tickRate": 600
+      "tickRate": 1800
     }
   ],
   "locations": [

@@ -2,7 +2,7 @@
   "name": "animal",
   "type": "spawner",
   "enabled": false,
-  "loadDefault": true,
+  "loadDefault": false,
   "mobCountMin": 8,
   "ignoreBiomes": false,
   "ignoreLightLevel": false,
@@ -12,7 +12,7 @@
     {
       "type": "world",
       "chance": 0.25,
-      "tickRate": 3200
+      "tickRate": 9600
     }
   ],
   "locations": [

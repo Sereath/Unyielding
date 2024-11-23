@@ -2,7 +2,7 @@
   "name": "mushroom",
   "type": "spawner",
   "enabled": true,
-  "loadDefault": true,
+  "loadDefault": false,
   "mobCountMin": 1,
   "ignoreDimensions": true,
   "ignoreBiomes": true,
@@ -21,7 +21,7 @@
     {
       "type": "world",
       "chance": 0.25,
-      "tickRate": 800
+      "tickRate": 2400
     }
   ],
   "locations": [

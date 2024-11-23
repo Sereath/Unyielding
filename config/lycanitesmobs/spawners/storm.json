@@ -2,7 +2,7 @@
   "name": "storm",
   "type": "spawner",
   "enabled": true,
-  "loadDefault": true,
+  "loadDefault": false,
   "mobCountMin": 8,
   "ignoreBiomes": true,
   "ignoreLightLevel": true,
@@ -16,7 +16,7 @@
     {
       "type": "world",
       "chance": 0.125,
-      "tickRate": 800
+      "tickRate": 2400
     }
   ],
   "locations": [

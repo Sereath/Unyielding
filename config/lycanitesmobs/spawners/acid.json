@@ -2,7 +2,7 @@
   "name": "acid",
   "type": "spawner",
   "enabled": true,
-  "loadDefault": true,
+  "loadDefault": false,
   "mobCountMin": 4,
   "ignoreDimensions": true,
   "ignoreBiomes": true,
@@ -13,7 +13,7 @@
     {
       "type": "world",
       "chance": 0.15,
-      "tickRate": 600
+      "tickRate": 1800
     }
   ],
   "locations": [

@@ -2,7 +2,7 @@
   "name": "temple",
   "type": "spawner",
   "enabled": true,
-  "loadDefault": true,
+  "loadDefault": false,
   "mobCountMin": 8,
   "ignoreBiomes": true,
   "ignoreLightLevel": true,
@@ -12,7 +12,7 @@
     {
       "type": "world",
       "chance": 1,
-      "tickRate": 1200
+      "tickRate": 3600
     }
   ],
   "locations": [
