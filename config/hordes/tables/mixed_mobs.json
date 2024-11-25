@@ -3,31 +3,10 @@
 	"minecraft:skeleton-10-0-0",
 	"minecraft:spider-15-0-0",
 	"minecraft:creeper-5-0-0",
-	"minecraft:husk-20-0-0",
+	"minecraft:husk-10-0-0",
 	"minecraft:stray-10-0-0",
 	"minecraft:cave_spider-10-0-0",
 	"minecraft:witch-5-0-0",
-	{
-		"entity": "minecraft:zombie_horse",
-		"weight": 3,
-		"first_day": 0,
-		"last_day": 0,
-		"nbt": "{Passengers:[{id:creeper}]}"
-	},
 	"minecraft:vindication_illager-5-0-0",
-	"minecraft:wither_skeleton-10-0-0",
-	{
-		"entity": "minecraft:cave_spider",
-		"weight": 15,
-		"first_day": 0,
-		"last_day": 0,
-		"nbt": "{Passengers:[{id:stray,HandItems:[{id:bow,Count:1b}]}]}"
-	},
-	{
-		"entity": "minecraft:skeleton_horse",
-		"weight": 3,
-		"first_day": 0,
-		"last_day": 0,
-		"nbt": "{Passengers:[{id:evocation_villager}]}"
-	}
+	"minecraft:wither_skeleton-10-0-0"
 ]

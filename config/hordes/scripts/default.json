@@ -4,49 +4,43 @@
         "value": [
             "hordes:default",
             "hordes:gog",
+            "hordes:ills",
             "hordes:mixed_mobs",
-            "hordes:nco",
             "hordes:skeletons"
         ],
         "conditions": []
     },
     {
-        "function": "hordes:multiple",
+        "function": "hordes:set_spawntable",
         "value": [
-            {
-                "function": "hordes:set_spawntable",
-                "value": [
-                    "hordes:drowned"
-                ],
-                "conditions": []
-            },
-            {
-                "function": "hordes:set_spawn_type",
-                "value": "prefer_water",
-                "conditions": []
-            }
+            "hordes:default",
+            "hordes:gog",
+            "hordes:ills",
+            "hordes:mixed_mobs",
+            "hordes:skeletons",
+            "hordes:tg_basic",
+            "hordes:nco"
         ],
-            "conditions": [
-                {
-                    "name": "hordes:biome",
-                    "value": "#minecraft:is_ocean"
-                },
-                {
-                    "name": "hordes:not",
-                    "value": {
-                        "name": "hordes:biome",
-                        "value": [
-                            "minecraft:frozen_ocean",
-                            "minecraft:deep_frozen_ocean"
-                        ]
-                    }
-                }
+        "conditions": [
+            {
+                "name": "gamestages:gamestage",
+                "value": "tg"
+            }
         ]
     },
     {
         "function": "hordes:set_spawntable",
         "value": [
-            "hordes:srp0"
+            "hordes:default",
+            "hordes:gog",
+            "hordes:ills",
+            "hordes:mixed_mobs",
+            "hordes:skeletons",
+            "hordes:tg_basic",
+            "hordes:nco",
+            "hordes:tg_heavy",
+            "hordes:srp_0",
+            "hordes:srp_1"
         ],
         "conditions": [
             {
