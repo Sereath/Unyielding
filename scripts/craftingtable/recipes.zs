@@ -291,7 +291,7 @@ recipes.addShaped(<buildinggadgets:buildingtool>, [[<ore:ingotElectricalSteel>, 
 recipes.addShaped(<buildinggadgets:exchangertool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemPulsatingCrystal>, <ore:crystalPalis>, <ore:itemPulsatingCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
 recipes.addShaped(<buildinggadgets:copypastetool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemVibrantCrystal>, <ore:crystalRestonia>, <ore:itemVibrantCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
 
-recipes.addShaped(<minecraft:nether_star> * 2, [[<nyx:fallen_star>, <nyx:fallen_star>, <nyx:fallen_star>],[<nyx:fallen_star>, <minecraft:nether_star>, <nyx:fallen_star>], [<nyx:fallen_star>, <nyx:fallen_star>, <nyx:fallen_star>]]);
+recipes.addShaped(<extendedcrafting:material:140> * 2, [[<nyx:fallen_star>, <nyx:fallen_star>, <nyx:fallen_star>],[<nyx:fallen_star>, <ore:nuggetNetherStar>, <nyx:fallen_star>], [<nyx:fallen_star>, <nyx:fallen_star>, <nyx:fallen_star>]]);
 recipes.addShaped(<minecraft:name_tag> * 2, [[<nyx:fallen_star>, <nyx:fallen_star>, <nyx:fallen_star>],[<nyx:fallen_star>, <minecraft:name_tag>, <nyx:fallen_star>], [<nyx:fallen_star>, <nyx:fallen_star>, <nyx:fallen_star>]]);
 
 recipes.addShaped(<tombstone:crafting_ingredient>, [[<randomthings:ingredient:2>, <ore:stickWood>, <randomthings:ingredient:2>],[<ore:dustGrave>, <mod_lavacow:curseweave_cloth>, <ore:dustGrave>], [<randomthings:ingredient:2>, <ore:stickWood>, <randomthings:ingredient:2>]]);
