@@ -476,8 +476,7 @@
 		"mob": "grimoireofgaia:dhampir",
 		"random": 0.00125,
 		"seesky": true,
-		"biome": ["Cold Taiga", "Cold Taiga Hills", "Cold Taiga M", "Taiga M", "Ominous Woods", "Redwood Forest", "Shield", "Dark Forest", "Dead Forest", "Forest", "Roofed Forest", "Magical Forest", "Tall Oak Forest", "Fungi Forest", "Thicket", "Coniferous Forest", "Snowy Coniferous Forest", "MountainFoothills"],
-		"biometype": ["FOREST", "CONIFEROUS", "DENSE", "THEMED_TREES", "SPOOKY", "MEGA_TAIGA_TREES", "MEGA_TAIGA_SPRUCE_TREES", "MAGICAL", "DEAD"],
+		"biometype": ["CONIFEROUS", "DENSE", "THEMED_TREES", "SPOOKY", "MEGA_TAIGA_TREES", "MEGA_TAIGA_SPRUCE_TREES", "MAGICAL", "DEAD"],
 		"maxlight": 15,
 		"minlight": 0,
 		"maxcount":	{
@@ -497,8 +496,7 @@
 		"mob": "grimoireofgaia:vampire",
 		"random": 0.000875,
 		"seesky": true,
-		"biome": ["Cold Taiga", "Cold Taiga Hills", "Cold Taiga M", "Taiga M", "Ominous Woods", "Redwood Forest", "Shield", "Dark Forest", "Dead Forest", "Forest", "Roofed Forest", "Magical Forest", "Tall Oak Forest", "Fungi Forest", "Thicket", "Coniferous Forest", "Snowy Coniferous Forest", "MountainFoothills"],
-		"biometype": ["FOREST", "CONIFEROUS", "DENSE", "THEMED_TREES", "SPOOKY", "MEGA_TAIGA_TREES", "MEGA_TAIGA_SPRUCE_TREES", "MAGICAL", "DEAD"],
+		"biometype": ["CONIFEROUS", "DENSE", "THEMED_TREES", "SPOOKY", "MEGA_TAIGA_TREES", "MEGA_TAIGA_SPRUCE_TREES", "MAGICAL", "DEAD"],
 		"maxlight": 7,
 		"minlight": 0,
 		"maxcount":	{

@@ -266,6 +266,9 @@
 
 <randomthings:chunkanalyzer>.addTooltip(format.darkGreen("GPS"));
 
+<improvedbackpacks:backpack>.addTooltip(format.darkGray("Soulbound"));
+<toolbelt:belt>.addTooltip(format.darkGray("Soulbound"));
+
 <flaskoflife:flask_healing>.displayName = "§bFlask of Life";
 <flaskoflife:flask_healing>.addTooltip(format.darkGreen("Replenish by crouch-right clicking on a bed or beacon"));
 

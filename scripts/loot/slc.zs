@@ -43,6 +43,24 @@ common.addItemEntry(<randomthings:diviningrod:3>, 5, 1, [Functions.setCount(1, 1
 common.addItemEntry(<randomthings:diviningrod:8>, 5, 1, [Functions.setCount(1, 1)], []);
 common.addItemEntry(<randomthings:diviningrod:9>, 5, 1, [Functions.setCount(1, 1)], []);
 common.addItemEntry(<randomthings:diviningrod:12>, 5, 1, [Functions.setCount(1, 1)], []);
+common.addItemEntry(<mysticstaffs:heal_staff>, 5, 1, [Functions.setCount(1, 1)], []);
+common.addItemEntry(<mysticstaffs:fire_staff>, 5, 1, [Functions.setCount(1, 1)], []);
+common.addItemEntry(<mysticstaffs:path_staff>, 5, 1, [Functions.setCount(1, 1)], []);
+common.addItemEntry(<mysticstaffs:glow_staff>, 5, 1, [Functions.setCount(1, 1)], []);
+common.addItemEntry(<mysticstaffs:wind_staff>, 5, 1, [Functions.setCount(1, 1)], []);
+common.addItemEntry(<cyclicmagic:ender_blaze>, 5, 1, [Functions.setCount(1, 1)], []);
+common.addItemEntry(<cyclicmagic:evoker_fang>, 5, 1, [Functions.setCount(1, 1)], []);
+common.addItemEntry(<cyclicmagic:ender_lightning>, 5, 1, [Functions.setCount(1, 1)], []);
+common.addItemEntry(<cyclicmagic:ender_snow>, 5, 1, [Functions.setCount(1, 1)], []);
+common.addItemEntry(<theaurorian:scrapaurorianite>, 2, 1, [Functions.setCount(1, 1)], []);
+common.addItemEntry(<theaurorian:scrapcrystalline>, 2, 1, [Functions.setCount(1, 1)], []);
+common.addItemEntry(<theaurorian:scrapumbra>, 2, 1, [Functions.setCount(1, 1)], []);
+common.addItemEntry(<cyclicmagic:heart_food>, 5, 1, [Functions.setCount(1, 1)], []);
+common.addItemEntry(<grimoireofgaia:misc_book>, 5, 1, [Functions.setCount(1, 1)], []);
+common.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "copper"}), 5, 1, [Functions.setCount(8, 16)], []);
+common.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "silver"}), 5, 1, [Functions.setCount(4, 8)], []);
+common.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "gold"}), 5, 1, [Functions.setCount(2, 4)], []);
+common.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "ancient"}), 5, 1, [Functions.setCount(1, 2)], []);
 
 
 //uncommon
@@ -78,6 +96,24 @@ uncommon.addItemEntry(<randomthings:diviningrod:10>, 5, 1, [Functions.setCount(1
 uncommon.addItemEntry(<randomthings:diviningrod:11>, 5, 1, [Functions.setCount(1, 1)], []);
 uncommon.addItemEntry(<randomthings:diviningrod:13>, 5, 1, [Functions.setCount(1, 1)], []);
 uncommon.addItemEntry(<pickletweaks:nightvision_goggles>, 5, 1, [Functions.setCount(1, 1)], []);
+uncommon.addItemEntry(<mysticstaffs:heal_staff>, 5, 1, [Functions.setCount(1, 1)], []);
+uncommon.addItemEntry(<mysticstaffs:fire_staff>, 5, 1, [Functions.setCount(1, 1)], []);
+uncommon.addItemEntry(<mysticstaffs:path_staff>, 5, 1, [Functions.setCount(1, 1)], []);
+uncommon.addItemEntry(<mysticstaffs:glow_staff>, 5, 1, [Functions.setCount(1, 1)], []);
+uncommon.addItemEntry(<mysticstaffs:wind_staff>, 5, 1, [Functions.setCount(1, 1)], []);
+uncommon.addItemEntry(<cyclicmagic:ender_blaze>, 5, 1, [Functions.setCount(1, 1)], []);
+uncommon.addItemEntry(<cyclicmagic:evoker_fang>, 5, 1, [Functions.setCount(1, 1)], []);
+uncommon.addItemEntry(<cyclicmagic:ender_lightning>, 5, 1, [Functions.setCount(1, 1)], []);
+uncommon.addItemEntry(<cyclicmagic:ender_snow>, 5, 1, [Functions.setCount(1, 1)], []);
+uncommon.addItemEntry(<theaurorian:scrapaurorianite>, 5, 1, [Functions.setCount(1, 1)], []);
+uncommon.addItemEntry(<theaurorian:scrapcrystalline>, 5, 1, [Functions.setCount(1, 1)], []);
+uncommon.addItemEntry(<theaurorian:scrapumbra>, 5, 1, [Functions.setCount(1, 1)], []);
+uncommon.addItemEntry(<cyclicmagic:heart_food>, 5, 1, [Functions.setCount(1, 1)], []);
+uncommon.addItemEntry(<grimoireofgaia:misc_book>, 5, 1, [Functions.setCount(1, 1)], []);
+uncommon.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "copper"}), 5, 1, [Functions.setCount(16, 32)], []);
+uncommon.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "silver"}), 5, 1, [Functions.setCount(8, 16)], []);
+uncommon.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "gold"}), 5, 1, [Functions.setCount(4, 8)], []);
+uncommon.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "ancient"}), 5, 1, [Functions.setCount(1, 4)], []);
 
 
 //rare
@@ -102,6 +138,22 @@ rare.addItemEntry(<randomthings:diviningrod:6>, 10, 1, [Functions.setCount(1, 1)
 rare.addItemEntry(<randomthings:diviningrod:18>, 10, 1, [Functions.setCount(1, 1)], []);
 rare.addItemEntry(<pickletweaks:nightvision_goggles>, 10, 1, [Functions.setCount(1, 1)], []);
 rare.addItemEntry(<pickletweaks:nightvision_goggles_c>, 10, 1, [Functions.setCount(1, 1)], []);
+rare.addItemEntry(<mysticstaffs:flight_staff>, 10, 1, [Functions.setCount(1, 1)], []);
+rare.addItemEntry(<mysticstaffs:invisibility_staff>, 10, 1, [Functions.setCount(1, 1)], []);
+rare.addItemEntry(<mysticstaffs:ice_ball_staff>, 10, 1, [Functions.setCount(1, 1)], []);
+rare.addItemEntry(<mysticstaffs:sunstrike_staff>, 10, 1, [Functions.setCount(1, 1)], []);
+rare.addItemEntry(<conarm:resist_mat>, 10, 1, [Functions.setCount(1, 1)], []);
+rare.addItemEntry(<tconstruct:materials:50>, 10, 1, [Functions.setCount(1, 1)], []);
+rare.addItemEntry(<enderskills:book>, 10, 1, [Functions.setCount(1, 1)], []);
+rare.addItemEntry(<theaurorian:scrapaurorianite>, 10, 1, [Functions.setCount(1, 2)], []);
+rare.addItemEntry(<theaurorian:scrapcrystalline>, 10, 1, [Functions.setCount(1, 2)], []);
+rare.addItemEntry(<theaurorian:scrapumbra>, 10, 1, [Functions.setCount(1, 2)], []);
+rare.addItemEntry(<cyclicmagic:heart_food>, 10, 1, [Functions.setCount(1, 1)], []);
+rare.addItemEntry(<grimoireofgaia:misc_book>, 10, 1, [Functions.setCount(1, 1)], []);
+rare.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "copper"}), 10, 1, [Functions.setCount(24, 48)], []);
+rare.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "silver"}), 10, 1, [Functions.setCount(12, 24)], []);
+rare.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "gold"}), 10, 1, [Functions.setCount(6, 12)], []);
+rare.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "ancient"}), 10, 1, [Functions.setCount(1, 6)], []);
 
 
 //mythic
@@ -122,7 +174,23 @@ mythic.addItemEntry(<srparasites:weapon_cleaver>, 5, 1, [Functions.setCount(1, 1
 mythic.addItemEntry(<srparasites:weapon_bow>, 5, 1, [Functions.setCount(1, 1)], []);
 mythic.addItemEntry(<srparasites:weapon_maul>, 5, 1, [Functions.setCount(1, 1)], []);
 mythic.addItemEntry(<srparasites:weapon_lance>, 5, 1, [Functions.setCount(1, 1)], []);
-mythic.addItemEntry(<randomthings:diviningrod:7>, 5, 1, [Functions.setCount(1, 1)], []);
-mythic.addItemEntry(<randomthings:diviningrod:14>, 5, 1, [Functions.setCount(1, 1)], []);
-mythic.addItemEntry(<randomthings:diviningrod:15>, 5, 1, [Functions.setCount(1, 1)], []);
-mythic.addItemEntry(<randomthings:diviningrod:16>, 5, 1, [Functions.setCount(1, 1)], []);
+mythic.addItemEntry(<randomthings:diviningrod:7>, 10, 1, [Functions.setCount(1, 1)], []);
+mythic.addItemEntry(<randomthings:diviningrod:14>, 10, 1, [Functions.setCount(1, 1)], []);
+mythic.addItemEntry(<randomthings:diviningrod:15>, 10, 1, [Functions.setCount(1, 1)], []);
+mythic.addItemEntry(<randomthings:diviningrod:16>, 10, 1, [Functions.setCount(1, 1)], []);
+mythic.addItemEntry(<mysticstaffs:flight_staff>, 10, 1, [Functions.setCount(1, 1)], []);
+mythic.addItemEntry(<mysticstaffs:invisibility_staff>, 10, 1, [Functions.setCount(1, 1)], []);
+mythic.addItemEntry(<mysticstaffs:ice_ball_staff>, 10, 1, [Functions.setCount(1, 1)], []);
+mythic.addItemEntry(<mysticstaffs:sunstrike_staff>, 10, 1, [Functions.setCount(1, 1)], []);
+mythic.addItemEntry(<conarm:resist_mat>, 10, 1, [Functions.setCount(1, 1)], []);
+mythic.addItemEntry(<tconstruct:materials:50>, 10, 1, [Functions.setCount(1, 1)], []);
+mythic.addItemEntry(<enderskills:book>, 10, 1, [Functions.setCount(1, 1)], []);
+mythic.addItemEntry(<theaurorian:scrapaurorianite>, 10, 1, [Functions.setCount(1, 2)], []);
+mythic.addItemEntry(<theaurorian:scrapcrystalline>, 10, 1, [Functions.setCount(1, 2)], []);
+mythic.addItemEntry(<theaurorian:scrapumbra>, 10, 1, [Functions.setCount(1, 2)], []);
+mythic.addItemEntry(<cyclicmagic:heart_food>, 10, 1, [Functions.setCount(1, 1)], []);
+mythic.addItemEntry(<grimoireofgaia:misc_book>, 10, 1, [Functions.setCount(1, 1)], []);
+mythic.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "copper"}), 10, 1, [Functions.setCount(32, 64)], []);
+mythic.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "silver"}), 10, 1, [Functions.setCount(16, 32)], []);
+mythic.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "gold"}), 10, 1, [Functions.setCount(8, 16)], []);
+mythic.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "ancient"}), 10, 1, [Functions.setCount(1, 8)], []);
