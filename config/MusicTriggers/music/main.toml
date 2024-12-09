@@ -15,12 +15,6 @@
 		priority = "2"
 		time_bundle = "day"
 		identifier = "day"
-	[triggers.mob]
-		detection_range = "64"
-		identifier = "aqueen"
-		priority = "17"
-		mob_targeting = false
-		resource_name = [ "theaurorian:moonqueen" ]
 	[triggers.dead]
 		priority = "15"
 	[triggers.lowhp]
@@ -98,9 +92,6 @@
 		triggers = [ "dimension-overworld" "time-night" ]
 	[songs.tosd]
 		triggers = [ "dimension-overworld" "time-night" ]
-	[songs.cf]
-		volume = "1.2"
-		triggers = [ "mob-aqueen" ]
 	[songs.t_se1_178113]
 		triggers = [ "dimension-erebus" ]
 	[songs.t_etmbl_277192]
