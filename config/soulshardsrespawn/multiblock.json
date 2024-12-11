@@ -1,6 +1,6 @@
 {
   "catalyst": {
-    "item": "minecraft:diamond",
+    "item": "xat:glowing_gem",
     "data": 0
   },
   "shape": [
