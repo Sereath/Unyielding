@@ -364,7 +364,7 @@ recipes.addShaped(<theaurorian:aurorianportalframebricks>, [[<jaopca:item_dustan
 
 recipes.addShaped(<corpsecomplex:scroll>, [[null, <ore:dustGlowing>, null],[<minecraft:rotten_flesh>, <ore:paper>, <minecraft:rotten_flesh>], [null, <ore:enderpearl>, null]]);
 
-recipes.addShaped(<apotheosis:prismatic_web>, [[null, <ore:netherStar>, null],[<ore:gemPrismarine>, <minecraft:web>, <ore:gemPrismarine>], [null, <ore:gemPrismarine>, null]]);
+recipes.addShaped(<apotheosis:prismatic_web>, [[null, <minecraft:ender_eye>, null],[<ore:gemPrismarine>, <minecraft:web>, <ore:gemPrismarine>], [null, <ore:gemPrismarine>, null]]);
 
 recipes.addShaped(<flaskoflife:flask_healing>, [[<minecraft:speckled_melon>, <grimoireofgaia:misc_giga_gear>, <minecraft:speckled_melon>],[<ore:itemVibrantCrystal>, <minecraft:glass_bottle>, <ore:itemVibrantCrystal>], [<minecraft:speckled_melon>, <xat:restoration_serum>, <minecraft:speckled_melon>]]);
 
