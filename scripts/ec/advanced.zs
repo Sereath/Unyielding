@@ -1,21 +1,5 @@
 #priority 450
 
-mods.extendedcrafting.TableCrafting.addShaped(0, <eplus:advanced_table>, [
-	[<ore:gemGlowing>, null, <ore:blockMithril>, null, <ore:gemGlowing>], 
-	[null, <ore:gemGlowing>, <ore:blockMithril>, <ore:gemGlowing>, null], 
-	[<ore:blockMithril>, <ore:blockMithril>, <minecraft:enchanting_table>, <ore:blockMithril>, <ore:blockMithril>], 
-	[null, <ore:gemGlowing>, <ore:blockMithril>, <ore:gemGlowing>, null], 
-	[<ore:gemGlowing>, null, <ore:blockMithril>, null, <ore:gemGlowing>]
-]);
-
-mods.extendedcrafting.TableCrafting.addShaped(0, <eplus:table_upgrade>, [
-	[<ore:gemGlowing>, null, <ore:blockMithril>, null, <ore:gemGlowing>], 
-	[null, <ore:gemGlowing>, <ore:blockMithril>, <ore:gemGlowing>, null], 
-	[<ore:blockMithril>, <ore:blockMithril>, null, <ore:blockMithril>, <ore:blockMithril>], 
-	[null, <ore:gemGlowing>, <ore:blockMithril>, <ore:gemGlowing>, null], 
-	[<ore:gemGlowing>, null, <ore:blockMithril>, null, <ore:gemGlowing>]
-]);
-
 mods.extendedcrafting.TableCrafting.addShaped(0, <contenttweaker:book1>, [
 	[<unyielding:scraps1>, <unyielding:scraps1>, <unyielding:scraps1>, <ore:dustGlowing>, <unyielding:scraps1>, <unyielding:scraps1>, <unyielding:scraps1>], 
 	[<unyielding:scraps1>, <mod_lavacow:curseweave_cloth>, <unyielding:scraps1>, <unyielding:scraps1>, <unyielding:scraps1>, <mod_lavacow:curseweave_cloth>, <unyielding:scraps1>], 

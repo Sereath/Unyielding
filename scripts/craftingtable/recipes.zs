@@ -4,8 +4,6 @@ import crafttweaker.item.IItemStack;
 import crafttweaker.data.IData;
 import crafttweaker.item.IIngredient;
 
-recipes.remove(<eplus:table_upgrade>);
-
 recipes.remove(<tconstruct:throwball:1>);
 
 recipes.remove(<cyclicmagic:heart_food>);
@@ -244,8 +242,6 @@ recipes.removeByRecipeName("techguns:metalpanel_0");
 recipes.removeByRecipeName("techguns:nethermetal_0");
 recipes.removeByRecipeName("techguns:concrete_0");
 
-recipes.removeByRecipeName("eplus:table");
-
 recipes.removeByRecipeName("tombstone:enchanted_grave_key");
 recipes.remove(<tombstone:crafting_ingredient>);
 recipes.remove(<tombstone:crafting_ingredient:1>);
@@ -258,8 +254,6 @@ recipes.remove(<theaurorian:aurorianstone>);
 //recipes.remove(<pickletweaks:diamond_apple>);
 recipes.remove(<pickletweaks:constantan_paxel>);
 recipes.remove(<pickletweaks:aluminum_paxel>);
-
-//recipes.remove(<weirdinggadget:weirding_gadget>);
 
 recipes.remove(<extraalchemy:empty_ring>);
 recipes.remove(<extraalchemy:potion_ring>);
