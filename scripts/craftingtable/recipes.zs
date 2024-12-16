@@ -245,6 +245,7 @@ recipes.removeByRecipeName("techguns:concrete_0");
 recipes.removeByRecipeName("tombstone:enchanted_grave_key");
 recipes.remove(<tombstone:crafting_ingredient>);
 recipes.remove(<tombstone:crafting_ingredient:1>);
+recipes.remove(<tombstone:book_of_disenchantment>);
 
 recipes.removeByRecipeName("theaurorian:items/auroriansteel");
 recipes.remove(<theaurorian:aurorianportalframebricks>);
@@ -265,6 +266,7 @@ recipes.remove(<pickletweaks:nightvision_goggles>);
 recipes.remove(<corpsecomplex:scroll>);
 
 recipes.remove(<apotheosis:prismatic_web>);
+recipes.remove(<apotheosis:scrap_tome>);
 
 recipes.remove(<xreliquary:twilight_cloak>);
 
@@ -290,6 +292,7 @@ recipes.addShaped(<minecraft:name_tag> * 2, [[<nyx:fallen_star>, <nyx:fallen_sta
 
 recipes.addShaped(<tombstone:crafting_ingredient>, [[<randomthings:ingredient:2>, <ore:stickWood>, <randomthings:ingredient:2>],[<ore:dustGrave>, <mod_lavacow:curseweave_cloth>, <ore:dustGrave>], [<randomthings:ingredient:2>, <ore:stickWood>, <randomthings:ingredient:2>]]);
 recipes.addShaped(<tombstone:crafting_ingredient:1>, [[null, <randomthings:ingredient:2>, null],[<ore:dustGrave>, <ore:graveMarble>, <ore:dustGrave>], [null, <randomthings:ingredient:2>, null]]);
+recipes.addShaped(<tombstone:book_of_disenchantment>, [[<tombstone:crafting_ingredient:3>, <randomthings:ingredient:2>, <tombstone:crafting_ingredient:3>],[<randomthings:ingredient:2>, <minecraft:book>, <randomthings:ingredient:2>], [<tombstone:crafting_ingredient:3>, <randomthings:ingredient:2>, <tombstone:crafting_ingredient:3>]]);
 
 //recipes.addShaped(<xat:dwarf_stout>, [[<ore:ingotGlowing>, <dungeontactics:mithril_pickaxe>, <ore:ingotGlowing>],[<minecraft:dragon_breath>, <xat:dwarf_ring>, <minecraft:dragon_breath>], [<ore:ingotGlowing>, <minecraft:rabbit_stew>, <ore:ingotGlowing>]]);
 //recipes.addShaped(<xat:dragons_eye>, [[<xat:glow_ring>, <dungeontactics:mithril_sword>, <ore:gemGlowing>],[<dungeontactics:mithril_sword>, <minecraft:skull:5>, <dungeontactics:mithril_sword>], [<ore:gemGlowing>, <dungeontactics:mithril_sword>, <ore:gemGlowing>]]);
