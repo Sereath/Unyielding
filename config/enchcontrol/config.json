@@ -6,7 +6,7 @@
     "custom_localization": false
   },
   "tweaks": {
-    "hide_curses": false,
+    "hide_curses": true,
     "notify_cursed": true,
     "roman_numerals": true,
     "enchantment_table_level_cap": 10,

@@ -49,7 +49,9 @@
     "applicability_mode": 0,
     "items_list_mode": 0,
     "items_list": [],
-    "description": []
+    "description": [
+      "Mobs will drop more loot when killed."
+    ]
   },
   {
     "id": "uniqueeutil:sleipnirs_grace",
@@ -183,7 +185,9 @@
     "applicability_mode": 0,
     "items_list_mode": 0,
     "items_list": [],
-    "description": []
+    "description": [
+      "Arrows fired from the bow will deal additional fire damage."
+    ]
   },
   {
     "id": "minecraft:aqua_affinity",
@@ -213,7 +217,9 @@
     "applicability_mode": 0,
     "items_list_mode": 0,
     "items_list": [],
-    "description": []
+    "description": [
+      "Increases mining speed while underwater."
+    ]
   },
   {
     "id": "uniquee:bone_crusher",
@@ -327,7 +333,7 @@
   {
     "id": "theaurorian:lightning",
     "name": "enchantment.theaurorian.lightning",
-    "enabled": true,
+    "enabled": false,
     "hide_on_item": false,
     "hide_on_book": false,
     "rarity": "RARE",
@@ -712,7 +718,9 @@
     "applicability_mode": 0,
     "items_list_mode": 0,
     "items_list": [],
-    "description": []
+    "description": [
+      "Reduces damage from most sources."
+    ]
   },
   {
     "id": "minecraft:mending",
@@ -744,7 +752,9 @@
     "applicability_mode": 0,
     "items_list_mode": 0,
     "items_list": [],
-    "description": []
+    "description": [
+      "Repairs the durability of armor and tools with EXP."
+    ]
   },
   {
     "id": "uniquee:perpetualstrike",
@@ -798,7 +808,9 @@
     "applicability_mode": 0,
     "items_list_mode": 0,
     "items_list": [],
-    "description": []
+    "description": [
+      "Increases damage against undead mobs such as zombies and skeletons."
+    ]
   },
   {
     "id": "minecraft:fire_aspect",
@@ -825,7 +837,9 @@
     "applicability_mode": 0,
     "items_list_mode": 0,
     "items_list": [],
-    "description": []
+    "description": [
+      "Causes additional fire damage when used to attack a mob."
+    ]
   },
   {
     "id": "minecraft:knockback",
@@ -852,7 +866,9 @@
     "applicability_mode": 0,
     "items_list_mode": 0,
     "items_list": [],
-    "description": []
+    "description": [
+      "Increases the knockback strength of the weapon."
+    ]
   },
   {
     "id": "oe:riptide",
@@ -909,7 +925,9 @@
     "applicability_mode": 0,
     "items_list_mode": 0,
     "items_list": [],
-    "description": []
+    "description": [
+      "Increases movement speed while under water."
+    ]
   },
   {
     "id": "randomthings:magnetic",
@@ -996,7 +1014,7 @@
   {
     "id": "openblocks:flim_flam",
     "name": "enchantment.openblocks.flimflam",
-    "enabled": true,
+    "enabled": false,
     "hide_on_item": false,
     "hide_on_book": false,
     "rarity": "RARE",
@@ -1109,7 +1127,7 @@
   {
     "id": "openblocks:explosive",
     "name": "enchantment.openblocks.explosive",
-    "enabled": true,
+    "enabled": false,
     "hide_on_item": false,
     "hide_on_book": false,
     "rarity": "RARE",
@@ -1391,7 +1409,7 @@
   {
     "id": "endercore:autosmelt",
     "name": "enchantment.autosmelt",
-    "enabled": true,
+    "enabled": false,
     "hide_on_item": false,
     "hide_on_book": false,
     "rarity": "RARE",
@@ -1478,7 +1496,7 @@
   {
     "id": "cyclicmagic:enchantment.multishot",
     "name": "enchantment.multishot",
-    "enabled": true,
+    "enabled": false,
     "hide_on_item": false,
     "hide_on_book": false,
     "rarity": "VERY_RARE",
@@ -1613,7 +1631,7 @@
   {
     "id": "openblocks:last_stand",
     "name": "enchantment.openblocks.laststand",
-    "enabled": true,
+    "enabled": false,
     "hide_on_item": false,
     "hide_on_book": false,
     "rarity": "UNCOMMON",
@@ -1751,7 +1769,7 @@
   {
     "id": "cofhcore:vorpal",
     "name": "enchantment.cofhcore.vorpal",
-    "enabled": true,
+    "enabled": false,
     "hide_on_item": false,
     "hide_on_book": false,
     "rarity": "RARE",
@@ -1800,7 +1818,9 @@
     "applicability_mode": 0,
     "items_list_mode": 0,
     "items_list": [],
-    "description": []
+    "description": [
+      "Increases the damage of arrows fired from the bow."
+    ]
   },
   {
     "id": "cyclicmagic:enchantment.autosmelt",
@@ -1832,7 +1852,7 @@
   {
     "id": "enderio:repellent",
     "name": "enchantment.enderio.repellent",
-    "enabled": true,
+    "enabled": false,
     "hide_on_item": false,
     "hide_on_book": false,
     "rarity": "VERY_RARE",
@@ -2059,7 +2079,9 @@
     "applicability_mode": 0,
     "items_list_mode": 0,
     "items_list": [],
-    "description": []
+    "description": [
+      "Increases the chance of getting good loot while fishing."
+    ]
   },
   {
     "id": "cofhcore:smelting",
@@ -2121,7 +2143,9 @@
     "applicability_mode": 0,
     "items_list_mode": 0,
     "items_list": [],
-    "description": []
+    "description": [
+      "Extends the amount of time the player can spend under water. Also improves vision while under water."
+    ]
   },
   {
     "id": "uniqueebattle:celestial_blessing",
@@ -2234,12 +2258,14 @@
     "applicability_mode": 0,
     "items_list_mode": 0,
     "items_list": [],
-    "description": []
+    "description": [
+      "Reduces fall damage and ender pearl teleportation damage."
+    ]
   },
   {
     "id": "enderio:witherweapon",
     "name": "enchantment.enderio.witherweapon",
-    "enabled": true,
+    "enabled": false,
     "hide_on_item": false,
     "hide_on_book": false,
     "rarity": "UNCOMMON",
@@ -2462,7 +2488,9 @@
     "applicability_mode": 0,
     "items_list_mode": 0,
     "items_list": [],
-    "description": []
+    "description": [
+      "Increases damage against arthropods such as Spiders and Silverfish."
+    ]
   },
   {
     "id": "minecraft:thorns",
@@ -2492,7 +2520,9 @@
     "applicability_mode": 0,
     "items_list_mode": 0,
     "items_list": [],
-    "description": []
+    "description": [
+      "Causes damage to enemies when they attack you."
+    ]
   },
   {
     "id": "uniquee:ifrits_grace",
@@ -2552,7 +2582,7 @@
   {
     "id": "tombstone:shadow_step",
     "name": "enchantment.tombstone.shadow_step.name",
-    "enabled": true,
+    "enabled": false,
     "hide_on_item": false,
     "hide_on_book": false,
     "rarity": "RARE",
@@ -2601,7 +2631,9 @@
     "applicability_mode": 0,
     "items_list_mode": 0,
     "items_list": [],
-    "description": []
+    "description": [
+      "Allows fragile blocks such as glass to be collected."
+    ]
   },
   {
     "id": "spartanweaponry:rapid_load",
@@ -2882,7 +2914,9 @@
     "applicability_mode": 0,
     "items_list_mode": 0,
     "items_list": [],
-    "description": []
+    "description": [
+      "Increases the knockback strength of arrows fired by the bow."
+    ]
   },
   {
     "id": "uniqueebattle:lunatic_despair",
@@ -2919,7 +2953,7 @@
   {
     "id": "enderio:soulbound",
     "name": "enchantment.enderio.soulbound",
-    "enabled": true,
+    "enabled": false,
     "hide_on_item": false,
     "hide_on_book": false,
     "rarity": "VERY_RARE",
@@ -2951,7 +2985,7 @@
   {
     "id": "cofhcore:multishot",
     "name": "enchantment.cofhcore.multishot",
-    "enabled": true,
+    "enabled": false,
     "hide_on_item": false,
     "hide_on_book": false,
     "rarity": "UNCOMMON",
@@ -3000,7 +3034,9 @@
     "applicability_mode": 0,
     "items_list_mode": 0,
     "items_list": [],
-    "description": []
+    "description": [
+      "Increases the damage of the item."
+    ]
   },
   {
     "id": "uniqueebattle:golem_soul",
@@ -3082,7 +3118,9 @@
     "applicability_mode": 0,
     "items_list_mode": 0,
     "items_list": [],
-    "description": []
+    "description": [
+      "Freezes water under the player into cracked ice."
+    ]
   },
   {
     "id": "uniqueeutil:reinforced",
@@ -3446,7 +3484,9 @@
     "applicability_mode": 0,
     "items_list_mode": 0,
     "items_list": [],
-    "description": []
+    "description": [
+      "Allows the bow to fire normal arrows for free. You must have at least one arrow for this to work."
+    ]
   },
   {
     "id": "minecraft:vanishing_curse",
@@ -3478,7 +3518,9 @@
     "applicability_mode": 0,
     "items_list_mode": 0,
     "items_list": [],
-    "description": []
+    "description": [
+      "Destroyes the enchanted item if you die with it in your inventory."
+    ]
   },
   {
     "id": "spartanweaponry:hydrodynamic",
@@ -3617,7 +3659,9 @@
     "applicability_mode": 0,
     "items_list_mode": 0,
     "items_list": [],
-    "description": []
+    "description": [
+      "Increases mining speed of the tool."
+    ]
   },
   {
     "id": "uniquee:sages_blessing",
@@ -3760,7 +3804,9 @@
     "applicability_mode": 0,
     "items_list_mode": 0,
     "items_list": [],
-    "description": []
+    "description": [
+      "Some blocks like coal and diamond ore may drop additional items."
+    ]
   },
   {
     "id": "uniquee:ecological",
@@ -3797,7 +3843,7 @@
   {
     "id": "enderio:witherarrow",
     "name": "enchantment.enderio.witherarrow",
-    "enabled": true,
+    "enabled": false,
     "hide_on_item": false,
     "hide_on_book": false,
     "rarity": "UNCOMMON",
@@ -3849,7 +3895,9 @@
     "applicability_mode": 0,
     "items_list_mode": 0,
     "items_list": [],
-    "description": []
+    "description": [
+      "Prevents the enchanted item from being removed from an armor slot."
+    ]
   },
   {
     "id": "cqrepoured:spectral",
@@ -3882,7 +3930,7 @@
   {
     "id": "livingenchantment:enchantment.living",
     "name": "enchantment.living",
-    "enabled": true,
+    "enabled": false,
     "hide_on_item": false,
     "hide_on_book": false,
     "rarity": "VERY_RARE",
@@ -3966,7 +4014,9 @@
     "applicability_mode": 0,
     "items_list_mode": 0,
     "items_list": [],
-    "description": []
+    "description": [
+      "Reduces damage from projectiles such as arrows and fire balls."
+    ]
   },
   {
     "id": "uniquee:ender_eyes",
@@ -4084,7 +4134,7 @@
   {
     "id": "endercore:xpboost",
     "name": "enchantment.xpboost",
-    "enabled": true,
+    "enabled": false,
     "hide_on_item": false,
     "hide_on_book": false,
     "rarity": "UNCOMMON",
@@ -4167,7 +4217,7 @@
   {
     "id": "cyclicmagic:enchantment.lifeleech",
     "name": "enchantment.lifeleech",
-    "enabled": true,
+    "enabled": false,
     "hide_on_item": false,
     "hide_on_book": false,
     "rarity": "COMMON",
@@ -4253,7 +4303,7 @@
   {
     "id": "enderio:shimmer",
     "name": "enchantment.enderio.shimmer",
-    "enabled": true,
+    "enabled": false,
     "hide_on_item": false,
     "hide_on_book": false,
     "rarity": "VERY_RARE",
@@ -4310,7 +4360,9 @@
     "applicability_mode": 0,
     "items_list_mode": 0,
     "items_list": [],
-    "description": []
+    "description": [
+      "Reduces the effects of fire damage. Also reduces the burn time when set on fire."
+    ]
   },
   {
     "id": "mod_lavacow:corrosive",
@@ -4397,7 +4449,7 @@
   {
     "id": "theaurorian:lightningresistance",
     "name": "enchantment.theaurorian.lightningresistance",
-    "enabled": true,
+    "enabled": false,
     "hide_on_item": false,
     "hide_on_book": false,
     "rarity": "RARE",
@@ -4477,7 +4529,9 @@
     "applicability_mode": 0,
     "items_list_mode": 0,
     "items_list": [],
-    "description": []
+    "description": [
+      "Causes the tool to lose durability at a slower rate."
+    ]
   },
   {
     "id": "minecraft:lure",
@@ -4504,7 +4558,9 @@
     "applicability_mode": 0,
     "items_list_mode": 0,
     "items_list": [],
-    "description": []
+    "description": [
+      "Decreases the amount of time it takes for a fish to bite the hook."
+    ]
   },
   {
     "id": "uniquee:deaths_odium",
@@ -4590,7 +4646,9 @@
     "applicability_mode": 0,
     "items_list_mode": 0,
     "items_list": [],
-    "description": []
+    "description": [
+      "Increases the damage of sweeping attacks."
+    ]
   },
   {
     "id": "uniquee:vitae",
@@ -4867,7 +4925,9 @@
     "applicability_mode": 0,
     "items_list_mode": 0,
     "items_list": [],
-    "description": []
+    "description": [
+      "Reduces damage from explosions and explosion knockback."
+    ]
   },
   {
     "id": "uniquee:endest_reap",
