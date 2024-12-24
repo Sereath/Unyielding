@@ -334,17 +334,17 @@
         "attributes": [
           {
             "name": "generic.attackDamage",
-            "amount": 0.2,
+            "amount": 0.15,
             "operation": 2
           },
           {
             "name": "generic.attackSpeed",
-            "amount": 0.2,
+            "amount": 0.15,
             "operation": 2
           },
           {
             "name": "potioncore.digSpeed",
-            "amount": 0.2,
+            "amount": 0.15,
             "operation": 2
           },
           {

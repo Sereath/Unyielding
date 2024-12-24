@@ -100,7 +100,7 @@
     },
     "damage": {
       "enabled": true,
-      "opacity": 1.0,
+      "opacity": 0.49840257,
       "damaged": {
         "disabled": false,
         "opacity": 1.0,
@@ -148,8 +148,8 @@
         }
       },
       "bloodDuration": {
-        "min": 500,
-        "max": 1500
+        "min": 400,
+        "max": 1200
       },
       "fire": {
         "disabled": false,
