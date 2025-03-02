@@ -69,8 +69,8 @@ output {
      >
     S:turbine_placement <
         magnesium_coil -> one bearing || one connector
-        beryllium_coil -> one magnesium coils
-        aluminum_coil -> two magnesium coil
+        beryllium_coil -> one magnesium coil
+        aluminum_coil -> two magnesium coils
         gold_coil -> one aluminum coil
         copper_coil -> one beryllium coil
         silver_coil -> one gold coil && one copper coil
