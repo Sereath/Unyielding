@@ -15,7 +15,7 @@ difficulty:3
 fancyGraphics:true
 ao:2
 renderClouds:false
-resourcePacks:["Unity-1.6.4-1.12.zip","Clear Glass Pack 1.11 or 1.12.zip","Techguns Re.zip","AudioCraftV1.6.zip","qt-rstation-variant.zip","Authentic Shadows_1.11-1.12.zip","LowOnFire_1.12.zip","Lycanites Redux 1.12.2-v8.1.1.zip"]
+resourcePacks:["Unity-1.6.4-1.12.zip","Clear Glass Pack 1.11 or 1.12.zip","Techguns Re.zip","AudioCraftV1.6.zip","qt-rstation-variant.zip","Authentic Shadows_1.11-1.12.zip","LowOnFire_1.12.zip","Dark Mode-2.3.1.zip","Lycanites Redux 1.12.2-v8.1.1.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -92,7 +92,6 @@ key_Toggle Slot Lock:82
 key_Take Panorama Screenshot:25:ALT
 key_keybind.baublesinventory:18:ALT
 key_arcanearchives.gui.keybinds.manifest:0
-key_quark.keybind.lockBuilding:76
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:0
 key_quark.keybind.chestSort:0
@@ -100,6 +99,7 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
+key_quark.keybind.lockBuilding:76
 key_key.conarm.toggle_helm.desc:181
 key_key.conarm.toggle_chest.desc:35
 key_key.conarm.toggle_leg.desc:0
@@ -218,7 +218,6 @@ key_key.sethorse.desc:25
 key_key.callhorse.desc:80
 key_key.showstats.desc:37
 key_key.carry.desc:42
-key_Reputation GUI:0
 key_Options Gui:23
 key_key.clienttweaks.disable_step_assist:0
 key_key.clienttweaks.hide_offhand_item:0
@@ -260,6 +259,7 @@ key_keybind.enderskills.skill_bound.dash:78
 key_keybind.enderskills.skill_bound.warp:78
 key_keybind.enderskills.skill_bound.smash:42
 key_key.mod_lavacow.special:34
+key_key.mod_lavacow.down:44
 key_FpsReducer.key.guiOpen:207
 key_FpsReducer.key.forceIdle:197
 key_Open Backpack:52
