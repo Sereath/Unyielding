@@ -246,6 +246,18 @@ recipes.removeByRecipeName("tombstone:enchanted_grave_key");
 recipes.remove(<tombstone:crafting_ingredient>);
 recipes.remove(<tombstone:crafting_ingredient:1>);
 recipes.remove(<tombstone:book_of_disenchantment>);
+recipes.remove(<tombstone:scroll_buff>);
+recipes.remove(<tombstone:scroll_buff:1>);
+recipes.remove(<tombstone:scroll_buff:2>);
+recipes.remove(<tombstone:scroll_buff:3>);
+recipes.remove(<tombstone:scroll_buff:4>);
+recipes.remove(<tombstone:scroll_buff:5>);
+recipes.remove(<tombstone:scroll_buff:6>);
+recipes.remove(<tombstone:scroll_buff:7>);
+recipes.remove(<tombstone:scroll_buff:8>);
+recipes.remove(<tombstone:book_of_magic_impregnation>);
+
+recipes.remove(<roost:catcher>);
 
 recipes.removeByRecipeName("theaurorian:items/auroriansteel");
 recipes.remove(<theaurorian:aurorianportalframebricks>);
@@ -289,7 +301,10 @@ recipes.addShaped(<minecraft:name_tag> * 2, [[<nyx:fallen_star>, <nyx:fallen_sta
 
 recipes.addShaped(<tombstone:crafting_ingredient>, [[<randomthings:ingredient:2>, <ore:stickWood>, <randomthings:ingredient:2>],[<ore:dustGrave>, <mod_lavacow:curseweave_cloth>, <ore:dustGrave>], [<randomthings:ingredient:2>, <ore:stickWood>, <randomthings:ingredient:2>]]);
 recipes.addShaped(<tombstone:crafting_ingredient:1>, [[null, <randomthings:ingredient:2>, null],[<ore:dustGrave>, <ore:graveMarble>, <ore:dustGrave>], [null, <randomthings:ingredient:2>, null]]);
-recipes.addShaped(<tombstone:book_of_disenchantment>, [[<tombstone:crafting_ingredient:3>, <randomthings:ingredient:2>, <tombstone:crafting_ingredient:3>],[<randomthings:ingredient:2>, <minecraft:book>, <randomthings:ingredient:2>], [<tombstone:crafting_ingredient:3>, <randomthings:ingredient:2>, <tombstone:crafting_ingredient:3>]]);
+recipes.addShaped(<tombstone:book_of_disenchantment>, [[<ore:dustGrave>, <randomthings:ingredient:2>, <ore:dustGrave>],[<randomthings:ingredient:2>, <minecraft:book>, <randomthings:ingredient:2>], [<ore:dustGrave>, <randomthings:ingredient:2>, <ore:dustGrave>]]);
+recipes.addShaped(<tombstone:book_of_magic_impregnation>, [[<ore:dustGrave>, <randomthings:ingredient:2>, <ore:dustGrave>],[<ore:itemWeatherCrystal>, <minecraft:book>, <ore:itemPrecientCrystal>], [<ore:dustGrave>, <randomthings:ingredient:2>, <ore:dustGrave>]]);
+
+recipes.addShaped(<roost:catcher>, [[null, <ore:itemAttractorCrystal>, null],[null, <ore:egg>, null], [<ore:feather>, <ore:stickWood>, <ore:feather>]]);
 
 //recipes.addShaped(<xat:dwarf_stout>, [[<ore:ingotGlowing>, <dungeontactics:mithril_pickaxe>, <ore:ingotGlowing>],[<minecraft:dragon_breath>, <xat:dwarf_ring>, <minecraft:dragon_breath>], [<ore:ingotGlowing>, <minecraft:rabbit_stew>, <ore:ingotGlowing>]]);
 //recipes.addShaped(<xat:dragons_eye>, [[<xat:glow_ring>, <dungeontactics:mithril_sword>, <ore:gemGlowing>],[<dungeontactics:mithril_sword>, <minecraft:skull:5>, <dungeontactics:mithril_sword>], [<ore:gemGlowing>, <dungeontactics:mithril_sword>, <ore:gemGlowing>]]);

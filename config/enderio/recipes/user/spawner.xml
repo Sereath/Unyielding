@@ -53,6 +53,15 @@
             <entity name="chickens:chickenschicken" costMultiplier="100.0" disabled="true" soulvial="false"/>
         </spawning>
     </recipe>
+    <recipe name="Spawner, Mutants" required="false">
+        <spawning>
+            <entity name="mutantbeasts:mutant_creeper" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="mutantbeasts:mutant_enderman" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="mutantbeasts:mutant_skeleton" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="mutantbeasts:mutant_snow_golem" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="mutantbeasts:mutant_zombie" costMultiplier="100.0" disabled="true" soulvial="false"/>
+        </spawning>
+    </recipe>
     <recipe name="Spawner, SRP" required="false">
         <spawning>
             <entity name="srparasites:hi_blaze" costMultiplier="100.0" disabled="true" soulvial="false"/>
