@@ -283,6 +283,8 @@ recipes.remove(<flaskoflife:flask_healing>);
 
 recipes.remove(<extendedcrafting:handheld_table>);
 
+recipes.remove(<engineersdecor:factory_placer>);
+
 recipes.remove(<iceandfire:armor_copper_metal_helmet>);
 recipes.remove(<iceandfire:armor_copper_metal_chestplate>);
 recipes.remove(<iceandfire:armor_copper_metal_leggings>);

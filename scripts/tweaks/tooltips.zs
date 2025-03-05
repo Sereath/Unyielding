@@ -269,6 +269,25 @@
 <improvedbackpacks:backpack>.addTooltip(format.darkGray("Soulbound"));
 <toolbelt:belt>.addTooltip(format.darkGray("Soulbound"));
 
+<environmentaltech:void_ore_miner_cont_1>.addTooltip(format.darkGreen("Beneath only [10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
+<environmentaltech:void_ore_miner_cont_2>.addTooltip(format.darkGreen("Beneath only [10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
+<environmentaltech:void_ore_miner_cont_3>.addTooltip(format.darkGreen("Beneath only [10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
+<environmentaltech:void_ore_miner_cont_4>.addTooltip(format.darkGreen("Beneath only [10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
+<environmentaltech:void_ore_miner_cont_5>.addTooltip(format.darkGreen("Beneath only [10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
+<environmentaltech:void_ore_miner_cont_6>.addTooltip(format.darkGreen("Beneath only [10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
+<environmentaltech:void_res_miner_cont_1>.addTooltip(format.darkGreen("Underground only [5,7,10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
+<environmentaltech:void_res_miner_cont_2>.addTooltip(format.darkGreen("Underground only [5,7,10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
+<environmentaltech:void_res_miner_cont_3>.addTooltip(format.darkGreen("Underground only [5,7,10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
+<environmentaltech:void_res_miner_cont_4>.addTooltip(format.darkGreen("Underground only [5,7,10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
+<environmentaltech:void_res_miner_cont_5>.addTooltip(format.darkGreen("Underground only [5,7,10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
+<environmentaltech:void_res_miner_cont_6>.addTooltip(format.darkGreen("Underground only [5,7,10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
+<environmentaltech:void_botanic_miner_cont_1>.addTooltip(format.darkGreen("Underground only [3,5,7,10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
+<environmentaltech:void_botanic_miner_cont_2>.addTooltip(format.darkGreen("Underground only [3,5,7,10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
+<environmentaltech:void_botanic_miner_cont_3>.addTooltip(format.darkGreen("Underground only [3,5,7,10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
+<environmentaltech:void_botanic_miner_cont_4>.addTooltip(format.darkGreen("Underground only [3,5,7,10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
+<environmentaltech:void_botanic_miner_cont_5>.addTooltip(format.darkGreen("Underground only [3,5,7,10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
+<environmentaltech:void_botanic_miner_cont_6>.addTooltip(format.darkGreen("Underground only [3,5,7,10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
+
 <flaskoflife:flask_healing>.displayName = "§bFlask of Life";
 <flaskoflife:flask_healing>.addTooltip(format.darkGreen("Replenish by crouch-right clicking on a bed or beacon"));
 
