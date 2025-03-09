@@ -1,8 +1,8 @@
 {
   "name": "shadowlabyrinth",
   "loadDefault": false,
-  "sectorCountMin": 20,
-  "sectorCountMax": 30,
+  "sectorCountMin": 10,
+  "sectorCountMax": 20,
   "corridorToCorridorChance": 0.5,
   "roomToRoomChance": 0.1,
   "conditions": [
@@ -137,13 +137,20 @@
       "dungeonBoss": true,
       "mobDrops": [
         {
-          "item": "minecraft:venomshotcharge",
-          "minAmount": 10,
-          "maxAmount": 20,
+          "item": "lycanitesmobs:venomshotcharge",
+          "minAmount": 8,
+          "maxAmount": 24,
           "amountMultiplier": false
         },
         {
           "item": "lycanitesmobs:soulstone_imp",
+          "amountMultiplier": false,
+          "bonusAmount": false
+        },
+        {
+          "item": "theaurorian:scrapumbra",
+          "minAmount": 1,
+          "maxAmount": 2,
           "amountMultiplier": false,
           "bonusAmount": false
         }
@@ -164,11 +171,19 @@
       "mobDrops": [
         {
           "item": "minecraft:diamond",
-          "minAmount": 10,
+          "minAmount": 3,
+          "maxAmount": 12,
           "amountMultiplier": false
         },
         {
           "item": "lycanitesmobs:soulstone_aberration",
+          "amountMultiplier": false,
+          "bonusAmount": false
+        },
+        {
+          "item": "theaurorian:scrapumbra",
+          "minAmount": 1,
+          "maxAmount": 2,
           "amountMultiplier": false,
           "bonusAmount": false
         }
@@ -192,7 +207,8 @@
         },
         {
           "item": "minecraft:diamond",
-          "minAmount": 50,
+          "minAmount": 3,
+          "maxAmount": 12,
           "amountMultiplier": false
         },
         {
@@ -202,6 +218,13 @@
         },
         {
           "item": "lycanitesmobs:soulstone_arthropod",
+          "amountMultiplier": false,
+          "bonusAmount": false
+        },
+        {
+          "item": "theaurorian:scrapumbra",
+          "minAmount": 1,
+          "maxAmount": 2,
           "amountMultiplier": false,
           "bonusAmount": false
         }

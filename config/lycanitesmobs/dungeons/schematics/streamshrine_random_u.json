@@ -137,6 +137,13 @@
           "item": "lycanitesmobs:soulstone_aquatic",
           "amountMultiplier": false,
           "bonusAmount": false
+        },
+        {
+          "item": "theaurorian:scrapaurorianite",
+          "minAmount": 1,
+          "maxAmount": 3,
+          "amountMultiplier": false,
+          "bonusAmount": false
         }
       ]
     },
@@ -155,11 +162,19 @@
       "mobDrops": [
         {
           "item": "minecraft:diamond",
-          "minAmount": 10,
+          "minAmount": 3,
+          "maxAmount": 12,
           "amountMultiplier": false
         },
         {
           "item": "lycanitesmobs:soulstone_aquatic",
+          "amountMultiplier": false,
+          "bonusAmount": false
+        },
+        {
+          "item": "theaurorian:scrapaurorianite",
+          "minAmount": 1,
+          "maxAmount": 3,
           "amountMultiplier": false,
           "bonusAmount": false
         }
@@ -179,11 +194,19 @@
       "mobDrops": [
         {
           "item": "minecraft:diamond",
-          "minAmount": 50,
+          "minAmount": 3,
+          "maxAmount": 12,
           "amountMultiplier": false
         },
         {
           "item": "lycanitesmobs:soulstone_aquatic",
+          "amountMultiplier": false,
+          "bonusAmount": false
+        },
+        {
+          "item": "theaurorian:scrapaurorianite",
+          "minAmount": 1,
+          "maxAmount": 3,
           "amountMultiplier": false,
           "bonusAmount": false
         }

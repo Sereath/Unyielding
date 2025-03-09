@@ -116,6 +116,13 @@
           "item": "lycanitesmobs:soulstone_demon",
           "amountMultiplier": false,
           "bonusAmount": false
+        },
+        {
+          "item": "theaurorian:scrapumbra",
+          "minAmount": 1,
+          "maxAmount": 2,
+          "amountMultiplier": false,
+          "bonusAmount": false
         }
       ]
     },
@@ -134,11 +141,19 @@
       "mobDrops": [
         {
           "item": "minecraft:diamond",
-          "minAmount": 10,
+          "minAmount": 3,
+          "maxAmount": 12,
           "amountMultiplier": false
         },
         {
           "item": "lycanitesmobs:soulstone_demon",
+          "amountMultiplier": false,
+          "bonusAmount": false
+        },
+        {
+          "item": "theaurorian:scrapumbra",
+          "minAmount": 1,
+          "maxAmount": 2,
           "amountMultiplier": false,
           "bonusAmount": false
         }
@@ -158,11 +173,19 @@
       "mobDrops": [
         {
           "item": "minecraft:diamond",
-          "minAmount": 50,
+          "minAmount": 3,
+          "maxAmount": 12,
           "amountMultiplier": false
         },
         {
           "item": "lycanitesmobs:soulstone_demon",
+          "amountMultiplier": false,
+          "bonusAmount": false
+        },
+        {
+          "item": "theaurorian:scrapumbra",
+          "minAmount": 1,
+          "maxAmount": 2,
           "amountMultiplier": false,
           "bonusAmount": false
         }
@@ -182,11 +205,19 @@
       "mobDrops": [
         {
           "item": "minecraft:diamond",
-          "minAmount": 50,
+          "minAmount": 3,
+          "maxAmount": 12,
           "amountMultiplier": false
         },
         {
           "item": "lycanitesmobs:soulstone_demon",
+          "amountMultiplier": false,
+          "bonusAmount": false
+        },
+        {
+          "item": "theaurorian:scrapumbra",
+          "minAmount": 1,
+          "maxAmount": 2,
           "amountMultiplier": false,
           "bonusAmount": false
         }

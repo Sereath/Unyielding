@@ -125,6 +125,13 @@
           "item": "lycanitesmobs:soulstone_worm",
           "amountMultiplier": false,
           "bonusAmount": false
+        },
+        {
+          "item": "theaurorian:scrapumbra",
+          "minAmount": 1,
+          "maxAmount": 2,
+          "amountMultiplier": false,
+          "bonusAmount": false
         }
       ]
     },
@@ -143,11 +150,19 @@
       "mobDrops": [
         {
           "item": "minecraft:diamond",
-          "minAmount": 10,
+          "minAmount": 3,
+          "maxAmount": 12,
           "amountMultiplier": false
         },
         {
           "item": "lycanitesmobs:soulstone_anthronian",
+          "amountMultiplier": false,
+          "bonusAmount": false
+        },
+        {
+          "item": "theaurorian:scrapumbra",
+          "minAmount": 1,
+          "maxAmount": 2,
           "amountMultiplier": false,
           "bonusAmount": false
         }
@@ -168,7 +183,8 @@
       "mobDrops": [
         {
           "item": "lycanitesmobs:embercharge",
-          "minAmount": 50,
+          "minAmount": 16,
+          "maxAmount": 48,
           "amountMultiplier": false
         },
         {
@@ -178,8 +194,16 @@
         },
         {
           "item": "minecraft:diamond",
-          "minAmount": 10,
+          "minAmount": 3,
+          "maxAmount": 12,
           "amountMultiplier": false
+        },
+        {
+          "item": "theaurorian:scrapumbra",
+          "minAmount": 1,
+          "maxAmount": 2,
+          "amountMultiplier": false,
+          "bonusAmount": false
         }
       ]
     },
@@ -197,7 +221,8 @@
       "mobDrops": [
         {
           "item": "lycanitesmobs:primeembercharge",
-          "minAmount": 50,
+          "minAmount": 16,
+          "maxAmount": 48,
           "amountMultiplier": false
         },
         {
@@ -206,11 +231,19 @@
         },
         {
           "item": "minecraft:diamond",
-          "minAmount": 50,
+          "minAmount": 3,
+          "maxAmount": 12,
           "amountMultiplier": false
         },
         {
           "item": "lycanitesmobs:soulstone_dragon",
+          "amountMultiplier": false,
+          "bonusAmount": false
+        },
+        {
+          "item": "theaurorian:scrapumbra",
+          "minAmount": 1,
+          "maxAmount": 2,
           "amountMultiplier": false,
           "bonusAmount": false
         }
