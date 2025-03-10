@@ -259,7 +259,6 @@ key_keybind.enderskills.skill_bound.dash:78
 key_keybind.enderskills.skill_bound.warp:78
 key_keybind.enderskills.skill_bound.smash:42
 key_key.mod_lavacow.special:34
-key_key.mod_lavacow.down:44
 key_FpsReducer.key.guiOpen:207
 key_FpsReducer.key.forceIdle:197
 key_Open Backpack:52
