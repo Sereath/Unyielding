@@ -7,7 +7,7 @@
 		items: [{
 			item: "compositegear:composite_heavy_chestplate"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

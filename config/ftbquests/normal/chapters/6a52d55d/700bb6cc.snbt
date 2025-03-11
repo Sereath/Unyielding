@@ -8,10 +8,10 @@
 		uid: "27d1b9d0",
 		type: "item",
 		items: [{
-			id: "srparasites:armor_boots_sentient",
-			tag: {}
+			tag: {},
+			id: "srparasites:armor_boots_sentient"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

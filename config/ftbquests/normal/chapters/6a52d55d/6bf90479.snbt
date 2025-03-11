@@ -8,10 +8,10 @@
 		uid: "92a11fe0",
 		type: "item",
 		items: [{
-			id: "srparasites:armor_pants",
-			tag: {}
+			tag: {},
+			id: "srparasites:armor_pants"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

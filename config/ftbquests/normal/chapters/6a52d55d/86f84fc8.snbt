@@ -5,10 +5,10 @@
 		uid: "589cba4e",
 		type: "item",
 		items: [{
-			id: "iceandfire:armor_copper_chestplate",
-			tag: {}
+			tag: {},
+			id: "iceandfire:armor_copper_chestplate"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

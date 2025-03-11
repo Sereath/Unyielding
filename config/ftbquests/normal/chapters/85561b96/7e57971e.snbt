@@ -7,7 +7,7 @@
 		items: [{
 			item: "xreliquary:lantern_of_paranoia"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

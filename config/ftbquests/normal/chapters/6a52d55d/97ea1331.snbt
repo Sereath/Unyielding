@@ -5,10 +5,10 @@
 		uid: "5a8cc16c",
 		type: "item",
 		items: [{
-			id: "iceandfire:armor_amythest_helmet",
-			tag: {}
+			tag: {},
+			id: "iceandfire:armor_amythest_helmet"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

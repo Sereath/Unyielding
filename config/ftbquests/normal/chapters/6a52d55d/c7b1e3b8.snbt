@@ -5,10 +5,10 @@
 		uid: "7d2ebaab",
 		type: "item",
 		items: [{
-			id: "iceandfire:armor_copper_leggings",
-			tag: {}
+			tag: {},
+			id: "iceandfire:armor_copper_leggings"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

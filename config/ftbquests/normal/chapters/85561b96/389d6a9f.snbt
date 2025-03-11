@@ -5,12 +5,12 @@
 		uid: "91f08553",
 		type: "item",
 		items: [{
-			id: "grimoireofgaia:accessory_ring_speed",
 			tag: {
 				Quality: {}
-			}
+			},
+			id: "grimoireofgaia:accessory_ring_speed"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

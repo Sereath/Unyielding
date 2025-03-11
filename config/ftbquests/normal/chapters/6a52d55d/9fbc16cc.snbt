@@ -5,12 +5,12 @@
 		uid: "6a1fdd98",
 		type: "item",
 		items: [{
-			id: "techguns:t4_praetor_helmet",
 			tag: {
 				power: 0
-			}
+			},
+			id: "techguns:t4_praetor_helmet"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

@@ -5,10 +5,10 @@
 		uid: "4f3f21f6",
 		type: "item",
 		items: [{
-			id: "iceandfire:armor_amythest_chestplate",
-			tag: {}
+			tag: {},
+			id: "iceandfire:armor_amythest_chestplate"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

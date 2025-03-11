@@ -5,10 +5,10 @@
 		uid: "4efb7b91",
 		type: "item",
 		items: [{
-			id: "iceandfire:armor_amythest_leggings",
-			tag: {}
+			tag: {},
+			id: "iceandfire:armor_amythest_leggings"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

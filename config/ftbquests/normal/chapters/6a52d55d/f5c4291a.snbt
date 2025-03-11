@@ -5,12 +5,12 @@
 		uid: "343e4388",
 		type: "item",
 		items: [{
-			id: "theaurorian:auroriansteelboots",
 			tag: {
 				Quality: {}
-			}
+			},
+			id: "theaurorian:auroriansteelboots"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

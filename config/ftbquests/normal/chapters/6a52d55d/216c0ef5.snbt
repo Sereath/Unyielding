@@ -5,12 +5,12 @@
 		uid: "4e64dd4d",
 		type: "item",
 		items: [{
-			id: "theaurorian:spectralleggings",
 			tag: {
 				Quality: {}
-			}
+			},
+			id: "theaurorian:spectralleggings"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

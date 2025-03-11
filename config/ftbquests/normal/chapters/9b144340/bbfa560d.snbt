@@ -8,19 +8,19 @@
 		uid: "18c6366b",
 		type: "item",
 		items: [{
-			id: "spartanweaponry:quiver_bolt_heavy",
-			tag: {
-				ClientInventory: [],
-				Quality: {}
-			},
 			ForgeCaps: {
 				Parent: {
 					Items: [],
 					Size: 9
 				}
-			}
+			},
+			tag: {
+				Quality: {},
+				ClientInventory: []
+			},
+			id: "spartanweaponry:quiver_bolt_heavy"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

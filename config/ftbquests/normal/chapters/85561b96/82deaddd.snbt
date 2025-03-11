@@ -5,10 +5,10 @@
 		uid: "6b3adc7c",
 		type: "item",
 		items: [{
-			id: "grimoireofgaia:accessory_trinket_water_breathing",
 			tag: {
 				Quality: {}
-			}
+			},
+			id: "grimoireofgaia:accessory_trinket_water_breathing"
 		}],
 		ignore_nbt: 1b
 	}]

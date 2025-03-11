@@ -5,12 +5,12 @@
 		uid: "96b7c2de",
 		type: "item",
 		items: [{
-			id: "improvedbackpacks:ender_backpack",
 			tag: {
 				Quality: {}
-			}
+			},
+			id: "improvedbackpacks:ender_backpack"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

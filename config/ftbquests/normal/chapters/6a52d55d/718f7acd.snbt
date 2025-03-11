@@ -8,10 +8,10 @@
 		uid: "e6245c97",
 		type: "item",
 		items: [{
-			id: "srparasites:armor_chest",
-			tag: {}
+			tag: {},
+			id: "srparasites:armor_chest"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

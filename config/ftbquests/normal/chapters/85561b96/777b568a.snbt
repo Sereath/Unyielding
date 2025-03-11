@@ -5,27 +5,27 @@
 		uid: "f2fd2a69",
 		type: "item",
 		items: [{
-			id: "cyclicmagic:glove_climb",
 			tag: {
 				Quality: {
+					Name: "quality.shielding.name",
+					Color: "blue",
 					Slots: [
 						"baubles_trinket",
 						"offhand"
 					],
-					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 6356661943184475643L,
 						UUIDLeast: -8132314946076609090L,
-						Amount: 1.0d,
-						AttributeName: "potioncore.magicShielding",
-						Operation: 0,
-						Name: "qualitytools"
-					}],
-					Name: "quality.shielding.name"
+						AttributeName: "potioncore.magicShielding"
+					}]
 				}
-			}
+			},
+			id: "cyclicmagic:glove_climb"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

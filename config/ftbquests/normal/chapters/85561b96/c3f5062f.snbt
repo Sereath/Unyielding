@@ -5,18 +5,18 @@
 		uid: "dade5912",
 		type: "item",
 		items: [{
-			id: "bountifulbaubles:ringflywheel",
-			tag: {
-				Quality: {},
-				energyAmount: 0
-			},
 			ForgeCaps: {
 				Parent: {
 					amount: 0
 				}
-			}
+			},
+			tag: {
+				energyAmount: 0,
+				Quality: {}
+			},
+			id: "bountifulbaubles:ringflywheel"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

@@ -11,10 +11,10 @@
 		uid: "35cbd6b6",
 		type: "item",
 		item: {
-			id: "openblocks:trophy",
 			tag: {
 				entity_id: "minecraft:zombie"
-			}
+			},
+			id: "openblocks:trophy"
 		}
 	},
 	{

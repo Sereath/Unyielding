@@ -5,12 +5,12 @@
 		uid: "b71c1e52",
 		type: "item",
 		items: [{
-			id: "cyclicmagic:tool_auto_torch",
 			tag: {
 				Quality: {}
-			}
+			},
+			id: "cyclicmagic:tool_auto_torch"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

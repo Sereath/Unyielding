@@ -5,12 +5,12 @@
 		uid: "92164618",
 		type: "item",
 		items: [{
-			id: "mod_lavacow:mootenheart",
 			tag: {
 				Quality: {}
-			}
+			},
+			id: "mod_lavacow:mootenheart"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

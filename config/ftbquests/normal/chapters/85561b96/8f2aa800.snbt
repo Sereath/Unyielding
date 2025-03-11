@@ -9,27 +9,27 @@
 		uid: "d679f15f",
 		type: "item",
 		items: [{
-			id: "bountifulbaubles:shieldobsidian",
 			tag: {
-				HideFlags: 2,
 				Quality: {
+					Name: "quality.heavy.name",
+					Color: "dark_gray",
 					Slots: [
 						"offhand"
 					],
-					Color: "dark_gray",
 					AttributeModifiers: [{
+						Amount: -0.10000000149011612d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 2961002255360081974L,
 						UUIDLeast: -7892683637827986682L,
-						Amount: -0.10000000149011612d,
-						AttributeName: "generic.movementSpeed",
-						Operation: 2,
-						Name: "qualitytools"
-					}],
-					Name: "quality.heavy.name"
-				}
-			}
+						AttributeName: "generic.movementSpeed"
+					}]
+				},
+				HideFlags: 2
+			},
+			id: "bountifulbaubles:shieldobsidian"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

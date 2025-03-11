@@ -8,50 +8,50 @@
 		uid: "d5807608",
 		type: "item",
 		items: [{
-			id: "spartanweaponry:quiver_arrow_heavy",
-			tag: {
-				ClientInventory: [],
-				Quality: {
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					Color: "dark_gray",
-					AttributeModifiers: [{
-						UUIDMost: -3842289921503901977L,
-						UUIDLeast: -6829640023781748830L,
-						Amount: -0.05000000074505806d,
-						AttributeName: "potioncore.digSpeed",
-						Operation: 2,
-						Name: "qualitytools"
-					},
-					{
-						UUIDMost: 5590802343294029271L,
-						UUIDLeast: -5864695109891975603L,
-						Amount: -0.05000000074505806d,
-						AttributeName: "generic.movementSpeed",
-						Operation: 2,
-						Name: "qualitytools"
-					},
-					{
-						UUIDMost: 4232093738753409469L,
-						UUIDLeast: -7331254391004961029L,
-						Amount: -0.05000000074505806d,
-						AttributeName: "generic.attackSpeed",
-						Operation: 2,
-						Name: "qualitytools"
-					}],
-					Name: "quality.clunky.name"
-				}
-			},
 			ForgeCaps: {
 				Parent: {
 					Items: [],
 					Size: 9
 				}
-			}
+			},
+			tag: {
+				Quality: {
+					Name: "quality.clunky.name",
+					Color: "dark_gray",
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					AttributeModifiers: [{
+						Amount: -0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
+						UUIDMost: -3842289921503901977L,
+						UUIDLeast: -6829640023781748830L,
+						AttributeName: "potioncore.digSpeed"
+					},
+					{
+						Amount: -0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
+						UUIDMost: 5590802343294029271L,
+						UUIDLeast: -5864695109891975603L,
+						AttributeName: "generic.movementSpeed"
+					},
+					{
+						Amount: -0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
+						UUIDMost: 4232093738753409469L,
+						UUIDLeast: -7331254391004961029L,
+						AttributeName: "generic.attackSpeed"
+					}]
+				},
+				ClientInventory: []
+			},
+			id: "spartanweaponry:quiver_arrow_heavy"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

@@ -5,12 +5,12 @@
 		uid: "5dea0800",
 		type: "item",
 		items: [{
-			id: "grimoireofgaia:accessory_ring_jump",
 			tag: {
 				Quality: {}
-			}
+			},
+			id: "grimoireofgaia:accessory_ring_jump"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

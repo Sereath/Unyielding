@@ -5,10 +5,10 @@
 		uid: "8184bf76",
 		type: "item",
 		items: [{
-			id: "iceandfire:dragonsteel_lightning_boots",
-			tag: {}
+			tag: {},
+			id: "iceandfire:dragonsteel_lightning_boots"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

@@ -5,12 +5,12 @@
 		uid: "4e3e3ef8",
 		type: "item",
 		items: [{
-			id: "theaurorian:auroriansteelchestplate",
 			tag: {
 				Quality: {}
-			}
+			},
+			id: "theaurorian:auroriansteelchestplate"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

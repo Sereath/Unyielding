@@ -5,26 +5,26 @@
 		uid: "c255213c",
 		type: "item",
 		items: [{
-			id: "theaurorian:ceruleanchestplate",
 			tag: {
 				Quality: {
+					Name: "quality.protective.name",
+					Color: "blue",
 					Slots: [
 						"chest"
 					],
-					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -8244423071458769141L,
 						UUIDLeast: -5544559631970366245L,
-						Amount: 0.5d,
-						AttributeName: "generic.armor",
-						Operation: 0,
-						Name: "qualitytools"
-					}],
-					Name: "quality.protective.name"
+						AttributeName: "generic.armor"
+					}]
 				}
-			}
+			},
+			id: "theaurorian:ceruleanchestplate"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

@@ -5,10 +5,10 @@
 		uid: "d2f38a4a",
 		type: "item",
 		items: [{
-			id: "iceandfire:armor_electric_boots",
-			tag: {}
+			tag: {},
+			id: "iceandfire:armor_electric_boots"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

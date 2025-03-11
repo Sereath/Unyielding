@@ -12,18 +12,18 @@
 		uid: "379a7515",
 		type: "item",
 		items: [{
-			id: "itemfilters:filter",
-			tag: {
-				display: {
-					Name: "Any bed"
-				}
-			},
 			ForgeCaps: {
 				Parent: {
 					id: "ore",
 					data: "bed"
 				}
-			}
+			},
+			tag: {
+				display: {
+					Name: "Any bed"
+				}
+			},
+			id: "itemfilters:filter"
 		}],
 		ignore_nbt: 1b
 	}]

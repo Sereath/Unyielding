@@ -5,49 +5,49 @@
 		uid: "a0293ce2",
 		type: "item",
 		items: [{
-			id: "xat:poison_stone",
-			tag: {
-				Quality: {},
-				"xat:Trinket": {
-					variant: 0,
-					slot: -1,
-					handler: "None",
-					exp: 0,
-					mana: 0.0f,
-					main.ability: 0b,
-					alt.ability: 0b,
-					crafter.name: "",
-					crafter.uuid: "",
-					Counters: {},
-					Elements: {
-						primary: "xat:neutral",
-						secondary: "xat:neutral"
-					}
-				}
-			},
 			ForgeCaps: {
 				"xat:trinket": {
-					Quality: {},
 					"xat:Trinket": {
 						variant: 0,
-						slot: -1,
-						handler: "None",
-						exp: 0,
-						mana: 0.0f,
-						main.ability: 0b,
-						alt.ability: 0b,
-						crafter.name: "",
-						crafter.uuid: "",
 						Counters: {},
+						alt.ability: 0b,
 						Elements: {
 							primary: "xat:neutral",
 							secondary: "xat:neutral"
-						}
-					}
+						},
+						exp: 0,
+						crafter.uuid: "",
+						crafter.name: "",
+						mana: 0.0f,
+						main.ability: 0b,
+						slot: -1,
+						handler: "None"
+					},
+					Quality: {}
 				}
-			}
+			},
+			tag: {
+				"xat:Trinket": {
+					variant: 0,
+					Counters: {},
+					alt.ability: 0b,
+					Elements: {
+						primary: "xat:neutral",
+						secondary: "xat:neutral"
+					},
+					exp: 0,
+					crafter.uuid: "",
+					crafter.name: "",
+					mana: 0.0f,
+					main.ability: 0b,
+					slot: -1,
+					handler: "None"
+				},
+				Quality: {}
+			},
+			id: "xat:poison_stone"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

@@ -27,11 +27,11 @@
 	},
 	{
 		item: {
-			id: "spartanweaponry:javelin_bronze",
 			tag: {
 				AmmoUsed: 0,
 				enchChecked: 1b
-			}
+			},
+			id: "spartanweaponry:javelin_bronze"
 		}
 	}]
 }

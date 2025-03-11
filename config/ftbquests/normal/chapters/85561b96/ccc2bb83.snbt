@@ -5,12 +5,12 @@
 		uid: "cd724904",
 		type: "item",
 		items: [{
-			id: "cyclicmagic:charm_wing",
 			tag: {
 				Quality: {}
-			}
+			},
+			id: "cyclicmagic:charm_wing"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

@@ -5,18 +5,18 @@
 		uid: "712181e1",
 		type: "item",
 		items: [{
-			id: "itemfilters:filter",
-			tag: {
-				display: {
-					Name: "Any wool"
-				}
-			},
 			ForgeCaps: {
 				Parent: {
 					id: "ore",
 					data: "wool"
 				}
-			}
+			},
+			tag: {
+				display: {
+					Name: "Any wool"
+				}
+			},
+			id: "itemfilters:filter"
 		}]
 	}]
 }

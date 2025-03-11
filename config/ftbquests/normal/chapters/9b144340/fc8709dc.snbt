@@ -5,10 +5,10 @@
 		uid: "f4475f89",
 		type: "item",
 		items: [{
-			id: "cyclicmagic:storage_bag",
-			tag: {}
+			tag: {},
+			id: "cyclicmagic:storage_bag"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

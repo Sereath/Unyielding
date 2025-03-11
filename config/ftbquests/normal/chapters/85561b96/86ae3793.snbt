@@ -5,12 +5,12 @@
 		uid: "45b772bc",
 		type: "item",
 		items: [{
-			id: "cyclicmagic:charm_water",
 			tag: {
 				Quality: {}
-			}
+			},
+			id: "cyclicmagic:charm_water"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

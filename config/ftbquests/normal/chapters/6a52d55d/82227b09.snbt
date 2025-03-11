@@ -5,12 +5,12 @@
 		uid: "eefe4372",
 		type: "item",
 		items: [{
-			id: "techguns:t3_miner_boots",
 			tag: {
 				power: 0
-			}
+			},
+			id: "techguns:t3_miner_boots"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

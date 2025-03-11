@@ -5,10 +5,10 @@
 		uid: "6ab68952",
 		type: "item",
 		items: [{
-			id: "iceandfire:armor_copper_boots",
-			tag: {}
+			tag: {},
+			id: "iceandfire:armor_copper_boots"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

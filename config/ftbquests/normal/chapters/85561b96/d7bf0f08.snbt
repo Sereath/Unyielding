@@ -5,12 +5,12 @@
 		uid: "5badbb50",
 		type: "item",
 		items: [{
-			id: "grimoireofgaia:accessory_trinket_poison",
 			tag: {
 				Quality: {}
-			}
+			},
+			id: "grimoireofgaia:accessory_trinket_poison"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

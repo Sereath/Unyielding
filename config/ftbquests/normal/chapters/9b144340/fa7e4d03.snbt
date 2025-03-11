@@ -8,50 +8,50 @@
 		uid: "1a417563",
 		type: "item",
 		items: [{
-			id: "spartanweaponry:quiver_arrow_moderate",
-			tag: {
-				ClientInventory: [],
-				Quality: {
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					Color: "light_purple",
-					AttributeModifiers: [{
-						UUIDMost: -403999294513525733L,
-						UUIDLeast: -5117634773866079709L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.projectileDamage",
-						Operation: 2,
-						Name: "qualitytools"
-					},
-					{
-						UUIDMost: -6548348725318103258L,
-						UUIDLeast: -9112608322736566202L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "generic.attackDamage",
-						Operation: 2,
-						Name: "qualitytools"
-					},
-					{
-						UUIDMost: 2760216058094502692L,
-						UUIDLeast: -5382339574459010923L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.magicDamage",
-						Operation: 2,
-						Name: "qualitytools"
-					}],
-					Name: "quality.punishing.name"
-				}
-			},
 			ForgeCaps: {
 				Parent: {
 					Items: [],
 					Size: 6
 				}
-			}
+			},
+			tag: {
+				Quality: {
+					Name: "quality.punishing.name",
+					Color: "light_purple",
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					AttributeModifiers: [{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
+						UUIDMost: -403999294513525733L,
+						UUIDLeast: -5117634773866079709L,
+						AttributeName: "potioncore.projectileDamage"
+					},
+					{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
+						UUIDMost: -6548348725318103258L,
+						UUIDLeast: -9112608322736566202L,
+						AttributeName: "generic.attackDamage"
+					},
+					{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
+						UUIDMost: 2760216058094502692L,
+						UUIDLeast: -5382339574459010923L,
+						AttributeName: "potioncore.magicDamage"
+					}]
+				},
+				ClientInventory: []
+			},
+			id: "spartanweaponry:quiver_arrow_moderate"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

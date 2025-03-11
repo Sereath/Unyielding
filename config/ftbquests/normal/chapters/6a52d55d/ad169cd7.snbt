@@ -5,10 +5,10 @@
 		uid: "4dcf0603",
 		type: "item",
 		items: [{
-			id: "iceandfire:armor_black_boots",
-			tag: {}
+			tag: {},
+			id: "iceandfire:armor_black_boots"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

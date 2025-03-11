@@ -4,369 +4,7 @@
 	rewards: [{
 		title: "Building",
 		item: {
-			id: "improvedbackpacks:backpack",
 			tag: {
-				Items: [{
-					Slot: 0b,
-					id: "chisel:chisel_diamond",
-					Count: 1b,
-					Damage: 0s,
-					tag: {
-						chiseldata: {}
-					}
-				},
-				{
-					Slot: 1b,
-					id: "betterbuilderswands:wanddiamond",
-					Count: 1b,
-					Damage: 0s
-				},
-				{
-					Slot: 2b,
-					id: "inspirations:photometer",
-					Count: 1b,
-					Damage: 0s
-				},
-				{
-					Slot: 3b,
-					id: "mysticalworld:charred_log",
-					Count: 32b,
-					Damage: 0s
-				},
-				{
-					Slot: 4b,
-					id: "mysticalworld:mud_block",
-					Count: 32b,
-					Damage: 0s
-				},
-				{
-					Slot: 5b,
-					id: "mysticalworld:mud_brick",
-					Count: 32b,
-					Damage: 0s
-				},
-				{
-					Slot: 6b,
-					id: "mysticalworld:thatch",
-					Count: 32b,
-					Damage: 0s
-				},
-				{
-					Slot: 7b,
-					id: "rustic:lantern_wood",
-					Count: 4b,
-					Damage: 0s
-				},
-				{
-					Slot: 8b,
-					id: "cathedral:extras_block_stone",
-					Count: 32b,
-					Damage: 0s
-				},
-				{
-					Slot: 9b,
-					id: "minecraft:cobblestone",
-					Count: 32b,
-					Damage: 0s
-				},
-				{
-					Slot: 10b,
-					id: "chisel:cobblestone",
-					Count: 32b,
-					Damage: 1s
-				},
-				{
-					Slot: 11b,
-					id: "chisel:cobblestonemossy",
-					Count: 32b,
-					Damage: 1s
-				},
-				{
-					Slot: 12b,
-					id: "cathedral:roofing_block_natural",
-					Count: 32b,
-					Damage: 0s
-				},
-				{
-					Slot: 13b,
-					id: "cathedral:basalt_block_checkered",
-					Count: 8b,
-					Damage: 0s
-				},
-				{
-					Slot: 14b,
-					id: "chisel:hardenedclay1",
-					Count: 32b,
-					Damage: 8s
-				},
-				{
-					Slot: 15b,
-					id: "chisel:granite",
-					Count: 32b,
-					Damage: 2s
-				},
-				{
-					Slot: 16b,
-					id: "chisel:bricks",
-					Count: 32b,
-					Damage: 9s
-				},
-				{
-					Slot: 17b,
-					id: "cathedral:cathedral_gargoyle_demon_stone",
-					Count: 2b,
-					Damage: 0s
-				},
-				{
-					Slot: 18b,
-					id: "chisel:sandstoneyellow2",
-					Count: 32b,
-					Damage: 0s
-				},
-				{
-					Slot: 19b,
-					id: "mcwfences:oak_picket_fence",
-					Count: 8b,
-					Damage: 0s
-				},
-				{
-					Slot: 20b,
-					id: "mcwfences:oak_stockade_fence",
-					Count: 8b,
-					Damage: 0s
-				},
-				{
-					Slot: 21b,
-					id: "mcwfences:oak_horse_fence",
-					Count: 8b,
-					Damage: 0s
-				},
-				{
-					Slot: 22b,
-					id: "mcwfences:oak_wired_fence",
-					Count: 4b,
-					Damage: 0s
-				},
-				{
-					Slot: 23b,
-					id: "mcwfences:oak_highley_gate",
-					Count: 2b,
-					Damage: 0s
-				},
-				{
-					Slot: 24b,
-					id: "minecraft:glass",
-					Count: 32b,
-					Damage: 0s
-				},
-				{
-					Slot: 25b,
-					id: "minecraft:iron_bars",
-					Count: 16b,
-					Damage: 0s
-				},
-				{
-					Slot: 26b,
-					id: "minecraft:log",
-					Count: 32b,
-					Damage: 0s
-				},
-				{
-					Slot: 27b,
-					id: "inspirations:rope",
-					Count: 32b,
-					Damage: 0s
-				},
-				{
-					Slot: 28b,
-					id: "inspirations:rope",
-					Count: 8b,
-					Damage: 1s
-				},
-				{
-					Slot: 29b,
-					id: "inspirations:rope",
-					Count: 32b,
-					Damage: 2s
-				},
-				{
-					Slot: 30b,
-					id: "inspirations:bookshelf",
-					Count: 2b,
-					Damage: 0s,
-					tag: {
-						texture: {
-							id: "minecraft:wooden_slab",
-							Count: 1b,
-							Damage: 0s
-						}
-					}
-				},
-				{
-					Slot: 31b,
-					id: "inspirations:bookshelf",
-					Count: 1b,
-					Damage: 2s,
-					tag: {
-						texture: {
-							id: "minecraft:wooden_slab",
-							Count: 1b,
-							Damage: 0s
-						}
-					}
-				},
-				{
-					Slot: 32b,
-					id: "inspirations:bookshelf",
-					Count: 1b,
-					Damage: 3s,
-					tag: {
-						texture: {
-							id: "minecraft:wooden_slab",
-							Count: 1b,
-							Damage: 0s
-						}
-					}
-				},
-				{
-					Slot: 33b,
-					id: "charm:crate",
-					Count: 1b,
-					Damage: 0s
-				},
-				{
-					Slot: 34b,
-					id: "charm:crate",
-					Count: 1b,
-					Damage: 0s
-				},
-				{
-					Slot: 35b,
-					id: "charm:barrel",
-					Count: 4b,
-					Damage: 0s
-				},
-				{
-					Slot: 36b,
-					id: "mcwbridges:oak_log_bridge_end",
-					Count: 2b,
-					Damage: 0s
-				},
-				{
-					Slot: 37b,
-					id: "mcwbridges:oak_log_bridge_middle",
-					Count: 8b,
-					Damage: 0s
-				},
-				{
-					Slot: 38b,
-					id: "cathedral:cathedral_chain_various",
-					Count: 8b,
-					Damage: 0s
-				},
-				{
-					Slot: 39b,
-					id: "cathedral:deckprism",
-					Count: 1b,
-					Damage: 9s
-				},
-				{
-					Slot: 40b,
-					id: "cathedral:cathedral_glass_stained",
-					Count: 4b,
-					Damage: 0s
-				},
-				{
-					Slot: 41b,
-					id: "waystones:waystone",
-					Count: 1b,
-					Damage: 0s
-				},
-				{
-					Slot: 42b,
-					id: "quark:candle",
-					Count: 4b,
-					Damage: 0s
-				},
-				{
-					Slot: 43b,
-					id: "rustic:candle",
-					Count: 4b,
-					Damage: 0s
-				},
-				{
-					Slot: 44b,
-					id: "rustic:iron_lantern",
-					Count: 4b,
-					Damage: 0s
-				},
-				{
-					Slot: 45b,
-					id: "mcwbridges:rope_oak_bridge_end",
-					Count: 4b,
-					Damage: 0s
-				},
-				{
-					Slot: 46b,
-					id: "mcwbridges:rope_oak_bridge",
-					Count: 16b,
-					Damage: 0s
-				},
-				{
-					Slot: 47b,
-					id: "hotornot:mitts",
-					Count: 1b,
-					Damage: 0s
-				},
-				{
-					Slot: 48b,
-					id: "mocreatures:hidehelmet",
-					Count: 1b,
-					Damage: 0s,
-					tag: {}
-				},
-				{
-					Slot: 49b,
-					id: "mocreatures:hidechest",
-					Count: 1b,
-					Damage: 0s,
-					tag: {}
-				},
-				{
-					Slot: 50b,
-					id: "mocreatures:hidelegs",
-					Count: 1b,
-					Damage: 0s,
-					tag: {}
-				},
-				{
-					Slot: 51b,
-					id: "mocreatures:hideboots",
-					Count: 1b,
-					Damage: 0s,
-					tag: {}
-				},
-				{
-					Slot: 52b,
-					id: "rustic:chandelier",
-					Count: 1b,
-					Damage: 0s
-				},
-				{
-					Slot: 53b,
-					id: "inspirations:path",
-					Count: 32b,
-					Damage: 0s
-				}],
-				UUIDMost: -3100907668173602536L,
-				UUIDLeast: -5171812116412860395L,
-				display: {
-					Name: "Building Backpack"
-				},
-				Color: 13,
-				baubleModifier: "warding",
-				reforgeCost: 288,
-				Tier: 4,
 				Quality: {
 					Name: "quality.thick.name",
 					Color: "yellow",
@@ -375,152 +13,390 @@
 					],
 					AttributeModifiers: [{
 						Name: "qualitytools",
-						Amount: -0.05000000074505806d,
+						AttributeName: "generic.movementSpeed",
 						Operation: 2,
 						UUIDMost: -1457294920006417331L,
 						UUIDLeast: -9159228039970784675L,
-						AttributeName: "generic.movementSpeed"
+						Amount: -0.05000000074505806d
 					},
 					{
 						Name: "qualitytools",
-						Amount: 0.5d,
+						AttributeName: "generic.armor",
 						Operation: 0,
 						UUIDMost: 2785336412252292865L,
 						UUIDLeast: -8455524951358558384L,
-						AttributeName: "generic.armor"
+						Amount: 0.5d
 					}]
-				}
-			}
+				},
+				baubleModifier: "warding",
+				UUIDMost: -3100907668173602536L,
+				UUIDLeast: -5171812116412860395L,
+				reforgeCost: 288,
+				Items: [{
+					Slot: 0b,
+					tag: {
+						chiseldata: {}
+					},
+					Damage: 0s,
+					Count: 1b,
+					id: "chisel:chisel_diamond"
+				},
+				{
+					Slot: 1b,
+					Damage: 0s,
+					Count: 1b,
+					id: "betterbuilderswands:wanddiamond"
+				},
+				{
+					Slot: 2b,
+					Damage: 0s,
+					Count: 1b,
+					id: "inspirations:photometer"
+				},
+				{
+					Slot: 3b,
+					Damage: 0s,
+					Count: 32b,
+					id: "mysticalworld:charred_log"
+				},
+				{
+					Slot: 4b,
+					Damage: 0s,
+					Count: 32b,
+					id: "mysticalworld:mud_block"
+				},
+				{
+					Slot: 5b,
+					Damage: 0s,
+					Count: 32b,
+					id: "mysticalworld:mud_brick"
+				},
+				{
+					Slot: 6b,
+					Damage: 0s,
+					Count: 32b,
+					id: "mysticalworld:thatch"
+				},
+				{
+					Slot: 7b,
+					Damage: 0s,
+					Count: 4b,
+					id: "rustic:lantern_wood"
+				},
+				{
+					Slot: 8b,
+					Damage: 0s,
+					Count: 32b,
+					id: "cathedral:extras_block_stone"
+				},
+				{
+					Slot: 9b,
+					Damage: 0s,
+					Count: 32b,
+					id: "minecraft:cobblestone"
+				},
+				{
+					Slot: 10b,
+					Damage: 1s,
+					Count: 32b,
+					id: "chisel:cobblestone"
+				},
+				{
+					Slot: 11b,
+					Damage: 1s,
+					Count: 32b,
+					id: "chisel:cobblestonemossy"
+				},
+				{
+					Slot: 12b,
+					Damage: 0s,
+					Count: 32b,
+					id: "cathedral:roofing_block_natural"
+				},
+				{
+					Slot: 13b,
+					Damage: 0s,
+					Count: 8b,
+					id: "cathedral:basalt_block_checkered"
+				},
+				{
+					Slot: 14b,
+					Damage: 8s,
+					Count: 32b,
+					id: "chisel:hardenedclay1"
+				},
+				{
+					Slot: 15b,
+					Damage: 2s,
+					Count: 32b,
+					id: "chisel:granite"
+				},
+				{
+					Slot: 16b,
+					Damage: 9s,
+					Count: 32b,
+					id: "chisel:bricks"
+				},
+				{
+					Slot: 17b,
+					Damage: 0s,
+					Count: 2b,
+					id: "cathedral:cathedral_gargoyle_demon_stone"
+				},
+				{
+					Slot: 18b,
+					Damage: 0s,
+					Count: 32b,
+					id: "chisel:sandstoneyellow2"
+				},
+				{
+					Slot: 19b,
+					Damage: 0s,
+					Count: 8b,
+					id: "mcwfences:oak_picket_fence"
+				},
+				{
+					Slot: 20b,
+					Damage: 0s,
+					Count: 8b,
+					id: "mcwfences:oak_stockade_fence"
+				},
+				{
+					Slot: 21b,
+					Damage: 0s,
+					Count: 8b,
+					id: "mcwfences:oak_horse_fence"
+				},
+				{
+					Slot: 22b,
+					Damage: 0s,
+					Count: 4b,
+					id: "mcwfences:oak_wired_fence"
+				},
+				{
+					Slot: 23b,
+					Damage: 0s,
+					Count: 2b,
+					id: "mcwfences:oak_highley_gate"
+				},
+				{
+					Slot: 24b,
+					Damage: 0s,
+					Count: 32b,
+					id: "minecraft:glass"
+				},
+				{
+					Slot: 25b,
+					Damage: 0s,
+					Count: 16b,
+					id: "minecraft:iron_bars"
+				},
+				{
+					Slot: 26b,
+					Damage: 0s,
+					Count: 32b,
+					id: "minecraft:log"
+				},
+				{
+					Slot: 27b,
+					Damage: 0s,
+					Count: 32b,
+					id: "inspirations:rope"
+				},
+				{
+					Slot: 28b,
+					Damage: 1s,
+					Count: 8b,
+					id: "inspirations:rope"
+				},
+				{
+					Slot: 29b,
+					Damage: 2s,
+					Count: 32b,
+					id: "inspirations:rope"
+				},
+				{
+					Slot: 30b,
+					tag: {
+						texture: {
+							Damage: 0s,
+							Count: 1b,
+							id: "minecraft:wooden_slab"
+						}
+					},
+					Damage: 0s,
+					Count: 2b,
+					id: "inspirations:bookshelf"
+				},
+				{
+					Slot: 31b,
+					tag: {
+						texture: {
+							Damage: 0s,
+							Count: 1b,
+							id: "minecraft:wooden_slab"
+						}
+					},
+					Damage: 2s,
+					Count: 1b,
+					id: "inspirations:bookshelf"
+				},
+				{
+					Slot: 32b,
+					tag: {
+						texture: {
+							Damage: 0s,
+							Count: 1b,
+							id: "minecraft:wooden_slab"
+						}
+					},
+					Damage: 3s,
+					Count: 1b,
+					id: "inspirations:bookshelf"
+				},
+				{
+					Slot: 33b,
+					Damage: 0s,
+					Count: 1b,
+					id: "charm:crate"
+				},
+				{
+					Slot: 34b,
+					Damage: 0s,
+					Count: 1b,
+					id: "charm:crate"
+				},
+				{
+					Slot: 35b,
+					Damage: 0s,
+					Count: 4b,
+					id: "charm:barrel"
+				},
+				{
+					Slot: 36b,
+					Damage: 0s,
+					Count: 2b,
+					id: "mcwbridges:oak_log_bridge_end"
+				},
+				{
+					Slot: 37b,
+					Damage: 0s,
+					Count: 8b,
+					id: "mcwbridges:oak_log_bridge_middle"
+				},
+				{
+					Slot: 38b,
+					Damage: 0s,
+					Count: 8b,
+					id: "cathedral:cathedral_chain_various"
+				},
+				{
+					Slot: 39b,
+					Damage: 9s,
+					Count: 1b,
+					id: "cathedral:deckprism"
+				},
+				{
+					Slot: 40b,
+					Damage: 0s,
+					Count: 4b,
+					id: "cathedral:cathedral_glass_stained"
+				},
+				{
+					Slot: 41b,
+					Damage: 0s,
+					Count: 1b,
+					id: "waystones:waystone"
+				},
+				{
+					Slot: 42b,
+					Damage: 0s,
+					Count: 4b,
+					id: "quark:candle"
+				},
+				{
+					Slot: 43b,
+					Damage: 0s,
+					Count: 4b,
+					id: "rustic:candle"
+				},
+				{
+					Slot: 44b,
+					Damage: 0s,
+					Count: 4b,
+					id: "rustic:iron_lantern"
+				},
+				{
+					Slot: 45b,
+					Damage: 0s,
+					Count: 4b,
+					id: "mcwbridges:rope_oak_bridge_end"
+				},
+				{
+					Slot: 46b,
+					Damage: 0s,
+					Count: 16b,
+					id: "mcwbridges:rope_oak_bridge"
+				},
+				{
+					Slot: 47b,
+					Damage: 0s,
+					Count: 1b,
+					id: "hotornot:mitts"
+				},
+				{
+					Slot: 48b,
+					tag: {},
+					Damage: 0s,
+					Count: 1b,
+					id: "mocreatures:hidehelmet"
+				},
+				{
+					Slot: 49b,
+					tag: {},
+					Damage: 0s,
+					Count: 1b,
+					id: "mocreatures:hidechest"
+				},
+				{
+					Slot: 50b,
+					tag: {},
+					Damage: 0s,
+					Count: 1b,
+					id: "mocreatures:hidelegs"
+				},
+				{
+					Slot: 51b,
+					tag: {},
+					Damage: 0s,
+					Count: 1b,
+					id: "mocreatures:hideboots"
+				},
+				{
+					Slot: 52b,
+					Damage: 0s,
+					Count: 1b,
+					id: "rustic:chandelier"
+				},
+				{
+					Slot: 53b,
+					Damage: 0s,
+					Count: 32b,
+					id: "inspirations:path"
+				}],
+				Color: 13,
+				display: {
+					Name: "Building Backpack"
+				},
+				Tier: 4
+			},
+			id: "improvedbackpacks:backpack"
 		}
 	},
 	{
 		title: "Combat",
 		item: {
-			id: "improvedbackpacks:backpack",
 			tag: {
-				Items: [{
-					Slot: 0b,
-					id: "cqrepoured:potion_healing",
-					Count: 8b,
-					Damage: 0s
-				},
-				{
-					Slot: 1b,
-					id: "minecraft:arrow",
-					Count: 64b,
-					Damage: 0s
-				},
-				{
-					Slot: 2b,
-					id: "inspirations:north_compass",
-					Count: 1b,
-					Damage: 0s
-				},
-				{
-					Slot: 3b,
-					id: "minecraft:chainmail_helmet",
-					Count: 1b,
-					Damage: 0s,
-					tag: {}
-				},
-				{
-					Slot: 4b,
-					id: "minecraft:chainmail_chestplate",
-					Count: 1b,
-					Damage: 0s,
-					tag: {}
-				},
-				{
-					Slot: 5b,
-					id: "minecraft:chainmail_leggings",
-					Count: 1b,
-					Damage: 0s,
-					tag: {}
-				},
-				{
-					Slot: 6b,
-					id: "minecraft:chainmail_boots",
-					Count: 1b,
-					Damage: 0s,
-					tag: {}
-				},
-				{
-					Slot: 7b,
-					id: "minecraft:bread",
-					Count: 2b,
-					Damage: 0s
-				},
-				{
-					Slot: 8b,
-					id: "tconstruct:edible",
-					Count: 2b,
-					Damage: 10s
-				},
-				{
-					Slot: 9b,
-					id: "grimoireofgaia:misc_book",
-					Count: 1b,
-					Damage: 0s
-				},
-				{
-					Slot: 10b,
-					id: "minecraft:leather_helmet",
-					Count: 1b,
-					Damage: 0s,
-					tag: {}
-				},
-				{
-					Slot: 11b,
-					id: "minecraft:leather_chestplate",
-					Count: 1b,
-					Damage: 0s,
-					tag: {}
-				},
-				{
-					Slot: 12b,
-					id: "minecraft:leather_leggings",
-					Count: 1b,
-					Damage: 0s,
-					tag: {}
-				},
-				{
-					Slot: 13b,
-					id: "minecraft:leather_boots",
-					Count: 1b,
-					Damage: 0s,
-					tag: {}
-				},
-				{
-					Slot: 14b,
-					id: "minecraft:bone",
-					Count: 8b,
-					Damage: 0s
-				},
-				{
-					Slot: 15b,
-					id: "doggytalents:training_treat",
-					Count: 2b,
-					Damage: 0s
-				},
-				{
-					Slot: 16b,
-					id: "minecraft:stick",
-					Count: 1b,
-					Damage: 0s
-				},
-				{
-					Slot: 17b,
-					id: "tconstruct:edible",
-					Count: 2b,
-					Damage: 14s
-				}],
-				UUIDMost: -7230480531148356099L,
-				UUIDLeast: -5286720827925914298L,
-				display: {
-					Name: "Combat Backpack"
-				},
-				Color: 1,
-				baubleModifier: "fleeting",
 				Quality: {
 					Name: "quality.solid.name",
 					Color: "blue",
@@ -529,249 +405,144 @@
 					],
 					AttributeModifiers: [{
 						Name: "qualitytools",
-						Amount: 0.5d,
+						AttributeName: "generic.knockbackResistance",
 						Operation: 0,
 						UUIDMost: 8170860394902277481L,
 						UUIDLeast: -8214145363609434913L,
-						AttributeName: "generic.knockbackResistance"
+						Amount: 0.5d
 					}]
+				},
+				UUIDMost: -7230480531148356099L,
+				UUIDLeast: -5286720827925914298L,
+				baubleModifier: "fleeting",
+				Items: [{
+					Slot: 0b,
+					Damage: 0s,
+					Count: 8b,
+					id: "cqrepoured:potion_healing"
+				},
+				{
+					Slot: 1b,
+					Damage: 0s,
+					Count: 64b,
+					id: "minecraft:arrow"
+				},
+				{
+					Slot: 2b,
+					Damage: 0s,
+					Count: 1b,
+					id: "inspirations:north_compass"
+				},
+				{
+					Slot: 3b,
+					tag: {},
+					Damage: 0s,
+					Count: 1b,
+					id: "minecraft:chainmail_helmet"
+				},
+				{
+					Slot: 4b,
+					tag: {},
+					Damage: 0s,
+					Count: 1b,
+					id: "minecraft:chainmail_chestplate"
+				},
+				{
+					Slot: 5b,
+					tag: {},
+					Damage: 0s,
+					Count: 1b,
+					id: "minecraft:chainmail_leggings"
+				},
+				{
+					Slot: 6b,
+					tag: {},
+					Damage: 0s,
+					Count: 1b,
+					id: "minecraft:chainmail_boots"
+				},
+				{
+					Slot: 7b,
+					Damage: 0s,
+					Count: 2b,
+					id: "minecraft:bread"
+				},
+				{
+					Slot: 8b,
+					Damage: 10s,
+					Count: 2b,
+					id: "tconstruct:edible"
+				},
+				{
+					Slot: 9b,
+					Damage: 0s,
+					Count: 1b,
+					id: "grimoireofgaia:misc_book"
+				},
+				{
+					Slot: 10b,
+					tag: {},
+					Damage: 0s,
+					Count: 1b,
+					id: "minecraft:leather_helmet"
+				},
+				{
+					Slot: 11b,
+					tag: {},
+					Damage: 0s,
+					Count: 1b,
+					id: "minecraft:leather_chestplate"
+				},
+				{
+					Slot: 12b,
+					tag: {},
+					Damage: 0s,
+					Count: 1b,
+					id: "minecraft:leather_leggings"
+				},
+				{
+					Slot: 13b,
+					tag: {},
+					Damage: 0s,
+					Count: 1b,
+					id: "minecraft:leather_boots"
+				},
+				{
+					Slot: 14b,
+					Damage: 0s,
+					Count: 8b,
+					id: "minecraft:bone"
+				},
+				{
+					Slot: 15b,
+					Damage: 0s,
+					Count: 2b,
+					id: "doggytalents:training_treat"
+				},
+				{
+					Slot: 16b,
+					Damage: 0s,
+					Count: 1b,
+					id: "minecraft:stick"
+				},
+				{
+					Slot: 17b,
+					Damage: 14s,
+					Count: 2b,
+					id: "tconstruct:edible"
+				}],
+				Color: 1,
+				display: {
+					Name: "Combat Backpack"
 				}
-			}
+			},
+			id: "improvedbackpacks:backpack"
 		}
 	},
 	{
 		title: "Support",
 		item: {
-			id: "improvedbackpacks:backpack",
 			tag: {
-				Items: [{
-					Slot: 0b,
-					id: "minecraft:splash_potion",
-					Count: 8b,
-					Damage: 0s,
-					tag: {
-						Potion: "minecraft:long_night_vision"
-					}
-				},
-				{
-					Slot: 1b,
-					id: "extraalchemy:breakable_potion",
-					Count: 8b,
-					Damage: 0s,
-					tag: {
-						Potion: "cofhcore:regeneration2+",
-						CustomPotionEffects: [{
-							Id: 10,
-							Amplifier: 1b,
-							Duration: 600,
-							Ambient: 0b,
-							ShowParticles: 1b,
-							CurativeItems: [{
-								id: "minecraft:milk_bucket",
-								Count: 1b,
-								Damage: 0s
-							}],
-							Incurable: 0b
-						}]
-					}
-				},
-				{
-					Slot: 2b,
-					id: "extraalchemy:breakable_potion",
-					Count: 8b,
-					Damage: 0s,
-					tag: {
-						Potion: "cofhcore:absorption2+",
-						CustomPotionEffects: [{
-							Id: 22,
-							Amplifier: 1b,
-							Duration: 3200,
-							Ambient: 0b,
-							ShowParticles: 1b,
-							CurativeItems: [{
-								id: "minecraft:milk_bucket",
-								Count: 1b,
-								Damage: 0s
-							}],
-							Incurable: 0b
-						}]
-					}
-				},
-				{
-					Slot: 3b,
-					id: "xreliquary:potion",
-					Count: 8b,
-					Damage: 0s,
-					tag: {
-						effects: [{
-							name: "minecraft:regeneration",
-							duration: 750,
-							potency: 1
-						}],
-						hasPotion: 1b,
-						lingering: 1b
-					}
-				},
-				{
-					Slot: 4b,
-					id: "xreliquary:potion",
-					Count: 8b,
-					Damage: 0s,
-					tag: {
-						effects: [{
-							name: "minecraft:health_boost",
-							duration: 2250,
-							potency: 1
-						}],
-						hasPotion: 1b,
-						lingering: 1b
-					}
-				},
-				{
-					Slot: 5b,
-					id: "minecraft:lingering_potion",
-					Count: 8b,
-					Damage: 0s,
-					tag: {
-						Potion: "potioncore:solid_core"
-					}
-				},
-				{
-					Slot: 6b,
-					id: "extraalchemy:breakable_potion",
-					Count: 4b,
-					Damage: 0s,
-					tag: {
-						Potion: "oe:turtle_master_strong",
-						CustomPotionEffects: [{
-							Id: 11,
-							Amplifier: 5b,
-							Duration: 400,
-							Ambient: 0b,
-							ShowParticles: 1b,
-							CurativeItems: [{
-								id: "minecraft:milk_bucket",
-								Count: 1b,
-								Damage: 0s
-							}],
-							Incurable: 0b
-						},
-						{
-							Id: 2,
-							Amplifier: 5b,
-							Duration: 400,
-							Ambient: 0b,
-							ShowParticles: 1b,
-							CurativeItems: [{
-								id: "minecraft:milk_bucket",
-								Count: 1b,
-								Damage: 0s
-							}],
-							Incurable: 0b
-						}]
-					}
-				},
-				{
-					Slot: 7b,
-					id: "minecraft:splash_potion",
-					Count: 4b,
-					Damage: 0s,
-					tag: {
-						Potion: "potioncore:strong_revival"
-					}
-				},
-				{
-					Slot: 8b,
-					id: "xreliquary:angelheart_vial",
-					Count: 2b,
-					Damage: 0s
-				},
-				{
-					Slot: 9b,
-					id: "xreliquary:potion",
-					Count: 8b,
-					Damage: 0s,
-					tag: {
-						effects: [{
-							name: "minecraft:resistance",
-							duration: 1750,
-							potency: 0
-						}],
-						hasPotion: 1b,
-						lingering: 1b
-					}
-				},
-				{
-					Slot: 10b,
-					id: "xreliquary:potion",
-					Count: 4b,
-					Damage: 0s,
-					tag: {
-						effects: [{
-							name: "minecraft:resistance",
-							duration: 2250,
-							potency: 1
-						}],
-						hasPotion: 1b,
-						lingering: 1b
-					}
-				},
-				{
-					Slot: 11b,
-					id: "mocreatures:furhelmet",
-					Count: 1b,
-					Damage: 0s,
-					tag: {}
-				},
-				{
-					Slot: 12b,
-					id: "mocreatures:furchest",
-					Count: 1b,
-					Damage: 0s,
-					tag: {}
-				},
-				{
-					Slot: 13b,
-					id: "mocreatures:furlegs",
-					Count: 1b,
-					Damage: 0s,
-					tag: {}
-				},
-				{
-					Slot: 14b,
-					id: "mocreatures:furboots",
-					Count: 1b,
-					Damage: 0s,
-					tag: {}
-				},
-				{
-					Slot: 15b,
-					id: "inspirations:bone_crook",
-					Count: 1b,
-					Damage: 0s
-				},
-				{
-					Slot: 16b,
-					id: "inspirations:barometer",
-					Count: 1b,
-					Damage: 0s
-				},
-				{
-					Slot: 17b,
-					id: "minecraft:lingering_potion",
-					Count: 2b,
-					Damage: 0s,
-					tag: {
-						Potion: "oe:turtle_master"
-					}
-				}],
-				UUIDMost: -5237134380357824907L,
-				UUIDLeast: -7923026865997064346L,
-				Color: 14,
-				baubleModifier: "hearty",
-				display: {
-					Name: "Support Backpack"
-				},
 				Quality: {
 					Name: "quality.protective.name",
 					Color: "blue",
@@ -780,14 +551,243 @@
 					],
 					AttributeModifiers: [{
 						Name: "qualitytools",
-						Amount: 0.5d,
+						AttributeName: "generic.armor",
 						Operation: 0,
 						UUIDMost: -3301692102209876089L,
 						UUIDLeast: -7658127989642257432L,
-						AttributeName: "generic.armor"
+						Amount: 0.5d
 					}]
+				},
+				UUIDMost: -5237134380357824907L,
+				UUIDLeast: -7923026865997064346L,
+				baubleModifier: "hearty",
+				Items: [{
+					Slot: 0b,
+					tag: {
+						Potion: "minecraft:long_night_vision"
+					},
+					Damage: 0s,
+					Count: 8b,
+					id: "minecraft:splash_potion"
+				},
+				{
+					Slot: 1b,
+					tag: {
+						CustomPotionEffects: [{
+							CurativeItems: [{
+								Damage: 0s,
+								Count: 1b,
+								id: "minecraft:milk_bucket"
+							}],
+							Duration: 600,
+							Ambient: 0b,
+							ShowParticles: 1b,
+							Id: 10,
+							Amplifier: 1b,
+							Incurable: 0b
+						}],
+						Potion: "cofhcore:regeneration2+"
+					},
+					Damage: 0s,
+					Count: 8b,
+					id: "extraalchemy:breakable_potion"
+				},
+				{
+					Slot: 2b,
+					tag: {
+						CustomPotionEffects: [{
+							CurativeItems: [{
+								Damage: 0s,
+								Count: 1b,
+								id: "minecraft:milk_bucket"
+							}],
+							Duration: 3200,
+							Ambient: 0b,
+							ShowParticles: 1b,
+							Id: 22,
+							Amplifier: 1b,
+							Incurable: 0b
+						}],
+						Potion: "cofhcore:absorption2+"
+					},
+					Damage: 0s,
+					Count: 8b,
+					id: "extraalchemy:breakable_potion"
+				},
+				{
+					Slot: 3b,
+					tag: {
+						effects: [{
+							name: "minecraft:regeneration",
+							potency: 1,
+							duration: 750
+						}],
+						lingering: 1b,
+						hasPotion: 1b
+					},
+					Damage: 0s,
+					Count: 8b,
+					id: "xreliquary:potion"
+				},
+				{
+					Slot: 4b,
+					tag: {
+						effects: [{
+							name: "minecraft:health_boost",
+							potency: 1,
+							duration: 2250
+						}],
+						lingering: 1b,
+						hasPotion: 1b
+					},
+					Damage: 0s,
+					Count: 8b,
+					id: "xreliquary:potion"
+				},
+				{
+					Slot: 5b,
+					tag: {
+						Potion: "potioncore:solid_core"
+					},
+					Damage: 0s,
+					Count: 8b,
+					id: "minecraft:lingering_potion"
+				},
+				{
+					Slot: 6b,
+					tag: {
+						CustomPotionEffects: [{
+							CurativeItems: [{
+								Damage: 0s,
+								Count: 1b,
+								id: "minecraft:milk_bucket"
+							}],
+							Duration: 400,
+							Ambient: 0b,
+							ShowParticles: 1b,
+							Id: 11,
+							Amplifier: 5b,
+							Incurable: 0b
+						},
+						{
+							CurativeItems: [{
+								Damage: 0s,
+								Count: 1b,
+								id: "minecraft:milk_bucket"
+							}],
+							Duration: 400,
+							Ambient: 0b,
+							ShowParticles: 1b,
+							Id: 2,
+							Amplifier: 5b,
+							Incurable: 0b
+						}],
+						Potion: "oe:turtle_master_strong"
+					},
+					Damage: 0s,
+					Count: 4b,
+					id: "extraalchemy:breakable_potion"
+				},
+				{
+					Slot: 7b,
+					tag: {
+						Potion: "potioncore:strong_revival"
+					},
+					Damage: 0s,
+					Count: 4b,
+					id: "minecraft:splash_potion"
+				},
+				{
+					Slot: 8b,
+					Damage: 0s,
+					Count: 2b,
+					id: "xreliquary:angelheart_vial"
+				},
+				{
+					Slot: 9b,
+					tag: {
+						effects: [{
+							name: "minecraft:resistance",
+							potency: 0,
+							duration: 1750
+						}],
+						lingering: 1b,
+						hasPotion: 1b
+					},
+					Damage: 0s,
+					Count: 8b,
+					id: "xreliquary:potion"
+				},
+				{
+					Slot: 10b,
+					tag: {
+						effects: [{
+							name: "minecraft:resistance",
+							potency: 1,
+							duration: 2250
+						}],
+						lingering: 1b,
+						hasPotion: 1b
+					},
+					Damage: 0s,
+					Count: 4b,
+					id: "xreliquary:potion"
+				},
+				{
+					Slot: 11b,
+					tag: {},
+					Damage: 0s,
+					Count: 1b,
+					id: "mocreatures:furhelmet"
+				},
+				{
+					Slot: 12b,
+					tag: {},
+					Damage: 0s,
+					Count: 1b,
+					id: "mocreatures:furchest"
+				},
+				{
+					Slot: 13b,
+					tag: {},
+					Damage: 0s,
+					Count: 1b,
+					id: "mocreatures:furlegs"
+				},
+				{
+					Slot: 14b,
+					tag: {},
+					Damage: 0s,
+					Count: 1b,
+					id: "mocreatures:furboots"
+				},
+				{
+					Slot: 15b,
+					Damage: 0s,
+					Count: 1b,
+					id: "inspirations:bone_crook"
+				},
+				{
+					Slot: 16b,
+					Damage: 0s,
+					Count: 1b,
+					id: "inspirations:barometer"
+				},
+				{
+					Slot: 17b,
+					tag: {
+						Potion: "oe:turtle_master"
+					},
+					Damage: 0s,
+					Count: 2b,
+					id: "minecraft:lingering_potion"
+				}],
+				Color: 14,
+				display: {
+					Name: "Support Backpack"
 				}
-			}
+			},
+			id: "improvedbackpacks:backpack"
 		}
 	}]
 }

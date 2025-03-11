@@ -5,26 +5,26 @@
 		uid: "71522d73",
 		type: "item",
 		items: [{
-			id: "theaurorian:auroriansteelhelmet",
 			tag: {
 				Quality: {
+					Name: "quality.lucky.name",
+					Color: "aqua",
 					Slots: [
 						"head"
 					],
-					Color: "aqua",
 					AttributeModifiers: [{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -3714233244218015532L,
 						UUIDLeast: -7694458928429692345L,
-						Amount: 0.5d,
-						AttributeName: "generic.luck",
-						Operation: 0,
-						Name: "qualitytools"
-					}],
-					Name: "quality.lucky.name"
+						AttributeName: "generic.luck"
+					}]
 				}
-			}
+			},
+			id: "theaurorian:auroriansteelhelmet"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

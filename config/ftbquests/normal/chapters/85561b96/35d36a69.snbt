@@ -12,27 +12,27 @@
 		uid: "0a1caf0f",
 		type: "item",
 		items: [{
-			id: "bountifulbaubles:trinketankhcharm",
 			tag: {
 				Quality: {
+					Name: "quality.lucky.name",
+					Color: "blue",
 					Slots: [
 						"baubles_trinket",
 						"offhand"
 					],
-					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.20000000298023224d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 5281738470375310617L,
 						UUIDLeast: -9126799968876787825L,
-						Amount: 0.20000000298023224d,
-						AttributeName: "generic.luck",
-						Operation: 0,
-						Name: "qualitytools"
-					}],
-					Name: "quality.lucky.name"
+						AttributeName: "generic.luck"
+					}]
 				}
-			}
+			},
+			id: "bountifulbaubles:trinketankhcharm"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

@@ -8,10 +8,10 @@
 		uid: "cf86c776",
 		type: "item",
 		items: [{
-			id: "srparasites:armor_helm_sentient",
-			tag: {}
+			tag: {},
+			id: "srparasites:armor_helm_sentient"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

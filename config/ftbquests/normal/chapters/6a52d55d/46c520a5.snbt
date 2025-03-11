@@ -5,10 +5,10 @@
 		uid: "8bfaf470",
 		type: "item",
 		items: [{
-			id: "iceandfire:armor_electric_chestplate",
-			tag: {}
+			tag: {},
+			id: "iceandfire:armor_electric_chestplate"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

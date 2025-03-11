@@ -5,12 +5,12 @@
 		uid: "422613a6",
 		type: "item",
 		items: [{
-			id: "techguns:t4_praetor_leggings",
 			tag: {
 				power: 0
-			}
+			},
+			id: "techguns:t4_praetor_leggings"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

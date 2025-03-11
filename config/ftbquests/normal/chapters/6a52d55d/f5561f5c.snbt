@@ -5,34 +5,34 @@
 		uid: "1da55ef2",
 		type: "item",
 		items: [{
-			id: "theaurorian:spectralchestplate",
 			tag: {
 				Quality: {
+					Name: "quality.cumbersome.name",
+					Color: "dark_gray",
 					Slots: [
 						"chest"
 					],
-					Color: "dark_gray",
 					AttributeModifiers: [{
+						Amount: -0.10000000149011612d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -3473388646624051137L,
 						UUIDLeast: -5725854871001819542L,
-						Amount: -0.10000000149011612d,
-						AttributeName: "potioncore.digSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.digSpeed"
 					},
 					{
+						Amount: -0.10000000149011612d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 4219360313876105456L,
 						UUIDLeast: -5307067984695659986L,
-						Amount: -0.10000000149011612d,
-						AttributeName: "generic.attackSpeed",
-						Operation: 2,
-						Name: "qualitytools"
-					}],
-					Name: "quality.cumbersome.name"
+						AttributeName: "generic.attackSpeed"
+					}]
 				}
-			}
+			},
+			id: "theaurorian:spectralchestplate"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

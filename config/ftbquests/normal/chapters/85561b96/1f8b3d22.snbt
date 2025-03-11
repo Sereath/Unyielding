@@ -5,27 +5,27 @@
 		uid: "bd904f5f",
 		type: "item",
 		items: [{
-			id: "xreliquary:twilight_cloak",
 			tag: {
 				Quality: {
+					Name: "quality.prospecting.name",
+					Color: "blue",
 					Slots: [
 						"baubles_trinket",
 						"offhand"
 					],
-					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -633617721495630581L,
 						UUIDLeast: -7768497731657845022L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.digSpeed",
-						Operation: 2,
-						Name: "qualitytools"
-					}],
-					Name: "quality.prospecting.name"
+						AttributeName: "potioncore.digSpeed"
+					}]
 				}
-			}
+			},
+			id: "xreliquary:twilight_cloak"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

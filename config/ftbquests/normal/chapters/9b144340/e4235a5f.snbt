@@ -18,6 +18,14 @@
 		type: "checkmark",
 		title: "Tips",
 		icon: "minecraft:stone_pickaxe"
+	},
+	{
+		uid: "9e5c66c2",
+		type: "item",
+		items: [{
+			item: "unyielding:trace"
+		}],
+		consume_items: 1b
 	}],
 	rewards: [{
 		uid: "f776f03c",

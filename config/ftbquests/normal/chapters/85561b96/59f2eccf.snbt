@@ -5,12 +5,12 @@
 		uid: "35f4479e",
 		type: "item",
 		items: [{
-			id: "cyclicmagic:charm_antidote",
 			tag: {
 				Quality: {}
-			}
+			},
+			id: "cyclicmagic:charm_antidote"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

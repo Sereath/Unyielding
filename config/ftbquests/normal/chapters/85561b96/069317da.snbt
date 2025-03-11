@@ -5,12 +5,12 @@
 		uid: "0d7e4040",
 		type: "item",
 		items: [{
-			id: "grimoireofgaia:accessory_trinket_wither",
 			tag: {
 				Quality: {}
-			}
+			},
+			id: "grimoireofgaia:accessory_trinket_wither"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

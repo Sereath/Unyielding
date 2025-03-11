@@ -5,41 +5,41 @@
 		uid: "d1d8d99e",
 		type: "item",
 		items: [{
-			id: "bountifulbaubles:ringflywheeladvanced",
-			tag: {
-				Quality: {
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					Color: "aqua",
-					AttributeModifiers: [{
-						UUIDMost: 4295663612158822629L,
-						UUIDLeast: -7496657910745505253L,
-						Amount: 0.05000000074505806d,
-						AttributeName: "generic.movementSpeed",
-						Operation: 2,
-						Name: "qualitytools"
-					},
-					{
-						UUIDMost: -6074485305205964310L,
-						UUIDLeast: -4853301974492429624L,
-						Amount: 0.5d,
-						AttributeName: "potioncore.jumpHeight",
-						Operation: 0,
-						Name: "qualitytools"
-					}],
-					Name: "quality.athletic.name"
-				},
-				energyAmount: 0
-			},
 			ForgeCaps: {
 				Parent: {
 					amount: 0
 				}
-			}
+			},
+			tag: {
+				energyAmount: 0,
+				Quality: {
+					Name: "quality.athletic.name",
+					Color: "aqua",
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					AttributeModifiers: [{
+						Amount: 0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
+						UUIDMost: 4295663612158822629L,
+						UUIDLeast: -7496657910745505253L,
+						AttributeName: "generic.movementSpeed"
+					},
+					{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
+						UUIDMost: -6074485305205964310L,
+						UUIDLeast: -4853301974492429624L,
+						AttributeName: "potioncore.jumpHeight"
+					}]
+				}
+			},
+			id: "bountifulbaubles:ringflywheeladvanced"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

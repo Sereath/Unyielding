@@ -5,12 +5,12 @@
 		uid: "7eb49741",
 		type: "item",
 		items: [{
-			id: "bountifulbaubles:trinketblackdragonscale",
 			tag: {
 				Quality: {}
-			}
+			},
+			id: "bountifulbaubles:trinketblackdragonscale"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

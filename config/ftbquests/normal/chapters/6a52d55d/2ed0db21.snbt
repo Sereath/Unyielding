@@ -5,10 +5,10 @@
 		uid: "93237fa9",
 		type: "item",
 		items: [{
-			id: "iceandfire:armor_electric_helmet",
-			tag: {}
+			tag: {},
+			id: "iceandfire:armor_electric_helmet"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

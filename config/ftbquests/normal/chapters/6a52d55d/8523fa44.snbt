@@ -8,10 +8,10 @@
 		uid: "3fb76f6c",
 		type: "item",
 		items: [{
-			id: "srparasites:armor_helm",
-			tag: {}
+			tag: {},
+			id: "srparasites:armor_helm"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

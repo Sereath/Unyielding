@@ -5,10 +5,10 @@
 		uid: "06d9cb28",
 		type: "item",
 		items: [{
-			id: "cyclicmagic:charm_air",
-			tag: {}
+			tag: {},
+			id: "cyclicmagic:charm_air"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

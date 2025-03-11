@@ -5,10 +5,10 @@
 		uid: "e2c4c393",
 		type: "item",
 		items: [{
-			id: "iceandfire:dragonsteel_lightning_leggings",
-			tag: {}
+			tag: {},
+			id: "iceandfire:dragonsteel_lightning_leggings"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

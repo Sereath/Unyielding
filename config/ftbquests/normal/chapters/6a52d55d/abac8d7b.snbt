@@ -8,12 +8,12 @@
 		uid: "894ced86",
 		type: "item",
 		items: [{
-			id: "techguns:t3_exo_leggings",
 			tag: {
 				power: 0
-			}
+			},
+			id: "techguns:t3_exo_leggings"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

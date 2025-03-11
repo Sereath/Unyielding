@@ -3,114 +3,114 @@
 	loot_size: 1,
 	rewards: [{
 		item: {
-			id: "xreliquary:mob_charm",
 			tag: {
 				type: 0b
-			}
+			},
+			id: "xreliquary:mob_charm"
 		}
 	},
 	{
 		item: {
-			id: "xreliquary:mob_charm",
 			tag: {
 				type: 1b
-			}
+			},
+			id: "xreliquary:mob_charm"
 		}
 	},
 	{
 		item: {
-			id: "xreliquary:mob_charm",
 			tag: {
 				type: 2b
-			}
+			},
+			id: "xreliquary:mob_charm"
 		}
 	},
 	{
 		item: {
-			id: "xreliquary:mob_charm",
 			tag: {
 				type: 3b
-			}
+			},
+			id: "xreliquary:mob_charm"
 		}
 	},
 	{
 		item: {
-			id: "xreliquary:mob_charm",
 			tag: {
 				type: 4b
-			}
+			},
+			id: "xreliquary:mob_charm"
 		}
 	},
 	{
 		item: {
-			id: "xreliquary:mob_charm",
 			tag: {
 				type: 5b
-			}
+			},
+			id: "xreliquary:mob_charm"
 		}
 	},
 	{
 		item: {
-			id: "xreliquary:mob_charm",
 			tag: {
 				type: 6b
-			}
+			},
+			id: "xreliquary:mob_charm"
 		}
 	},
 	{
 		item: {
-			id: "xreliquary:mob_charm",
 			tag: {
 				type: 7b
-			}
+			},
+			id: "xreliquary:mob_charm"
 		}
 	},
 	{
 		item: {
-			id: "xreliquary:mob_charm",
 			tag: {
 				type: 8b
-			}
+			},
+			id: "xreliquary:mob_charm"
 		}
 	},
 	{
 		item: {
-			id: "xreliquary:mob_charm",
 			tag: {
 				type: 9b
-			}
+			},
+			id: "xreliquary:mob_charm"
 		}
 	},
 	{
 		item: {
-			id: "xreliquary:mob_charm",
 			tag: {
 				type: 10b
-			}
+			},
+			id: "xreliquary:mob_charm"
 		}
 	},
 	{
 		item: {
-			id: "xreliquary:mob_charm",
 			tag: {
 				type: 11b
-			}
+			},
+			id: "xreliquary:mob_charm"
 		}
 	},
 	{
 		item: {
-			id: "xreliquary:mob_charm",
 			tag: {
 				type: 12b
-			}
+			},
+			id: "xreliquary:mob_charm"
 		}
 	},
 	{
 		item: {
-			id: "xreliquary:mob_charm",
 			tag: {
 				type: 13b
-			}
+			},
+			id: "xreliquary:mob_charm"
 		}
 	},
 	{

@@ -5,79 +5,79 @@
 		uid: "488f5abb",
 		type: "item",
 		items: [{
-			id: "xat:fairy_ring",
-			tag: {
-				Quality: {
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					Color: "blue",
-					AttributeModifiers: [{
-						UUIDMost: 3565180301975440303L,
-						UUIDLeast: -4649340811329528693L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.damageResistance",
-						Operation: 2,
-						Name: "qualitytools"
-					}],
-					Name: "quality.armored.name"
-				},
-				"xat:Trinket": {
-					variant: 0,
-					slot: -1,
-					handler: "None",
-					exp: 0,
-					mana: 0.0f,
-					main.ability: 0b,
-					alt.ability: 0b,
-					crafter.name: "",
-					crafter.uuid: "",
-					Counters: {},
-					Elements: {
-						primary: "xat:neutral",
-						secondary: "xat:neutral"
-					}
-				}
-			},
 			ForgeCaps: {
 				"xat:trinket": {
+					"xat:Trinket": {
+						variant: 0,
+						Counters: {},
+						alt.ability: 0b,
+						Elements: {
+							primary: "xat:neutral",
+							secondary: "xat:neutral"
+						},
+						exp: 0,
+						crafter.uuid: "",
+						crafter.name: "",
+						mana: 0.0f,
+						main.ability: 0b,
+						slot: -1,
+						handler: "None"
+					},
 					Quality: {
+						Name: "quality.armored.name",
+						Color: "blue",
 						Slots: [
 							"baubles_trinket",
 							"offhand"
 						],
-						Color: "blue",
 						AttributeModifiers: [{
+							Amount: 0.029999999329447746d,
+							Name: "qualitytools",
+							Operation: 2,
 							UUIDMost: 3565180301975440303L,
 							UUIDLeast: -4649340811329528693L,
-							Amount: 0.029999999329447746d,
-							AttributeName: "potioncore.damageResistance",
-							Operation: 2,
-							Name: "qualitytools"
-						}],
-						Name: "quality.armored.name"
-					},
-					"xat:Trinket": {
-						variant: 0,
-						slot: -1,
-						handler: "None",
-						exp: 0,
-						mana: 0.0f,
-						main.ability: 0b,
-						alt.ability: 0b,
-						crafter.name: "",
-						crafter.uuid: "",
-						Counters: {},
-						Elements: {
-							primary: "xat:neutral",
-							secondary: "xat:neutral"
-						}
+							AttributeName: "potioncore.damageResistance"
+						}]
 					}
 				}
-			}
+			},
+			tag: {
+				"xat:Trinket": {
+					variant: 0,
+					Counters: {},
+					alt.ability: 0b,
+					Elements: {
+						primary: "xat:neutral",
+						secondary: "xat:neutral"
+					},
+					exp: 0,
+					crafter.uuid: "",
+					crafter.name: "",
+					mana: 0.0f,
+					main.ability: 0b,
+					slot: -1,
+					handler: "None"
+				},
+				Quality: {
+					Name: "quality.armored.name",
+					Color: "blue",
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					AttributeModifiers: [{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
+						UUIDMost: 3565180301975440303L,
+						UUIDLeast: -4649340811329528693L,
+						AttributeName: "potioncore.damageResistance"
+					}]
+				}
+			},
+			id: "xat:fairy_ring"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

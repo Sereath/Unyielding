@@ -5,27 +5,27 @@
 		uid: "abcd6c1b",
 		type: "item",
 		items: [{
-			id: "mod_lavacow:dreamcatcher",
 			tag: {
 				Quality: {
+					Name: "quality.springy.name",
+					Color: "blue",
 					Slots: [
 						"baubles_trinket",
 						"offhand"
 					],
-					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 3548559398986074884L,
 						UUIDLeast: -8752430958936876055L,
-						Amount: 0.5d,
-						AttributeName: "potioncore.jumpHeight",
-						Operation: 0,
-						Name: "qualitytools"
-					}],
-					Name: "quality.springy.name"
+						AttributeName: "potioncore.jumpHeight"
+					}]
 				}
-			}
+			},
+			id: "mod_lavacow:dreamcatcher"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

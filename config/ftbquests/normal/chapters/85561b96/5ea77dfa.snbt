@@ -5,10 +5,10 @@
 		uid: "67c08fb4",
 		type: "item",
 		items: [{
-			id: "cyclicmagic:charm_speed",
-			tag: {}
+			tag: {},
+			id: "cyclicmagic:charm_speed"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

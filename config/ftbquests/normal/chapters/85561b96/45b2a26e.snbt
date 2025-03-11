@@ -5,79 +5,79 @@
 		uid: "7b6e8917",
 		type: "item",
 		items: [{
-			id: "xat:weightless_stone",
-			tag: {
-				Quality: {
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					Color: "red",
-					AttributeModifiers: [{
-						UUIDMost: -8569045248132166407L,
-						UUIDLeast: -8680922645803156445L,
-						Amount: -0.20000000298023224d,
-						AttributeName: "generic.luck",
-						Operation: 0,
-						Name: "qualitytools"
-					}],
-					Name: "quality.unlucky.name"
-				},
-				"xat:Trinket": {
-					variant: 0,
-					slot: -1,
-					handler: "None",
-					exp: 0,
-					mana: 0.0f,
-					main.ability: 0b,
-					alt.ability: 0b,
-					crafter.name: "",
-					crafter.uuid: "",
-					Counters: {},
-					Elements: {
-						primary: "xat:neutral",
-						secondary: "xat:neutral"
-					}
-				}
-			},
 			ForgeCaps: {
 				"xat:trinket": {
+					"xat:Trinket": {
+						variant: 0,
+						Counters: {},
+						alt.ability: 0b,
+						Elements: {
+							primary: "xat:neutral",
+							secondary: "xat:neutral"
+						},
+						exp: 0,
+						crafter.uuid: "",
+						crafter.name: "",
+						mana: 0.0f,
+						main.ability: 0b,
+						slot: -1,
+						handler: "None"
+					},
 					Quality: {
+						Name: "quality.unlucky.name",
+						Color: "red",
 						Slots: [
 							"baubles_trinket",
 							"offhand"
 						],
-						Color: "red",
 						AttributeModifiers: [{
+							Amount: -0.20000000298023224d,
+							Name: "qualitytools",
+							Operation: 0,
 							UUIDMost: -8569045248132166407L,
 							UUIDLeast: -8680922645803156445L,
-							Amount: -0.20000000298023224d,
-							AttributeName: "generic.luck",
-							Operation: 0,
-							Name: "qualitytools"
-						}],
-						Name: "quality.unlucky.name"
-					},
-					"xat:Trinket": {
-						variant: 0,
-						slot: -1,
-						handler: "None",
-						exp: 0,
-						mana: 0.0f,
-						main.ability: 0b,
-						alt.ability: 0b,
-						crafter.name: "",
-						crafter.uuid: "",
-						Counters: {},
-						Elements: {
-							primary: "xat:neutral",
-							secondary: "xat:neutral"
-						}
+							AttributeName: "generic.luck"
+						}]
 					}
 				}
-			}
+			},
+			tag: {
+				"xat:Trinket": {
+					variant: 0,
+					Counters: {},
+					alt.ability: 0b,
+					Elements: {
+						primary: "xat:neutral",
+						secondary: "xat:neutral"
+					},
+					exp: 0,
+					crafter.uuid: "",
+					crafter.name: "",
+					mana: 0.0f,
+					main.ability: 0b,
+					slot: -1,
+					handler: "None"
+				},
+				Quality: {
+					Name: "quality.unlucky.name",
+					Color: "red",
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					AttributeModifiers: [{
+						Amount: -0.20000000298023224d,
+						Name: "qualitytools",
+						Operation: 0,
+						UUIDMost: -8569045248132166407L,
+						UUIDLeast: -8680922645803156445L,
+						AttributeName: "generic.luck"
+					}]
+				}
+			},
+			id: "xat:weightless_stone"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

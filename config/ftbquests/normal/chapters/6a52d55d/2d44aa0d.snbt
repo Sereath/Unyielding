@@ -5,12 +5,12 @@
 		uid: "a44742e1",
 		type: "item",
 		items: [{
-			id: "theaurorian:spectralboots",
 			tag: {
 				Quality: {}
-			}
+			},
+			id: "theaurorian:spectralboots"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

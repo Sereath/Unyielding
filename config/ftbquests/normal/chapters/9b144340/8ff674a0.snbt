@@ -5,12 +5,12 @@
 		uid: "698e74f2",
 		type: "item",
 		items: [{
-			id: "patchouli:guide_book",
 			tag: {
 				"patchouli:book": "touhou_little_maid:memorizable_gensokyo"
-			}
+			},
+			id: "patchouli:guide_book"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

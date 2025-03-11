@@ -5,16 +5,16 @@
 		uid: "d8b83e2f",
 		type: "item",
 		items: [{
-			id: "xreliquary:void_tear",
 			ForgeCaps: {
 				Parent: {
 					Items: [],
-					Size: 2,
 					TotalAmounts: [
 						0
-					]
+					],
+					Size: 2
 				}
-			}
+			},
+			id: "xreliquary:void_tear"
 		}]
 	}]
 }

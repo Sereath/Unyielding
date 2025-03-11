@@ -19,6 +19,14 @@
 		type: "checkmark",
 		title: "Tips",
 		icon: "minecraft:stone_axe"
+	},
+	{
+		uid: "77424ca3",
+		type: "item",
+		items: [{
+			item: "unyielding:trace"
+		}],
+		consume_items: 1b
 	}],
 	rewards: [{
 		uid: "98220a9b",

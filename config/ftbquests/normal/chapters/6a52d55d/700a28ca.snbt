@@ -8,12 +8,12 @@
 		uid: "79d1aa43",
 		type: "item",
 		items: [{
-			id: "techguns:t4_power_boots",
 			tag: {
 				power: 0
-			}
+			},
+			id: "techguns:t4_power_boots"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

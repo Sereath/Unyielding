@@ -5,35 +5,35 @@
 		uid: "5f8c455e",
 		type: "item",
 		items: [{
-			id: "xreliquary:fortune_coin",
 			tag: {
 				Quality: {
+					Name: "quality.graceful.name",
+					Color: "aqua",
 					Slots: [
 						"baubles_trinket",
 						"offhand"
 					],
-					Color: "aqua",
 					AttributeModifiers: [{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -3657397572336923035L,
 						UUIDLeast: -7158414185296627567L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.digSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.digSpeed"
 					},
 					{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 5984193887279991925L,
 						UUIDLeast: -7238935007118628212L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "generic.attackSpeed",
-						Operation: 2,
-						Name: "qualitytools"
-					}],
-					Name: "quality.graceful.name"
+						AttributeName: "generic.attackSpeed"
+					}]
 				}
-			}
+			},
+			id: "xreliquary:fortune_coin"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

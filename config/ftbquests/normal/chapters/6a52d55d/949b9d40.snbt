@@ -5,10 +5,10 @@
 		uid: "730dd2d7",
 		type: "item",
 		items: [{
-			id: "iceandfire:dragonsteel_lightning_helmet",
-			tag: {}
+			tag: {},
+			id: "iceandfire:dragonsteel_lightning_helmet"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

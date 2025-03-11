@@ -5,12 +5,12 @@
 		uid: "f4d7106c",
 		type: "item",
 		items: [{
-			id: "theaurorian:spectralhelmet",
 			tag: {
 				Quality: {}
-			}
+			},
+			id: "theaurorian:spectralhelmet"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

@@ -5,27 +5,27 @@
 		uid: "42546aca",
 		type: "item",
 		items: [{
-			id: "cyclicmagic:charm_void",
 			tag: {
 				Quality: {
+					Name: "quality.speedy.name",
+					Color: "blue",
 					Slots: [
 						"baubles_trinket",
 						"offhand"
 					],
-					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -8200572124769530509L,
 						UUIDLeast: -8757707930286374247L,
-						Amount: 0.05000000074505806d,
-						AttributeName: "generic.movementSpeed",
-						Operation: 2,
-						Name: "qualitytools"
-					}],
-					Name: "quality.speedy.name"
+						AttributeName: "generic.movementSpeed"
+					}]
 				}
-			}
+			},
+			id: "cyclicmagic:charm_void"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

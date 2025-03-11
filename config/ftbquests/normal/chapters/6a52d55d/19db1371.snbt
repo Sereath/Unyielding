@@ -5,26 +5,26 @@
 		uid: "4aaddb5a",
 		type: "item",
 		items: [{
-			id: "theaurorian:auroriansteelleggings",
 			tag: {
 				Quality: {
+					Name: "quality.dented.name",
+					Color: "dark_gray",
 					Slots: [
 						"legs"
 					],
-					Color: "dark_gray",
 					AttributeModifiers: [{
+						Amount: -1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -3604356700473572856L,
 						UUIDLeast: -8803618855526089555L,
-						Amount: -1.0d,
-						AttributeName: "generic.armor",
-						Operation: 0,
-						Name: "qualitytools"
-					}],
-					Name: "quality.dented.name"
+						AttributeName: "generic.armor"
+					}]
 				}
-			}
+			},
+			id: "theaurorian:auroriansteelleggings"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

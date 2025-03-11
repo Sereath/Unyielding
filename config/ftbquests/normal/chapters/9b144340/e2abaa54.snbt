@@ -5,19 +5,19 @@
 		uid: "06729127",
 		type: "item",
 		items: [{
-			id: "spartanweaponry:quiver_bolt",
-			tag: {
-				ClientInventory: [],
-				Quality: {}
-			},
 			ForgeCaps: {
 				Parent: {
 					Items: [],
 					Size: 4
 				}
-			}
+			},
+			tag: {
+				Quality: {},
+				ClientInventory: []
+			},
+			id: "spartanweaponry:quiver_bolt"
 		}],
-		ignore_damage: true,
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

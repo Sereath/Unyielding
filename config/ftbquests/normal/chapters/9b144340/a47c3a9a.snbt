@@ -20,6 +20,14 @@
 		type: "checkmark",
 		title: "Tips",
 		icon: "minecraft:stone_sword"
+	},
+	{
+		uid: "4ab0d64a",
+		type: "item",
+		items: [{
+			item: "unyielding:trace"
+		}],
+		consume_items: 1b
 	}],
 	rewards: [{
 		uid: "2633a9ab",
