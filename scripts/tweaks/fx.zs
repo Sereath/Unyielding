@@ -3,6 +3,7 @@ import crafttweaker.player.IPlayer;
 import crafttweaker.potions.IPotion;
 
 val invisibility = <potion:minecraft:invisibility>;
+val regeneration = <potion:minecraft:regeneration>;
 val vulnerable = <potion:potioncore:vulnerable>;
 
 events.onPlayerTick(function(event as PlayerTickEvent) {
@@ -13,9 +14,16 @@ events.onPlayerTick(function(event as PlayerTickEvent) {
     if (event.phase == "END" && world.time % 5 == 0 && !world.remote) {
         // Check if player has Invisibility
         if (player.isPotionActive(invisibility)) {
-            // Apply Vulnerable for 6 seconds (120 ticks), level 3, if not active
+            // Apply Vulnerable level 3 (amplifier 2) for 6 seconds, if not active
             if (!player.isPotionActive(vulnerable)) {
                 player.addPotionEffect(vulnerable.makePotionEffect(120, 2));
+            }
+        }
+        // Check if player has Regeneration
+        else if (player.isPotionActive(regeneration)) {
+            // Apply Vulnerable level 1 (amplifier 0) for 6 seconds, if not active
+            if (!player.isPotionActive(vulnerable)) {
+                player.addPotionEffect(vulnerable.makePotionEffect(120, 0));
             }
         }
     }
