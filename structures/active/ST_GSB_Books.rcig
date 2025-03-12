@@ -7,29 +7,161 @@
       "min": 1,
       "max": 1,
       "item": {
-        "id": "gamestagebooks:immersiveengineering",
+        "id": "thermalexpansion:cell",
         "damage": 0,
-        "count": 1
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Energy": {
+              "nbtType": "int",
+              "nbt": 2000000
+            },
+            "RSControl": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "Level": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "Send": {
+              "nbtType": "int",
+              "nbt": 1000
+            },
+            "SideCache": {
+              "nbtType": "byteArray",
+              "nbt": [
+                2,
+                1,
+                1,
+                1,
+                1,
+                1
+              ]
+            },
+            "Creative": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "Facing": {
+              "nbtType": "byte",
+              "nbt": 2
+            },
+            "Recv": {
+              "nbtType": "int",
+              "nbt": 1000
+            }
+          }
+        }
       }
     },
     {
-      "weight": 0.32298368215560913,
+      "weight": 0.4858947992324829,
       "min": 1,
       "max": 1,
       "item": {
-        "id": "gamestagebooks:techguns",
+        "id": "thermalexpansion:cell",
         "damage": 0,
-        "count": 1
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Energy": {
+              "nbtType": "int",
+              "nbt": 8000000
+            },
+            "RSControl": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "Level": {
+              "nbtType": "byte",
+              "nbt": 1
+            },
+            "Send": {
+              "nbtType": "int",
+              "nbt": 4000
+            },
+            "SideCache": {
+              "nbtType": "byteArray",
+              "nbt": [
+                2,
+                1,
+                1,
+                1,
+                1,
+                1
+              ]
+            },
+            "Creative": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "Facing": {
+              "nbtType": "byte",
+              "nbt": 2
+            },
+            "Recv": {
+              "nbtType": "int",
+              "nbt": 4000
+            }
+          }
+        }
       }
     },
     {
-      "weight": 0.4400899410247803,
+      "weight": 0.23224952816963196,
       "min": 1,
       "max": 1,
       "item": {
-        "id": "gamestagebooks:actuallyadditions",
+        "id": "thermalexpansion:cell",
         "damage": 0,
-        "count": 1
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Energy": {
+              "nbtType": "int",
+              "nbt": 18000000
+            },
+            "RSControl": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "Level": {
+              "nbtType": "byte",
+              "nbt": 2
+            },
+            "Send": {
+              "nbtType": "int",
+              "nbt": 9000
+            },
+            "SideCache": {
+              "nbtType": "byteArray",
+              "nbt": [
+                2,
+                1,
+                1,
+                1,
+                1,
+                1
+              ]
+            },
+            "Creative": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "Facing": {
+              "nbtType": "byte",
+              "nbt": 2
+            },
+            "Recv": {
+              "nbtType": "int",
+              "nbt": 9000
+            }
+          }
+        }
       }
     },
     {
@@ -37,7 +169,115 @@
       "min": 1,
       "max": 1,
       "item": {
-        "id": "gamestagebooks:thermalexpansion",
+        "id": "thermalexpansion:cell",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Energy": {
+              "nbtType": "int",
+              "nbt": 32000000
+            },
+            "RSControl": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "Level": {
+              "nbtType": "byte",
+              "nbt": 3
+            },
+            "Send": {
+              "nbtType": "int",
+              "nbt": 16000
+            },
+            "SideCache": {
+              "nbtType": "byteArray",
+              "nbt": [
+                2,
+                1,
+                1,
+                1,
+                1,
+                1
+              ]
+            },
+            "Creative": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "Facing": {
+              "nbtType": "byte",
+              "nbt": 2
+            },
+            "Recv": {
+              "nbtType": "int",
+              "nbt": 16000
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.05511390045285225,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "thermalexpansion:cell",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Energy": {
+              "nbtType": "int",
+              "nbt": 50000000
+            },
+            "RSControl": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "Level": {
+              "nbtType": "byte",
+              "nbt": 4
+            },
+            "Send": {
+              "nbtType": "int",
+              "nbt": 25000
+            },
+            "SideCache": {
+              "nbtType": "byteArray",
+              "nbt": [
+                2,
+                1,
+                1,
+                1,
+                1,
+                1
+              ]
+            },
+            "Creative": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "Facing": {
+              "nbtType": "byte",
+              "nbt": 2
+            },
+            "Recv": {
+              "nbtType": "int",
+              "nbt": 25000
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.05511390045285225,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "nyx:meteor_finder",
         "damage": 0,
         "count": 1
       }
@@ -47,9 +287,313 @@
       "min": 1,
       "max": 1,
       "item": {
-        "id": "gamestagebooks:cyclic",
+        "id": "randomthings:chunkanalyzer",
         "damage": 0,
         "count": 1
+      }
+    },
+    {
+      "weight": 0.011213661171495914,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "randomthings:timeinabottle",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "timeData": {
+              "nbtType": "compound",
+              "nbt": {
+                "storedTime": {
+                  "nbtType": "int",
+                  "nbt": 3120
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.011213661171495914,
+      "min": 1,
+      "max": 6,
+      "item": {
+        "id": "extendedcrafting:material",
+        "damage": 140,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.011213661171495914,
+      "min": 1,
+      "max": 2,
+      "item": {
+        "id": "minecraft:nether_star",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.011213661171495914,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "techguns:t4_power_helmet",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "power": {
+              "nbtType": "int",
+              "nbt": 0
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.011213661171495914,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "techguns:t4_power_chestplate",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "power": {
+              "nbtType": "int",
+              "nbt": 0
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.011213661171495914,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "techguns:t4_power_leggings",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "power": {
+              "nbtType": "int",
+              "nbt": 0
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.011213661171495914,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "techguns:t4_power_boots",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "power": {
+              "nbtType": "int",
+              "nbt": 0
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.011213661171495914,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "techguns:t4_praetor_helmet",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "power": {
+              "nbtType": "int",
+              "nbt": 0
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.011213661171495914,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "techguns:t4_praetor_chestplate",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "power": {
+              "nbtType": "int",
+              "nbt": 0
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.011213661171495914,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "techguns:t4_praetor_leggings",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "power": {
+              "nbtType": "int",
+              "nbt": 0
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.011213661171495914,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "techguns:t4_praetor_boots",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "power": {
+              "nbtType": "int",
+              "nbt": 0
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.1442086547613144,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "techguns:m4",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ammo": {
+              "nbtType": "short",
+              "nbt": 30
+            },
+            "camo": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "ammovariant": {
+              "nbtType": "string",
+              "nbt": "default"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "techguns:m4_infiltrator",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ammo": {
+              "nbtType": "short",
+              "nbt": 30
+            },
+            "camo": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "ammovariant": {
+              "nbtType": "string",
+              "nbt": "default"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "techguns:pdw",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ammo": {
+              "nbtType": "short",
+              "nbt": 40
+            },
+            "camo": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "ammovariant": {
+              "nbtType": "string",
+              "nbt": "default"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "techguns:pulserifle",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ammo": {
+              "nbtType": "short",
+              "nbt": 12
+            },
+            "camo": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "ammovariant": {
+              "nbtType": "string",
+              "nbt": "default"
+            }
+          }
+        }
       }
     },
     {
@@ -57,7 +601,115 @@
       "min": 1,
       "max": 1,
       "item": {
-        "id": "gamestagebooks:openmodularturrets",
+        "id": "techguns:gaussrifle",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ammo": {
+              "nbtType": "short",
+              "nbt": 8
+            },
+            "camo": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "ammovariant": {
+              "nbtType": "string",
+              "nbt": "default"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.03422137722373009,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "techguns:as50",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ammo": {
+              "nbtType": "short",
+              "nbt": 10
+            },
+            "camo": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "ammovariant": {
+              "nbtType": "string",
+              "nbt": "default"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.03422137722373009,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "techguns:guidedmissilelauncher",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ammo": {
+              "nbtType": "short",
+              "nbt": 1
+            },
+            "camo": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "ammovariant": {
+              "nbtType": "string",
+              "nbt": "default"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.03422137722373009,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "techguns:grimreaper",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "ammo": {
+              "nbtType": "short",
+              "nbt": 4
+            },
+            "camo": {
+              "nbtType": "byte",
+              "nbt": 0
+            },
+            "ammovariant": {
+              "nbtType": "string",
+              "nbt": "default"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.11158588528633118,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "roost:catcher",
         "damage": 0,
         "count": 1
       }

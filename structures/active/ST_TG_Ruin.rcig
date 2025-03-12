@@ -123,26 +123,6 @@
       }
     },
     {
-      "weight": 0.03422137722373009,
-      "min": 1,
-      "max": 1,
-      "item": {
-        "id": "gamestagebooks:techguns",
-        "damage": 0,
-        "count": 1
-      }
-    },
-    {
-      "weight": 0.11158588528633118,
-      "min": 1,
-      "max": 1,
-      "item": {
-        "id": "gamestagebooks:immersiveengineering",
-        "damage": 0,
-        "count": 1
-      }
-    },
-    {
       "weight": 0.1442086547613144,
       "min": 1,
       "max": 1,
@@ -160,6 +140,276 @@
         "id": "techguns:itemshared",
         "damage": 56,
         "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 10,
+      "item": {
+        "id": "xlfoodmod:chocolate",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 10,
+      "item": {
+        "id": "xlfoodmod:empty_can",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xlfoodmod:speedy_energy_drink",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xlfoodmod:healthy_energy_drink",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xlfoodmod:stealthy_energy_drink",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xlfoodmod:strong_energy_drink",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.646636426448822,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xlfoodmod:deadly_energy_drink",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.1442086547613144,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "xlfoodmod:super_energy_drink",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.18405085802078247,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "thermalfoundation:tool.pickaxe_steel",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Quality": {
+              "nbtType": "compound",
+              "nbt": {}
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "extraalchemy:potion_ring",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "extraalchemy:leech_normal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "extraalchemy:potion_ring",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "extraalchemy:learning_normal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "extraalchemy:potion_ring",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "minecraft:regeneration"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "extraalchemy:potion_ring",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "minecraft:strength"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "extraalchemy:potion_ring",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "extraalchemy:photosynthesis_normal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "extraalchemy:potion_ring",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "minecraft:swiftness"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "extraalchemy:potion_ring",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "minecraft:leaping"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "extraalchemy:potion_ring",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "minecraft:water_breathing"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.0739658921957016,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "extraalchemy:potion_ring",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "Potion": {
+              "nbtType": "string",
+              "nbt": "extraalchemy:sails_normal"
+            }
+          }
+        }
       }
     }
   ],
