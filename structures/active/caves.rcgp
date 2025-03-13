@@ -1,0 +1,55 @@
+{
+  "data": {
+    "factors": [
+      {
+        "type": "limit",
+        "factor": {
+          "priority": 1.0,
+          "rays": [
+            {
+              "type": "dynpos",
+              "ray": {
+                "type": "world_height"
+              }
+            },
+            {
+              "type": "move",
+              "ray": {
+                "distance": -48
+              }
+            },
+            {
+              "type": "dynmove",
+              "ray": {
+                "type": "structure_height",
+                "up": false
+              }
+            },
+            {
+              "type": "move",
+              "ray": {
+                "distance": -144,
+                "weight": 1.0239598
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "match",
+        "factor": {
+          "priority": 1.0,
+          "sourceExpression": "reccomplex:generic_solid",
+          "destExpression": "!is:liquid",
+          "requiredConformity": 1.0
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "title": "CaveGen",
+    "description": [
+      ""
+    ]
+  }
+}

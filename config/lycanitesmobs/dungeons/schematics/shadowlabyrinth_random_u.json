@@ -2,7 +2,7 @@
   "name": "shadowlabyrinth_random_u",
   "loadDefault": false,
   "sectorCountMin": 20,
-  "sectorCountMax": 30,
+  "sectorCountMax": 40,
   "corridorToCorridorChance": 0.5,
   "roomToRoomChance": 0.1,
   "conditions": [

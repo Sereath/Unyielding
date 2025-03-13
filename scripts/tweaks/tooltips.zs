@@ -269,6 +269,7 @@
 <improvedbackpacks:backpack>.addTooltip(format.darkGray("Soulbound"));
 <toolbelt:belt>.addTooltip(format.darkGray("Soulbound"));
 <flaskoflife:flask_healing>.addTooltip(format.darkGray("Soulbound"));
+<minecraft:compass>.addTooltip(format.darkGray("Soulbound"));
 
 <environmentaltech:void_ore_miner_cont_1>.addTooltip(format.darkGreen("Beneath only [10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
 <environmentaltech:void_ore_miner_cont_2>.addTooltip(format.darkGreen("Beneath only [10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
