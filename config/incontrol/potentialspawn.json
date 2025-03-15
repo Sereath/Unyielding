@@ -587,7 +587,7 @@
 		]
 	},
 
-	//NCO
+	//nco
 
 	{
 		"dimension": 10,
@@ -597,6 +597,78 @@
 				"weight": 30,
 				"groupcountmin": 1,
 				"groupcountmax": 3
+			}
+		]
+	},
+
+	//revs
+
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "srrevenants:for_bear",
+				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "srrevenants:for_cow",
+				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "srrevenants:for_horse",
+				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "srrevenants:for_human",
+				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "srrevenants:for_pig",
+				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "srrevenants:for_sheep",
+				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 1
 			}
 		]
 	}

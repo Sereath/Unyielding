@@ -93,14 +93,14 @@
         "player": true,
         "item": "unyielding:scraps2",
         "itemcount": "1",
-        "random": "0.003"
+        "random": "0.03"
     },
     {
         "mob": "techguns:zombiesoldier",
         "player": true,
         "item": "unyielding:scraps3",
         "itemcount": "1",
-        "random": "0.009"
+        "random": "0.09"
     },
 
     //zombiefarmer
@@ -110,14 +110,14 @@
         "player": true,
         "item": "unyielding:scraps2",
         "itemcount": "1",
-        "random": "0.002"
+        "random": "0.02"
     },
     {
         "mob": "techguns:zombiefarmer",
         "player": true,
         "item": "unyielding:scraps3",
         "itemcount": "1",
-        "random": "0.006"
+        "random": "0.06"
     },
 
     //zombieminer
@@ -127,14 +127,14 @@
         "player": true,
         "item": "unyielding:scraps2",
         "itemcount": "1",
-        "random": "0.002"
+        "random": "0.02"
     },
     {
         "mob": "techguns:zombieminer",
         "player": true,
         "item": "unyielding:scraps3",
         "itemcount": "1",
-        "random": "0.006"
+        "random": "0.06"
     },
 
     //cyberdemon
@@ -144,28 +144,28 @@
         "player": true,
         "item": "unyielding:scraps2",
         "itemcount": "1",
-        "random": "0.03"
+        "random": "0.3"
     },
     {
         "mob": "techguns:cyberdemon",
         "player": true,
         "item": "unyielding:scraps3",
         "itemcount": "1",
-        "random": "0.09"
+        "random": "0.9"
     },
     {
         "mob": "techguns:cyberdemon",
         "player": true,
         "item": "unyielding:scraps1",
         "itemcount": "1",
-        "random": "0.01"
+        "random": "0.1"
     },
     {
         "mob": "techguns:cyberdemon",
         "player": true,
         "item": "unyielding:scraps4",
         "itemcount": "1",
-        "random": "0.01"
+        "random": "0.1"
     },
 
     //skeletonsoldier
@@ -175,14 +175,14 @@
         "player": true,
         "item": "unyielding:scraps2",
         "itemcount": "1",
-        "random": "0.003"
+        "random": "0.03"
     },
     {
         "mob": "techguns:skeletonsoldier",
         "player": true,
         "item": "unyielding:scraps3",
         "itemcount": "1",
-        "random": "0.009"
+        "random": "0.09"
     },
 
     //psychosteve
@@ -192,49 +192,49 @@
         "player": true,
         "item": "unyielding:scraps2",
         "itemcount": "1",
-        "random": "0.09"
+        "random": "0.9"
     },
     {
         "mob": "techguns:psychosteve",
         "player": true,
         "item": "unyielding:scraps3",
         "itemcount": "1",
-        "random": "0.27"
+        "random": "1.0"
     },
     {
         "mob": "techguns:psychosteve",
         "player": true,
         "item": "unyielding:scraps1",
         "itemcount": "1",
-        "random": "0.03"
+        "random": "0.3"
     },
     {
         "mob": "techguns:psychosteve",
         "player": true,
         "item": "unyielding:scraps4",
         "itemcount": "1",
-        "random": "0.03"
+        "random": "0.3"
     },
     {
         "mob": "techguns:psychosteve",
         "player": true,
         "item": "unyielding:scraps6",
         "itemcount": "1",
-        "random": "0.01"
+        "random": "0.1"
     },
     {
         "mob": "techguns:psychosteve",
         "player": true,
         "item": "unyielding:scraps8",
         "itemcount": "1",
-        "random": "0.27"
+        "random": "1.0"
     },
     {
         "mob": "techguns:psychosteve",
         "player": true,
         "item": "unyielding:scraps11",
         "itemcount": "1",
-        "random": "0.27"
+        "random": "1.0"
     },
 
     //mutants
@@ -244,7 +244,7 @@
         "player": true,
         "item": "unyielding:scraps10",
         "itemcount": "1",
-        "random": "0.09"
+        "random": "0.9"
     },
     
     {
@@ -252,7 +252,7 @@
         "player": true,
         "item": "unyielding:scraps10",
         "itemcount": "1",
-        "random": "0.18"
+        "random": "1.0"
     },
     
     {
@@ -260,7 +260,7 @@
         "player": true,
         "item": "unyielding:scraps10",
         "itemcount": "1",
-        "random": "0.27"
+        "random": "1.0"
     },
 
     //stormtrooper
@@ -277,14 +277,14 @@
         "player": true,
         "item": "unyielding:scraps7",
         "itemcount": "1",
-        "random": "0.02"
+        "random": "0.2"
     },
     {
         "mob": "techguns:stormtrooper",
         "player": true,
         "item": "unyielding:scraps5",
         "itemcount": "1",
-        "random": "0.01"
+        "random": "0.1"
     },
 
     //bosszombie
@@ -294,7 +294,7 @@
         "player": true,
         "item": "unyielding:scraps7",
         "itemcount": "1",
-        "random": "0.09"
+        "random": "0.9"
     },
 
     //bossskeleton
@@ -304,7 +304,7 @@
         "player": true,
         "item": "unyielding:scraps7",
         "itemcount": "1",
-        "random": "0.09"
+        "random": "0.9"
     },
 
     //mutant_creeper
@@ -314,7 +314,7 @@
         "player": true,
         "item": "unyielding:scraps7",
         "itemcount": "1",
-        "random": "0.18"
+        "random": "1.0"
     },
 
     //mutant_enderman
@@ -324,14 +324,14 @@
         "player": true,
         "item": "unyielding:scraps5",
         "itemcount": "1",
-        "random": "0.03"
+        "random": "0.3"
     },
     {
         "mob": "mutantbeasts:mutant_enderman",
         "player": true,
         "item": "unyielding:scraps7",
         "itemcount": "1",
-        "random": "0.15"
+        "random": "1.0"
     },
 
     //mutant_skeleton
@@ -341,7 +341,7 @@
         "player": true,
         "item": "unyielding:scraps7",
         "itemcount": "1",
-        "random": "0.09"
+        "random": "0.9"
     },
 
     //mutant_zombie
@@ -351,7 +351,7 @@
         "player": true,
         "item": "unyielding:scraps7",
         "itemcount": "1",
-        "random": "0.09"
+        "random": "0.9"
     },
     
     //SRP
@@ -361,7 +361,7 @@
         "player": true,
         "item": "unyielding:scraps5",
         "itemcount": "1",
-        "random": "0.15"
+        "random": "1.0"
     },
 
     {
@@ -369,7 +369,7 @@
         "player": true,
         "item": "unyielding:scraps5",
         "itemcount": "1",
-        "random": "0.18"
+        "random": "1.0"
     },
 
     {
@@ -377,7 +377,7 @@
         "player": true,
         "item": "unyielding:scraps5",
         "itemcount": "1",
-        "random": "0.18"
+        "random": "1.0"
     },
 
     {
@@ -385,7 +385,7 @@
         "player": true,
         "item": "unyielding:scraps5",
         "itemcount": "1",
-        "random": "0.18"
+        "random": "1.0"
     },
     
     {
@@ -393,7 +393,7 @@
         "player": true,
         "item": "unyielding:scraps5",
         "itemcount": "1",
-        "random": "0.09"
+        "random": "0.9"
     },
     
     {
@@ -509,7 +509,7 @@
         "player": true,
         "item": "unyielding:scraps9",
         "itemcount": "0-1",
-        "random": "0.09"
+        "random": "0.9"
     },
 
     
@@ -525,7 +525,7 @@
         "player": true,
         "item": "unyielding:scraps9",
         "itemcount": "1",
-        "random": "0.27"
+        "random": "1.0"
     },
 
     {
@@ -533,7 +533,7 @@
         "player": true,
         "item": "unyielding:scraps9",
         "itemcount": "0-1",
-        "random": "0.01"
+        "random": "0.1"
     },
 
     {
@@ -541,7 +541,7 @@
         "player": true,
         "item": "unyielding:scraps9",
         "itemcount": "0-1",
-        "random": "0.01"
+        "random": "0.1"
     },
 
     //CQR
