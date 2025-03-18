@@ -92,6 +92,7 @@ key_Toggle Slot Lock:82
 key_Take Panorama Screenshot:25:ALT
 key_keybind.baublesinventory:18:ALT
 key_arcanearchives.gui.keybinds.manifest:0
+key_quark.keybind.lockBuilding:76
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:0
 key_quark.keybind.chestSort:0
@@ -99,7 +100,6 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
-key_quark.keybind.lockBuilding:76
 key_key.conarm.toggle_helm.desc:181
 key_key.conarm.toggle_chest.desc:35
 key_key.conarm.toggle_leg.desc:0
@@ -345,11 +345,11 @@ key_gui.xaero_toggle_dimension:0
 key_key.sort_config:73:CONTROL
 key_key.sort:41
 key_key.drop:16:ALT
-key_enderio.keybind.inventory:55
+key_enderio.keybind.inventory:23:CONTROL
 key_enderio.keybind.dsu:0
 key_enderio.keybind.glidertoggle:45:ALT
 key_enderio.keybind.soundlocator:0
-key_enderio.keybind.nightvision:26
+key_enderio.keybind.nightvision:25:CONTROL
 key_enderio.keybind.gogglesofrevealing:0
 key_enderio.keybind.stepassist:48:ALT
 key_enderio.keybind.speed:78:CONTROL

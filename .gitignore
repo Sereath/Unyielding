@@ -28,7 +28,6 @@ config/DarkThemeMod/logs.txt
 config/splash.properties
 config/InvTweaks/InvTweaks.cfg
 config/craftpresence.properties
-config/Special_AI.cfg
 config/CQR/configVersions.properties
 config/xaerominimap_entities.json
 config/startuptimer/config.json

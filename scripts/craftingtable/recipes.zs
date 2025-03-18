@@ -285,6 +285,8 @@ recipes.remove(<extendedcrafting:handheld_table>);
 
 recipes.remove(<engineersdecor:factory_placer>);
 
+recipes.remove(<enderskills:token>);
+
 recipes.remove(<iceandfire:armor_copper_metal_helmet>);
 recipes.remove(<iceandfire:armor_copper_metal_chestplate>);
 recipes.remove(<iceandfire:armor_copper_metal_leggings>);
@@ -293,6 +295,16 @@ recipes.remove(<iceandfire:armor_silver_metal_helmet>);
 recipes.remove(<iceandfire:armor_silver_metal_chestplate>);
 recipes.remove(<iceandfire:armor_silver_metal_leggings>);
 recipes.remove(<iceandfire:armor_silver_metal_boots>);
+recipes.remove(<iceandfire:copper_sword>);
+recipes.remove(<iceandfire:copper_shovel>);
+recipes.remove(<iceandfire:copper_pickaxe>);
+recipes.remove(<iceandfire:copper_axe>);
+recipes.remove(<iceandfire:copper_hoe>);
+recipes.remove(<iceandfire:silver_sword>);
+recipes.remove(<iceandfire:silver_shovel>);
+recipes.remove(<iceandfire:silver_pickaxe>);
+recipes.remove(<iceandfire:silver_axe>);
+recipes.remove(<iceandfire:silver_hoe>);
 
 recipes.addShaped(<buildinggadgets:buildingtool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemPulsatingCrystal>, <ore:crystalRestonia>, <ore:itemPulsatingCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
 recipes.addShaped(<buildinggadgets:exchangertool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemPulsatingCrystal>, <ore:crystalPalis>, <ore:itemPulsatingCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
@@ -373,7 +385,7 @@ recipes.addShaped(<theaurorian:aurorianportalframebricks>, [[<jaopca:item_dustan
 
 //recipes.addShaped(<weirdinggadget:weirding_gadget>, [[<ore:ingotBronze>, <ore:pearlEnderEye>, <ore:ingotBronze>],[<ore:blockBronze>, <ore:gemGlowing>, <ore:blockBronze>], [<ore:blockElectrum>, <ore:gearBronze>, <ore:blockElectrum>]]);
 
-recipes.addShaped(<corpsecomplex:scroll>, [[null, <ore:dustGlowing>, null],[<minecraft:rotten_flesh>, <ore:paper>, <minecraft:rotten_flesh>], [null, <ore:enderpearl>, null]]);
+recipes.addShaped(<corpsecomplex:scroll>, [[null, <nyx:fallen_star>, null],[<minecraft:rotten_flesh>, <ore:paper>, <ore:dustGlowing>], [null, <ore:enderpearl>, null]]);
 
 recipes.addShaped(<flaskoflife:flask_healing>, [[<minecraft:speckled_melon>, <grimoireofgaia:misc_giga_gear>, <minecraft:speckled_melon>],[<ore:itemVibrantCrystal>, <minecraft:glass_bottle>, <ore:itemVibrantCrystal>], [<minecraft:speckled_melon>, <xat:restoration_serum>, <minecraft:speckled_melon>]]);
 
@@ -387,6 +399,9 @@ recipes.addShaped(<srparasites:armor_chest_sentient>, [[<ore:dustMithril>, <srpa
 recipes.addShaped(<srparasites:armor_pants_sentient>, [[<ore:dustMithril>, <srparasites:lurecomponent5>, <ore:dustMithril>],[<ore:dustMithril>, <srparasites:armor_pants_sentient>, <ore:dustMithril>], [<ore:dustMithril>, <ore:dustMithril>, <ore:dustMithril>]]);
 recipes.addShaped(<srparasites:armor_boots_sentient>, [[<ore:dustMithril>, <srparasites:lurecomponent5>, <ore:dustMithril>],[<ore:dustMithril>, <srparasites:armor_boots_sentient>, <ore:dustMithril>], [<ore:dustMithril>, <ore:dustMithril>, <ore:dustMithril>]]);
 
+recipes.addShaped(<enderskills:token>, [[<ore:blockGlassColorless>, <ore:dustRedstone>, <ore:blockGlassColorless>],[<ore:dustGlowing>, <ore:dustEnder>, <ore:dustGlowing>], [<ore:blockGlassColorless>, <ore:gemDiamond>, <ore:blockGlassColorless>]]);
+recipes.addShaped(<enderskills:token> * 2, [[<nyx:fallen_star>, <nyx:fallen_star>, <nyx:fallen_star>],[<nyx:fallen_star>, <enderskills:token>, <nyx:fallen_star>], [<nyx:fallen_star>, <nyx:fallen_star>, <nyx:fallen_star>]]);
+
 recipes.addShaped(<iceandfire:armor_copper_metal_helmet>, [[null, <ore:dustGlowing>, null],[<ore:ingotCopper>, <ore:ingotCopper>, <ore:ingotCopper>], [<ore:ingotCopper>, null, <ore:ingotCopper>]]);
 recipes.addShaped(<iceandfire:armor_copper_metal_chestplate>, [[<ore:ingotCopper>, <ore:gemGlowing>, <ore:ingotCopper>],[<ore:ingotCopper>, <ore:ingotCopper>, <ore:ingotCopper>], [<ore:ingotCopper>, <ore:ingotCopper>, <ore:ingotCopper>]]);
 recipes.addShaped(<iceandfire:armor_copper_metal_leggings>, [[<ore:ingotCopper>, <ore:ingotCopper>, <ore:ingotCopper>],[<ore:ingotCopper>, <ore:dustGlowing>, <ore:ingotCopper>], [<ore:ingotCopper>, null, <ore:ingotCopper>]]);
@@ -395,3 +410,13 @@ recipes.addShaped(<iceandfire:armor_silver_metal_helmet>, [[null, <ore:dustGlowi
 recipes.addShaped(<iceandfire:armor_silver_metal_chestplate>, [[<ore:ingotSilver>, <ore:gemGlowing>, <ore:ingotSilver>],[<ore:ingotSilver>, <ore:ingotSilver>, <ore:ingotSilver>], [<ore:ingotSilver>, <ore:ingotSilver>, <ore:ingotSilver>]]);
 recipes.addShaped(<iceandfire:armor_silver_metal_leggings>, [[<ore:ingotSilver>, <ore:ingotSilver>, <ore:ingotSilver>],[<ore:ingotSilver>, <ore:dustGlowing>, <ore:ingotSilver>], [<ore:ingotSilver>, null, <ore:ingotSilver>]]);
 recipes.addShaped(<iceandfire:armor_silver_metal_boots>, [[null, null, null],[<ore:ingotSilver>, <ore:dustGlowing>, <ore:ingotSilver>], [<ore:ingotSilver>, null, <ore:ingotSilver>]]);
+recipes.addShaped(<iceandfire:copper_sword>, [[null, <ore:ingotCopper>, null],[null, <ore:ingotCopper>, null], [null, <ore:stickWood>, <ore:dustGlowing>]]);
+recipes.addShaped(<iceandfire:copper_shovel>, [[null, <ore:ingotCopper>, null],[null, <ore:stickWood>, null], [null, <ore:stickWood>, <ore:dustGlowing>]]);
+recipes.addShaped(<iceandfire:copper_pickaxe>, [[<ore:ingotCopper>, <ore:ingotCopper>, <ore:ingotCopper>],[null, <ore:stickWood>, null], [null, <ore:stickWood>, <ore:dustGlowing>]]);
+recipes.addShaped(<iceandfire:copper_axe>, [[<ore:ingotCopper>, <ore:ingotCopper>, null],[<ore:ingotCopper>, <ore:stickWood>, null], [null, <ore:stickWood>, <ore:dustGlowing>]]);
+recipes.addShaped(<iceandfire:copper_hoe>, [[<ore:ingotCopper>, <ore:ingotCopper>, null],[null, <ore:stickWood>, null], [null, <ore:stickWood>, <ore:dustGlowing>]]);
+recipes.addShaped(<iceandfire:silver_sword>, [[null, <ore:ingotSilver>, null],[null, <ore:ingotSilver>, null], [null, <ore:stickWood>, <ore:dustGlowing>]]);
+recipes.addShaped(<iceandfire:silver_shovel>, [[null, <ore:ingotSilver>, null],[null, <ore:stickWood>, null], [null, <ore:stickWood>, <ore:dustGlowing>]]);
+recipes.addShaped(<iceandfire:silver_pickaxe>, [[<ore:ingotSilver>, <ore:ingotSilver>, <ore:ingotSilver>],[null, <ore:stickWood>, null], [null, <ore:stickWood>, <ore:dustGlowing>]]);
+recipes.addShaped(<iceandfire:silver_axe>, [[<ore:ingotSilver>, <ore:ingotSilver>, null],[<ore:ingotSilver>, <ore:stickWood>, null], [null, <ore:stickWood>, <ore:dustGlowing>]]);
+recipes.addShaped(<iceandfire:silver_hoe>, [[<ore:ingotSilver>, <ore:ingotSilver>, null],[null, <ore:stickWood>, null], [null, <ore:stickWood>, <ore:dustGlowing>]]);
