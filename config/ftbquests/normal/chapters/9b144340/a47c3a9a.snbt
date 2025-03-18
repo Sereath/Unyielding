@@ -22,10 +22,10 @@
 		icon: "minecraft:stone_sword"
 	},
 	{
-		uid: "4ab0d64a",
+		uid: "cab7d658",
 		type: "item",
 		items: [{
-			item: "unyielding:trace"
+			item: "unyielding:trace2"
 		}],
 		consume_items: 1b
 	}],

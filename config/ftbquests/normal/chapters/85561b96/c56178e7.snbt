@@ -15,27 +15,27 @@
 					],
 					AttributeModifiers: [{
 						Amount: 0.029999999329447746d,
-						Name: "qualitytools",
+						AttributeName: "potioncore.damageResistance",
 						Operation: 2,
 						UUIDMost: 170849615258798941L,
 						UUIDLeast: -5241439581127927964L,
-						AttributeName: "potioncore.damageResistance"
+						Name: "qualitytools"
 					},
 					{
 						Amount: 2.0d,
-						Name: "qualitytools",
+						AttributeName: "generic.maxHealth",
 						Operation: 0,
 						UUIDMost: 8595742327858283563L,
 						UUIDLeast: -8113759384085831457L,
-						AttributeName: "generic.maxHealth"
+						Name: "qualitytools"
 					},
 					{
 						Amount: 1.0d,
-						Name: "qualitytools",
+						AttributeName: "potioncore.magicShielding",
 						Operation: 0,
 						UUIDMost: 745619245783599851L,
 						UUIDLeast: -9128570866678969767L,
-						AttributeName: "potioncore.magicShielding"
+						Name: "qualitytools"
 					}]
 				}
 			},

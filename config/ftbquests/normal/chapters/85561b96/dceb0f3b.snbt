@@ -10,6 +10,22 @@
 		items: [{
 			ForgeCaps: {
 				"xat:trinket": {
+					Quality: {
+						Name: "quality.prospecting.name",
+						Color: "blue",
+						Slots: [
+							"baubles_trinket",
+							"offhand"
+						],
+						AttributeModifiers: [{
+							Amount: 0.029999999329447746d,
+							AttributeName: "potioncore.digSpeed",
+							Operation: 2,
+							UUIDMost: -5227861070772550267L,
+							UUIDLeast: -5685884684642057474L,
+							Name: "qualitytools"
+						}]
+					},
 					"xat:Trinket": {
 						variant: 0,
 						Counters: {},
@@ -25,26 +41,26 @@
 						main.ability: 0b,
 						slot: -1,
 						handler: "None"
-					},
-					Quality: {
-						Name: "quality.prospecting.name",
-						Color: "blue",
-						Slots: [
-							"baubles_trinket",
-							"offhand"
-						],
-						AttributeModifiers: [{
-							Amount: 0.029999999329447746d,
-							Name: "qualitytools",
-							Operation: 2,
-							UUIDMost: -5227861070772550267L,
-							UUIDLeast: -5685884684642057474L,
-							AttributeName: "potioncore.digSpeed"
-						}]
 					}
 				}
 			},
 			tag: {
+				Quality: {
+					Name: "quality.prospecting.name",
+					Color: "blue",
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					AttributeModifiers: [{
+						Amount: 0.029999999329447746d,
+						AttributeName: "potioncore.digSpeed",
+						Operation: 2,
+						UUIDMost: -5227861070772550267L,
+						UUIDLeast: -5685884684642057474L,
+						Name: "qualitytools"
+					}]
+				},
 				"xat:Trinket": {
 					variant: 0,
 					Counters: {},
@@ -60,22 +76,6 @@
 					main.ability: 0b,
 					slot: -1,
 					handler: "None"
-				},
-				Quality: {
-					Name: "quality.prospecting.name",
-					Color: "blue",
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					AttributeModifiers: [{
-						Amount: 0.029999999329447746d,
-						Name: "qualitytools",
-						Operation: 2,
-						UUIDMost: -5227861070772550267L,
-						UUIDLeast: -5685884684642057474L,
-						AttributeName: "potioncore.digSpeed"
-					}]
 				}
 			},
 			id: "xat:greater_inertia_stone"

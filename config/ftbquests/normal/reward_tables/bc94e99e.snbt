@@ -11,27 +11,12 @@
 		item: "mysticbows:burst_bow"
 	},
 	{
-		item: "cqrepoured:dagger_iron"
+		item: "spartanweaponry:glaive_bronze"
 	},
 	{
-		item: "cqrepoured:spear_iron"
+		item: "spartanweaponry:halberd_bronze"
 	},
 	{
-		item: "cqrepoured:great_sword_iron"
-	},
-	{
-		item: "spartanweaponry:saber_bronze"
-	},
-	{
-		item: "spartanshields:shield_basic_bronze"
-	},
-	{
-		item: {
-			tag: {
-				AmmoUsed: 0,
-				enchChecked: 1b
-			},
-			id: "spartanweaponry:javelin_bronze"
-		}
+		item: "spartanweaponry:lance_bronze"
 	}]
 }

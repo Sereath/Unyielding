@@ -10,6 +10,14 @@
 		type: "xp_levels"
 	},
 	{
-		item: "simple_paraglider:paraglider"
+		item: "toolbelt:belt"
+	},
+	{
+		item: "enderskills:token",
+		count: 3
+	},
+	{
+		title: "Compass",
+		item: "minecraft:compass"
 	}]
 }

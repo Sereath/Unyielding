@@ -21,10 +21,10 @@
 		icon: "minecraft:stone_axe"
 	},
 	{
-		uid: "77424ca3",
+		uid: "3ae30510",
 		type: "item",
 		items: [{
-			item: "unyielding:trace"
+			item: "unyielding:trace1"
 		}],
 		consume_items: 1b
 	}],

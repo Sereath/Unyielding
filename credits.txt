@@ -63,7 +63,10 @@ Credits:
 			https://complex.ivorius.de/
 			
 			https://complex.ivorius.de/submissions/184
-			
+
+		rn999 for 3 CQR structures
+
+		Fpiece for 2 CQR structures
 			
 	"Aftermath", "Air Prelude", "Apprehension", "Bent and Broken", "Blue Sizzle", "Colorless Aura", "Controlled Chaos", "Dark Walk", "Darkest Child", "Darkest Child var A", "Day of Chaos", "Decline", "Distant Tension", "Evening of Chaos", "Gagool", "Gathering Darkness", "Ghost Story", "Lone Harvest", "Night Break", "Penumbra", "Quinn's Song:  A New Man", "Quinn's Song: The Dance Begins", "Redletter", "Spacial Winds", "Spider Eyes", "The Hive", "The House of Leaves", "The Other Side of the Door", "Thunder Dreams", "Unseen Horrors"
 	Kevin MacLeod (incompetech.com)

@@ -20,10 +20,10 @@
 		icon: "minecraft:stone_pickaxe"
 	},
 	{
-		uid: "9e5c66c2",
+		uid: "b0218f1c",
 		type: "item",
 		items: [{
-			item: "unyielding:trace"
+			item: "unyielding:trace3"
 		}],
 		consume_items: 1b
 	}],

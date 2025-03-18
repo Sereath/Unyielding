@@ -15,11 +15,11 @@
 					],
 					AttributeModifiers: [{
 						Amount: 1.0d,
-						Name: "qualitytools",
+						AttributeName: "potioncore.magicShielding",
 						Operation: 0,
 						UUIDMost: -4347456628283846959L,
 						UUIDLeast: -4882206192757445280L,
-						AttributeName: "potioncore.magicShielding"
+						Name: "qualitytools"
 					}]
 				}
 			},
