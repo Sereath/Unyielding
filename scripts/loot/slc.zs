@@ -168,13 +168,9 @@ mythic.addItemEntry(<bountifulbaubles:trinketmixeddragonscale>, 10, 1, [Function
 mythic.addItemEntry(<bountifulbaubles:trinketankhcharm>, 10, 1, [Functions.setCount(1, 1)], []);
 mythic.addItemEntry(<bountifulbaubles:shieldankh>, 5, 1, [Functions.setCount(1, 1)], []);
 mythic.addItemEntry(<randomthings:timeinabottle>, 5, 1, [Functions.setCount(1, 1)], []);
-mythic.addItemEntry(<srparasites:weapon_scythe>, 5, 1, [Functions.setCount(1, 1)], []);
-mythic.addItemEntry(<srparasites:weapon_axe>, 5, 1, [Functions.setCount(1, 1)], []);
-mythic.addItemEntry(<srparasites:weapon_sword>, 5, 1, [Functions.setCount(1, 1)], []);
-mythic.addItemEntry(<srparasites:weapon_cleaver>, 5, 1, [Functions.setCount(1, 1)], []);
-mythic.addItemEntry(<srparasites:weapon_bow>, 5, 1, [Functions.setCount(1, 1)], []);
-mythic.addItemEntry(<srparasites:weapon_maul>, 5, 1, [Functions.setCount(1, 1)], []);
-mythic.addItemEntry(<srparasites:weapon_lance>, 5, 1, [Functions.setCount(1, 1)], []);
+mythic.addItemEntry(<tconevo:material:2>, 10, 1, [Functions.setCount(1, 1)], []);
+mythic.addItemEntry(<conditionoverload:wicked_jewel>, 10, 1, [Functions.setCount(1, 1)], []);
+mythic.addItemEntry(<extendedcrafting:singularity:3>, 5, 1, [Functions.setCount(1, 1)], []);
 mythic.addItemEntry(<randomthings:diviningrod:7>, 10, 1, [Functions.setCount(1, 1)], []);
 mythic.addItemEntry(<randomthings:diviningrod:14>, 10, 1, [Functions.setCount(1, 1)], []);
 mythic.addItemEntry(<randomthings:diviningrod:15>, 10, 1, [Functions.setCount(1, 1)], []);
