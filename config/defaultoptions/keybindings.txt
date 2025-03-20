@@ -147,7 +147,7 @@ key_key.dragon_fireAttack:-100:NONE
 key_key.dragon_strike:34:NONE
 key_key.dragon_down:45:NONE
 key_key.dragon_change_view:83:NONE
-key_key.astikorcarts.desc:0:NONE
+key_key.astikorcarts.desc:40:NONE
 key_atlasextras.keybind.togglehud:0:NONE
 key_atlasextras.keybind.openatlas:50:NONE
 key_bbw.key.mode:27:NONE
