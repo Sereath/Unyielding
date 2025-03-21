@@ -1087,6 +1087,15 @@
 		},
 		"result": "deny"
 	},
+	{
+		"mob": "grimoireofgaia:ant_ranger",
+		"mincount": {
+			"amount": 15,
+			"mob": "grimoireofgaia:ant_ranger",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
 
 	//mutantbeastscounter
 
@@ -1270,14 +1279,6 @@
 	},
 	{
 		"mob": ["srparasites:dispatcher_si","srparasites:dispatcher_sii","srparasites:dispatcher_siii","srparasites:dispatcher_siv"],
-		"onjoin": true,
-		"result": "deny"
-	},
-
-	//cqrhack
-
-	{
-		"mob": "cqrepoured:exterminator",
 		"onjoin": true,
 		"result": "deny"
 	}
