@@ -310,13 +310,13 @@
         "tag": {
           "nbtType": "compound",
           "nbt": {
-            "ammo": {
-              "nbtType": "short",
-              "nbt": 300
-            },
             "miningHead": {
               "nbtType": "int",
               "nbt": 0
+            },
+            "ammo": {
+              "nbtType": "short",
+              "nbt": 300
             },
             "camo": {
               "nbtType": "byte",
@@ -341,13 +341,13 @@
         "tag": {
           "nbtType": "compound",
           "nbt": {
-            "ammo": {
-              "nbtType": "short",
-              "nbt": 300
-            },
             "miningHead": {
               "nbtType": "int",
               "nbt": 0
+            },
+            "ammo": {
+              "nbtType": "short",
+              "nbt": 300
             },
             "camo": {
               "nbtType": "byte",
@@ -636,26 +636,9 @@
       "min": 1,
       "max": 1,
       "item": {
-        "id": "techguns:tfg",
-        "damage": 0,
-        "count": 1,
-        "tag": {
-          "nbtType": "compound",
-          "nbt": {
-            "ammo": {
-              "nbtType": "short",
-              "nbt": 20
-            },
-            "camo": {
-              "nbtType": "byte",
-              "nbt": 0
-            },
-            "ammovariant": {
-              "nbtType": "string",
-              "nbt": "default"
-            }
-          }
-        }
+        "id": "techguns:itemshared",
+        "damage": 131,
+        "count": 1
       }
     },
     {
@@ -663,26 +646,9 @@
       "min": 1,
       "max": 1,
       "item": {
-        "id": "techguns:nucleardeathray",
-        "damage": 0,
-        "count": 1,
-        "tag": {
-          "nbtType": "compound",
-          "nbt": {
-            "ammo": {
-              "nbtType": "short",
-              "nbt": 40
-            },
-            "camo": {
-              "nbtType": "byte",
-              "nbt": 0
-            },
-            "ammovariant": {
-              "nbtType": "string",
-              "nbt": "default"
-            }
-          }
-        }
+        "id": "techguns:itemshared",
+        "damage": 73,
+        "count": 1
       }
     },
     {
@@ -696,7 +662,7 @@
       }
     },
     {
-      "weight": 0.007257797755300999,
+      "weight": 0.0034870589151978493,
       "min": 1,
       "max": 1,
       "item": {

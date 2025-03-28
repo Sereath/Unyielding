@@ -40,36 +40,6 @@
 			"entity": "minecraft:enderman"
 		}, 
 		{
-			"spawnWeight": 10,
-			"minimumGroupCount": 4,
-			"maximumGroupCount": 4,
-			"entity": "ancientbeasts:netherhound"
-		}, 
-		{
-			"spawnWeight": 10,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1,
-			"entity": "ancientbeasts:damcell"
-		}, 
-		{
-			"spawnWeight": 30,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 4,
-			"entity": "ancientbeasts:boulderer"
-		}, 
-		{
-			"spawnWeight": 3,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 1,
-			"entity": "ancientbeasts:rifted_enderman"
-		}, 
-		{
-			"spawnWeight": 20,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 3,
-			"entity": "ancientbeasts:bonepile"
-		}, 
-		{
 			"spawnWeight": 20,
 			"minimumGroupCount": 2,
 			"maximumGroupCount": 4,

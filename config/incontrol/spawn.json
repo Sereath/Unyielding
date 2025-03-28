@@ -1109,18 +1109,6 @@
 		"result": "deny"
 	},
 
-	//ancientbeastscounter
-
-	{
-		"mob": "ancientbeasts:rifted_enderman",
-		"mincount": {
-			"amount": 6,
-			"mob": "ancientbeasts:rifted_enderman",
-			"perchunk": true
-		},
-		"result": "deny"
-	},
-
 	//chickenscounter
 
 	{

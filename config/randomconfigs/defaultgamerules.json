@@ -9,7 +9,7 @@
 	},
 	"keepInventory": { 
 		"value": false,
-		"forced": true
+		"forced": false
 	},
 	"mobGriefing": { 
 		"value": true,
@@ -29,6 +29,10 @@
 	},
 	"showDeathMessages": { 
 		"value": false,
+		"forced": false
+	},
+	"naturalRegeneration": { 
+		"value": true,
 		"forced": false
 	},
 	"MODE_OR_WORLD_TYPE_SPECIFIC": { 
