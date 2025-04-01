@@ -186,7 +186,7 @@ key_key.keyExtraInvo:45:NONE
 key_key.keyWheel:0:NONE
 key_key.keyExtraCraftin:0:NONE
 key_key.toggleLiquids:75:NONE
-key_key.toggleVisible:71:NONE
+key_key.toggleVisible:0:NONE
 key_key.elenaidodge.dodge:-96:NONE
 key_keybind.enderskills.skill_bound.rotate_right:32:ALT
 key_keybind.enderskills.skill_bound.rotate_left:30:ALT
@@ -207,7 +207,7 @@ key_keybind.enderskills.skill_bound.smash:42:NONE
 key_key.mod_lavacow.special:34:NONE
 key_FpsReducer.key.guiOpen:207:NONE
 key_FpsReducer.key.forceIdle:197:NONE
-key_Open Backpack:52:NONE
+key_Open Backpack:51:NONE
 key_key.inventoryhud.toggle:0:NONE
 key_key.inventoryhud.openconfig:24:NONE
 key_key.inventoryhud.togglepot:0:NONE
@@ -247,9 +247,9 @@ key_key.toolbelt.open:55:NONE
 key_key.toolbelt.cycle.left:0:NONE
 key_key.toolbelt.cycle.right:0:NONE
 key_key.toolbelt.slot:47:CONTROL
-key_key.travelersbackpack.inventory:48:NONE
-key_key.travelersbackpack.toggle_tank:49:NONE
-key_key.travelersbackpack.cycle_tool:44:NONE
+key_key.travelersbackpack.inventory:52:NONE
+key_key.travelersbackpack.toggle_tank:73:NONE
+key_key.travelersbackpack.cycle_tool:71:NONE
 key_keybind.universaltweaks.clear_toasts:11:CONTROL
 key_keybind.universaltweaks.dismount:42:NONE
 key_key.push_to_talk:0:NONE
