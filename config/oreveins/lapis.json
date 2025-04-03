@@ -1,7 +1,7 @@
 {
 	"Lapis": {
 		"type": "cluster",
-		"clusters": 3,
+		"clusters": 2,
 		"ore": [
 			{
 				"block": "minecraft:lapis_ore",
@@ -10,11 +10,11 @@
 		],
 		"stone": "minecraft:stone",
 		"count": 1,
-		"rarity": 144,
+		"rarity": 216,
 		"min_y": 16,
 		"max_y": 128,
 		"use_relative_y": false,
-		"density": 136,
+		"density": 144,
 		"vertical_size": 14,
 		"horizontal_size": 18
 	}

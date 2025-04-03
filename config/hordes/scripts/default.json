@@ -45,7 +45,7 @@
         "conditions": [
             {
                 "name": "gamestages:gamestage",
-                "value": "eio"
+                "value": "ob"
             }
         ]
     }

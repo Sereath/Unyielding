@@ -25,7 +25,7 @@ Recipes.setRecipeStageByMod("aa", "xnet");
 
 Recipes.setRecipeStageByMod("eio", "enderio");
 Recipes.setRecipeStageByMod("eio", "environmentaltech");
-Recipes.setRecipeStageByMod("eio", "etlunar");
+//Recipes.setRecipeStageByMod("eio", "etlunar");
 
 Recipes.setRecipeStageByMod("omt", "openmodularturrets");
 Recipes.setRecipeStageByMod("omt", "portality");

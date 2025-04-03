@@ -6,7 +6,7 @@ import loottweaker.vanilla.loot.Functions;
 
 val table = LootTweaker.getTable("grimoireofgaia:loot_table_boxend");
 
-val main = table.getPool("main"); 
+val main = table.getPool("main");
 
 main.setRolls(1, 2);
 

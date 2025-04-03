@@ -116,6 +116,10 @@ recipes.remove(<tconstruct:slimesling>);
 recipes.remove(<tconstruct:slimesling:1>);
 recipes.remove(<tconstruct:slimesling:2>);
 recipes.remove(<tconstruct:slimesling:4>);
+recipes.remove(<tconstruct:slime_boots>);
+recipes.remove(<tconstruct:slime_boots:1>);
+recipes.remove(<tconstruct:slime_boots:2>);
+recipes.remove(<tconstruct:slime_boots:4>);
 
 //drill
 recipes.remove(<actuallyadditions:item_drill:3>);

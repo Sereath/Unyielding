@@ -25,7 +25,7 @@ mods.ItemStages.stageModItems("aa", "xnet");
 
 mods.ItemStages.stageModItems("eio", "enderio");
 mods.ItemStages.stageModItems("eio", "environmentaltech");
-mods.ItemStages.stageModItems("eio", "etlunar");
+//mods.ItemStages.stageModItems("eio", "etlunar");
 
 mods.ItemStages.stageModItems("omt", "openmodularturrets");
 mods.ItemStages.stageModItems("omt", "portality");
