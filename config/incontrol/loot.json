@@ -158,14 +158,14 @@
         "player": true,
         "item": "unyielding:scraps1",
         "itemcount": "1",
-        "random": "0.1"
+        "random": "0.09"
     },
     {
         "mob": "techguns:cyberdemon",
         "player": true,
         "item": "unyielding:scraps4",
         "itemcount": "1",
-        "random": "0.1"
+        "random": "0.09"
     },
 
     //skeletonsoldier
@@ -192,49 +192,49 @@
         "player": true,
         "item": "unyielding:scraps2",
         "itemcount": "1",
-        "random": "0.9"
+        "random": "0.6"
     },
     {
         "mob": "techguns:psychosteve",
         "player": true,
         "item": "unyielding:scraps3",
         "itemcount": "1",
-        "random": "1.0"
+        "random": "0.9"
     },
     {
         "mob": "techguns:psychosteve",
         "player": true,
         "item": "unyielding:scraps1",
         "itemcount": "1",
-        "random": "0.3"
+        "random": "0.2"
     },
     {
         "mob": "techguns:psychosteve",
         "player": true,
         "item": "unyielding:scraps4",
         "itemcount": "1",
-        "random": "0.3"
+        "random": "0.2"
     },
     {
         "mob": "techguns:psychosteve",
         "player": true,
         "item": "unyielding:scraps6",
         "itemcount": "1",
-        "random": "0.1"
+        "random": "0.09"
     },
     {
         "mob": "techguns:psychosteve",
         "player": true,
         "item": "unyielding:scraps8",
         "itemcount": "1",
-        "random": "1.0"
+        "random": "0.9"
     },
     {
         "mob": "techguns:psychosteve",
         "player": true,
         "item": "unyielding:scraps11",
         "itemcount": "1",
-        "random": "1.0"
+        "random": "0.9"
     },
 
     //mutants
@@ -244,7 +244,7 @@
         "player": true,
         "item": "unyielding:scraps10",
         "itemcount": "1",
-        "random": "0.9"
+        "random": "0.6"
     },
     
     {
@@ -252,7 +252,7 @@
         "player": true,
         "item": "unyielding:scraps10",
         "itemcount": "1",
-        "random": "1.0"
+        "random": "0.9"
     },
     
     {
@@ -260,7 +260,7 @@
         "player": true,
         "item": "unyielding:scraps10",
         "itemcount": "1",
-        "random": "1.0"
+        "random": "0.9"
     },
 
     //stormtrooper
@@ -284,7 +284,7 @@
         "player": true,
         "item": "unyielding:scraps5",
         "itemcount": "1",
-        "random": "0.1"
+        "random": "0.09"
     },
 
     //bosszombie
@@ -294,7 +294,14 @@
         "player": true,
         "item": "unyielding:scraps7",
         "itemcount": "1",
-        "random": "0.9"
+        "random": "0.2"
+    },
+    {
+        "mob": "roughmobsrevamped:bosszombie",
+        "player": true,
+        "item": "unyielding:scraps8",
+        "itemcount": "1",
+        "random": "0.6"
     },
 
     //bossskeleton
@@ -304,7 +311,14 @@
         "player": true,
         "item": "unyielding:scraps7",
         "itemcount": "1",
-        "random": "0.9"
+        "random": "0.2"
+    },
+    {
+        "mob": "roughmobsrevamped:bossskeleton",
+        "player": true,
+        "item": "unyielding:scraps8",
+        "itemcount": "1",
+        "random": "0.6"
     },
 
     //mutant_creeper
@@ -314,7 +328,14 @@
         "player": true,
         "item": "unyielding:scraps7",
         "itemcount": "1",
-        "random": "1.0"
+        "random": "0.6"
+    },
+    {
+        "mob": "mutantbeasts:mutant_creeper",
+        "player": true,
+        "item": "unyielding:scraps8",
+        "itemcount": "1",
+        "random": "0.9"
     },
 
     //mutant_enderman
@@ -324,14 +345,21 @@
         "player": true,
         "item": "unyielding:scraps5",
         "itemcount": "1",
-        "random": "0.3"
+        "random": "0.2"
     },
     {
         "mob": "mutantbeasts:mutant_enderman",
         "player": true,
         "item": "unyielding:scraps7",
         "itemcount": "1",
-        "random": "1.0"
+        "random": "0.6"
+    },
+    {
+        "mob": "mutantbeasts:mutant_enderman",
+        "player": true,
+        "item": "unyielding:scraps8",
+        "itemcount": "1",
+        "random": "0.9"
     },
 
     //mutant_skeleton
@@ -341,7 +369,14 @@
         "player": true,
         "item": "unyielding:scraps7",
         "itemcount": "1",
-        "random": "0.9"
+        "random": "0.2"
+    },
+    {
+        "mob": "mutantbeasts:mutant_skeleton",
+        "player": true,
+        "item": "unyielding:scraps8",
+        "itemcount": "1",
+        "random": "0.6"
     },
 
     //mutant_zombie
@@ -351,7 +386,14 @@
         "player": true,
         "item": "unyielding:scraps7",
         "itemcount": "1",
-        "random": "0.9"
+        "random": "0.2"
+    },
+    {
+        "mob": "mutantbeasts:mutant_zombie",
+        "player": true,
+        "item": "unyielding:scraps8",
+        "itemcount": "1",
+        "random": "0.6"
     },
     
     //SRP
@@ -361,7 +403,7 @@
         "player": true,
         "item": "unyielding:scraps5",
         "itemcount": "1",
-        "random": "1.0"
+        "random": "0.9"
     },
 
     {
@@ -369,7 +411,7 @@
         "player": true,
         "item": "unyielding:scraps5",
         "itemcount": "1",
-        "random": "1.0"
+        "random": "0.9"
     },
 
     {
@@ -377,7 +419,7 @@
         "player": true,
         "item": "unyielding:scraps5",
         "itemcount": "1",
-        "random": "1.0"
+        "random": "0.9"
     },
 
     {
@@ -385,7 +427,7 @@
         "player": true,
         "item": "unyielding:scraps5",
         "itemcount": "1",
-        "random": "1.0"
+        "random": "0.9"
     },
     
     {
@@ -393,7 +435,7 @@
         "player": true,
         "item": "unyielding:scraps5",
         "itemcount": "1",
-        "random": "0.9"
+        "random": "0.6"
     },
     
     {
@@ -401,7 +443,7 @@
         "player": true,
         "item": ["theaurorian:scrapcrystalline","theaurorian:scrapumbra","theaurorian:scrapaurorianite"],
         "itemcount": "0-1",
-        "random": "1.0"
+        "random": "0.2"
     },
 
     {
@@ -409,7 +451,7 @@
         "player": true,
         "item": ["theaurorian:scrapcrystalline","theaurorian:scrapumbra","theaurorian:scrapaurorianite"],
         "itemcount": "0-1",
-        "random": "0.09"
+        "random": "0.018"
     },
 
     //ender_dragon
@@ -480,21 +522,21 @@
         "player": true,
         "item": ["xat:fairy_ring","xat:dwarf_ring"],
         "itemcount": "0-1",
-        "random": "0.09"
+        "random": "0.018"
     },
     {
         "mob": ["grimoireofgaia:bone_knight","grimoireofgaia:minotaur","grimoireofgaia:flesh_lich","grimoireofgaia:vampire"],
         "player": true,
         "item": ["xat:titan_ring","xat:goblin_ring"],
         "itemcount": "0-1",
-        "random": "0.09"
+        "random": "0.018"
     },
     {
         "mob": ["grimoireofgaia:bone_knight","grimoireofgaia:minotaur","grimoireofgaia:flesh_lich","grimoireofgaia:vampire"],
         "player": true,
         "item": ["xat:elf_ring","xat:faelis_ring"],
         "itemcount": "0-1",
-        "random": "0.09"
+        "random": "0.018"
     },
 
     {
@@ -509,7 +551,7 @@
         "player": true,
         "item": "unyielding:scraps9",
         "itemcount": "0-1",
-        "random": "0.9"
+        "random": "0.6"
     },
 
     
@@ -525,7 +567,7 @@
         "player": true,
         "item": "unyielding:scraps9",
         "itemcount": "1",
-        "random": "1.0"
+        "random": "0.9"
     },
 
     {
@@ -533,7 +575,7 @@
         "player": true,
         "item": "unyielding:scraps9",
         "itemcount": "0-1",
-        "random": "0.1"
+        "random": "0.09"
     },
 
     {
@@ -541,7 +583,7 @@
         "player": true,
         "item": "unyielding:scraps9",
         "itemcount": "0-1",
-        "random": "0.1"
+        "random": "0.09"
     },
 
     //CQR
@@ -551,27 +593,27 @@
         "player": true,
         "item": ["xat:weightless_stone","xat:inertia_null_stone","xat:greater_inertia_stone"],
         "itemcount": "0-1",
-        "random": "0.09"
+        "random": "0.018"
     },
     {
         "mob": ["cqrepoured:exterminator","cqrepoured:walker_king","cqrepoured:lich","cqrepoured:pirate_captain","cqrepoured:ender_calamity","cqrepoured:boar_mage","cqrepoured:ender_king","cqrepoured:necromancer","cqrepoured:giant_spider","cqrepoured:giant_tortoise","cqrepoured:nether_dragon"],
         "player": true,
         "item": ["xat:glow_ring","xat:sea_stone","xat:polarized_stone"],
         "itemcount": "0-1",
-        "random": "0.09"
+        "random": "0.018"
     },
     {
         "mob": ["cqrepoured:exterminator","cqrepoured:walker_king","cqrepoured:lich","cqrepoured:pirate_captain","cqrepoured:ender_calamity","cqrepoured:boar_mage","cqrepoured:ender_king","cqrepoured:necromancer","cqrepoured:giant_spider","cqrepoured:giant_tortoise","cqrepoured:nether_dragon"],
         "player": true,
         "item": ["xat:wither_ring","xat:poison_stone","xat:arcing_orb"],
         "itemcount": "0-1",
-        "random": "0.09"
+        "random": "0.018"
     },
     {
         "mob": ["cqrepoured:exterminator","cqrepoured:walker_king","cqrepoured:lich","cqrepoured:pirate_captain","cqrepoured:ender_calamity","cqrepoured:boar_mage","cqrepoured:ender_king","cqrepoured:necromancer","cqrepoured:giant_spider","cqrepoured:giant_tortoise","cqrepoured:nether_dragon"],
         "player": true,
         "item": ["xat:teddy_bear","xat:faelis_claw","xat:ender_tiara"],
         "itemcount": "0-1",
-        "random": "0.09"
+        "random": "0.018"
     }
 ]
