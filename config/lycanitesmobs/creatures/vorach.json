@@ -6,7 +6,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityVorach",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelVorach",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -25,7 +25,7 @@
     "biomeTags": [
       "nether"
     ],
-    "spawnWeight": 2,
+    "spawnWeight": 3,
     "dungeonWeight": 200,
     "spawnAreaLimit": 5,
     "spawnGroupMin": 1,

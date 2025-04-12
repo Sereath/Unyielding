@@ -185,7 +185,7 @@ key_key.craftingtweaks.refill_last_stack:15:NONE
 key_key.keyExtraInvo:45:NONE
 key_key.keyWheel:0:NONE
 key_key.keyExtraCraftin:0:NONE
-key_key.toggleLiquids:75:NONE
+key_key.toggleLiquids:0:NONE
 key_key.toggleVisible:0:NONE
 key_key.elenaidodge.dodge:-96:NONE
 key_keybind.enderskills.skill_bound.rotate_right:32:ALT

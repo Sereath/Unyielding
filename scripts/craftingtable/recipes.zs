@@ -115,11 +115,15 @@ recipes.remove(<enderio:item_stellar_alloy_helmet>);
 recipes.remove(<tconstruct:slimesling>);
 recipes.remove(<tconstruct:slimesling:1>);
 recipes.remove(<tconstruct:slimesling:2>);
+recipes.remove(<tconstruct:slimesling:3>);
 recipes.remove(<tconstruct:slimesling:4>);
+recipes.remove(<tconstruct:slimesling:5>);
 recipes.remove(<tconstruct:slime_boots>);
 recipes.remove(<tconstruct:slime_boots:1>);
 recipes.remove(<tconstruct:slime_boots:2>);
+recipes.remove(<tconstruct:slime_boots:3>);
 recipes.remove(<tconstruct:slime_boots:4>);
+recipes.remove(<tconstruct:slime_boots:5>);
 
 //drill
 recipes.remove(<actuallyadditions:item_drill:3>);
@@ -262,6 +266,8 @@ recipes.remove(<tombstone:scroll_buff:8>);
 recipes.remove(<tombstone:book_of_magic_impregnation>);
 
 recipes.remove(<roost:catcher>);
+recipes.remove(<roost:roost>);
+recipes.remove(<roost:breeder>);
 
 recipes.removeByRecipeName("theaurorian:items/auroriansteel");
 recipes.remove(<theaurorian:aurorianportalframebricks>);
@@ -288,6 +294,8 @@ recipes.remove(<flaskoflife:flask_healing>);
 recipes.remove(<extendedcrafting:handheld_table>);
 
 recipes.remove(<engineersdecor:factory_placer>);
+
+recipes.remove(<industrialrenewal:chunk_loader>);
 
 recipes.remove(<enderskills:token>);
 
@@ -323,6 +331,8 @@ recipes.addShaped(<tombstone:book_of_disenchantment>, [[<ore:dustGrave>, <random
 recipes.addShaped(<tombstone:book_of_magic_impregnation>, [[<ore:dustGrave>, <randomthings:ingredient:2>, <ore:dustGrave>],[<ore:itemWeatherCrystal>, <minecraft:book>, <ore:itemPrecientCrystal>], [<ore:dustGrave>, <randomthings:ingredient:2>, <ore:dustGrave>]]);
 
 recipes.addShaped(<roost:catcher>, [[null, <ore:itemAttractorCrystal>, null],[null, <ore:egg>, null], [<ore:feather>, <ore:stickWood>, <ore:feather>]]);
+recipes.addShaped(<roost:roost>, [[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>],[<ore:plankWood>, <ore:itemWeatherCrystal>, <ore:plankWood>], [<minecraft:hay_block>, <minecraft:hay_block>, <minecraft:hay_block>]]);
+recipes.addShaped(<roost:breeder>, [[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>],[<ore:plankWood>, <ore:itemPrecientCrystal>, <ore:plankWood>], [<minecraft:hay_block>, <minecraft:hay_block>, <minecraft:hay_block>]]);
 
 //recipes.addShaped(<xat:dwarf_stout>, [[<ore:ingotGlowing>, <dungeontactics:mithril_pickaxe>, <ore:ingotGlowing>],[<minecraft:dragon_breath>, <xat:dwarf_ring>, <minecraft:dragon_breath>], [<ore:ingotGlowing>, <minecraft:rabbit_stew>, <ore:ingotGlowing>]]);
 //recipes.addShaped(<xat:dragons_eye>, [[<xat:glow_ring>, <dungeontactics:mithril_sword>, <ore:gemGlowing>],[<dungeontactics:mithril_sword>, <minecraft:skull:5>, <dungeontactics:mithril_sword>], [<ore:gemGlowing>, <dungeontactics:mithril_sword>, <ore:gemGlowing>]]);
@@ -391,7 +401,7 @@ recipes.addShaped(<theaurorian:aurorianportalframebricks>, [[<jaopca:item_dustan
 
 recipes.addShaped(<corpsecomplex:scroll>, [[null, <nyx:fallen_star>, null],[<minecraft:rotten_flesh>, <ore:paper>, <ore:dustGlowing>], [null, <ore:enderpearl>, null]]);
 
-recipes.addShaped(<flaskoflife:flask_healing>, [[<minecraft:speckled_melon>, <grimoireofgaia:misc_giga_gear>, <minecraft:speckled_melon>],[<ore:itemVibrantCrystal>, <minecraft:glass_bottle>, <ore:itemVibrantCrystal>], [<minecraft:speckled_melon>, <xat:restoration_serum>, <minecraft:speckled_melon>]]);
+recipes.addShaped(<flaskoflife:flask_healing>, [[<minecraft:speckled_melon>, <xat:moon_rose>, <minecraft:speckled_melon>],[<ore:itemVibrantCrystal>, <minecraft:glass_bottle>, <ore:itemVibrantCrystal>], [<minecraft:speckled_melon>, <roughtweaks:medikitenchanted>, <minecraft:speckled_melon>]]);
 
 recipes.addShaped(<srparasites:nodecompass>, [[<ore:itemPrecientCrystal>, <srparasites:lurecomponent5>, <ore:itemWeatherCrystal>],[<srparasites:living_core>, <nyx:meteor_finder>, <srparasites:living_core>], [<ore:itemWeatherCrystal>, <techguns:itemshared:131>, <ore:itemPrecientCrystal>]]);
 recipes.addShaped(<srparasites:armor_helm>, [[<ore:dustMithril>, <ore:netherStar>, <ore:dustMithril>],[<ore:dustMithril>, <srparasites:armor_helm>, <ore:dustMithril>], [<ore:dustMithril>, <ore:dustMithril>, <ore:dustMithril>]]);

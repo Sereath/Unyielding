@@ -8,6 +8,9 @@ Recipes.setRecipeStageByMod("te", "thermalinnovation");
 Recipes.setRecipeStageByMod("te", "superiorshields");
 
 Recipes.setRecipeStageByMod("ir", "industrialrenewal");
+Recipes.setRecipeStageByMod("ir", "storagedrawers");
+Recipes.setRecipeStageByMod("ir", "fluiddrawers");
+Recipes.setRecipeStageByMod("ir", "filcabref");
 
 Recipes.setRecipeStageByMod("tg", "techguns");
 //137
@@ -21,7 +24,7 @@ Recipes.setRecipeStageByMod("mg", "rsgauges");
 Recipes.setRecipeStageByMod("mg", "betterboilers");
 
 Recipes.setRecipeStageByMod("aa", "actuallyadditions");
-Recipes.setRecipeStageByMod("aa", "xnet");
+Recipes.setRecipeStageByMod("cyc", "xnet");
 
 Recipes.setRecipeStageByMod("eio", "enderio");
 Recipes.setRecipeStageByMod("eio", "environmentaltech");

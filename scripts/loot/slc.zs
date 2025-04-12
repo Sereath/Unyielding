@@ -55,6 +55,7 @@ common.addItemEntry(<cyclicmagic:ender_snow>, 10, 1, [Functions.setCount(1, 1)],
 common.addItemEntry(<tconstruct:slime_boots>, 10, 1, [Functions.setCount(1, 1)], []);
 common.addItemEntry(<tconstruct:slime_boots:1>, 10, 1, [Functions.setCount(1, 1)], []);
 common.addItemEntry(<tconstruct:slime_boots:2>, 10, 1, [Functions.setCount(1, 1)], []);
+common.addItemEntry(<tconstruct:slime_boots:3>, 10, 1, [Functions.setCount(1, 1)], []);
 common.addItemEntry(<tconstruct:slime_boots:4>, 10, 1, [Functions.setCount(1, 1)], []);
 common.addItemEntry(<theaurorian:scrapaurorianite>, 10, 1, [Functions.setCount(1, 1)], []);
 common.addItemEntry(<theaurorian:scrapcrystalline>, 10, 1, [Functions.setCount(1, 1)], []);
@@ -112,6 +113,7 @@ uncommon.addItemEntry(<cyclicmagic:ender_snow>, 10, 1, [Functions.setCount(1, 1)
 uncommon.addItemEntry(<tconstruct:slime_boots>, 10, 1, [Functions.setCount(1, 1)], []);
 uncommon.addItemEntry(<tconstruct:slime_boots:1>, 10, 1, [Functions.setCount(1, 1)], []);
 uncommon.addItemEntry(<tconstruct:slime_boots:2>, 10, 1, [Functions.setCount(1, 1)], []);
+uncommon.addItemEntry(<tconstruct:slime_boots:3>, 10, 1, [Functions.setCount(1, 1)], []);
 uncommon.addItemEntry(<tconstruct:slime_boots:4>, 10, 1, [Functions.setCount(1, 1)], []);
 uncommon.addItemEntry(<theaurorian:scrapaurorianite>, 10, 1, [Functions.setCount(1, 2)], []);
 uncommon.addItemEntry(<theaurorian:scrapcrystalline>, 10, 1, [Functions.setCount(1, 2)], []);

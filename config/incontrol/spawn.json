@@ -556,7 +556,7 @@
 	//eyes
 	
 	{
-		"dimension": [0,424],
+		"dimension": [0,3,5,424],
 		"mob": "eyesinthedarkness:eyes",
 		"random": 0.00625,
 		"seesky": false,
@@ -569,7 +569,7 @@
 		"result": "allow"
 	},
 	{
-		"dimension": [0,424],
+		"dimension": [0,3,5,424],
 		"mob": "eyesinthedarkness:eyes",
 		"result": "deny"
 	},
@@ -890,6 +890,84 @@
 		"result": "deny"
 	},
 
+	//lm
+
+	{
+		"dimension": [3,5,7],
+		"mob": ["lycanitesmobs:ghoul","lycanitesmobs:kobold","lycanitesmobs:wraamon","lycanitesmobs:aglebemu","lycanitesmobs:darkling"],
+		"random": 1.0,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxheight": 192,
+		"maxcount":	{
+			"amount": 10,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": [3,5,7],
+		"mob": ["lycanitesmobs:ghoul","lycanitesmobs:kobold","lycanitesmobs:wraamon","lycanitesmobs:aglebemu","lycanitesmobs:darkling"],
+		"result": "deny"
+	},
+	//abyss
+	{
+		"dimension": 3,
+		"mob": ["lycanitesmobs:ent","lycanitesmobs:tpumpkyn","lycanitesmobs:triffid","lycanitesmobs:shambler","lycanitesmobs:remobra","lycanitesmobs:aspid","lycanitesmobs:calpod","lycanitesmobs:eyewig","lycanitesmobs:lurker","lycanitesmobs:gorgomite"],
+		"random": 1.0,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxheight": 192,
+		"maxcount":	{
+			"amount": 10,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 3,
+		"mob": ["lycanitesmobs:ent","lycanitesmobs:tpumpkyn","lycanitesmobs:triffid","lycanitesmobs:shambler","lycanitesmobs:remobra","lycanitesmobs:aspid","lycanitesmobs:calpod","lycanitesmobs:eyewig","lycanitesmobs:lurker","lycanitesmobs:gorgomite"],
+		"result": "deny"
+	},
+	//under
+	{
+		"dimension": 5,
+		"mob": ["lycanitesmobs:necrovore","lycanitesmobs:gnekk","lycanitesmobs:cacodemon","lycanitesmobs:astaroth","lycanitesmobs:trite","lycanitesmobs:belph","lycanitesmobs:pinky","lycanitesmobs:behemoth","lycanitesmobs:vorach","lycanitesmobs:archvile"],
+		"random": 1.0,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxheight": 192,
+		"maxcount":	{
+			"amount": 10,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 5,
+		"mob": ["lycanitesmobs:necrovore","lycanitesmobs:gnekk","lycanitesmobs:cacodemon","lycanitesmobs:astaroth","lycanitesmobs:trite","lycanitesmobs:belph","lycanitesmobs:pinky","lycanitesmobs:behemoth","lycanitesmobs:vorach","lycanitesmobs:archvile"],
+		"result": "deny"
+	},
+	//chasm
+	{
+		"dimension": 7,
+		"mob": "lycanitesmobs:dweller",
+		"random": 1.0,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxheight": 184,
+		"maxcount":	{
+			"amount": 10,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 7,
+		"mob": "lycanitesmobs:dweller",
+		"result": "deny"
+	},
+
 	//fishundeadmobcounter
 
 	{
@@ -958,7 +1036,7 @@
 	{
 		"mob": "mod_lavacow:enigmoth",
 		"mincount": {
-			"amount": 5,
+			"amount": 1,
 			"mob": "mod_lavacow:enigmoth",
 			"perchunk": true
 		},
@@ -967,7 +1045,7 @@
 	{
 		"mob": "mod_lavacow:enigmoth_larva",
 		"mincount": {
-			"amount": 5,
+			"amount": 1,
 			"mob": "mod_lavacow:enigmoth_larva",
 			"perchunk": true
 		},

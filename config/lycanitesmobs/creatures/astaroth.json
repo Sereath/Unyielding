@@ -27,7 +27,7 @@
       "nether",
       "end"
     ],
-    "spawnWeight": 2,
+    "spawnWeight": 3,
     "dungeonWeight": 0,
     "spawnAreaLimit": 2,
     "spawnGroupMin": 1,
@@ -41,7 +41,7 @@
   "width": 4.2,
   "height": 3.0,
   "experience": 15,
-  "health": 40,
+  "health": 50,
   "defense": 2,
   "armor": 0,
   "speed": 24,

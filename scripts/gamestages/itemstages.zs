@@ -8,6 +8,9 @@ mods.ItemStages.stageModItems("te", "thermalinnovation");
 mods.ItemStages.stageModItems("te", "superiorshields");
 
 mods.ItemStages.stageModItems("ir", "industrialrenewal");
+mods.ItemStages.stageModItems("ir", "storagedrawers");
+mods.ItemStages.stageModItems("ir", "fluiddrawers");
+mods.ItemStages.stageModItems("ir", "filcabref");
 
 mods.ItemStages.stageModItems("tg", "techguns");
 mods.ItemStages.stageModItems("tg", "soviet");
@@ -21,7 +24,7 @@ mods.ItemStages.stageModItems("mg", "rsgauges");
 mods.ItemStages.stageModItems("mg", "betterboilers");
 
 mods.ItemStages.stageModItems("aa", "actuallyadditions");
-mods.ItemStages.stageModItems("aa", "xnet");
+mods.ItemStages.stageModItems("cyc", "xnet");
 
 mods.ItemStages.stageModItems("eio", "enderio");
 mods.ItemStages.stageModItems("eio", "environmentaltech");

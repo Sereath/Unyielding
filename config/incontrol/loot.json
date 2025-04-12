@@ -460,7 +460,7 @@
         "mob": "minecraft:ender_dragon",
         "player": true,
         "item": "xat:dragon_ring",
-        "itemcount": "1",
+        "itemcount": "0-1",
         "random": "0.27"
     },
 

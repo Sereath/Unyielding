@@ -7,7 +7,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityGrigori",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelGrigori",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -45,7 +45,7 @@
   "effectDuration": 5,
   "effectAmplifier": 1,
   "pierce": 1,
-  "sight": 32,
+  "sight": 40,
   "knockbackResistance": 0,
   "eggBackColor": "#BE5163",
   "eggForeColor": "#4D0916",

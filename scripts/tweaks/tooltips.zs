@@ -264,6 +264,8 @@
 //<progressivecore:smelter4_on>.displayName = "Runite Smelter";
 
 
+<xat:glowing_gem>.addTooltip(format.aqua("Reforging material"));
+
 <randomthings:chunkanalyzer>.addTooltip(format.darkGreen("GPS"));
 
 <improvedbackpacks:backpack>.addTooltip(format.darkGray("Soulbound"));
@@ -271,24 +273,24 @@
 <flaskoflife:flask_healing>.addTooltip(format.darkGray("Soulbound"));
 <minecraft:compass>.addTooltip(format.darkGray("Soulbound"));
 
-<environmentaltech:void_ore_miner_cont_1>.addTooltip(format.darkGreen("Beneath only [10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_ore_miner_cont_2>.addTooltip(format.darkGreen("Beneath only [10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_ore_miner_cont_3>.addTooltip(format.darkGreen("Beneath only [10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_ore_miner_cont_4>.addTooltip(format.darkGreen("Beneath only [10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_ore_miner_cont_5>.addTooltip(format.darkGreen("Beneath only [10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_ore_miner_cont_6>.addTooltip(format.darkGreen("Beneath only [10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_res_miner_cont_1>.addTooltip(format.darkGreen("Underground only [5,7,10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_res_miner_cont_2>.addTooltip(format.darkGreen("Underground only [5,7,10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_res_miner_cont_3>.addTooltip(format.darkGreen("Underground only [5,7,10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_res_miner_cont_4>.addTooltip(format.darkGreen("Underground only [5,7,10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_res_miner_cont_5>.addTooltip(format.darkGreen("Underground only [5,7,10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_res_miner_cont_6>.addTooltip(format.darkGreen("Underground only [5,7,10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_botanic_miner_cont_1>.addTooltip(format.darkGreen("Underground only [3,5,7,10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_botanic_miner_cont_2>.addTooltip(format.darkGreen("Underground only [3,5,7,10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_botanic_miner_cont_3>.addTooltip(format.darkGreen("Underground only [3,5,7,10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_botanic_miner_cont_4>.addTooltip(format.darkGreen("Underground only [3,5,7,10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_botanic_miner_cont_5>.addTooltip(format.darkGreen("Underground only [3,5,7,10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
-<environmentaltech:void_botanic_miner_cont_6>.addTooltip(format.darkGreen("Underground only [3,5,7,10]. Must be placed no higher than 64 blocks above bedrock. In the event of failure, refresh your inventory."));
+<environmentaltech:void_ore_miner_cont_1>.addTooltip(format.darkGreen("Beneath only [10].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_ore_miner_cont_2>.addTooltip(format.darkGreen("Beneath only [10].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_ore_miner_cont_3>.addTooltip(format.darkGreen("Beneath only [10].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_ore_miner_cont_4>.addTooltip(format.darkGreen("Beneath only [10].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_ore_miner_cont_5>.addTooltip(format.darkGreen("Beneath only [10].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_ore_miner_cont_6>.addTooltip(format.darkGreen("Beneath only [10].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_res_miner_cont_1>.addTooltip(format.darkGreen("Underground only [5,7,10].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_res_miner_cont_2>.addTooltip(format.darkGreen("Underground only [5,7,10].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_res_miner_cont_3>.addTooltip(format.darkGreen("Underground only [5,7,10].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_res_miner_cont_4>.addTooltip(format.darkGreen("Underground only [5,7,10].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_res_miner_cont_5>.addTooltip(format.darkGreen("Underground only [5,7,10].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_res_miner_cont_6>.addTooltip(format.darkGreen("Underground only [5,7,10].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_botanic_miner_cont_1>.addTooltip(format.darkGreen("Underground only [3,5,7,10].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_botanic_miner_cont_2>.addTooltip(format.darkGreen("Underground only [3,5,7,10].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_botanic_miner_cont_3>.addTooltip(format.darkGreen("Underground only [3,5,7,10].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_botanic_miner_cont_4>.addTooltip(format.darkGreen("Underground only [3,5,7,10].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_botanic_miner_cont_5>.addTooltip(format.darkGreen("Underground only [3,5,7,10].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
+<environmentaltech:void_botanic_miner_cont_6>.addTooltip(format.darkGreen("Underground only [3,5,7,10].\n- Must be placed no higher than 64 blocks above bedrock.\n- In the event of failure, refresh your inventory."));
 
 <flaskoflife:flask_healing>.displayName = "§bFlask of Life";
 <flaskoflife:flask_healing>.addTooltip(format.darkGreen("Replenish by crouch-right clicking on a bed or beacon"));
@@ -302,16 +304,45 @@
 <roughtweaks:medikitenchanted>.addTooltip(format.darkGreen("32 uses"));
 
 <contenttweaker:book1>.displayName = "§bThermal Expansion";
+<contenttweaker:book1>.addTooltip(format.darkGray("- Thermal Dynamics"));
+<contenttweaker:book1>.addTooltip(format.darkGray("- Thermal Expansion"));
+<contenttweaker:book1>.addTooltip(format.darkGray("- Thermal Innovation"));
+<contenttweaker:book1>.addTooltip(format.darkGray("- Superior Shields"));
 <contenttweaker:book2>.displayName = "§bTechguns";
+<contenttweaker:book2>.addTooltip(format.darkGray("- Techguns"));
 <contenttweaker:book3>.displayName = "§bMagneticraft";
+<contenttweaker:book3>.addTooltip(format.darkGray("- Magneticraft"));
+<contenttweaker:book3>.addTooltip(format.darkGray("- Engineer's Decor"));
+<contenttweaker:book3>.addTooltip(format.darkGray("- Gauges and Switches"));
+<contenttweaker:book3>.addTooltip(format.darkGray("- Better Boilers"));
 <contenttweaker:book4>.displayName = "§bActually Additions";
+<contenttweaker:book4>.addTooltip(format.darkGray("- Actually Additions"));
 <contenttweaker:book5>.displayName = "§bEnder IO";
+<contenttweaker:book5>.addTooltip(format.darkGray("- Ender IO"));
+<contenttweaker:book5>.addTooltip(format.darkGray("- Environmental Tech"));
+<contenttweaker:book5>.addTooltip(format.darkGray("- NuclearCraft Reactor Builder"));
 <contenttweaker:book6>.displayName = "§bOpen Modular Turrets";
+<contenttweaker:book6>.addTooltip(format.darkGray("- Open Modular Turrets"));
+<contenttweaker:book6>.addTooltip(format.darkGray("- Portality"));
+<contenttweaker:book6>.addTooltip(format.darkGray("- Scannable"));
 <contenttweaker:book7>.displayName = "§bCyclic";
+<contenttweaker:book7>.addTooltip(format.darkGray("- Cyclic"));
+<contenttweaker:book7>.addTooltip(format.darkGray("- XNet"));
 <contenttweaker:book8>.displayName = "§bRandom Blocks";
+<contenttweaker:book8>.addTooltip(format.darkGray("- OpenBlocks"));
+<contenttweaker:book8>.addTooltip(format.darkGray("- Random Things"));
+<contenttweaker:book8>.addTooltip(format.darkGray("- CompositeGear"));
+<contenttweaker:book8>.addTooltip(format.darkGray("- Refined Relocation 2"));
 <contenttweaker:book9>.displayName = "§bRelics";
+<contenttweaker:book9>.addTooltip(format.darkGray("- Trinkets and Baubles"));
 <contenttweaker:book10>.displayName = "§bNuclearCraft";
+<contenttweaker:book10>.addTooltip(format.darkGray("- NuclearCraft: Overhauled"));
+<contenttweaker:book10>.addTooltip(format.darkGray("- QMD"));
 <contenttweaker:book11>.displayName = "§bIndustrial Renewal";
+<contenttweaker:book11>.addTooltip(format.darkGray("- Industrial Renewal"));
+<contenttweaker:book11>.addTooltip(format.darkGray("- Storage Drawers"));
+<contenttweaker:book11>.addTooltip(format.darkGray("- Fluid Drawers"));
+<contenttweaker:book11>.addTooltip(format.darkGray("- Filing Cabinets Refurbished"));
 
 <unyielding:scraps1>.displayName = "§bte";
 <unyielding:scraps2>.displayName = "§btg";

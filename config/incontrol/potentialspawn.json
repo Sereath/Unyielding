@@ -366,7 +366,7 @@
 	//eyes
 	
 	{
-		"dimension": [0,424],
+		"dimension": [0,3,5,424],
 		"mobs":	[
 			{
 				"mob": "eyesinthedarkness:eyes",
@@ -666,6 +666,298 @@
 		"mobs":	[
 			{
 				"mob": "srrevenants:for_sheep",
+				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+
+	//lm
+
+	{
+		"dimension": [3,5,7],
+		"mobs":	[
+			{
+				"mob": "lycanitesmobs:ghoul",
+				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": [3,5,7],
+		"mobs":	[
+			{
+				"mob": "lycanitesmobs:kobold",
+				"weight": 10,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": [3,5,7],
+		"mobs":	[
+			{
+				"mob": "lycanitesmobs:wraamon",
+				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": [3,5,7],
+		"mobs":	[
+			{
+				"mob": "lycanitesmobs:aglebemu",
+				"weight": 20,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": [3,5,7],
+		"mobs":	[
+			{
+				"mob": "lycanitesmobs:darkling",
+				"weight": 20,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	//abyss
+	{
+		"dimension": 3,
+		"mobs":	[
+			{
+				"mob": "lycanitesmobs:ent",
+				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": 3,
+		"mobs":	[
+			{
+				"mob": "lycanitesmobs:tpumpkyn",
+				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": 3,
+		"mobs":	[
+			{
+				"mob": "lycanitesmobs:triffid",
+				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": 3,
+		"mobs":	[
+			{
+				"mob": "lycanitesmobs:shambler",
+				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": 3,
+		"mobs":	[
+			{
+				"mob": "lycanitesmobs:remobra",
+				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": 3,
+		"mobs":	[
+			{
+				"mob": "lycanitesmobs:aspid",
+				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": 3,
+		"mobs":	[
+			{
+				"mob": "lycanitesmobs:calpod",
+				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": 3,
+		"mobs":	[
+			{
+				"mob": "lycanitesmobs:eyewig",
+				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": 3,
+		"mobs":	[
+			{
+				"mob": "lycanitesmobs:lurker",
+				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": 3,
+		"mobs":	[
+			{
+				"mob": "lycanitesmobs:gorgomite",
+				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	//under
+	{
+		"dimension": 5,
+		"mobs":	[
+			{
+				"mob": "lycanitesmobs:necrovore",
+				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": 5,
+		"mobs":	[
+			{
+				"mob": "lycanitesmobs:gnekk",
+				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": 5,
+		"mobs":	[
+			{
+				"mob": "lycanitesmobs:cacodemon",
+				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": 5,
+		"mobs":	[
+			{
+				"mob": "lycanitesmobs:astaroth",
+				"weight": 20,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": 5,
+		"mobs":	[
+			{
+				"mob": "lycanitesmobs:trite",
+				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": 5,
+		"mobs":	[
+			{
+				"mob": "lycanitesmobs:belph",
+				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": 5,
+		"mobs":	[
+			{
+				"mob": "lycanitesmobs:pinky",
+				"weight": 30,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": 5,
+		"mobs":	[
+			{
+				"mob": "lycanitesmobs:behemoth",
+				"weight": 10,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": 5,
+		"mobs":	[
+			{
+				"mob": "lycanitesmobs:vorach",
+				"weight": 20,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": 5,
+		"mobs":	[
+			{
+				"mob": "lycanitesmobs:archvile",
+				"weight": 5,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	//chasm
+	{
+		"dimension": 7,
+		"mobs":	[
+			{
+				"mob": "lycanitesmobs:dweller",
 				"weight": 40,
 				"groupcountmin": 1,
 				"groupcountmax": 1
