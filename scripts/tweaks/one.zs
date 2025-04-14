@@ -25,11 +25,11 @@ import crafttweaker.item.IIngredient;
 
 <cyclicmagic:charm_antidote>.maxDamage = 8;
 <cyclicmagic:charm_water>.maxDamage = 16;
-<cyclicmagic:charm_air>.maxDamage = 2048;
+<cyclicmagic:charm_air>.maxDamage = 1024;
 <cyclicmagic:charm_void>.maxDamage = 4;
 <cyclicmagic:charm_boat>.maxDamage = 2048;
 <cyclicmagic:charm_fire>.maxDamage = 8;
-<cyclicmagic:charm_speed>.maxDamage = 8192;
+<cyclicmagic:charm_speed>.maxDamage = 2048;
 <cyclicmagic:charm_wing>.maxDamage = 32;
 
 <cqrepoured:hookshot>.maxDamage = 90;
@@ -65,3 +65,6 @@ parasiterubble.hardness = 5;
 
 val miaglass as IItemStack = <mia:armored_glass>;
 miaglass.hardness = 3;
+
+val thutecb as IItemStack = <thuttech:lift:1>;
+thutecb.hardness = 17;

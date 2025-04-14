@@ -7,5 +7,6 @@ LootTable.removeGlobalItem("minecraft:elytra");
 LootTable.removeGlobalItem("quark:soul_bead");
 LootTable.removeGlobalItem("enderio:item_dark_steel_sword");
 LootTable.removeGlobalItem("enderio:item_dark_steel_boots");
+LootTable.removeGlobalItem("cyclicmagic:charm_air");
 
 //LootTable.removeGlobalItem("touhou_little_maid:power_point");

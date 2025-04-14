@@ -603,6 +603,14 @@
 		"result": "deny"
 	},
 
+	//beneath
+
+	{
+		"dimension": 10,
+		"mob": ["beneath:shadow","beneath:hand"],
+		"result": "deny"
+	},
+
 	//srp
 
 	{

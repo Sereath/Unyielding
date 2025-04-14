@@ -1,8 +1,9 @@
 {
   "name": "monster",
-  "loadDefault": true,
+  "loadDefault": false,
   "hunt": [
-    "humanoid"
+    "humanoid",
+    "srp"
   ],
   "pack": [],
   "wary": [],

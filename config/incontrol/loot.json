@@ -192,7 +192,7 @@
         "player": true,
         "item": "unyielding:scraps2",
         "itemcount": "1",
-        "random": "0.6"
+        "random": "0.3"
     },
     {
         "mob": "techguns:psychosteve",
@@ -206,21 +206,21 @@
         "player": true,
         "item": "unyielding:scraps1",
         "itemcount": "1",
-        "random": "0.2"
+        "random": "0.09"
     },
     {
         "mob": "techguns:psychosteve",
         "player": true,
         "item": "unyielding:scraps4",
         "itemcount": "1",
-        "random": "0.2"
+        "random": "0.09"
     },
     {
         "mob": "techguns:psychosteve",
         "player": true,
         "item": "unyielding:scraps6",
         "itemcount": "1",
-        "random": "0.09"
+        "random": "0.03"
     },
     {
         "mob": "techguns:psychosteve",
@@ -234,7 +234,7 @@
         "player": true,
         "item": "unyielding:scraps11",
         "itemcount": "1",
-        "random": "0.9"
+        "random": "0.6"
     },
 
     //mutants
@@ -244,7 +244,7 @@
         "player": true,
         "item": "unyielding:scraps10",
         "itemcount": "1",
-        "random": "0.6"
+        "random": "0.09"
     },
     
     {
@@ -252,7 +252,7 @@
         "player": true,
         "item": "unyielding:scraps10",
         "itemcount": "1",
-        "random": "0.9"
+        "random": "0.2"
     },
     
     {
@@ -260,7 +260,7 @@
         "player": true,
         "item": "unyielding:scraps10",
         "itemcount": "1",
-        "random": "0.9"
+        "random": "0.3"
     },
 
     //stormtrooper
@@ -277,14 +277,14 @@
         "player": true,
         "item": "unyielding:scraps7",
         "itemcount": "1",
-        "random": "0.2"
+        "random": "0.06"
     },
     {
         "mob": "techguns:stormtrooper",
         "player": true,
         "item": "unyielding:scraps5",
         "itemcount": "1",
-        "random": "0.09"
+        "random": "0.02"
     },
 
     //bosszombie
