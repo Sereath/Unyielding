@@ -29,7 +29,7 @@
     },
     {
       "featureType": "damage",
-      "damageAmount": 4,
+      "damageAmount": 5,
       "damageKnockback": 0,
       "damageCooldown": 1,
       "damageRange": 1,
