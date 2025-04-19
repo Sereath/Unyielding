@@ -1,0 +1,19 @@
+{
+	x: -6.0d,
+	y: -2.0d,
+	text: [
+		"- Thermal Dynamics",
+		"- Thermal Expansion",
+		"- Thermal Innovation",
+		"- Superior Shields"
+	],
+	tasks: [{
+		uid: "4b9c7242",
+		type: "item",
+		items: [{
+			item: "contenttweaker:book1"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

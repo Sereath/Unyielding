@@ -1,0 +1,16 @@
+{
+	x: -5.5d,
+	y: -3.0d,
+	text: [
+		"- Actually Additions"
+	],
+	tasks: [{
+		uid: "d71e3697",
+		type: "item",
+		items: [{
+			item: "contenttweaker:book4"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

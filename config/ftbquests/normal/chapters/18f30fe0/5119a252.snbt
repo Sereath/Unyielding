@@ -1,0 +1,17 @@
+{
+	x: -7.0d,
+	y: -2.5d,
+	text: [
+		"- Cyclic",
+		"- XNet"
+	],
+	tasks: [{
+		uid: "51966c05",
+		type: "item",
+		items: [{
+			item: "contenttweaker:book7"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

@@ -24,27 +24,27 @@
 					],
 					AttributeModifiers: [{
 						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.projectileDamage",
+						Name: "qualitytools",
 						Operation: 2,
 						UUIDMost: -403999294513525733L,
 						UUIDLeast: -5117634773866079709L,
-						Name: "qualitytools"
+						AttributeName: "potioncore.projectileDamage"
 					},
 					{
 						Amount: 0.029999999329447746d,
-						AttributeName: "generic.attackDamage",
+						Name: "qualitytools",
 						Operation: 2,
 						UUIDMost: -6548348725318103258L,
 						UUIDLeast: -9112608322736566202L,
-						Name: "qualitytools"
+						AttributeName: "generic.attackDamage"
 					},
 					{
 						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.magicDamage",
+						Name: "qualitytools",
 						Operation: 2,
 						UUIDMost: 2760216058094502692L,
 						UUIDLeast: -5382339574459010923L,
-						Name: "qualitytools"
+						AttributeName: "potioncore.magicDamage"
 					}]
 				},
 				ClientInventory: []

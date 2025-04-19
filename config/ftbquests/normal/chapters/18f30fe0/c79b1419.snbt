@@ -1,0 +1,19 @@
+{
+	x: -4.5d,
+	y: -2.5d,
+	text: [
+		"- Industrial Renewal",
+		"- Storage Drawers",
+		"- Fluid Drawers",
+		"- Filing Cabinets Refurbished"
+	],
+	tasks: [{
+		uid: "632278ea",
+		type: "item",
+		items: [{
+			item: "contenttweaker:book11"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

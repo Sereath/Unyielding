@@ -7,22 +7,6 @@
 		items: [{
 			ForgeCaps: {
 				"xat:trinket": {
-					Quality: {
-						Name: "quality.unlucky.name",
-						Color: "red",
-						Slots: [
-							"baubles_trinket",
-							"offhand"
-						],
-						AttributeModifiers: [{
-							Amount: -0.20000000298023224d,
-							AttributeName: "generic.luck",
-							Operation: 0,
-							UUIDMost: -8569045248132166407L,
-							UUIDLeast: -8680922645803156445L,
-							Name: "qualitytools"
-						}]
-					},
 					"xat:Trinket": {
 						variant: 0,
 						Counters: {},
@@ -38,26 +22,26 @@
 						main.ability: 0b,
 						slot: -1,
 						handler: "None"
+					},
+					Quality: {
+						Name: "quality.unlucky.name",
+						Color: "red",
+						Slots: [
+							"baubles_trinket",
+							"offhand"
+						],
+						AttributeModifiers: [{
+							Amount: -0.20000000298023224d,
+							Name: "qualitytools",
+							Operation: 0,
+							UUIDMost: -8569045248132166407L,
+							UUIDLeast: -8680922645803156445L,
+							AttributeName: "generic.luck"
+						}]
 					}
 				}
 			},
 			tag: {
-				Quality: {
-					Name: "quality.unlucky.name",
-					Color: "red",
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					AttributeModifiers: [{
-						Amount: -0.20000000298023224d,
-						AttributeName: "generic.luck",
-						Operation: 0,
-						UUIDMost: -8569045248132166407L,
-						UUIDLeast: -8680922645803156445L,
-						Name: "qualitytools"
-					}]
-				},
 				"xat:Trinket": {
 					variant: 0,
 					Counters: {},
@@ -73,6 +57,22 @@
 					main.ability: 0b,
 					slot: -1,
 					handler: "None"
+				},
+				Quality: {
+					Name: "quality.unlucky.name",
+					Color: "red",
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					AttributeModifiers: [{
+						Amount: -0.20000000298023224d,
+						Name: "qualitytools",
+						Operation: 0,
+						UUIDMost: -8569045248132166407L,
+						UUIDLeast: -8680922645803156445L,
+						AttributeName: "generic.luck"
+					}]
 				}
 			},
 			id: "xat:weightless_stone"

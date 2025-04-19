@@ -1,0 +1,16 @@
+{
+	x: -3.5d,
+	y: -2.0d,
+	text: [
+		"- Trinkets and Baubles"
+	],
+	tasks: [{
+		uid: "ef97f357",
+		type: "item",
+		items: [{
+			item: "contenttweaker:book9"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

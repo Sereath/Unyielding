@@ -1,0 +1,19 @@
+{
+	x: -6.5d,
+	y: -3.5d,
+	text: [
+		"- OpenBlocks",
+		"- Random Things",
+		"- CompositeGear",
+		"- Refined Relocation 2"
+	],
+	tasks: [{
+		uid: "666d0c16",
+		type: "item",
+		items: [{
+			item: "contenttweaker:book8"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

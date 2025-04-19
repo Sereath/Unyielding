@@ -1,0 +1,18 @@
+{
+	x: -1.0d,
+	y: -2.0d,
+	text: [
+		"- Ender IO",
+		"- Environmental Tech",
+		"- NuclearCraft Reactor Builder"
+	],
+	tasks: [{
+		uid: "943fc5b1",
+		type: "item",
+		items: [{
+			item: "contenttweaker:book5"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}
