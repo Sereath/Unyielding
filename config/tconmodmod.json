@@ -11,10 +11,6 @@
                 "value": 3
             },
             {
-                "type": "per_level",
-                "value": 1
-            },
-            {
                 "type": "material",
                 "value": [
                     {
@@ -26,6 +22,28 @@
             }
         ]
     },
+	{
+        "modifier": "haste",
+        "mutations": [
+            {
+                "type": "per_level",
+                "value": 64
+            },
+            {
+                "type": "max_level",
+                "value": 2
+            },
+            {
+                "type": "material",
+                "value": [
+                    {
+                        "type": "ore",
+                        "ore": "dustRedstone"
+                    }
+                ]
+            }
+		]
+	},
 	{
         "modifier": "necrotic",
         "mutations": [
