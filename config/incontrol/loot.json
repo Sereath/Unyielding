@@ -76,6 +76,16 @@
         "random": "0.00009"
     },
 
+    //mowzies
+
+    {
+        "mob": "mowziesmobs:grottol",
+        "player": true,
+        "item": "minecraft:diamond",
+        "itemcount": "1-2/2-3/3-4",
+        "random": "1.0"
+    },
+
     //techguns
 
     {
