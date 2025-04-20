@@ -25,11 +25,11 @@ import crafttweaker.item.IIngredient;
 
 <cyclicmagic:charm_antidote>.maxDamage = 8;
 <cyclicmagic:charm_water>.maxDamage = 16;
-<cyclicmagic:charm_air>.maxDamage = 1024;
+<cyclicmagic:charm_air>.maxDamage = 512;
 <cyclicmagic:charm_void>.maxDamage = 4;
-<cyclicmagic:charm_boat>.maxDamage = 2048;
+<cyclicmagic:charm_boat>.maxDamage = 512;
 <cyclicmagic:charm_fire>.maxDamage = 8;
-<cyclicmagic:charm_speed>.maxDamage = 2048;
+<cyclicmagic:charm_speed>.maxDamage = 512;
 <cyclicmagic:charm_wing>.maxDamage = 32;
 
 <cqrepoured:hookshot>.maxDamage = 90;
