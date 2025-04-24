@@ -281,7 +281,7 @@ key_gui.xaero_reverse_entity_radar:0:NONE
 key_gui.xaero_toggle_manual_cave_mode:0:NONE
 key_gui.xaero_alternative_list_players:0:NONE
 key_gui.xaero_toggle_tracked_players:0:NONE
-key_gui.xaero_minimap_settings:21:CONTROL
+key_gui.xaero_minimap_settings:0:NONE
 key_gui.xaero_open_map:50:NONE
 key_gui.xaero_open_settings:0:NONE
 key_gui.xaero_map_zoom_in:0:NONE

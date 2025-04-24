@@ -44,7 +44,6 @@ BiomeTweaker-1.12.2-3.2.369
 bogosorter-1.4.10
 Bookshelf-1.12.2-2.3.590
 Bountiful Baubles-1.12.2-0.1.8
-Bountiful-1.12.2-2.2.3
 BringMeTheRings-0.4
 BuildingGadgets-2.8.4
 Bundles-1.2.3
@@ -190,7 +189,7 @@ itemzoom_1.12.2-1.11
 IvToolkit-1.3.3-1.12
 JAOPCA-1.12.2-2.2.8.106
 JEI-Utilities-1.12.2-0.2.12
-jei_area_fixer-2.1.0
+jei_area_fixer-2.2.0
 jepb-1.12-1.2.1
 jetif-1.12.2-1.5.2
 justenoughdimensions-1.12.2-1.6.0-dev.20200416.184714
@@ -382,7 +381,7 @@ tumbleweed-1.12-0.4.7
 tweakersconstruct-1.12.2-1.6.1
 UniDict-1.12.2-3.0.10
 Unifine-1.12.2-0.1.0
-UniLib-1.0.5+1.12.2-forge
+UniLib-1.0.6+1.12.2-forge
 Unique Enchantments Base-1.12.2-1.1.4
 Unique Enchantments Battle-1.12.2-1.1.6
 Unique Enchantments-1.12.2-2.1.4
