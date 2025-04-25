@@ -96,7 +96,7 @@
   {
     "identifier": "adaptable",
     "enabled": true,
-    "entityBlacklist": ["srparasites:sim_bigspider", "srparasites:sim_human", "srparasites:sim_cow", "srparasites:sim_sheep", "srparasites:sim_wolf", "srparasites:sim_pig",
+    "entityBlacklist": ["minecraft:ender_dragon", "srparasites:sim_bigspider", "srparasites:sim_human", "srparasites:sim_cow", "srparasites:sim_sheep", "srparasites:sim_wolf", "srparasites:sim_pig",
       "srparasites:sim_villager", "srparasites:sim_adventurer", "srparasites:sim_horse", "srparasites:sim_bear", "srparasites:sim_enderman", "srparasites:sim_dragone", "srparasites:sim_sheephead", "srparasites:sim_wolfhead",
       "srparasites:sim_cowhead", "srparasites:sim_pighead", "srparasites:sim_villagerhead", "srparasites:sim_horsehead", "srparasites:sim_humanhead", "srparasites:sim_endermanhead", "srparasites:sim_dragonehead", "srparasites:sim_adventurerhead", "srparasites:incompleteform_small", "srparasites:incompleteform_medium",
       "srparasites:carrier_heavy", "srparasites:buglin", "srparasites:carrier_flying", "srparasites:rupter", "srparasites:movingflesh", "srparasites:worker", "srparasites:mangler", "srparasites:beckon_si", "srparasites:beckon_sii",
@@ -134,7 +134,7 @@
   {
     "identifier": "shielding",
     "enabled": false,
-    "entityBlacklist": [],
+    "entityBlacklist": ["minecraft:ender_dragon"],
     "alwaysOnEntity": ["grimoireofgaia:holstaurus"],
     "tier": 1
   },

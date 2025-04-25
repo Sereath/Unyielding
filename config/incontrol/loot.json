@@ -469,7 +469,7 @@
     {
         "mob": "minecraft:ender_dragon",
         "player": true,
-        "item": "xat:dragon_ring",
+        "item": "xat:moon_rose",
         "itemcount": "0-1",
         "random": "0.27"
     },
@@ -530,7 +530,7 @@
     {
         "mob": ["grimoireofgaia:bone_knight","grimoireofgaia:minotaur","grimoireofgaia:flesh_lich","grimoireofgaia:vampire"],
         "player": true,
-        "item": ["xat:fairy_ring","xat:dwarf_ring"],
+        "item": ["xat:moon_rose","xat:dwarf_ring"],
         "itemcount": "0-1",
         "random": "0.018"
     },
