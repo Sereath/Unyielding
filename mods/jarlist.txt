@@ -245,6 +245,7 @@ mysticalworld-1.12.2-1.11.0
 natura-1.12.2-4.3.2.69
 NC-ReactorBuilder-1.12.2-1.0.4b
 NCOLegacyLib-1.12.2-1.2
+Neat 1.4-17
 NetherEx-1.12.2-2.2.5
 neverenoughanimations-1.0.5
 nolavabuild-1.12.2-1.0.0
