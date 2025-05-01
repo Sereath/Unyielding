@@ -2,8 +2,7 @@
 
 import crafttweaker.item.IItemStack;
 
-// Define an array
-val itemList = [
+val weaponsList = [
     <soviet:hammer>,
     <ancientwarfare:wooden_quill>,
     <ancientwarfare:stone_quill>,
@@ -269,6 +268,12 @@ val itemList = [
     <mutantbeasts:endersoul_hand>,
     <mutantbeasts:hulk_hammer>,
     <oe:trident>,
+    <progressivecore:sword_hellsteel>,
+    <progressivecore:sword_titanium>,
+    <progressivecore:sword_mithril>,
+    <progressivecore:sword_orichalcum>,
+    <progressivecore:sword_adamantite>,
+    <progressivecore:magmatic_blade>,
     <nyx:meteor_sword>,
     <nyx:meteor_hammer>,
     <nyx:scythe>,
@@ -570,11 +575,10 @@ val itemList = [
     <mysticalworld:amethyst_sword>
 ] as IItemStack[];
 
-// Loop through each item and add the Ender Crafting recipe
-for item in itemList {
-    mods.extendedcrafting.EnderCrafting.addShaped(item, [
+for weapons in weaponsList {
+    mods.extendedcrafting.EnderCrafting.addShaped(weapons, [
         [<nyx:fallen_star>, <lycanitesmobs:soulstone>, <nyx:fallen_star>],
-        [<nyx:fallen_star>, item, <nyx:fallen_star>],
+        [<nyx:fallen_star>, weapons, <nyx:fallen_star>],
         [<xat:moon_rose>, <ore:gemGlowing>, <xat:moon_rose>]
     ]);
 }

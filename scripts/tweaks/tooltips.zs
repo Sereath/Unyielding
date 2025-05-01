@@ -357,3 +357,7 @@
 <unyielding:scraps11>.displayName = "§bir";
 
 <progressivecore:reality_crystal>.displayName = "§bReality Crystal";
+
+<extendedcrafting:ender_crafter>.displayName = "§3Ender Crafter";
+<extendedcrafting:ender_crafter>.addTooltip(format.aqua("Revitalise your equipment here"));
+<extendedcrafting:ender_alternator>.displayName = "§bEnder Alternator";

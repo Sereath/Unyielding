@@ -68,3 +68,6 @@ miaglass.hardness = 3;
 
 val thutecb as IItemStack = <thuttech:lift:1>;
 thutecb.hardness = 17;
+
+val dlvstore as IItemStack = <delivery:store>;
+dlvstore.hardness = 100;
