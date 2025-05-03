@@ -90,6 +90,11 @@ key_Toggle Customization Overlay | CTRL + ALT + :50
 key_key.groovyscript.reload:0
 key_Toggle Slot Lock:82
 key_Take Panorama Screenshot:25:ALT
+key_flare.key.start_sampling:0
+key_flare.key.stop_sampling:0
+key_flare.key.start_client_sampling:0
+key_flare.key.stop_client_sampling:0
+key_flare.key.open_tick_tracking_menu:0
 key_keybind.baublesinventory:18:ALT
 key_arcanearchives.gui.keybinds.manifest:0
 key_quark.keybind.lockBuilding:76

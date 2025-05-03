@@ -112,6 +112,7 @@ Easy+Shulker+Access-1.12.2-1.1.1
 EerieEntities-1.12.2-1.0.8
 ElenaiDodge-1.12.2-2.1
 enchcontrol-1.12.2-1.1.5-0
+enchlib-1.12.2-1.1.0
 EnderCore-1.12.2-0.5.78
 EnderIO-1.12.2-5.3.72
 EnderIO-endergy-1.12.2-5.3.72
@@ -137,6 +138,7 @@ FarmingForBlockheads_1.12.2-3.1.28
 filcabref-1.12.2-1.0.0
 Fish's Undead Rising-1.4.2
 Fixeroo-2.1-ActuallyWorksNowEdition
+flare-0.5.0
 flaskoflife-1.0.3HOTFIX-3
 fluiddrawers-1.12.2-1.0.7
 foamfix-0.10.15-1.12.2
@@ -307,6 +309,7 @@ roughmobsrevamped-1.12.2-2.3.23
 roughTweaks0.2.4-1.12.2
 rsgauges-1.12.2-1.2.8
 rustic-1.1.7
+sanity-1.2.8
 SBM-BoneTorch-1.12.2-0.0.1b12
 scalar-3.6.4
 Scannable-MC1.12.2-1.6.3.26
@@ -329,7 +332,6 @@ solcarrot-1.12.2-1.8.4
 SoulShardsRespawn-1.12.2-1.1.2
 SoundFilters-0.12.1_for_1.12
 Soviet+Era+0.6
-spark-forge1122
 spartanlightning-0.4
 SpartanNetherite-1.12.2-1.2.1
 SpartanShields-1.12.2-1.5.5
