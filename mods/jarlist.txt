@@ -45,6 +45,7 @@ bogosorter-1.4.10
 Bookshelf-1.12.2-2.3.590
 Bountiful Baubles-1.12.2-0.1.8
 BringMeTheRings-0.4
+brokenwings-3.0.0
 BuildingGadgets-2.8.4
 Bundles-1.2.3
 Caliper-1.12.2-1.1.44
