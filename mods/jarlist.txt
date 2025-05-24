@@ -2,7 +2,7 @@
 !mixinbooter-10.5
 !mod-director-launchwrapper-1.8.3
 !Red-Core-MC-1.8-1.12-0.6
-+Fugue-0.18.5
++Fugue-0.18.6
 ActuallyAdditions-1.12.2-r152
 ActuallyBaubles-1.12-1.1
 AggroTP-0.4.1
@@ -36,8 +36,8 @@ BetterMineshaftsForge-1.12.2-2.2.1
 BetterSpartanArchery-1.12.2-1.4.1-1.2a
 BetterStronghold -0.1
 BetterThirdPerson-Forge-1.12.2-1.9.0
-BHMenu-Forge-1.12.2-2.4.4
-bilingualname-2.0
+BHMenu-Forge-1.12.2-2.4.5
+bilingualname-2.1
 biomeinfo-1.12.2-v1.2.5
 BiomesOPlenty-1.12.2-7.0.1.2445-universal
 BiomeTweaker-1.12.2-3.2.369
@@ -84,7 +84,7 @@ corpsecomplex-1.12.2-1.0.12.0
 CosmeticArmorReworked-1.12.2-v5a
 cosmeticbeds-1.12.2-1.0.2.2
 CraftingTweaks_1.12.2-9.0.1
-CraftPresence-2.5.5+1.12.2-forge
+CraftPresence-2.6.1+1.12.2-forge
 CraftTweaker2-1.12-4.1.20.703
 CreativeCore_v1.10.71_mc1.12.2
 CTM-MC1.12.2-1.0.2.31
@@ -117,7 +117,7 @@ enchlib-1.12.2-1.1.0
 EnderCore-1.12.2-0.5.78
 EnderIO-1.12.2-5.3.72
 EnderIO-endergy-1.12.2-5.3.72
-endermodpacktweaks-0.5.3
+endermodpacktweaks-0.5.6
 EnderSkills-1.12.2-1.16.1.4
 engineersdecor-1.12.2-1.1.5
 enhancedarmaments-1.3.21
@@ -139,7 +139,7 @@ FarmingForBlockheads_1.12.2-3.1.28
 filcabref-1.12.2-1.0.0
 Fish's Undead Rising-1.4.2
 Fixeroo-2.1-ActuallyWorksNowEdition
-flare-0.5.0
+flare-0.6.0
 flaskoflife-1.0.3HOTFIX-3
 fluiddrawers-1.12.2-1.0.7
 foamfix-0.10.15-1.12.2
@@ -159,9 +159,8 @@ fxcontrol-1.12-0.1.15
 GamblingStyle-v1.1.3-1.12.2
 GameStages-1.12.2-2.0.123
 geckolib-forge-1.12.2-3.0.31
-gnetum-1.2.2
 GrimoireOfGaia3-1.12.2-1.7.2
-groovyscript-1.2.3
+groovyscript-1.2.4
 growthcraft-1.12.2-4.3.0
 HadEnoughItems_1.12.2-4.27.3
 harderbedcrafting-1.0
@@ -183,7 +182,7 @@ IndustrialRenewal_1.12.2-0.21.8
 Inhibited-1.2.0
 Inspirations-1.12.2-0.2.9
 instantdrown-1.12.2-1.1
-Into the Dungeons - 1.5-1
+Into The Dungeons - 1.6
 InventoryHUD-1.12.2.forge-3.4.4
 InvHUD_Configurable-1.0.1
 ItemBlacklist-1.4.3
@@ -385,7 +384,7 @@ tumbleweed-1.12-0.4.7
 tweakersconstruct-1.12.2-1.6.1
 UniDict-1.12.2-3.0.10
 Unifine-1.12.2-0.1.0
-UniLib-1.0.6+1.12.2-forge
+UniLib-1.1.0+1.12.2-forge
 Unique Enchantments Base-1.12.2-1.1.4
 Unique Enchantments Battle-1.12.2-1.1.6
 Unique Enchantments-1.12.2-2.1.4
@@ -403,9 +402,9 @@ Well-Mod-v1.0.1-mc1.12.2
 Wither-Config-1.2.1
 worldprimer-1.12.2-0.6.0-dev.20200122.211517
 world_generation_profiler-[1.8-1.12.2]-1.2.1.5
-WorseHurtTimer-1.12.2-1.5.0.1
+WorseHurtTimer-1.12.2-1.5.0.3
 WrapUp-1.12-1.1.3
-XaerosWorldMap_1.39.4_Forge_1.12
+XaerosWorldMap_1.39.9_Forge_1.12
 Xaeros_Minimap_FP24.2.0_Forge_1.12
 XL-Food-Mod-1.12.2-1.9.2
 xnet-1.12-1.8.2

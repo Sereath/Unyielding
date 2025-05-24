@@ -40,7 +40,7 @@ val metalpanel as IItemStack = <techguns:metalpanel>;
 val nethermetal as IItemStack = <techguns:nethermetal>;
 val concrete as IItemStack = <techguns:concrete>;
 metalpanel.hardness = 18;
-nethermetal.hardness = 21;
+nethermetal.hardness = 18;
 concrete.hardness = 15;
 val stairs_metal as IItemStack = <techguns:stairs_metal>;
 val stairs_concrete as IItemStack = <techguns:stairs_concrete>;
@@ -62,6 +62,8 @@ eioro.hardness = 18;
 //bleeding_obsidian.hardness = 16;
 val parasiterubble as IItemStack = <srparasites:parasiterubble>;
 parasiterubble.hardness = 5;
+val chisel_tyrian as IItemStack = <chisel:tyrian>;
+chisel_tyrian.hardness = 21;
 
 val miaglass as IItemStack = <mia:armored_glass>;
 miaglass.hardness = 3;
@@ -71,3 +73,8 @@ thutecb.hardness = 17;
 
 val dlvstore as IItemStack = <delivery:store>;
 dlvstore.hardness = 100;
+
+val rtcndl as IItemStack = <randomthings:peacecandle>;
+rtcndl.hardness = 100;
+val eioprs as IItemStack = <enderio:block_painted_pressure_plate>;
+eioprs.hardness = 100;

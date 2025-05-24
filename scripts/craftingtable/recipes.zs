@@ -250,6 +250,8 @@ recipes.removeByRecipeName("techguns:metalpanel_0");
 recipes.removeByRecipeName("techguns:nethermetal_0");
 recipes.removeByRecipeName("techguns:concrete_0");
 
+recipes.remove(<chisel:tyrian>);
+
 recipes.removeByRecipeName("tombstone:enchanted_grave_key");
 recipes.remove(<tombstone:crafting_ingredient>);
 recipes.remove(<tombstone:crafting_ingredient:1>);
@@ -385,6 +387,8 @@ recipes.addShaped(<techguns:jumppack>, [[<enderio:item_alloy_nugget>, null, <end
 recipes.addShaped(<techguns:metalpanel> * 16, [[<minecraft:stone:*>, <magneticraft:heavy_plates:6>, <minecraft:stone:*>],[<magneticraft:heavy_plates:6>, <minecraft:stone:*>, <magneticraft:heavy_plates:6>], [<minecraft:stone:*>, <minecraft:stone:*>, <minecraft:stone:*>]]);
 recipes.addShaped(<techguns:nethermetal> * 16, [[<minecraft:netherrack:*>, <minecraft:netherrack:*>, <minecraft:netherrack:*>],[<magneticraft:heavy_plates:6>, <minecraft:nether_brick>, <magneticraft:heavy_plates:6>], [<minecraft:netherrack:*>, <minecraft:netherrack:*>, <minecraft:netherrack:*>]]);
 recipes.addShaped(<techguns:concrete> * 16, [[<minecraft:concrete:*>, <minecraft:concrete:*>, <minecraft:concrete:*>],[<minecraft:concrete:*>, <magneticraft:heavy_plates:6>, <minecraft:concrete:*>], [<minecraft:concrete:*>, <minecraft:concrete:*>, <minecraft:concrete:*>]]);
+
+recipes.addShaped(<chisel:tyrian> * 16, [[<ore:platePlatinum>, <chisel:basalt2:7>, <ore:platePlatinum>],[<chisel:basalt2:7>, <ore:platePlatinum>, <chisel:basalt2:7>], [<extendedcrafting:material:48>, <ore:platePlatinum>, <extendedcrafting:material:48>]]);
 
 recipes.addShaped(<enderio:item_stellar_alloy_axe>, [[<ore:ingotAurorianSteel>, <ore:ingotStellarAlloy>, null],[<ore:ingotStellarAlloy>, <ore:skullSentientEnder>, null], [null, <ore:itemInfinityRod>, null]]);
 recipes.addShaped(<enderio:item_stellar_alloy_pickaxe>, [[<ore:ingotStellarAlloy>, <ore:ingotAurorianSteel>, <ore:ingotStellarAlloy>],[null, <ore:skullSentientEnder>, null], [null, <ore:itemInfinityRod>, null]]);

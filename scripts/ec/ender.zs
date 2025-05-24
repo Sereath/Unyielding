@@ -261,6 +261,8 @@ val weaponsList = [
     <da:sword_spear>,
     <da:sword_spear_blood>,
     <da:king_claw>,
+    <da:flame_blade>,
+    <da:dark_sicle>,
     <mowziesmobs:wrought_axe>,
     <mowziesmobs:spear>,
     <mowziesmobs:naga_fang_dagger>,

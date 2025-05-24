@@ -1,5 +1,5 @@
 [
-    "grimoireofgaia:ant-30-0-0",
+    "grimoireofgaia:ant-90-0-0",
     "grimoireofgaia:arachne-30-0-0",
     "grimoireofgaia:banshee-20-0-0",
     "grimoireofgaia:bone_knight-20-0-0",
@@ -8,9 +8,9 @@
     "grimoireofgaia:ender_eye-20-0-0",
     "grimoireofgaia:flesh_lich-10-0-0",
     "grimoireofgaia:gelatinous_slime-20-0-0",
-    "grimoireofgaia:harpy-30-0-0",
-    "grimoireofgaia:kobold-30-0-0",
-    "grimoireofgaia:matango-30-0-0",
+    "grimoireofgaia:harpy-60-0-0",
+    "grimoireofgaia:kobold-60-0-0",
+    "grimoireofgaia:matango-90-0-0",
     "grimoireofgaia:minotaur-10-0-0",
     "grimoireofgaia:naga-20-0-0",
     "grimoireofgaia:oni-30-0-0",
@@ -18,10 +18,10 @@
     "grimoireofgaia:shaman-20-0-0",
     "grimoireofgaia:sharko-20-0-0",
     "grimoireofgaia:siren-30-0-0",
-    "grimoireofgaia:sludge_girl-30-0-0",
+    "grimoireofgaia:sludge_girl-90-0-0",
     "grimoireofgaia:spriggan-20-0-0",
-    "grimoireofgaia:toad-30-0-0",
+    "grimoireofgaia:toad-60-0-0",
     "grimoireofgaia:vampire-10-0-0",
-    "grimoireofgaia:werecat-30-0-0",
+    "grimoireofgaia:werecat-60-0-0",
     "grimoireofgaia:witch-20-0-0"
 ]

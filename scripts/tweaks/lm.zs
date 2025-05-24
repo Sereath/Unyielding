@@ -118,5 +118,5 @@ val lmblocks = [
 for lmblock in lmblocks {
     <ore:proofEnderDragon>.add(lmblock);
     <ore:proofWither>.add(lmblock);
-    lmblock.hardness = 24;
+    lmblock.hardness = 15;
 }

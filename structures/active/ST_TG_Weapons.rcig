@@ -749,6 +749,16 @@
         "damage": 2,
         "count": 1
       }
+    },
+    {
+      "weight": 0.0639861449599266,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "nuclearcraft:geiger_counter",
+        "damage": 0,
+        "count": 1
+      }
     }
   ],
   "dependencyExpression": ""

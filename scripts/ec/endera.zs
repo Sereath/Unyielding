@@ -226,7 +226,13 @@ val armourList = [
     <da:imperial_chestplate>,
     <da:imperial_leggings>,
     <da:imperial_boots>,
-    <da:king_helmet>
+    <da:king_helmet>,
+    <da:incendium_helmet>,
+    <da:incendium_leggings>,
+    <da:dark_metal_helmet>,
+    <da:dark_metal_chestplate>,
+    <da:dark_metal_leggings>,
+    <da:dark_metal_boots>
 ] as IItemStack[];
 
 for armour in armourList {
