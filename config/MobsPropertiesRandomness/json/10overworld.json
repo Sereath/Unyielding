@@ -1,0 +1,13 @@
+{
+    "group": "critters",
+    "attributes": [
+        {
+            "id": "generic.attackDamage",
+            "modifier": {
+                "min": 0,
+                "max": 10
+            },
+            "dimensions": [0]
+        }
+    ]
+}

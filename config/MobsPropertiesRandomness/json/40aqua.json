@@ -1,0 +1,21 @@
+{
+    "group": "critters",
+    "attributes": [
+        {
+            "id": "generic.attackDamage",
+            "modifier": {
+                "min": 75,
+                "max": 150
+            },
+            "dimensions": [7]
+        },
+        {
+            "id": "generic.maxHealth",
+            "modifier": {
+                "min": 75,
+                "max": 75
+            },
+            "dimensions": [7]
+        }
+    ]
+}

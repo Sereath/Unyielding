@@ -1,0 +1,22 @@
+{
+    "name": "critters",
+    "mobs": [
+        "minecraft:*",
+        "dmonsters:*",
+        "mocreatures:*",
+        "dungeonmobs:*",
+        "da:*",
+        "artifacts:*",
+        "techguns:*",
+        "cqrepoured:*",
+        "mod_lavacow:*",
+        "grimoireofgaia:*",
+        "mowziesmobs:*",
+        "mutantbeasts:*",
+        "srmonstress:*",
+        "srparasites:*",
+        "srrevenants:*",
+        "lycanitesmobs:*",
+        "nuclearcraft:*"
+    ]
+}

@@ -230,6 +230,7 @@ mimicfish-1.2
 minerva-library-1.0.13
 minieffects-2.3.2
 MobDismemberment-1.12.2-7.0.0
+MobsPropertiesRandomness-2.3.3-mc1.12.x
 modelloader-1.1.7
 modnametooltip_1.12.2-1.10.1
 Modpack+Configuration+Checker-1.12.2-v1.9.5
