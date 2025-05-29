@@ -12,3 +12,7 @@ item.unyielding.scraps11.name=ir
 item.unyielding.trace1.name=???
 item.unyielding.trace2.name=???
 item.unyielding.trace3.name=???
+tile.unyielding.layer1.name=Crust
+tile.unyielding.layer2.name=Crust
+tile.unyielding.layer3.name=Crust
+tile.unyielding.layer4.name=Crust

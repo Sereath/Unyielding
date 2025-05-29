@@ -1,0 +1,43 @@
+{
+  imports: ground.hjson::NATURAL_STONE
+  enabled: true
+  dimensions: [ 3 ]
+  layers: [
+    {
+      state: unyielding:layer1
+      height: [ 41, 48 ]
+      matchers: $NATURAL_STONE
+      floor: {
+        frequency: 0.02
+        range: [ 0, 3 ]
+      }
+    }
+    {
+      state: unyielding:layer1
+      height: [ 89, 96 ]
+      matchers: $NATURAL_STONE
+      floor: {
+        frequency: 0.02
+        range: [ 0, 3 ]
+      }
+    }
+    {
+      state: unyielding:layer1
+      height: [ 137, 144 ]
+      matchers: $NATURAL_STONE
+      floor: {
+        frequency: 0.02
+        range: [ 0, 3 ]
+      }
+    }
+    {
+      state: unyielding:layer1
+      height: [ 185, 192 ]
+      matchers: $NATURAL_STONE
+      floor: {
+        frequency: 0.02
+        range: [ 0, 3 ]
+      }
+    }
+  ]
+}

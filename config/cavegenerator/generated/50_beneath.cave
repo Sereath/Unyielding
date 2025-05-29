@@ -72,6 +72,10 @@
     biomesoplenty:dirt:8
     biomesoplenty:dirt:9
     biomesoplenty:dirt:10
+    unyielding:layer1
+    unyielding:layer2
+    unyielding:layer3
+    unyielding:layer4
   ]
   replaceDecorators: true
   caverns: {

@@ -20,7 +20,11 @@ val gpblocks = [
     <chisel:technical:*>,
     <chisel:technical1:*>,
     <chisel:technicalnew:*>,
-    <chisel:tyrian:*>
+    <chisel:tyrian:*>,
+    <unyielding:layer1>,
+    <unyielding:layer2>,
+    <unyielding:layer3>,
+    <unyielding:layer4>
 ] as IItemStack[];
 
 for gpblock in gpblocks {
