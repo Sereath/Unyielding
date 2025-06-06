@@ -607,7 +607,7 @@
 
 	{
 		"dimension": 10,
-		"mob": ["beneath:shadow","beneath:hand"],
+		"mob": ["beneath:shadow","beneath:hand","charm:spectre"],
 		"result": "deny"
 	},
 

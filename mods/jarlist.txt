@@ -117,7 +117,7 @@ enchlib-1.12.2-1.1.0
 EnderCore-1.12.2-0.5.78
 EnderIO-1.12.2-5.3.72
 EnderIO-endergy-1.12.2-5.3.72
-endermodpacktweaks-0.5.7
+endermodpacktweaks-0.5.8
 EnderSkills-1.12.2-1.16.1.4
 engineersdecor-1.12.2-1.1.5
 enhancedarmaments-1.3.21
@@ -139,11 +139,10 @@ FarmingForBlockheads_1.12.2-3.1.28
 filcabref-1.12.2-1.0.0
 Fish's Undead Rising-1.4.2
 Fixeroo-2.1-ActuallyWorksNowEdition
-flare-0.6.0
+flare-0.7.0
 flaskoflife-1.0.3HOTFIX-3
 fluiddrawers-1.12.2-1.0.7
 foamfix-0.10.15-1.12.2
-forcedresourcepacks-1.1
 Forgelin-Continuous-2.1.20.0
 FpsReducer-mc1.12.2-1.20
 FriendlyFire-1.12.2-1.5.10
@@ -312,7 +311,6 @@ rsgauges-1.12.2-1.2.8
 rustic-1.1.7
 sanity-1.2.8
 SBM-BoneTorch-1.12.2-0.0.1b12
-scalar-3.6.4
 Scannable-MC1.12.2-1.6.3.26
 ScreenshotToClipboard-1.12.2-1.0.1
 Seared-Ladder-v1.1.2-mc1.12.2
