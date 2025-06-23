@@ -298,6 +298,7 @@ recipes.remove(<extendedcrafting:handheld_table>);
 recipes.remove(<engineersdecor:factory_placer>);
 
 recipes.remove(<industrialrenewal:chunk_loader>);
+recipes.removeByRecipeName("industrialrenewal:stick_iron");
 
 recipes.remove(<enderskills:token>);
 
