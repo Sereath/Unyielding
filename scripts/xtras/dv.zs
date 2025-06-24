@@ -43,7 +43,7 @@ mods.Delivery.Store.addTrade(<heroicarmory:rssteelsword>, store_Myth).addItem(go
 mods.Delivery.Store.addTrade(<heroicarmory:rsmithrilsword>, store_Myth).addItem(goldCoin * 12);
 mods.Delivery.Store.addTrade(<heroicarmory:rsadamantsword>, store_Myth).addItem(goldCoin * 24);
 mods.Delivery.Store.addTrade(<heroicarmory:rsrunesword>, store_Myth).addItem(goldCoin * 48);
-mods.Delivery.Store.addTrade(<heroicarmory:rsdragonsword>, store_Myth).addItem(ancientCoin * 6);
+mods.Delivery.Store.addTrade(<heroicarmory:rsdragonsword>, store_Myth).addItem(ancientCoin * 6).addItem(scrapUmbra);
 
 mods.Delivery.Store.addTrade(<heroicarmory:rsbronzebattleaxe>, store_Myth).addItem(goldCoin * 3);
 mods.Delivery.Store.addTrade(<heroicarmory:rsironbattleaxe>, store_Myth).addItem(goldCoin * 6);
@@ -53,7 +53,7 @@ mods.Delivery.Store.addTrade(<heroicarmory:rswhitebattleaxe>, store_Myth).addIte
 mods.Delivery.Store.addTrade(<heroicarmory:rsmithrilbattleaxe>, store_Myth).addItem(goldCoin * 12);
 mods.Delivery.Store.addTrade(<heroicarmory:rsadamantbattleaxe>, store_Myth).addItem(goldCoin * 24);
 mods.Delivery.Store.addTrade(<heroicarmory:rsrunebattleaxe>, store_Myth).addItem(goldCoin * 48);
-mods.Delivery.Store.addTrade(<heroicarmory:rsdragonbattleaxe>, store_Myth).addItem(ancientCoin * 6);
+mods.Delivery.Store.addTrade(<heroicarmory:rsdragonbattleaxe>, store_Myth).addItem(ancientCoin * 6).addItem(scrapUmbra);
 
 mods.Delivery.Store.addTrade(<heroicarmory:rsbronzescimitar>, store_Myth).addItem(goldCoin * 3);
 mods.Delivery.Store.addTrade(<heroicarmory:rsironscimitar>, store_Myth).addItem(goldCoin * 6);
@@ -63,7 +63,7 @@ mods.Delivery.Store.addTrade(<heroicarmory:rssteelscimitar>, store_Myth).addItem
 mods.Delivery.Store.addTrade(<heroicarmory:rsmithrilscimitar>, store_Myth).addItem(goldCoin * 12);
 mods.Delivery.Store.addTrade(<heroicarmory:rsadamantscimitar>, store_Myth).addItem(goldCoin * 24);
 mods.Delivery.Store.addTrade(<heroicarmory:rsrunescimitar>, store_Myth).addItem(goldCoin * 48);
-mods.Delivery.Store.addTrade(<heroicarmory:rsdragonscimitar>, store_Myth).addItem(ancientCoin * 6);
+mods.Delivery.Store.addTrade(<heroicarmory:rsdragonscimitar>, store_Myth).addItem(ancientCoin * 6).addItem(scrapUmbra);
 
 mods.Delivery.Store.addTrade(<heroicarmory:rsbronzewarhammer>, store_Myth).addItem(goldCoin * 3);
 mods.Delivery.Store.addTrade(<heroicarmory:rsironwarhammer>, store_Myth).addItem(goldCoin * 6);
@@ -83,20 +83,20 @@ mods.Delivery.Store.addTrade(<heroicarmory:rsmithrilmace>, store_Myth).addItem(g
 mods.Delivery.Store.addTrade(<heroicarmory:rsadamantmace>, store_Myth).addItem(goldCoin * 24);
 mods.Delivery.Store.addTrade(<heroicarmory:rsrunemace>, store_Myth).addItem(goldCoin * 48);
 
-mods.Delivery.Store.addTrade(<heroicarmory:rsgranitelongsword>, store_Myth).addItem(ancientCoin * 6);
-mods.Delivery.Store.addTrade(<heroicarmory:rsgranitehammer>, store_Myth).addItem(ancientCoin * 6);
-mods.Delivery.Store.addTrade(<heroicarmory:rsgranitemaul>, store_Myth).addItem(ancientCoin * 12);
+mods.Delivery.Store.addTrade(<heroicarmory:rsgranitelongsword>, store_Myth).addItem(ancientCoin * 6).addItem(scrapAurorianite);
+mods.Delivery.Store.addTrade(<heroicarmory:rsgranitehammer>, store_Myth).addItem(ancientCoin * 6).addItem(scrapAurorianite);
+mods.Delivery.Store.addTrade(<heroicarmory:rsgranitemaul>, store_Myth).addItem(ancientCoin * 12).addItem(scrapAurorianite);
 
-mods.Delivery.Store.addTrade(<heroicarmory:rseldermaul>, store_Myth).addItem(ancientCoin * 24);
-mods.Delivery.Store.addTrade(<heroicarmory:rstoktzxilak>, store_Myth).addItem(goldCoin * 48);
-mods.Delivery.Store.addTrade(<heroicarmory:rswolfsbane>, store_Myth).addItem(goldCoin * 3);
+mods.Delivery.Store.addTrade(<heroicarmory:rseldermaul>, store_Myth).addItem(ancientCoin * 24).addItem(scrapUmbra);
+mods.Delivery.Store.addTrade(<heroicarmory:rstoktzxilak>, store_Myth).addItem(goldCoin * 48).addItem(scrapAurorianite);
+mods.Delivery.Store.addTrade(<heroicarmory:rswolfsbane>, store_Myth).addItem(goldCoin * 3).addItem(scrapAurorianite);
 
-mods.Delivery.Store.addTrade(<heroicarmory:rszamorakgodsword>, store_Myth).addItem(ancientCoin * 48);
-mods.Delivery.Store.addTrade(<heroicarmory:rsbandosgodsword>, store_Myth).addItem(ancientCoin * 48);
-mods.Delivery.Store.addTrade(<heroicarmory:rsarmadylgodsword>, store_Myth).addItem(ancientCoin * 48);
-mods.Delivery.Store.addTrade(<heroicarmory:rssaradomingodsword>, store_Myth).addItem(ancientCoin * 48);
+mods.Delivery.Store.addTrade(<heroicarmory:rszamorakgodsword>, store_Myth).addItem(ancientCoin * 48).addItem(scrapCrystalline);
+mods.Delivery.Store.addTrade(<heroicarmory:rsbandosgodsword>, store_Myth).addItem(ancientCoin * 48).addItem(scrapCrystalline);
+mods.Delivery.Store.addTrade(<heroicarmory:rsarmadylgodsword>, store_Myth).addItem(ancientCoin * 48).addItem(scrapCrystalline);
+mods.Delivery.Store.addTrade(<heroicarmory:rssaradomingodsword>, store_Myth).addItem(ancientCoin * 48).addItem(scrapCrystalline);
 
-mods.Delivery.Store.addTrade(<heroicarmory:rsbarrelchestanchor>, store_Myth).addItem(goldCoin * 24);
+mods.Delivery.Store.addTrade(<heroicarmory:rsbarrelchestanchor>, store_Myth).addItem(goldCoin * 24).addItem(scrapAurorianite);
 
 mods.Delivery.Store.addTrade(<minecraft:splash_potion>.withTag({Potion: "potioncore:strong_revival"}), store_Special).addItem(silverCoin * 48);
 mods.Delivery.Store.addTrade(<xreliquary:angelheart_vial>, store_Special).addItem(silverCoin * 40);
