@@ -2,7 +2,7 @@
 !mixinbooter-10.5
 !mod-director-launchwrapper-1.8.3
 !Red-Core-MC-1.8-1.12-0.6
-+Fugue-0.18.6
++Fugue-0.19.5
 ActuallyAdditions-1.12.2-r152
 ActuallyBaubles-1.12-1.1
 AggroTP-0.4.1
@@ -113,7 +113,7 @@ Easy+Shulker+Access-1.12.2-1.1.1
 EerieEntities-1.12.2-1.0.8
 ElenaiDodge-1.12.2-2.1
 enchcontrol-1.12.2-1.1.5-0
-enchlib-1.12.2-1.1.0
+enchlib-1.12.2-1.1.1
 EnderCore-1.12.2-0.5.78
 EnderIO-1.12.2-5.3.72
 EnderIO-endergy-1.12.2-5.3.72
