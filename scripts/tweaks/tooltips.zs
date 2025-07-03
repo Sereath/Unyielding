@@ -361,3 +361,8 @@
 <extendedcrafting:ender_crafter>.displayName = "§3Ender Crafter";
 <extendedcrafting:ender_crafter>.addTooltip(format.aqua("Revitalise your equipment here"));
 <extendedcrafting:ender_alternator>.displayName = "§bEnder Alternator";
+
+<heroicarmory:rszamorakgodsword>.displayName = "§6Terrifying Greatsword";
+<heroicarmory:rsbandosgodsword>.displayName = "§6Brutal Greatsword";
+<heroicarmory:rsarmadylgodsword>.displayName = "§6Beautiful Greatsword";
+<heroicarmory:rssaradomingodsword>.displayName = "§6Gracious Greatsword";
