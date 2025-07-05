@@ -23,19 +23,19 @@ mods.Delivery.Store.setStoreIcon(store_Special, <mod_lavacow:undyingheart>);
 mods.Delivery.Store.setStoreIcon(store_Exchange, <grimoireofgaia:misc_currency>);
 
 //general
+mods.Delivery.Store.addTrade(<actuallyadditions:item_bag>, store_General).addItem(copperCoin * 12);
 mods.Delivery.Store.addTrade(<minecraft:compass>, store_General).addItem(copperCoin * 24);
 mods.Delivery.Store.addTrade(<cqrepoured:backpack>, store_General).addItem(copperCoin * 12);
 mods.Delivery.Store.addTrade(<improvedbackpacks:backpack>, store_General).addItem(silverCoin * 24);
 mods.Delivery.Store.addTrade(<travelersbackpack:travelers_backpack>, store_General).addItem(silverCoin * 24);
 mods.Delivery.Store.addTrade(<toolbelt:belt>, store_General).addItem(goldCoin * 3);
-mods.Delivery.Store.addTrade(<antiqueatlas:empty_antique_atlas>, store_General).addItem(goldCoin * 6);
 
 mods.Delivery.Store.addTrade(<chisel:chisel_iron>, store_General).addItem(copperCoin * 3);
 mods.Delivery.Store.addTrade(<betterbuilderswands:wandiron>, store_General).addItem(copperCoin * 6);
 mods.Delivery.Store.addTrade(<cyclicmagic:heart_food>, store_General).addItem(ancientCoin * 1);
 mods.Delivery.Store.addTrade(<minecraft:bone>, store_General).addItem(copperCoin * 3);
 mods.Delivery.Store.addTrade(<doggytalents:training_treat>, store_General).addItem(silverCoin * 3);
-mods.Delivery.Store.addTrade(<openblocks:luggage>, store_General).addItem(goldCoin * 12);
+mods.Delivery.Store.addTrade(<antiqueatlas:empty_antique_atlas>, store_General).addItem(goldCoin * 6);
 
 mods.Delivery.Store.addTrade(<roughtweaks:salve>, store_General).addItem(copperCoin * 1);
 mods.Delivery.Store.addTrade(<roughtweaks:plaster>, store_General).addItem(copperCoin * 2);
@@ -182,6 +182,7 @@ mods.Delivery.Store.addTrade(<mod_lavacow:mootenheart>, store_Special).addItem(g
 mods.Delivery.Store.addTrade(<mod_lavacow:goldenheart>, store_Special).addItem(ancientCoin * 6).addItem(scrapUmbra);
 mods.Delivery.Store.addTrade(<mod_lavacow:dreamcatcher>, store_Special).addItem(goldCoin * 48).addItem(scrapAurorianite);
 mods.Delivery.Store.addTrade(<mod_lavacow:halo_necklace>, store_Special).addItem(ancientCoin * 6).addItem(scrapUmbra);
+mods.Delivery.Store.addTrade(<openblocks:luggage>, store_Special).addItem(goldCoin * 12);
 
 //exchange
 mods.Delivery.Store.addTrade(silverCoin, store_Exchange).addItem(copperCoin * 2);

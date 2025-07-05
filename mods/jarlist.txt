@@ -302,6 +302,7 @@ respawntimer-1.12.2-2.0.2.0
 RLArtifacts-1.1.2
 RLMixins-1.2.19
 RLTweaker-1.12.2-0.7.4
+RoguelikeDungeonsFnarEdition-1.12.2-2.4.6
 roost-1.12.2-2.0.10
 rotm-1.12.2-1.1.4
 RotN-Tweaker-0.0.1
