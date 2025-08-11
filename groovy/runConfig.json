@@ -1,6 +1,7 @@
 {
   "packName": "Unyielding",
   "packId": "unyielding",
+  "author": "Unyielding, Sereath",
   "version": "1.0.0",
   "debug": false,
   "loaders": {
