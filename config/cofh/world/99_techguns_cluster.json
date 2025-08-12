@@ -1,0 +1,172 @@
+{
+	"populate": {
+		"uclustercoal": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "techguns:orecluster",
+					"metadata": 0
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 1
+			},
+			"cluster-count": 1,
+			"min-height": 2,
+			"max-height": 180,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					5,
+					7,
+					10
+				]
+			}
+		},
+		"ucommonmetal": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "techguns:orecluster",
+					"metadata": 1
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 1
+			},
+			"cluster-count": 1,
+			"min-height": 2,
+			"max-height": 180,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					5,
+					7,
+					10
+				]
+			}
+		},
+		"ucommongem": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "techguns:orecluster",
+					"metadata": 5
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 1
+			},
+			"cluster-count": 1,
+			"min-height": 2,
+			"max-height": 180,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					5,
+					7,
+					10
+				]
+			}
+		},
+		"uraremetal": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "techguns:orecluster",
+					"metadata": 2
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 1
+			},
+			"cluster-count": 1,
+			"min-height": 2,
+			"max-height": 180,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					5,
+					7,
+					10
+				]
+			}
+		},
+		"ushinygem": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "techguns:orecluster",
+					"metadata": 6
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 1
+			},
+			"cluster-count": 1,
+			"min-height": 2,
+			"max-height": 180,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					5,
+					7,
+					10
+				]
+			}
+		},
+		"ushinymetal": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "techguns:orecluster",
+					"metadata": 3
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 1
+			},
+			"cluster-count": 1,
+			"min-height": 2,
+			"max-height": 180,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					5,
+					7,
+					10
+				]
+			}
+		},
+		"uclusteruranium": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "techguns:orecluster",
+					"metadata": 4
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 1
+			},
+			"cluster-count": 1,
+			"min-height": 2,
+			"max-height": 180,
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					5,
+					7,
+					10
+				]
+			}
+		}
+	}
+}
