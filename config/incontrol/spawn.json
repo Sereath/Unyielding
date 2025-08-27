@@ -903,7 +903,7 @@
 	{
 		"dimension": [3,5,7],
 		"mob": ["lycanitesmobs:ghoul","lycanitesmobs:kobold","lycanitesmobs:wraamon","lycanitesmobs:aglebemu","lycanitesmobs:darkling"],
-		"random": 1.0,
+		"random": 0.05,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxheight": 192,
@@ -922,7 +922,7 @@
 	{
 		"dimension": 3,
 		"mob": ["lycanitesmobs:ent","lycanitesmobs:tpumpkyn","lycanitesmobs:triffid","lycanitesmobs:shambler","lycanitesmobs:remobra","lycanitesmobs:aspid","lycanitesmobs:calpod","lycanitesmobs:eyewig","lycanitesmobs:lurker","lycanitesmobs:gorgomite"],
-		"random": 1.0,
+		"random": 0.05,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxheight": 192,
@@ -941,7 +941,7 @@
 	{
 		"dimension": 5,
 		"mob": ["lycanitesmobs:necrovore","lycanitesmobs:gnekk","lycanitesmobs:cacodemon","lycanitesmobs:astaroth","lycanitesmobs:trite","lycanitesmobs:belph","lycanitesmobs:pinky","lycanitesmobs:behemoth","lycanitesmobs:vorach","lycanitesmobs:archvile"],
-		"random": 1.0,
+		"random": 0.05,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxheight": 192,
@@ -960,7 +960,7 @@
 	{
 		"dimension": 7,
 		"mob": "lycanitesmobs:dweller",
-		"random": 1.0,
+		"random": 0.05,
 		"maxlight": 7,
 		"minlight": 0,
 		"maxheight": 184,

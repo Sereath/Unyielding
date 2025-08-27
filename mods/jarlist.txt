@@ -86,7 +86,7 @@ CosmeticArmorReworked-1.12.2-v5a
 cosmeticbeds-1.12.2-1.0.2.2
 CraftingTweaks_1.12.2-9.0.1
 CraftPresence-2.6.2+1.12.2-forge
-CraftTweaker2-1.12-4.1.20.705
+CraftTweaker2-1.12-4.1.20.709
 CreativeCore_v1.10.71_mc1.12.2
 CTM-MC1.12.2-1.0.2.31
 Cucumber-1.12.2-1.1.3
@@ -154,7 +154,7 @@ FTBQuests-1202.9.0.15
 FTBUtilities-5.4.1.131
 FullscreenWindowed-1.12-1.6.0
 Future-MC-0.2.21
-futurefireproof-1.12.2-1.2.2
+futurefireproof-1.12.2-1.2.3
 fxcontrol-1.12-0.1.15
 GamblingStyle-v1.1.3-1.12.2
 GameStages-1.12.2-2.0.123

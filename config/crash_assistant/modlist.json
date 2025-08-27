@@ -433,10 +433,10 @@
     "modId": "craftpresence",
     "version": "2.6.2"
   },
-  "CraftTweaker2-1.12-4.1.20.705.jar": {
-    "jarName": "CraftTweaker2-1.12-4.1.20.705.jar",
+  "CraftTweaker2-1.12-4.1.20.709.jar": {
+    "jarName": "CraftTweaker2-1.12-4.1.20.709.jar",
     "modId": "crafttweaker",
-    "version": "1.12-4.1.20.705"
+    "version": "1.12-4.1.20.709"
   },
   "CreativeCore_v1.10.71_mc1.12.2.jar": {
     "jarName": "CreativeCore_v1.10.71_mc1.12.2.jar",
@@ -769,10 +769,10 @@
     "modId": "futuremc",
     "version": "0.2.21"
   },
-  "futurefireproof-1.12.2-1.2.2.jar": {
-    "jarName": "futurefireproof-1.12.2-1.2.2.jar",
+  "futurefireproof-1.12.2-1.2.3.jar": {
+    "jarName": "futurefireproof-1.12.2-1.2.3.jar",
     "modId": "futurefireproof",
-    "version": "1.12.2-1.2.1"
+    "version": "1.12.2-1.2.2"
   },
   "fxcontrol-1.12-0.1.15.jar": {
     "jarName": "fxcontrol-1.12-0.1.15.jar",

@@ -8,7 +8,7 @@
 					"metadata": 0
 				},
 				"material": "minecraft:stone",
-				"cluster-size": 1
+				"cluster-size": 19
 			},
 			"cluster-count": 1,
 			"min-height": 2,
@@ -32,7 +32,7 @@
 					"metadata": 1
 				},
 				"material": "minecraft:stone",
-				"cluster-size": 1
+				"cluster-size": 7
 			},
 			"cluster-count": 1,
 			"min-height": 2,
@@ -56,7 +56,7 @@
 					"metadata": 5
 				},
 				"material": "minecraft:stone",
-				"cluster-size": 1
+				"cluster-size": 7
 			},
 			"cluster-count": 1,
 			"min-height": 2,
@@ -80,7 +80,7 @@
 					"metadata": 2
 				},
 				"material": "minecraft:stone",
-				"cluster-size": 1
+				"cluster-size": 3
 			},
 			"cluster-count": 1,
 			"min-height": 2,
@@ -104,7 +104,7 @@
 					"metadata": 6
 				},
 				"material": "minecraft:stone",
-				"cluster-size": 1
+				"cluster-size": 3
 			},
 			"cluster-count": 1,
 			"min-height": 2,
@@ -128,7 +128,7 @@
 					"metadata": 3
 				},
 				"material": "minecraft:stone",
-				"cluster-size": 1
+				"cluster-size": 2
 			},
 			"cluster-count": 1,
 			"min-height": 2,
@@ -152,7 +152,7 @@
 					"metadata": 4
 				},
 				"material": "minecraft:stone",
-				"cluster-size": 1
+				"cluster-size": 2
 			},
 			"cluster-count": 1,
 			"min-height": 2,
