@@ -18,6 +18,10 @@
 	#If equals CHANGE_ME, will open Forge/NeoForge/Fabric/Quilt discord link. Names of communities/channels also will be used not from config, but according to this link.
 	#Must start with 'https://' or 'www.'
 	help_link = "https://discord.gg/YYMPkU8vxP"
+	#Unfortunately mclogs censoring ip-like versions as has no way to determine if it's version or IP.
+	#This will prevent this by replacing dot's in them to dot-like symbol.
+	#Anti censoring only versions, IP's are kept censored.
+	enable_mclogs_anti_ip_like_version_censorer = true
 	#Close old CrashAssistantApp if it's still running when starting a new instance of Minecraft, to avoid confusing player with window from old crash.
 	kill_old_app = true
 
@@ -85,7 +89,6 @@
 	#-----------------------------------------------------------------------------------------------------
 	modpack_creators = ["Sereath"]
 	#If enabled, will add generated modlist.txt, with names of all mods / modids / mixin configs / jarjar mods info to logs.
-	#
 	add_modlist_txt_as_log = true
 	#If enabled, will add resourcepacks to modlist.json
 	#After filename where will be ' (resourcepack)' suffix.
@@ -148,4 +151,14 @@
 [compatibility]
 	#Enable feature.
 	enabled = true
+
+#Settings of analysis tools feature.
+#Here you can enable disable showing some analysis tools fot end user.
+[analysis_tools]
+	#Enable feature.
+	enabled = true
+	#Here you can disable some Analysis tools by class names.
+	#List of them can be found here: dev.kostromdan.mods.crash_assistant.app.gui.analysis
+	#For example "MCreatorModDetectorGUI"
+	blacklisted_tools = []
 

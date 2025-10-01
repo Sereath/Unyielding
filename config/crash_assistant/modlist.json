@@ -4,20 +4,20 @@
     "modId": "forge",
     "version": "forge-1.12.2-14.23.5.2860-universal.jar"
   },
-  "!!!CrashAssistant-forge-1.12.2-1.9.15.jar": {
-    "jarName": "!!!CrashAssistant-forge-1.12.2-1.9.15.jar",
+  "!!!CrashAssistant-forge-1.12.2-1.10.1.jar": {
+    "jarName": "!!!CrashAssistant-forge-1.12.2-1.10.1.jar",
     "modId": "crash_assistant",
-    "version": "1.9.15"
+    "version": "1.10.1"
   },
   "!configanytime-3.0.jar": {
     "jarName": "!configanytime-3.0.jar",
     "modId": "configanytime",
     "version": "3.0"
   },
-  "!mixinbooter-10.5.jar": {
-    "jarName": "!mixinbooter-10.5.jar",
+  "!mixinbooter-10.7.jar": {
+    "jarName": "!mixinbooter-10.7.jar",
     "modId": "mixinbooter",
-    "version": "10.5"
+    "version": "10.7"
   },
   "!mod-director-launchwrapper-1.8.3.jar": {
     "jarName": "!mod-director-launchwrapper-1.8.3.jar"
@@ -27,10 +27,10 @@
     "modId": "redcore",
     "version": "0.6"
   },
-  "+Fugue-0.20.1.jar": {
-    "jarName": "+Fugue-0.20.1.jar",
+  "+Fugue-0.20.4.jar": {
+    "jarName": "+Fugue-0.20.4.jar",
     "modId": "fugue",
-    "version": "0.20.1"
+    "version": "0.20.4"
   },
   "ActuallyAdditions-1.12.2-r152.jar": {
     "jarName": "ActuallyAdditions-1.12.2-r152.jar",
@@ -526,10 +526,10 @@
     "modId": "doggytalents",
     "version": "1.15.1.6"
   },
-  "DrZharks-MoCreatures-Extended-12.4.7.jar": {
-    "jarName": "DrZharks-MoCreatures-Extended-12.4.7.jar",
+  "DrZharks-MoCreatures-Extended-12.4.8.jar": {
+    "jarName": "DrZharks-MoCreatures-Extended-12.4.8.jar",
     "modId": "mocreatures",
-    "version": "12.4.7"
+    "version": "12.4.8"
   },
   "DungeonMobs-5.8.10-MC1.12.2.jar": {
     "jarName": "DungeonMobs-5.8.10-MC1.12.2.jar",
@@ -591,10 +591,10 @@
     "modId": "enderioendergy",
     "version": "5.3.72"
   },
-  "endermodpacktweaks-0.5.10.jar": {
-    "jarName": "endermodpacktweaks-0.5.10.jar",
+  "endermodpacktweaks-0.5.11.jar": {
+    "jarName": "endermodpacktweaks-0.5.11.jar",
     "modId": "endermodpacktweaks",
-    "version": "0.5.10"
+    "version": "0.5.11"
   },
   "EnderSkills-1.12.2-1.16.1.4.jar": {
     "jarName": "EnderSkills-1.12.2-1.16.1.4.jar",
@@ -719,10 +719,10 @@
     "modId": "foamfix",
     "version": "@VERSION@"
   },
-  "Forgelin-Continuous-2.2.0.0.jar": {
-    "jarName": "Forgelin-Continuous-2.2.0.0.jar",
+  "Forgelin-Continuous-2.2.20.0.jar": {
+    "jarName": "Forgelin-Continuous-2.2.20.0.jar",
     "modId": "forgelin_continuous",
-    "version": "2.1.0.0"
+    "version": "2.1.20.0"
   },
   "FpsReducer-mc1.12.2-1.20.jar": {
     "jarName": "FpsReducer-mc1.12.2-1.20.jar",
@@ -804,15 +804,15 @@
     "modId": "groovyscript",
     "version": "1.2.5"
   },
-  "growthcraft-1.12.2-4.3.0.jar": {
-    "jarName": "growthcraft-1.12.2-4.3.0.jar",
+  "growthcraft-1.12.2-4.4.0.jar": {
+    "jarName": "growthcraft-1.12.2-4.4.0.jar",
     "modId": "growthcraft",
-    "version": "4.3.0"
+    "version": "4.4.0"
   },
-  "HadEnoughItems_1.12.2-4.28.1.jar": {
-    "jarName": "HadEnoughItems_1.12.2-4.28.1.jar",
+  "HadEnoughItems_1.12.2-4.29.7.jar": {
+    "jarName": "HadEnoughItems_1.12.2-4.29.7.jar",
     "modId": "jei",
-    "version": "4.28.1"
+    "version": "4.29.7"
   },
   "harderbedcrafting-1.0.jar": {
     "jarName": "harderbedcrafting-1.0.jar",
@@ -960,10 +960,10 @@
   "JAOPCA-1.12.2-2.2.8.106.jar": {
     "jarName": "JAOPCA-1.12.2-2.2.8.106.jar"
   },
-  "JEI-Utilities-1.12.2-0.2.12.jar": {
-    "jarName": "JEI-Utilities-1.12.2-0.2.12.jar",
+  "JEI-Utilities-1.12.2-0.2.13.jar": {
+    "jarName": "JEI-Utilities-1.12.2-0.2.13.jar",
     "modId": "jeiutilities",
-    "version": "0.2.11"
+    "version": "0.2.13"
   },
   "jei_area_fixer-2.2.0.jar": {
     "jarName": "jei_area_fixer-2.2.0.jar",
@@ -2016,5 +2016,10 @@
     "jarName": "YARCF-0.14(1.12.2).jar",
     "modId": "recipehandler",
     "version": "0.14"
+  },
+  "zspacket-0.0.1.jar": {
+    "jarName": "zspacket-0.0.1.jar",
+    "modId": "zspacket",
+    "version": "0.0.1"
   }
 }

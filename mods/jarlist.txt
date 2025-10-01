@@ -1,9 +1,9 @@
-!!!CrashAssistant-forge-1.12.2-1.9.15
+!!!CrashAssistant-forge-1.12.2-1.10.1
 !configanytime-3.0
-!mixinbooter-10.5
+!mixinbooter-10.7
 !mod-director-launchwrapper-1.8.3
 !Red-Core-MC-1.8-1.12-0.6
-+Fugue-0.20.1
++Fugue-0.20.4
 ActuallyAdditions-1.12.2-r152
 ActuallyBaubles-1.12-1.1
 AggroTP-0.4.1
@@ -105,7 +105,7 @@ demagnetize-1.12.2-1.1.2
 DimensionalEdibles-1.12.2-1.6.4
 dldungeonsjbg-1.14.14-MC1.12.2
 DoggyTalents-1.12.2-1.15.1.6
-DrZharks-MoCreatures-Extended-12.4.7
+DrZharks-MoCreatures-Extended-12.4.8
 DungeonMobs-5.8.10-MC1.12.2
 DynamicSurroundings-1.12.2-3.6.2.1
 DynamicSurroundingsHuds-1.12.2-3.6.0.0
@@ -118,7 +118,7 @@ enchlib-1.12.2-1.1.1
 EnderCore-1.12.2-0.5.78
 EnderIO-1.12.2-5.3.72
 EnderIO-endergy-1.12.2-5.3.72
-endermodpacktweaks-0.5.10
+endermodpacktweaks-0.5.11
 EnderSkills-1.12.2-1.16.1.4
 engineersdecor-1.12.2-1.1.5
 enhancedarmaments-1.3.21
@@ -144,7 +144,7 @@ flare-0.7.0
 flaskoflife-1.0.3HOTFIX-3
 fluiddrawers-1.12.2-1.0.7
 foamfix-0.10.15-1.12.2
-Forgelin-Continuous-2.2.0.0
+Forgelin-Continuous-2.2.20.0
 FpsReducer-mc1.12.2-1.20
 FriendlyFire-1.12.2-1.5.10
 Frozen-Fiend-1.5.3
@@ -161,8 +161,8 @@ GameStages-1.12.2-2.0.123
 geckolib-forge-1.12.2-3.0.31
 GrimoireOfGaia3-1.12.2-1.7.2
 groovyscript-1.2.5
-growthcraft-1.12.2-4.3.0
-HadEnoughItems_1.12.2-4.28.1
+growthcraft-1.12.2-4.4.0
+HadEnoughItems_1.12.2-4.29.7
 harderbedcrafting-1.0
 harvestersnight-1.12.2-1.1.0
 heroicarmory-1.2.0
@@ -193,7 +193,7 @@ ItemStages-1.12.2-2.0.49
 itemzoom_1.12.2-1.11
 IvToolkit-1.3.3-1.12
 JAOPCA-1.12.2-2.2.8.106
-JEI-Utilities-1.12.2-0.2.12
+JEI-Utilities-1.12.2-0.2.13
 jei_area_fixer-2.2.0
 jepb-1.12-1.2.1
 jetif-1.12.2-1.5.2
@@ -410,3 +410,4 @@ Xaeros_Minimap_FP24.2.0_Forge_1.12
 XL-Food-Mod-1.12.2-1.9.2
 xnet-1.12-1.8.2
 YARCF-0.14(1.12.2)
+zspacket-0.0.1

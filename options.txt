@@ -119,10 +119,6 @@ key_key.spartanweaponry.access_quiver:23
 key_ChatFlow:88
 key_cos.key.opencosarmorinventory:0
 key_Flying Mount Descent (Mo' Creatures):44
-key_dshuds.keybind.SelectionBox:77
-key_dshuds.keybind.LightLevel:65
-key_dshuds.keybind.ChunkBorders:67
-key_keybind.endermodpacktweaks.toggle:0
 key_Toggle Magnetism Suppressor:49
 key_key.ftbutilities.nbt:49:ALT
 key_key.ftbutilities.trash:211
@@ -166,6 +162,9 @@ key_vc.key.moveDown:45
 key_vc.key.openInventory:43
 key_vc.key.dropbomb:0
 key_key.delivery.store:48
+key_dshuds.keybind.SelectionBox:77
+key_dshuds.keybind.LightLevel:65
+key_dshuds.keybind.ChunkBorders:67
 key_key.pickup.item:0
 key_smoothfont.key.guiOpen:199
 key_key.quit.fastQuit:16
@@ -278,10 +277,6 @@ key_key.itemzoom.toggle:0
 key_key.itemzoom.hold:0
 key_key.itemzoom.zoom.in:0
 key_key.itemzoom.zoom.out:0
-key_key.jeiutilities.displayRecipe:29
-key_key.jeiutilities.pickBookmark:-98
-key_key.jeiutilities.transferRecipe:17:CONTROL
-key_key.jeiutilities.transferRecipeMax:20:CONTROL
 key_key.music_player_gui:0
 key_key.music_player_toggle:0
 key_key.music_player_next:0
