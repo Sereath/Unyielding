@@ -4,10 +4,10 @@
     "modId": "forge",
     "version": "forge-1.12.2-14.23.5.2860-universal.jar"
   },
-  "!!!CrashAssistant-forge-1.12.2-1.10.1.jar": {
-    "jarName": "!!!CrashAssistant-forge-1.12.2-1.10.1.jar",
+  "!!!CrashAssistant-forge-1.12.2-1.10.4.jar": {
+    "jarName": "!!!CrashAssistant-forge-1.12.2-1.10.4.jar",
     "modId": "crash_assistant",
-    "version": "1.10.1"
+    "version": "1.10.4"
   },
   "!configanytime-3.0.jar": {
     "jarName": "!configanytime-3.0.jar",
@@ -52,10 +52,10 @@
     "modId": "aireducer",
     "version": "1.12.2-0.3.0"
   },
-  "Alfheim-1.5.jar": {
-    "jarName": "Alfheim-1.5.jar",
+  "Alfheim-1.6.jar": {
+    "jarName": "Alfheim-1.6.jar",
     "modId": "alfheim",
-    "version": "1.5"
+    "version": "1.6"
   },
   "AmbientSounds_v3.1.7_mc1.12.2.jar": {
     "jarName": "AmbientSounds_v3.1.7_mc1.12.2.jar",
@@ -284,11 +284,6 @@
     "jarName": "CD4017BE_lib-1.12.2-6.5.1.jar",
     "modId": "cd4017be_lib",
     "version": "6.5.1"
-  },
-  "censoredasm5.28.jar": {
-    "jarName": "censoredasm5.28.jar",
-    "modId": "loliasm",
-    "version": "5.28"
   },
   "Chameleon-1.12-4.1.3.jar": {
     "jarName": "Chameleon-1.12-4.1.3.jar",
@@ -1055,6 +1050,11 @@
     "modId": "logimmune",
     "version": "0.1"
   },
+  "loliasm-5.29.jar": {
+    "jarName": "loliasm-5.29.jar",
+    "modId": "loliasm",
+    "version": "5.29"
+  },
   "lootcapacitortooltips-1.3.jar": {
     "jarName": "lootcapacitortooltips-1.3.jar",
     "modId": "lootcapacitortooltips",
@@ -1166,10 +1166,10 @@
     "modId": "modtweaker",
     "version": "4.0.20.11"
   },
-  "modularui-2.5.0-rc5.jar": {
-    "jarName": "modularui-2.5.0-rc5.jar",
+  "modularui-2.5.0.jar": {
+    "jarName": "modularui-2.5.0.jar",
     "modId": "modularui",
-    "version": "2.5.0-rc5"
+    "version": "2.5.0"
   },
   "MoreFurnaces-Nomifactory-Edition-1.12.2-1.11.0.jar": {
     "jarName": "MoreFurnaces-Nomifactory-Edition-1.12.2-1.11.0.jar",
@@ -1706,10 +1706,10 @@
     "modId": "startuptimer",
     "version": "1.1.0"
   },
-  "StellarCore-1.5.21.jar": {
-    "jarName": "StellarCore-1.5.21.jar",
+  "StellarCore-1.5.22.jar": {
+    "jarName": "StellarCore-1.5.22.jar",
     "modId": "stellar_core",
-    "version": "1.5.21"
+    "version": "1.5.22"
   },
   "StorageDrawers-1.12.2-5.5.3.jar": {
     "jarName": "StorageDrawers-1.12.2-5.5.3.jar",

@@ -97,7 +97,6 @@ key_flare.key.stop_client_sampling:0
 key_flare.key.open_tick_tracking_menu:0
 key_keybind.baublesinventory:18:ALT
 key_arcanearchives.gui.keybinds.manifest:0
-key_quark.keybind.lockBuilding:76
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:0
 key_quark.keybind.chestSort:0
@@ -105,6 +104,7 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
+key_quark.keybind.lockBuilding:76
 key_key.conarm.toggle_helm.desc:181
 key_key.conarm.toggle_chest.desc:35
 key_key.conarm.toggle_leg.desc:0
@@ -119,6 +119,7 @@ key_key.spartanweaponry.access_quiver:23
 key_ChatFlow:88
 key_cos.key.opencosarmorinventory:0
 key_Flying Mount Descent (Mo' Creatures):44
+key_keybind.endermodpacktweaks.toggle:0
 key_Toggle Magnetism Suppressor:49
 key_key.ftbutilities.nbt:49:ALT
 key_key.ftbutilities.trash:211
@@ -198,7 +199,8 @@ key_key.jei.recipeBack:14
 key_key.jei.previousPage:201
 key_key.jei.nextPage:209
 key_key.jei.bookmark:59
-key_key.jei.toggleBookmarkOverlay:0
+key_key.hei.toggleBookmarkOverlay:0
+key_key.hei.crafting:0:SHIFT
 key_key.aquaacrobatics.toggle_crawling:0:ALT
 key_key.cofh.multimode:47
 key_tombstone.message.knowledge_of_death:72

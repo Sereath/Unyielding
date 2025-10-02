@@ -134,7 +134,6 @@
   "warnings.nvoglv64": "$DEFAULT",
   "gui.incompatible_mod": "$DEFAULT",
   "gui.untrusted_domain_question": "$DEFAULT",
-  "warnings.integrated_gpu_autofix_text": "$DEFAULT",
   "gui.analysis.analysis_complete": "$DEFAULT",
   "warnings.codex_crash_assistant_comment": "$DEFAULT",
   "gui.analysis.analyzing_mods": "$DEFAULT",
