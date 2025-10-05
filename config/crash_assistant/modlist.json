@@ -804,8 +804,8 @@
     "modId": "growthcraft",
     "version": "4.4.0"
   },
-  "HadEnoughItems_1.12.2-4.29.7.jar": {
-    "jarName": "HadEnoughItems_1.12.2-4.29.7.jar",
+  "HadEnoughItems_1.12.2-4.29.8.jar": {
+    "jarName": "HadEnoughItems_1.12.2-4.29.8.jar",
     "modId": "jei",
     "version": "4.29.7"
   },
@@ -1171,10 +1171,10 @@
     "modId": "modtweaker",
     "version": "4.0.20.11"
   },
-  "modularui-2.5.0.jar": {
-    "jarName": "modularui-2.5.0.jar",
+  "modularui-2.5.1.jar": {
+    "jarName": "modularui-2.5.1.jar",
     "modId": "modularui",
-    "version": "2.5.0"
+    "version": "2.5.1"
   },
   "MoreFurnaces-Nomifactory-Edition-1.12.2-1.11.0.jar": {
     "jarName": "MoreFurnaces-Nomifactory-Edition-1.12.2-1.11.0.jar",

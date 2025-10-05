@@ -161,7 +161,7 @@ geckolib-forge-1.12.2-3.0.31
 GrimoireOfGaia3-1.12.2-1.7.2
 groovyscript-1.2.5
 growthcraft-1.12.2-4.4.0
-HadEnoughItems_1.12.2-4.29.7
+HadEnoughItems_1.12.2-4.29.8
 harderbedcrafting-1.0
 harvestersnight-1.12.2-1.1.0
 heroicarmory-1.2.0
@@ -236,7 +236,7 @@ modelloader-1.1.7
 modnametooltip_1.12.2-1.10.1
 Modpack+Configuration+Checker-1.12.2-v1.9.5
 modtweaker-4.0.20.11
-modularui-2.5.0
+modularui-2.5.1
 MoreFurnaces-Nomifactory-Edition-1.12.2-1.11.0
 moreoverlays-1.15.1-mc1.12.2
 mousetweaks-1.12.2-3.1.5
