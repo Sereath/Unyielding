@@ -4,10 +4,10 @@
     "modId": "forge",
     "version": "forge-1.12.2-14.23.5.2860-universal.jar"
   },
-  "!!!CrashAssistant-forge-1.12.2-1.10.4.jar": {
-    "jarName": "!!!CrashAssistant-forge-1.12.2-1.10.4.jar",
+  "!!!CrashAssistant-forge-1.12.2-1.10.6.jar": {
+    "jarName": "!!!CrashAssistant-forge-1.12.2-1.10.6.jar",
     "modId": "crash_assistant",
-    "version": "1.10.4"
+    "version": "1.10.6"
   },
   "!configanytime-3.0.jar": {
     "jarName": "!configanytime-3.0.jar",
@@ -1576,9 +1576,6 @@
     "modId": "serenetweaks",
     "version": "0.1"
   },
-  "serializationisbad-1.5.2.jar": {
-    "jarName": "serializationisbad-1.5.2.jar"
-  },
   "SetBonus-1.12.2.020.jar": {
     "jarName": "SetBonus-1.12.2.020.jar",
     "modId": "setbonus",
@@ -1696,10 +1693,10 @@
     "modId": "srparasites",
     "version": "1.9.21"
   },
-  "srpmeshi-1.4.jar": {
-    "jarName": "srpmeshi-1.4.jar",
+  "srpmeshi-1.7.jar": {
+    "jarName": "srpmeshi-1.7.jar",
     "modId": "srpmeshi",
-    "version": "1.4"
+    "version": "1.7"
   },
   "SRRevenants-1.12.2v1.0.2.jar": {
     "jarName": "SRRevenants-1.12.2v1.0.2.jar",
