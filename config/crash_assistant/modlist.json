@@ -4,10 +4,10 @@
     "modId": "forge",
     "version": "forge-1.12.2-14.23.5.2860-universal.jar"
   },
-  "!!!CrashAssistant-forge-1.12.2-1.10.6.jar": {
-    "jarName": "!!!CrashAssistant-forge-1.12.2-1.10.6.jar",
+  "!!!CrashAssistant-forge-1.12.2-1.10.11.jar": {
+    "jarName": "!!!CrashAssistant-forge-1.12.2-1.10.11.jar",
     "modId": "crash_assistant",
-    "version": "1.10.6"
+    "version": "1.10.11"
   },
   "!configanytime-3.0.jar": {
     "jarName": "!configanytime-3.0.jar",
@@ -27,10 +27,20 @@
     "modId": "redcore",
     "version": "0.6"
   },
-  "+Fugue-0.20.4.jar": {
-    "jarName": "+Fugue-0.20.4.jar",
+  "+Fugue-0.21.0.jar": {
+    "jarName": "+Fugue-0.21.0.jar",
     "modId": "fugue",
-    "version": "0.20.4"
+    "version": "0.21.0"
+  },
+  "[MC-1.12.2] Default Key Setup v1.0.0.5 - 2024-12-14.jar": {
+    "jarName": "[MC-1.12.2] Default Key Setup v1.0.0.5 - 2024-12-14.jar",
+    "modId": "default_key_setup",
+    "version": "1.0.0.5"
+  },
+  "[MC-1.12.2] Key Binding Patch v1.3.3.3 - 2024-12-1.jar": {
+    "jarName": "[MC-1.12.2] Key Binding Patch v1.3.3.3 - 2024-12-1.jar",
+    "modId": "key_binding_patch",
+    "version": "1.3.3.3"
   },
   "ActuallyAdditions-1.12.2-r152.jar": {
     "jarName": "ActuallyAdditions-1.12.2-r152.jar",
@@ -215,10 +225,10 @@
     "modId": "biometweaker",
     "version": "3.2"
   },
-  "bogosorter-1.4.11.jar": {
-    "jarName": "bogosorter-1.4.11.jar",
+  "bogosorter-1.5.0.jar": {
+    "jarName": "bogosorter-1.5.0.jar",
     "modId": "bogosorter",
-    "version": "1.4.11"
+    "version": "1.5.0"
   },
   "Bookshelf-1.12.2-2.3.590.jar": {
     "jarName": "Bookshelf-1.12.2-2.3.590.jar",
@@ -794,10 +804,10 @@
     "modId": "grimoireofgaia",
     "version": "1.7.2"
   },
-  "groovyscript-1.2.5.jar": {
-    "jarName": "groovyscript-1.2.5.jar",
+  "groovyscript-1.3.1.jar": {
+    "jarName": "groovyscript-1.3.1.jar",
     "modId": "groovyscript",
-    "version": "1.2.5"
+    "version": "1.3.1"
   },
   "growthcraft-1.12.2-4.4.0.jar": {
     "jarName": "growthcraft-1.12.2-4.4.0.jar",
@@ -960,10 +970,10 @@
     "modId": "jeiutilities",
     "version": "0.2.13"
   },
-  "jei_area_fixer-2.2.0.jar": {
-    "jarName": "jei_area_fixer-2.2.0.jar",
+  "jei_area_fixer-2.2.1.jar": {
+    "jarName": "jei_area_fixer-2.2.1.jar",
     "modId": "jei_area_fixer",
-    "version": "2.1.0"
+    "version": "2.2.1"
   },
   "jepb-1.12-1.2.1.jar": {
     "jarName": "jepb-1.12-1.2.1.jar",
@@ -1171,10 +1181,10 @@
     "modId": "modtweaker",
     "version": "4.0.20.11"
   },
-  "modularui-2.5.1.jar": {
-    "jarName": "modularui-2.5.1.jar",
+  "modularui-3.0.3.jar": {
+    "jarName": "modularui-3.0.3.jar",
     "modId": "modularui",
-    "version": "2.5.1"
+    "version": "3.0.3"
   },
   "MoreFurnaces-Nomifactory-Edition-1.12.2-1.11.0.jar": {
     "jarName": "MoreFurnaces-Nomifactory-Edition-1.12.2-1.11.0.jar",
@@ -1260,11 +1270,6 @@
     "jarName": "nolavabuild-1.12.2-1.0.0.jar",
     "modId": "nolavabuild",
     "version": "1.12.2-1.0.0"
-  },
-  "NonConflictKeys-Forge-1.12.2-1.0.0.jar": {
-    "jarName": "NonConflictKeys-Forge-1.12.2-1.0.0.jar",
-    "modId": "nckey",
-    "version": "1.0.0"
   },
   "NotEnoughIDs-1.5.4.4.jar": {
     "jarName": "NotEnoughIDs-1.5.4.4.jar",
