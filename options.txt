@@ -137,7 +137,7 @@ key_key.moreoverlays.chunkbounds.desc:67:NONE:
 key_openblocks.keybind.vario_switch:0:NONE:
 key_openblocks.keybind.vario_vol_up:0:NONE:
 key_openblocks.keybind.vario_vol_down:0:NONE:
-key_key.toggleFoVChanges:51:NONE:
+key_key.toggleFoVChanges:0:NONE:
 key_key.reloadSoundSystem:66:NONE:
 key_key.toggleTimeOfDayOverlay:68:NONE:
 key_key.togglePotionParticles:66:NONE:
@@ -250,9 +250,9 @@ key_key.toggleVisible:0:NONE:
 key_key.elenaidodge.dodge:-96:NONE:
 key_keybind.enderskills.skill_bound.rotate_right:32:ALT:56
 key_keybind.enderskills.skill_bound.rotate_left:30:ALT:56
-key_keybind.enderskills.skill_bound.use_1:2:NONE:
-key_keybind.enderskills.skill_bound.use_2:3:NONE:
-key_keybind.enderskills.skill_bound.use_3:4:NONE:
+key_keybind.enderskills.skill_bound.use_1:2:ALT:56
+key_keybind.enderskills.skill_bound.use_2:3:ALT:56
+key_keybind.enderskills.skill_bound.use_3:4:ALT:56
 key_keybind.enderskills.skill_bound.use_4:78:NONE:
 key_keybind.enderskills.skill_bound.use_5:6:NONE:
 key_keybind.enderskills.skill_bound.use_6:7:NONE:
@@ -329,7 +329,7 @@ key_gui.xaero_toggle_waypoints:0:NONE:
 key_gui.xaero_toggle_map_waypoints:0:NONE:
 key_gui.xaero_toggle_map:0:NONE:
 key_gui.xaero_enlarge_map:0:NONE:
-key_gui.xaero_waypoints_key:22:NONE:
+key_gui.xaero_waypoints_key:22:ALT:56
 key_gui.xaero_zoom_in:0:NONE:
 key_gui.xaero_zoom_out:0:NONE:
 key_gui.xaero_new_waypoint:48:NONE:

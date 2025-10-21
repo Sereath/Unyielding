@@ -1,4 +1,3 @@
-!!!CrashAssistant-forge-1.12.2-1.10.11
 !configanytime-3.0
 !mixinbooter-10.7
 !mod-director-launchwrapper-1.9.1
@@ -396,7 +395,7 @@ vc-1.12.2-5.10-final
 VerticallyStackedDimensions-1.12.2-0.1.9
 VillageNames-1.12.2-4.4.13
 VillagerTrades-1.12.2-0.6.5
-voicechat-forge-1.12.2-2.5.35
+voicechat-forge-1.12.2-2.6.6
 WanionLib-1.12.2-2.91
 Waystones_1.12.2-4.1.0
 Well-Mod-v1.0.1-mc1.12.2

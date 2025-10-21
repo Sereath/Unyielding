@@ -20,7 +20,7 @@ key_key.spectatorOutlines:0:NONE
 key_key.swapHands:33:NONE
 key_key.saveToolbarActivator:0:NONE
 key_key.loadToolbarActivator:45:NONE
-key_key.advancements:38:NONE
+key_key.advancements:0:NONE
 key_key.hotbar.1:2:NONE
 key_key.hotbar.2:3:NONE
 key_key.hotbar.3:4:NONE
@@ -33,9 +33,13 @@ key_key.hotbar.9:10:NONE
 key_of.key.zoom:46:NONE
 key_Reload Menu | CTRL + ALT + :0:NONE
 key_Toggle Customization Overlay | CTRL + ALT + :50:NONE
-key_key.groovyscript.reload:0:NONE
 key_Toggle Slot Lock:82:NONE
-key_Take Panorama Screenshot:25:ALT
+key_Take Panorama Screenshot:25:NONE
+key_flare.key.start_sampling:0:NONE
+key_flare.key.stop_sampling:0:NONE
+key_flare.key.start_client_sampling:0:NONE
+key_flare.key.stop_client_sampling:0:NONE
+key_flare.key.open_tick_tracking_menu:0:NONE
 key_keybind.baublesinventory:18:ALT
 key_arcanearchives.gui.keybinds.manifest:0:NONE
 key_quark.keybind.dropoff:0:NONE
@@ -49,10 +53,10 @@ key_quark.keybind.lockBuilding:76:NONE
 key_key.conarm.toggle_helm.desc:181:NONE
 key_key.conarm.toggle_chest.desc:35:NONE
 key_key.conarm.toggle_leg.desc:0:NONE
-key_key.xat.trinket_gui.desc:25:ALT
-key_key.xat.trinket_target.desc:25:ALT
-key_key.xat.trinket_toggle_effect.desc:33:ALT
-key_key.xat.magnet_toggle_effect.desc:33:ALT
+key_key.xat.trinket_gui.desc:25:NONE
+key_key.xat.trinket_target.desc:25:NONE
+key_key.xat.trinket_toggle_effect.desc:33:NONE
+key_key.xat.magnet_toggle_effect.desc:33:NONE
 key_key.xat.trinket_arcing_attack.desc:0:NONE
 key_key.xat.aux_key.desc:29:NONE
 key_key.xat.race_ability.desc:74:NONE
@@ -60,8 +64,9 @@ key_key.spartanweaponry.access_quiver:23:NONE
 key_ChatFlow:88:NONE
 key_cos.key.opencosarmorinventory:0:NONE
 key_Flying Mount Descent (Mo' Creatures):44:NONE
+key_keybind.endermodpacktweaks.toggle:0:NONE
 key_Toggle Magnetism Suppressor:49:NONE
-key_key.ftbutilities.nbt:49:ALT
+key_key.ftbutilities.nbt:49:NONE
 key_key.ftbutilities.trash:211:NONE
 key_key.ftbquests.quests:36:NONE
 key_key.mount.dismount:56:NONE
@@ -75,14 +80,13 @@ key_key.summoning:0:NONE
 key_key.minions:19:NONE
 key_key.moreoverlays.lightoverlay.desc:65:NONE
 key_key.moreoverlays.chunkbounds.desc:67:NONE
-key_neat.keybind.toggle:0:NONE
 key_openblocks.keybind.vario_switch:0:NONE
 key_openblocks.keybind.vario_vol_up:0:NONE
 key_openblocks.keybind.vario_vol_down:0:NONE
-key_key.toggleFoVChanges:51:SHIFT
-key_key.reloadSoundSystem:66:SHIFT
+key_key.toggleFoVChanges:0:NONE
+key_key.reloadSoundSystem:66:NONE
 key_key.toggleTimeOfDayOverlay:68:NONE
-key_key.togglePotionParticles:66:CONTROL
+key_key.togglePotionParticles:66:NONE
 key_Camera left:203:NONE
 key_Camera right:205:NONE
 key_Camera closer:200:NONE
@@ -103,6 +107,7 @@ key_vc.key.moveUp:57:NONE
 key_vc.key.moveDown:45:NONE
 key_vc.key.openInventory:43:NONE
 key_vc.key.dropbomb:0:NONE
+key_key.delivery.store:48:NONE
 key_dshuds.keybind.SelectionBox:77:NONE
 key_dshuds.keybind.LightLevel:65:NONE
 key_dshuds.keybind.ChunkBorders:67:NONE
@@ -130,7 +135,7 @@ key_keybind.vehicle.turret.right:45:NONE
 key_keybind.vehicle.mouse.aim:0:NONE
 key_keybind.vehicle.ammo.select:47:NONE
 key_key.jei.toggleOverlay:24:CONTROL
-key_key.jei.focusSearch:33:CONTROL
+key_key.jei.focusSearch:33:NONE
 key_key.jei.toggleCheatMode:0:NONE
 key_key.jei.toggleEditMode:0:NONE
 key_key.jei.showRecipe:19:NONE
@@ -139,8 +144,9 @@ key_key.jei.recipeBack:14:NONE
 key_key.jei.previousPage:201:NONE
 key_key.jei.nextPage:209:NONE
 key_key.jei.bookmark:59:NONE
-key_key.jei.toggleBookmarkOverlay:0:NONE
-key_key.aquaacrobatics.toggle_crawling:0:ALT
+key_key.hei.toggleBookmarkOverlay:0:NONE
+key_key.hei.crafting:0:NONE
+key_key.aquaacrobatics.toggle_crawling:0:NONE
 key_key.cofh.multimode:47:NONE
 key_tombstone.message.knowledge_of_death:72:NONE
 key_key.dragon_fireAttack:-100:NONE
@@ -174,9 +180,9 @@ key_key.craftingtweaks.spread:0:NONE
 key_key.craftingtweaks.clear:0:NONE
 key_key.craftingtweaks.force_clear:0:NONE
 key_key.craftingtweaks.toggleButtons:0:NONE
-key_key.craftingtweaks.compressOne:37:CONTROL
+key_key.craftingtweaks.compressOne:37:NONE
 key_key.craftingtweaks.compressStack:37:NONE
-key_key.craftingtweaks.compressAll:37:SHIFT
+key_key.craftingtweaks.compressAll:37:NONE
 key_key.craftingtweaks.decompressOne:0:NONE
 key_key.craftingtweaks.decompressStack:0:NONE
 key_key.craftingtweaks.decompressAll:0:NONE
@@ -193,20 +199,23 @@ key_keybind.enderskills.skill_bound.rotate_left:30:ALT
 key_keybind.enderskills.skill_bound.use_1:2:ALT
 key_keybind.enderskills.skill_bound.use_2:3:ALT
 key_keybind.enderskills.skill_bound.use_3:4:ALT
-key_keybind.enderskills.skill_bound.use_4:78:ALT
-key_keybind.enderskills.skill_bound.use_5:6:ALT
-key_keybind.enderskills.skill_bound.use_6:7:ALT
-key_keybind.enderskills.skill_bound.use_7:8:ALT
-key_keybind.enderskills.skill_bound.use_8:9:ALT
-key_keybind.enderskills.skill_bound.use_9:10:ALT
+key_keybind.enderskills.skill_bound.use_4:78:NONE
+key_keybind.enderskills.skill_bound.use_5:6:NONE
+key_keybind.enderskills.skill_bound.use_6:7:NONE
+key_keybind.enderskills.skill_bound.use_7:8:NONE
+key_keybind.enderskills.skill_bound.use_8:9:NONE
+key_keybind.enderskills.skill_bound.use_9:10:NONE
 key_keybind.enderskills.skill_bound.assisted_upgrade:78:NONE
-key_keybind.enderskills.skill_bound.hide_overlay:21:ALT
+key_keybind.enderskills.skill_bound.hide_overlay:21:NONE
 key_keybind.enderskills.skill_bound.dash:78:NONE
 key_keybind.enderskills.skill_bound.warp:78:NONE
 key_keybind.enderskills.skill_bound.smash:42:NONE
+key_key.gui.weapon_interface:37:NONE
 key_key.mod_lavacow.special:34:NONE
 key_FpsReducer.key.guiOpen:207:NONE
 key_FpsReducer.key.forceIdle:197:NONE
+key_keybind.groovyscript.reload:0:NONE
+key_keybind.groovyscript.copy:0:NONE
 key_Open Backpack:51:NONE
 key_key.inventoryhud.toggle:0:NONE
 key_key.inventoryhud.openconfig:24:NONE
@@ -217,10 +226,6 @@ key_key.itemzoom.toggle:0:NONE
 key_key.itemzoom.hold:0:NONE
 key_key.itemzoom.zoom.in:0:NONE
 key_key.itemzoom.zoom.out:0:NONE
-key_key.jeiutilities.displayRecipe:29:NONE
-key_key.jeiutilities.pickBookmark:-98:NONE
-key_key.jeiutilities.transferRecipe:17:CONTROL
-key_key.jeiutilities.transferRecipeMax:20:CONTROL
 key_key.music_player_gui:0:NONE
 key_key.music_player_toggle:0:NONE
 key_key.music_player_next:0:NONE
@@ -231,9 +236,9 @@ key_key.plustic_release_entity.desc:11:NONE
 key_key.plustic_toggle_gui.desc:23:NONE
 key_key.plustic_set_portal.desc:25:NONE
 key_key.plustic_brown_magic.desc:24:NONE
-key_key.plustic_toggle_tool.desc:51:ALT
-key_key.plustic_fruit_salad.desc:12:ALT
-key_key.plustic_mots.desc:13:ALT
+key_key.plustic_toggle_tool.desc:51:NONE
+key_key.plustic_fruit_salad.desc:12:NONE
+key_key.plustic_mots.desc:13:NONE
 key_xreliquary.keybind.fortune_coin:0:NONE
 key_key.arms.desc:0:NONE
 key_key.mod.desc:62:NONE
@@ -246,11 +251,11 @@ key_techguns.key.toggleJetpack:0:NONE
 key_key.toolbelt.open:55:NONE
 key_key.toolbelt.cycle.left:0:NONE
 key_key.toolbelt.cycle.right:0:NONE
-key_key.toolbelt.slot:47:CONTROL
+key_key.toolbelt.slot:0:NONE
 key_key.travelersbackpack.inventory:52:NONE
 key_key.travelersbackpack.toggle_tank:73:NONE
 key_key.travelersbackpack.cycle_tool:71:NONE
-key_keybind.universaltweaks.clear_toasts:11:CONTROL
+key_keybind.universaltweaks.clear_toasts:11:NONE
 key_keybind.universaltweaks.dismount:42:NONE
 key_key.push_to_talk:0:NONE
 key_key.whisper:0:NONE
@@ -270,10 +275,10 @@ key_gui.xaero_toggle_waypoints:0:NONE
 key_gui.xaero_toggle_map_waypoints:0:NONE
 key_gui.xaero_toggle_map:0:NONE
 key_gui.xaero_enlarge_map:0:NONE
-key_gui.xaero_waypoints_key:22:CONTROL
+key_gui.xaero_waypoints_key:22:ALT
 key_gui.xaero_zoom_in:0:NONE
 key_gui.xaero_zoom_out:0:NONE
-key_gui.xaero_new_waypoint:48:CONTROL
+key_gui.xaero_new_waypoint:48:NONE
 key_gui.xaero_display_all_sets:0:NONE
 key_gui.xaero_toggle_light_overlay:0:NONE
 key_gui.xaero_toggle_entity_radar:0:NONE
@@ -288,18 +293,24 @@ key_gui.xaero_map_zoom_in:0:NONE
 key_gui.xaero_map_zoom_out:0:NONE
 key_gui.xaero_quick_confirm:54:NONE
 key_gui.xaero_toggle_dimension:0:NONE
-key_key.sort_config:73:CONTROL
-key_key.sort:41:NONE
+key_bogosort.key.move_all_same:-100:ALT
+key_bogosort.key.move_all:-100:NONE
+key_bogosort.key.move_single:-100:CONTROL
+key_bogosort.key.move_single_empty:-99:CONTROL
+key_bogosort.key.throw_all_same:16:CONTROL
+key_bogosort.key.throw_all:16:NONE
+key_bogosort.key.sort_config:73:ALT
+key_bogosort.key.sort:-98:NONE
 key_key.drop:16:ALT
 key_enderio.keybind.inventory:23:CONTROL
 key_enderio.keybind.dsu:0:NONE
-key_enderio.keybind.glidertoggle:45:ALT
+key_enderio.keybind.glidertoggle:34:CONTROL
 key_enderio.keybind.soundlocator:0:NONE
 key_enderio.keybind.nightvision:25:CONTROL
 key_enderio.keybind.gogglesofrevealing:0:NONE
-key_enderio.keybind.stepassist:48:ALT
+key_enderio.keybind.stepassist:48:CONTROL
 key_enderio.keybind.speed:78:CONTROL
-key_enderio.keybind.jump:57:ALT
+key_enderio.keybind.jump:57:CONTROL
 key_enderio.keybind.top:0:NONE
 key_enderio.keybind.tnt:0:NONE
 key_enderio.keybind.yetawrenchmode:21:NONE
