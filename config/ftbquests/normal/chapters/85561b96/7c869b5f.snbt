@@ -20,8 +20,8 @@
 						crafter.name: "",
 						mana: 0.0f,
 						main.ability: 0b,
-						slot: -1,
-						handler: "None"
+						handler: "None",
+						slot: -1
 					}
 				}
 			},
@@ -39,8 +39,8 @@
 					crafter.name: "",
 					mana: 0.0f,
 					main.ability: 0b,
-					slot: -1,
-					handler: "None"
+					handler: "None",
+					slot: -1
 				}
 			},
 			id: "xat:faelis_claw"

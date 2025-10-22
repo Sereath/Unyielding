@@ -1,0 +1,24 @@
+{
+	x: 1.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "93ca92cb",
+		type: "kill",
+		title: "Assimilated Human",
+		icon: "srparasites:itemmobspawner_infhuman",
+		entity: "srparasites:sim_human",
+		value: 10L
+	}],
+	rewards: [{
+		uid: "44deb75b",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "ob"
+	},
+	{
+		uid: "fb14f3be",
+		type: "command",
+		command: "/playsound srparasites:host.em master @p",
+		player_command: 1b
+	}]
+}

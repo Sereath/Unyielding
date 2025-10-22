@@ -7,6 +7,22 @@
 		items: [{
 			ForgeCaps: {
 				"xat:trinket": {
+					Quality: {
+						Name: "quality.unlucky.name",
+						Color: "red",
+						Slots: [
+							"baubles_trinket",
+							"offhand"
+						],
+						AttributeModifiers: [{
+							Amount: -0.20000000298023224d,
+							AttributeName: "generic.luck",
+							Operation: 0,
+							UUIDMost: 6841630956124325414L,
+							UUIDLeast: -7310987764209680345L,
+							Name: "qualitytools"
+						}]
+					},
 					"xat:Trinket": {
 						variant: 0,
 						Counters: {},
@@ -20,28 +36,28 @@
 						crafter.name: "",
 						mana: 0.0f,
 						main.ability: 0b,
-						slot: -1,
-						handler: "None"
-					},
-					Quality: {
-						Name: "quality.unlucky.name",
-						Color: "red",
-						Slots: [
-							"baubles_trinket",
-							"offhand"
-						],
-						AttributeModifiers: [{
-							Amount: -0.20000000298023224d,
-							Name: "qualitytools",
-							Operation: 0,
-							UUIDMost: 6841630956124325414L,
-							UUIDLeast: -7310987764209680345L,
-							AttributeName: "generic.luck"
-						}]
+						handler: "None",
+						slot: -1
 					}
 				}
 			},
 			tag: {
+				Quality: {
+					Name: "quality.unlucky.name",
+					Color: "red",
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					AttributeModifiers: [{
+						Amount: -0.20000000298023224d,
+						AttributeName: "generic.luck",
+						Operation: 0,
+						UUIDMost: 6841630956124325414L,
+						UUIDLeast: -7310987764209680345L,
+						Name: "qualitytools"
+					}]
+				},
 				"xat:Trinket": {
 					variant: 0,
 					Counters: {},
@@ -55,24 +71,8 @@
 					crafter.name: "",
 					mana: 0.0f,
 					main.ability: 0b,
-					slot: -1,
-					handler: "None"
-				},
-				Quality: {
-					Name: "quality.unlucky.name",
-					Color: "red",
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					AttributeModifiers: [{
-						Amount: -0.20000000298023224d,
-						Name: "qualitytools",
-						Operation: 0,
-						UUIDMost: 6841630956124325414L,
-						UUIDLeast: -7310987764209680345L,
-						AttributeName: "generic.luck"
-					}]
+					handler: "None",
+					slot: -1
 				}
 			},
 			id: "xat:dwarf_ring"

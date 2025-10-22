@@ -1,0 +1,24 @@
+{
+	x: -0.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "fb4a1dcc",
+		type: "kill",
+		title: "Rupter",
+		icon: "srparasites:itemmobspawner_mudo",
+		entity: "srparasites:rupter",
+		value: 10L
+	}],
+	rewards: [{
+		uid: "e0a5bc38",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "ob"
+	},
+	{
+		uid: "ad7655fc",
+		type: "command",
+		command: "/playsound srparasites:host.em master @p",
+		player_command: 1b
+	}]
+}

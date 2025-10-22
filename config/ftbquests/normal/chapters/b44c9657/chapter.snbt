@@ -1,0 +1,8 @@
+{
+	title: "Track",
+	icon: "minecraft:apple",
+	disable_toast: 1b,
+	always_invisible: 1b,
+	group: 0,
+	default_quest_shape: ""
+}

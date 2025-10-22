@@ -513,16 +513,6 @@
         "damage": 44,
         "count": 1
       }
-    },
-    {
-      "weight": 0.5354365706443787,
-      "min": 1,
-      "max": 1,
-      "item": {
-        "id": "grimoireofgaia:box",
-        "damage": 2,
-        "count": 1
-      }
     }
   ],
   "dependencyExpression": ""

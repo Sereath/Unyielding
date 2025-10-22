@@ -7,6 +7,22 @@
 		items: [{
 			ForgeCaps: {
 				"xat:trinket": {
+					Quality: {
+						Name: "quality.armored.name",
+						Color: "blue",
+						Slots: [
+							"baubles_trinket",
+							"offhand"
+						],
+						AttributeModifiers: [{
+							Amount: 0.029999999329447746d,
+							AttributeName: "potioncore.damageResistance",
+							Operation: 2,
+							UUIDMost: 3565180301975440303L,
+							UUIDLeast: -4649340811329528693L,
+							Name: "qualitytools"
+						}]
+					},
 					"xat:Trinket": {
 						variant: 0,
 						Counters: {},
@@ -20,28 +36,28 @@
 						crafter.name: "",
 						mana: 0.0f,
 						main.ability: 0b,
-						slot: -1,
-						handler: "None"
-					},
-					Quality: {
-						Name: "quality.armored.name",
-						Color: "blue",
-						Slots: [
-							"baubles_trinket",
-							"offhand"
-						],
-						AttributeModifiers: [{
-							Amount: 0.029999999329447746d,
-							Name: "qualitytools",
-							Operation: 2,
-							UUIDMost: 3565180301975440303L,
-							UUIDLeast: -4649340811329528693L,
-							AttributeName: "potioncore.damageResistance"
-						}]
+						handler: "None",
+						slot: -1
 					}
 				}
 			},
 			tag: {
+				Quality: {
+					Name: "quality.armored.name",
+					Color: "blue",
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					AttributeModifiers: [{
+						Amount: 0.029999999329447746d,
+						AttributeName: "potioncore.damageResistance",
+						Operation: 2,
+						UUIDMost: 3565180301975440303L,
+						UUIDLeast: -4649340811329528693L,
+						Name: "qualitytools"
+					}]
+				},
 				"xat:Trinket": {
 					variant: 0,
 					Counters: {},
@@ -55,24 +71,8 @@
 					crafter.name: "",
 					mana: 0.0f,
 					main.ability: 0b,
-					slot: -1,
-					handler: "None"
-				},
-				Quality: {
-					Name: "quality.armored.name",
-					Color: "blue",
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					AttributeModifiers: [{
-						Amount: 0.029999999329447746d,
-						Name: "qualitytools",
-						Operation: 2,
-						UUIDMost: 3565180301975440303L,
-						UUIDLeast: -4649340811329528693L,
-						AttributeName: "potioncore.damageResistance"
-					}]
+					handler: "None",
+					slot: -1
 				}
 			},
 			id: "xat:fairy_ring"

@@ -7,6 +7,7 @@
 		items: [{
 			ForgeCaps: {
 				"xat:trinket": {
+					Quality: {},
 					"xat:Trinket": {
 						variant: 0,
 						Counters: {},
@@ -20,13 +21,13 @@
 						crafter.name: "",
 						mana: 0.0f,
 						main.ability: 0b,
-						slot: -1,
-						handler: "None"
-					},
-					Quality: {}
+						handler: "None",
+						slot: -1
+					}
 				}
 			},
 			tag: {
+				Quality: {},
 				"xat:Trinket": {
 					variant: 0,
 					Counters: {},
@@ -40,10 +41,9 @@
 					crafter.name: "",
 					mana: 0.0f,
 					main.ability: 0b,
-					slot: -1,
-					handler: "None"
-				},
-				Quality: {}
+					handler: "None",
+					slot: -1
+				}
 			},
 			id: "xat:poison_stone"
 		}],

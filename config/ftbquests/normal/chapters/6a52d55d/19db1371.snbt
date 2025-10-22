@@ -14,11 +14,11 @@
 					],
 					AttributeModifiers: [{
 						Amount: -1.0d,
-						Name: "qualitytools",
+						AttributeName: "generic.armor",
 						Operation: 0,
 						UUIDMost: -3604356700473572856L,
 						UUIDLeast: -8803618855526089555L,
-						AttributeName: "generic.armor"
+						Name: "qualitytools"
 					}]
 				}
 			},

@@ -12,8 +12,8 @@
 				}
 			},
 			tag: {
-				Quality: {},
-				ClientInventory: []
+				ClientInventory: [],
+				Quality: {}
 			},
 			id: "spartanweaponry:quiver_bolt"
 		}],
