@@ -1,12 +1,24 @@
 {
+	title: "SRP",
 	x: -0.5d,
 	y: 0.0d,
+	text: [
+		""
+	],
 	tasks: [{
 		uid: "fb4a1dcc",
 		type: "kill",
 		title: "Rupter",
 		icon: "srparasites:itemmobspawner_mudo",
 		entity: "srparasites:rupter",
+		value: 20L
+	},
+	{
+		uid: "b285bd65",
+		type: "kill",
+		title: "Assimilated Human",
+		icon: "srparasites:itemmobspawner_infhuman",
+		entity: "srparasites:sim_human",
 		value: 10L
 	}],
 	rewards: [{

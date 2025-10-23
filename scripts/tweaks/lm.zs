@@ -112,7 +112,9 @@ val lmblocks = [
     <lycanitesmobs:lushstonebrick>,
     <lycanitesmobs:lushstone_slab_double>,
     <lycanitesmobs:lushstonetile_slab>,
-    <lycanitesmobs:lushstonetile_stairs>
+    <lycanitesmobs:lushstonetile_stairs>,
+    <theaurorian:aurorianstonebrick>,
+    <theaurorian:aurorianportalframebricks>
 ] as IItemStack[];
 
 for lmblock in lmblocks {

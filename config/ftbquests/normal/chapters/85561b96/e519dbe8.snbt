@@ -15,11 +15,11 @@
 					],
 					AttributeModifiers: [{
 						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.magicDamage",
+						Name: "qualitytools",
 						Operation: 2,
 						UUIDMost: -8855766858334648407L,
 						UUIDLeast: -8201017573697859203L,
-						Name: "qualitytools"
+						AttributeName: "potioncore.magicDamage"
 					}]
 				}
 			},
