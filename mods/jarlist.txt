@@ -83,7 +83,7 @@ corpsecomplex-1.12.2-1.0.12.0
 CosmeticArmorReworked-1.12.2-v5a
 cosmeticbeds-1.12.2-1.0.2.2
 CraftingTweaks_1.12.2-9.0.1
-CraftPresence-2.6.2+1.12.2-forge
+CraftPresence-2.7.0+1.12.2-forge
 CraftTweaker2-1.12-4.1.20.709
 CreativeCore_v1.10.71_mc1.12.2
 CTM-MC1.12.2-1.0.2.31
@@ -384,7 +384,7 @@ tumbleweed-1.12-0.4.7
 tweakersconstruct-1.12.2-1.6.1
 UniDict-1.12.2-3.0.10
 Unifine-1.12.2-0.1.0
-UniLib-1.1.1+1.12.2-forge
+UniLib-1.2.0+1.12.2-forge
 Unique Enchantments Base-1.12.2-1.1.4
 Unique Enchantments Battle-1.12.2-1.1.6
 Unique Enchantments-1.12.2-2.1.4
