@@ -32,5 +32,10 @@
 		type: "command",
 		command: "/playsound srparasites:host.em master @p",
 		player_command: 1b
+	},
+	{
+		uid: "a3d4fa65",
+		type: "command",
+		command: "/sanity remove @p 10"
 	}]
 }
