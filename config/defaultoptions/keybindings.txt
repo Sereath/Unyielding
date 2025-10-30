@@ -42,6 +42,7 @@ key_flare.key.stop_client_sampling:0:NONE
 key_flare.key.open_tick_tracking_menu:0:NONE
 key_keybind.baublesinventory:18:ALT
 key_arcanearchives.gui.keybinds.manifest:0:NONE
+key_quark.keybind.lockBuilding:76:NONE
 key_quark.keybind.dropoff:0:NONE
 key_quark.keybind.changeHotbar:0:NONE
 key_quark.keybind.chestSort:0:NONE
@@ -49,7 +50,6 @@ key_quark.keybind.chestDropoff:0:NONE
 key_quark.keybind.chestMerge:0:NONE
 key_quark.keybind.chestRestock:0:NONE
 key_quark.keybind.chestExtract:0:NONE
-key_quark.keybind.lockBuilding:76:NONE
 key_key.conarm.toggle_helm.desc:181:NONE
 key_key.conarm.toggle_chest.desc:35:NONE
 key_key.conarm.toggle_leg.desc:0:NONE
@@ -294,7 +294,7 @@ key_gui.xaero_map_zoom_out:0:NONE
 key_gui.xaero_quick_confirm:54:NONE
 key_gui.xaero_toggle_dimension:0:NONE
 key_bogosort.key.move_all_same:-100:ALT
-key_bogosort.key.move_all:-100:NONE
+key_bogosort.key.move_all:0:NONE
 key_bogosort.key.move_single:-100:CONTROL
 key_bogosort.key.move_single_empty:-99:CONTROL
 key_bogosort.key.throw_all_same:16:CONTROL

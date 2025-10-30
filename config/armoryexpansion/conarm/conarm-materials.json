@@ -529,6 +529,50 @@
   },
   {
     "coreMaterialStats": {
+      "durability": 24.0,
+      "defense": 16.2,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 7.5789475,
+      "modifier": 13.976471,
+      "toughness": 0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 7.5789475,
+      "materialType": "trim"
+    },
+    "identifier": "alumite",
+    "color": -22551,
+    "type": "METAL",
+    "castable": true,
+    "craftable": false
+  },
+  {
+    "coreMaterialStats": {
+      "durability": 7.0,
+      "defense": 6.75,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 6.1894736,
+      "modifier": 13.976471,
+      "toughness": 0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 6.1894736,
+      "materialType": "trim"
+    },
+    "identifier": "bloodbone",
+    "color": -3735552,
+    "type": "METAL",
+    "castable": false,
+    "craftable": true
+  },
+  {
+    "coreMaterialStats": {
       "durability": 27.0,
       "defense": 20.25,
       "materialType": "core"
@@ -1428,6 +1472,28 @@
     "type": "METAL",
     "castable": true,
     "craftable": true
+  },
+  {
+    "coreMaterialStats": {
+      "durability": 15.0,
+      "defense": 9.45,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 8.589474,
+      "modifier": 13.976471,
+      "toughness": 0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 8.589474,
+      "materialType": "trim"
+    },
+    "identifier": "alubrass",
+    "color": -994201,
+    "type": "METAL",
+    "castable": true,
+    "craftable": false
   },
   {
     "coreMaterialStats": {
