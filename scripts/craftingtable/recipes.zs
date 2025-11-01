@@ -321,6 +321,39 @@ recipes.remove(<iceandfire:silver_pickaxe>);
 recipes.remove(<iceandfire:silver_axe>);
 recipes.remove(<iceandfire:silver_hoe>);
 
+recipes.addShapeless(
+    <unyielding:copper>,
+    [<ancientwarfarenpc:coin>.withTag({metal: "copper"})]
+);
+recipes.addShapeless(
+    <ancientwarfarenpc:coin>.withTag({metal: "copper"}),
+    [<unyielding:copper>]
+);
+recipes.addShapeless(
+    <unyielding:silver>,
+    [<ancientwarfarenpc:coin>.withTag({metal: "silver"})]
+);
+recipes.addShapeless(
+    <ancientwarfarenpc:coin>.withTag({metal: "silver"}),
+    [<unyielding:silver>]
+);
+recipes.addShapeless(
+    <unyielding:gold>,
+    [<ancientwarfarenpc:coin>.withTag({metal: "gold"})]
+);
+recipes.addShapeless(
+    <ancientwarfarenpc:coin>.withTag({metal: "gold"}),
+    [<unyielding:gold>]
+);
+recipes.addShapeless(
+    <unyielding:opulent>,
+    [<ancientwarfarenpc:coin>.withTag({metal: "ancient"})]
+);
+recipes.addShapeless(
+    <ancientwarfarenpc:coin>.withTag({metal: "ancient"}),
+    [<unyielding:opulent>]
+);
+
 recipes.addShaped(<buildinggadgets:buildingtool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemPulsatingCrystal>, <ore:crystalRestonia>, <ore:itemPulsatingCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
 recipes.addShaped(<buildinggadgets:exchangertool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemPulsatingCrystal>, <ore:crystalPalis>, <ore:itemPulsatingCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);
 recipes.addShaped(<buildinggadgets:copypastetool>, [[<ore:ingotElectricalSteel>, <ore:crystalRestonia>, <ore:ingotElectricalSteel>],[<ore:itemVibrantCrystal>, <ore:crystalRestonia>, <ore:itemVibrantCrystal>], [<ore:ingotElectricalSteel>, <ore:crystalPalis>, <ore:ingotElectricalSteel>]]);

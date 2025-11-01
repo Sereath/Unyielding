@@ -6,10 +6,10 @@ val store_Magic = "Magic";
 val store_Special = "Special";
 val store_Exchange = "Exchange";
 
-val copperCoin = <ancientwarfarenpc:coin>.withTag({metal: "copper"});
-val silverCoin = <ancientwarfarenpc:coin>.withTag({metal: "silver"});
-val goldCoin = <ancientwarfarenpc:coin>.withTag({metal: "gold"});
-val ancientCoin = <ancientwarfarenpc:coin>.withTag({metal: "ancient"});
+val copperCoin = <unyielding:copper>;
+val silverCoin = <unyielding:silver>;
+val goldCoin = <unyielding:gold>;
+val ancientCoin = <unyielding:opulent>;
 val scrapAurorianite = <theaurorian:scrapaurorianite>;
 val scrapCrystalline = <theaurorian:scrapcrystalline>;
 val scrapUmbra = <theaurorian:scrapumbra>;
@@ -191,9 +191,9 @@ mods.Delivery.Store.addTrade(ancientCoin, store_Exchange).addItem(goldCoin * 64)
 mods.Delivery.Store.addTrade(scrapAurorianite, store_Exchange).addItem(ancientCoin * 3);
 mods.Delivery.Store.addTrade(scrapCrystalline, store_Exchange).addItem(ancientCoin * 3);
 mods.Delivery.Store.addTrade(scrapUmbra, store_Exchange).addItem(ancientCoin * 3);
-mods.Delivery.Store.addTrade(copperCoin * 2, store_Exchange).addItem(silverCoin);
-mods.Delivery.Store.addTrade(silverCoin * 8, store_Exchange).addItem(goldCoin);
-mods.Delivery.Store.addTrade(goldCoin * 32, store_Exchange).addItem(ancientCoin);
+mods.Delivery.Store.addTrade(copperCoin * 2, store_Exchange).addItem(silverCoin * 1);
+mods.Delivery.Store.addTrade(silverCoin * 8, store_Exchange).addItem(goldCoin * 1);
+mods.Delivery.Store.addTrade(goldCoin * 32, store_Exchange).addItem(ancientCoin * 1);
 mods.Delivery.Store.addTrade(ancientCoin * 1, store_Exchange).addItem(scrapAurorianite);
 mods.Delivery.Store.addTrade(ancientCoin * 1, store_Exchange).addItem(scrapCrystalline);
 mods.Delivery.Store.addTrade(ancientCoin * 1, store_Exchange).addItem(scrapUmbra);

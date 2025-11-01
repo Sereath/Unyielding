@@ -16,3 +16,7 @@ tile.unyielding.layer1.name=Crust
 tile.unyielding.layer2.name=Crust
 tile.unyielding.layer3.name=Crust
 tile.unyielding.layer4.name=Crust
+item.unyielding.copper.name=Copper coin
+item.unyielding.silver.name=Silver coin
+item.unyielding.gold.name=Gold coin
+item.unyielding.opulent.name=Opulent coin
