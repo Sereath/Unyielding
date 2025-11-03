@@ -160,7 +160,7 @@ geckolib-forge-1.12.2-3.0.31
 GrimoireOfGaia3-1.12.2-1.7.2
 groovyscript-1.3.1
 growthcraft-1.12.2-4.4.0
-HadEnoughItems_1.12.2-4.29.8
+HadEnoughItems_1.12.2-4.29.9
 harderbedcrafting-1.0
 harvestersnight-1.12.2-1.1.0
 heroicarmory-1.2.0

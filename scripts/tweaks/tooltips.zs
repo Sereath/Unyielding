@@ -344,18 +344,6 @@
 <contenttweaker:book11>.addTooltip(format.darkGray("- Fluid Drawers"));
 <contenttweaker:book11>.addTooltip(format.darkGray("- Filing Cabinets Refurbished"));
 
-<unyielding:scraps1>.displayName = "§bte";
-<unyielding:scraps2>.displayName = "§btg";
-<unyielding:scraps3>.displayName = "§bmg";
-<unyielding:scraps4>.displayName = "§baa";
-<unyielding:scraps5>.displayName = "§beio";
-<unyielding:scraps6>.displayName = "§bomt";
-<unyielding:scraps7>.displayName = "§bcyc";
-<unyielding:scraps8>.displayName = "§brb";
-<unyielding:scraps9>.displayName = "§bxat";
-<unyielding:scraps10>.displayName = "§bnco";
-<unyielding:scraps11>.displayName = "§bir";
-
 <progressivecore:reality_crystal>.displayName = "§bReality Crystal";
 
 <extendedcrafting:ender_crafter>.displayName = "§3Ender Crafter";
