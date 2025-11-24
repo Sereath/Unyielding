@@ -407,6 +407,5 @@ Xaeros_Minimap_FP24.2.0_Forge_1.12
 XL-Food-Mod-1.12.2-1.9.2
 xnet-1.12-1.8.2
 YARCF-0.14(1.12.2)
-zspacket-0.0.1
 [MC-1.12.2] Default Key Setup v1.0.0.5 - 2024-12-14
 [MC-1.12.2] Key Binding Patch v1.3.3.3 - 2024-12-1

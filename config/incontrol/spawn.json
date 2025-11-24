@@ -1204,6 +1204,15 @@
 		},
 		"result": "deny"
 	},
+	{
+		"mob": "mutantbeasts:mutant_skeleton",
+		"mincount": {
+			"amount": 2,
+			"mob": "mutantbeasts:mutant_skeleton",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
 
 	//chickenscounter
 
@@ -1359,6 +1368,11 @@
 			"mob": "srparasites:sim_enderman",
 			"perchunk": true
 		},
+		"result": "deny"
+	},
+	{
+		"mob": ["srparasites:dispatcher_si","srparasites:dispatcher_sii","srparasites:dispatcher_siii","srparasites:dispatcher_siv"],
+		"onjoin": true,
 		"result": "deny"
 	}
 ]
