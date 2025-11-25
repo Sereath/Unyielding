@@ -34,7 +34,7 @@ key_of.key.zoom:46:NONE
 key_Reload Menu | CTRL + ALT + :0:NONE
 key_Toggle Customization Overlay | CTRL + ALT + :50:NONE
 key_Toggle Slot Lock:82:NONE
-key_Take Panorama Screenshot:25:NONE
+key_Take Panorama Screenshot:25:ALT
 key_flare.key.start_sampling:0:NONE
 key_flare.key.stop_sampling:0:NONE
 key_flare.key.start_client_sampling:0:NONE
