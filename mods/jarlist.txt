@@ -258,7 +258,7 @@ nuclearcraft-1.12.2-2o.8.6
 Nutrition-UEL-4.16.0
 Nyx-1.6.1
 oauth-1.06.4
-OceanicExpanse-1.2.1
+OceanicExpanse-1.2.2
 omlib-1.12.2-3.1.5-256
 OpenBlocks-1.12.2-1.8.1
 OpenModsLib-1.12.2-0.12.2
@@ -281,7 +281,7 @@ proxys-lib-1.12.2-1.3.0.6
 PyramidPlunder-1.12.2-1.4
 QMD-1.4.2-1.12.2
 QualityTools-1.0.7_for_1.12.2
-QuarkRotN-r1.6-189
+QuarkRotN-r1.6-191
 Quit-Forge-1.12.2-1.1.0
 randomconfigs-1.12.2-1.3.2.3
 RandomThings-MC1.12.2-4.2.7.4
@@ -333,7 +333,7 @@ Soviet+Era+0.6
 spartanlightning-0.4
 SpartanNetherite-1.12.2-1.2.1
 SpartanShields-1.12.2-1.5.5
-SpartanWeaponry-1.12.2-1.6.0
+SpartanWeaponry-1.12.2-1.6.1
 SpawnerControl-1.6.3b
 specialai-1.1.0_for_mc1.12.2
 SplashAnimation-0.2.1
