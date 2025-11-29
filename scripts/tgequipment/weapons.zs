@@ -69,5 +69,5 @@ GunStats.setWeaponStat("guidedmissilelauncher","DAMAGE_MIN",50.0);
 GunStats.setWeaponStat("grimreaper","DAMAGE",85.0);
 GunStats.setWeaponStat("grimreaper","DAMAGE_MIN",35.0);
 
-GunStats.setWeaponStat("chainsaw","DAMAGE",21.0);
-GunStats.setWeaponStat("chainsaw","DAMAGE_MIN",21.0);
+GunStats.setWeaponStat("chainsaw","DAMAGE",18.0);
+GunStats.setWeaponStat("chainsaw","DAMAGE_MIN",18.0);
