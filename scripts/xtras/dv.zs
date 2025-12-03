@@ -48,6 +48,7 @@ mods.Delivery.Store.addTrade(<industrialrenewal:storage_chest>, store_General).a
 mods.Delivery.Store.addTrade(<actuallyadditions:block_giant_chest>, store_General).addItem(ancientCoin * 1);
 mods.Delivery.Store.addTrade(<industrialrenewal:storage_rack>, store_General).addItem(goldCoin * 12);
 mods.Delivery.Store.addTrade(<tconstruct:edible:10>, store_General).addItem(copperCoin * 3);
+mods.Delivery.Store.addTrade(<sanity:garland>.withTag({Unbreakable: 1 as byte, display: {Lore: ["\"The mother of all...\""], Name: "§2Gaia's tiara"}}), store_General).addItem(goldCoin * 48);
 
 //scraps
 mods.Delivery.Store.addTrade(<unyielding:scraps1>, store_Scraps).addItem(goldCoin * 8).addItem(<magneticraft:multiblock_parts:5> * 16).addItem(<magneticraft:multiblock_parts> * 8).addItem(<ancientwarfarenpc:golden_halberd>);

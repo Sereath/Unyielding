@@ -36,6 +36,8 @@ import crafttweaker.item.IIngredient;
 <cqrepoured:longshot>.maxDamage = 60;
 <cqrepoured:spiderhook>.maxDamage = 30;
 
+<sanity:garland>.maxDamage = 900;
+
 val metalpanel as IItemStack = <techguns:metalpanel>;
 val nethermetal as IItemStack = <techguns:nethermetal>;
 val concrete as IItemStack = <techguns:concrete>;
