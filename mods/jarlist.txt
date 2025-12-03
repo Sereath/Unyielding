@@ -2,7 +2,7 @@
 !mixinbooter-10.7
 !mod-director-launchwrapper-1.9.1
 !Red-Core-MC-1.8-1.12-0.6
-+Fugue-0.22.1
++Fugue-0.22.2
 ActuallyAdditions-1.12.2-r152
 ActuallyBaubles-1.12-1.1
 AggroTP-0.4.1
@@ -137,7 +137,7 @@ FantasticLib-1.12.2.047
 FarmingForBlockheads_1.12.2-3.1.28
 filcabref-1.12.2-1.0.0
 Fish's Undead Rising-1.4.2
-Fixeroo-2.1-ActuallyWorksNowEdition
+Fixeroo-2.3.6
 flare-0.7.0
 flaskoflife-1.0.3HOTFIX-3
 fluiddrawers-1.12.2-1.0.7
@@ -160,7 +160,7 @@ geckolib-forge-1.12.2-3.0.31
 GrimoireOfGaia3-1.12.2-1.7.2
 groovyscript-1.3.1
 growthcraft-1.12.2-4.4.0
-HadEnoughItems_1.12.2-4.29.11
+HadEnoughItems_1.12.2-4.29.12
 harderbedcrafting-1.0
 harvestersnight-1.12.2-1.1.0
 heroicarmory-1.2.0
@@ -192,7 +192,7 @@ itemzoom_1.12.2-1.11
 IvToolkit-1.3.3-1.12
 JAOPCA-1.12.2-2.2.8.106
 JEI-Utilities-1.12.2-0.2.13
-jei_area_fixer-2.2.1
+jei_area_fixer-2.3.0
 jepb-1.12-1.2.1
 jetif-1.12.2-1.5.2
 justenoughdimensions-1.12.2-1.6.0-dev.20200416.184714
@@ -210,7 +210,7 @@ living_enchantment-3.2.3
 llibrary-1.7.20-1.12.2
 Loading-Progress-Bar-v1.0-mc[1.8-1.12.2]
 logimmune-0.1
-loliasm-5.29
+loliasm-5.30
 lootbeamsretro-1.2.0
 lootcapacitortooltips-1.3
 lootchests-1.2.5
@@ -251,7 +251,7 @@ natura-1.12.2-4.3.2.69
 NC-ReactorBuilder-1.12.2-1.0.4b
 NCOLegacyLib-1.12.2-1.2
 NetherEx-1.12.2-2.2.5
-neverenoughanimations-1.0.6
+neverenoughanimations-1.0.7
 nolavabuild-1.12.2-1.0.0
 NotEnoughIDs-1.5.4.4
 nuclearcraft-1.12.2-2o.8.6
@@ -301,7 +301,7 @@ ResourceReloader-1.0.2.5
 respawntimer-1.12.2-2.0.2.0
 RLArtifacts-1.1.2
 RLMixins-1.2.19
-RLTweaker-1.12.2-0.7.4
+RLTweaker-1.12.2-0.7.5
 RoguelikeDungeonsFnarEdition-1.12.2-2.4.6
 roost-1.12.2-2.0.10
 rotm-1.12.2-1.1.4
