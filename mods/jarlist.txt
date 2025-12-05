@@ -246,13 +246,13 @@ Mystic-Staffs-2.0.3
 mysticallib-1.12.2-1.13.0
 mysticalworld-1.12.2-1.11.0
 natura-1.12.2-4.3.2.69
-NC-ReactorBuilder-1.12.2-1.0.4b
+NC-ReactorBuilder-1.12.2-1.1.0a
 NCOLegacyLib-1.12.2-1.2
 NetherEx-1.12.2-2.2.5
 neverenoughanimations-1.0.7
 nolavabuild-1.12.2-1.0.0
 NotEnoughIDs-1.5.4.4
-nuclearcraft-1.12.2-2o.8.6
+nuclearcraft-1.12.2-2o.9.2
 Nutrition-UEL-4.16.0
 Nyx-1.6.1
 oauth-1.06.4
@@ -277,7 +277,7 @@ potiondescriptions-1.12.2-1.2.4
 progressivecore-0.4
 proxys-lib-1.12.2-1.3.0.6
 PyramidPlunder-1.12.2-1.4
-QMD-1.4.2-1.12.2
+QMD-1.5 beta 3-1.12.2
 QualityTools-1.0.7_for_1.12.2
 QuarkRotN-r1.6-191
 Quit-Forge-1.12.2-1.1.0
