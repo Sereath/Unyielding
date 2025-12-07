@@ -62,7 +62,7 @@ cherishedworlds-1.12.2-1.0.1
 chickens-6.0.4
 Chisel-MC1.12.2-1.0.2.45
 ChiseledAdditions-1.0.0
-Chocolate_Quest_Repoured-1.12.2-2.7.1B
+Chocolate_Quest_Repoured-1.12.2-2.8.0B
 Chunk Pregenerator-V1.12-2.5.7
 classicbar-0.5.8
 ClientTweaks_1.12.2-3.1.11

@@ -1374,5 +1374,11 @@
 		"mob": ["srparasites:dispatcher_si","srparasites:dispatcher_sii","srparasites:dispatcher_siii","srparasites:dispatcher_siv"],
 		"onjoin": true,
 		"result": "deny"
+	},
+
+	{
+		"mob": "cqrepoured:nether_dragon",
+		"onjoin": true,
+		"result": "deny"
 	}
 ]
