@@ -309,7 +309,7 @@ roughmobsrevamped-1.12.2-2.3.23
 roughTweaks0.2.4-1.12.2
 rsgauges-1.12.2-1.2.8
 rustic-1.1.7
-sanity-1.2.9
+sanity-1.3.0
 SBM-BoneTorch-1.12.2-0.0.1b12
 Scannable-MC1.12.2-1.6.3.26
 Seared-Ladder-v1.1.2-mc1.12.2
