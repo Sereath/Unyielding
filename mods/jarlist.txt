@@ -2,7 +2,7 @@
 !mixinbooter-10.7
 !mod-director-launchwrapper-1.9.1
 !Red-Core-MC-1.8-1.12-0.6
-+Fugue-0.22.4
++Fugue-0.22.6
 ActuallyAdditions-1.12.2-r152
 ActuallyBaubles-1.12-1.1
 AggroTP-0.4.1
@@ -11,8 +11,9 @@ Alfheim-1.6
 AmbientSounds_v3.1.7_mc1.12.2
 amidst-forge-1.12.2-0.6.2
 AncientSpellcraft-1.12.2-1.8.1
-ancientwarfare-1.12.2-2.9.20
+ancientwarfare-1.12.2-2.10.2
 antibonemeal-1.12.2-1.0.0
+AntiqueArmory-1.12.2-1.2.7
 antiqueatlas-1.12.2-4.6.3
 AppleCore-mc1.12.2-3.4.0
 AppleSkin-mc1.12-1.0.14
@@ -74,7 +75,6 @@ CoFHWorld-1.12.2-1.4.0.1-universal
 CollisionDamage-1.2.2
 ColouredTooltips-1.12.2-1.0.9
 CompositeGear-1.12.2-1.7.1
-conarm-1.12.2-1.2.5.10
 conditionoverload-1.2.0
 ConsoleFilter-1.12.2-1.1.1
 ContentTweaker-1.12.2-4.10.0
@@ -160,7 +160,7 @@ GamblingStyle-v1.1.3-1.12.2
 GameStages-1.12.2-2.0.123
 geckolib-forge-1.12.2-3.0.31
 GrimoireOfGaia3-1.12.2-1.7.2
-groovyscript-1.3.2
+groovyscript-1.3.3
 growthcraft-1.12.2-4.4.0
 HadEnoughItems_1.12.2-4.29.13
 harderbedcrafting-1.0
@@ -369,7 +369,7 @@ ThermalFoundation-1.12.2-2.6.7.1-universal
 ThermalInnovation-1.12.2-0.3.6.1-universal
 thutcore-1.12.2-5.21.0
 thuttech-1.12.2-6.1.6
-TinkersAntique-1.12.2-2.13.0.204
+TinkersAntique-1.12.2-2.13.0.205
 TinkerToolLeveling-1.12.2-1.1.0
 Tips-1.12.2-1.0.9
 tombstone-1.12.2-4.7.5
@@ -396,7 +396,7 @@ vc-1.12.2-5.10-final
 VerticallyStackedDimensions-1.12.2-0.1.9
 VillageNames-1.12.2-4.4.13
 VillagerTrades-1.12.2-0.6.5
-voicechat-forge-1.12.2-2.6.8
+voicechat-forge-1.12.2-2.6.10
 WanionLib-1.12.2-2.91
 Waystones_1.12.2-4.1.0
 Well-Mod-v1.0.1-mc1.12.2
