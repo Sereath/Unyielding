@@ -143,7 +143,6 @@ Fixeroo-2.3.6
 flare-0.7.0
 flaskoflife-1.0.3HOTFIX-3
 fluiddrawers-1.12.2-1.0.7
-foamfix-0.10.15-1.12.2
 Forgelin-Continuous-2.2.21.0
 FpsReducer-mc1.12.2-1.20
 FriendlyFire-1.12.2-1.5.10
@@ -396,6 +395,7 @@ vc-1.12.2-5.10-final
 VerticallyStackedDimensions-1.12.2-0.1.9
 VillageNames-1.12.2-4.4.13
 VillagerTrades-1.12.2-0.6.5
+vintagefix-0.6.2
 voicechat-forge-1.12.2-2.6.10
 WanionLib-1.12.2-2.91
 Waystones_1.12.2-4.1.0
