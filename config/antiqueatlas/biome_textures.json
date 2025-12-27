@@ -1,6 +1,7 @@
 {
   "version": 2,
   "data": {
+    "ancientspellcraft:pocket": "PLAINS",
     "beneath:the_beneath": "PLAINS",
     "biomesoplenty:alps": "MOUNTAINS_NAKED",
     "biomesoplenty:alps_foothills": "SNOW_PINES",

@@ -269,6 +269,7 @@ key_key.mod_lavacow.special:34:NONE:
 key_FpsReducer.key.guiOpen:207:NONE:
 key_FpsReducer.key.forceIdle:197:NONE:
 key_keybind.groovyscript.reload:0:NONE:
+key_keybind.groovyscript.quick_reload:0:NONE:
 key_keybind.groovyscript.copy:0:NONE:
 key_Open Backpack:51:NONE:
 key_key.inventoryhud.toggle:0:NONE:
