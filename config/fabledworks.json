@@ -590,7 +590,14 @@
 			"mysticalworld:amethyst_hoe",
 			"mysticalworld:amethyst_pickaxe",
 			"mysticalworld:amethyst_shovel",
-			"mysticalworld:amethyst_sword"
+			"mysticalworld:amethyst_sword",
+			"ancientspellcraft:battlemage_sword_novice",
+			"ancientspellcraft:battlemage_sword_apprentice",
+			"ancientspellcraft:battlemage_sword_advanced",
+			"ancientspellcraft:battlemage_sword_master",
+			"ancientspellcraft:devoritium_sword",
+			"ancientspellcraft:devoritium_axe",
+			"ancientspellcraft:devoritium_scimitar"
 		]
 	},
 	"traits": {

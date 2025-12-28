@@ -225,7 +225,7 @@ maxpotidext-1.0.3
 mcjtylib-1.12-3.5.4
 mcw-bridges-1.0.6b-mc1.12.2
 mcw-fences-1.0.0-mc1.12.2
-Menhir-1.12.2-1.2.0
+Menhir-1.12.2-1.2.1
 MetalChests-v6.1.0+mc1.12.2
 mia-1.12.2-0.2.2a
 mimicfish-1.2

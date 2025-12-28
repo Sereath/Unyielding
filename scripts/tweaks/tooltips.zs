@@ -354,3 +354,5 @@
 <heroicarmory:rsbandosgodsword>.displayName = "§6Brutal Greatsword";
 <heroicarmory:rsarmadylgodsword>.displayName = "§6Beautiful Greatsword";
 <heroicarmory:rssaradomingodsword>.displayName = "§6Gracious Greatsword";
+
+<ancientspellcraft:devoritium_chestplate>.displayName = "§6Devoritium Chestplate";
