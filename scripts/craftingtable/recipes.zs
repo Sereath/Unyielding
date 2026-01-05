@@ -283,8 +283,6 @@ recipes.remove(<pickletweaks:aluminum_paxel>);
 recipes.remove(<extraalchemy:empty_ring>);
 recipes.remove(<extraalchemy:potion_ring>);
 
-recipes.remove(<vc:airship_workbench>);
-
 recipes.remove(<pickletweaks:nightvision_goggles>);
 
 recipes.remove(<corpsecomplex:scroll>);

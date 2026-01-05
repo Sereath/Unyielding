@@ -37,12 +37,6 @@
             <entity name="thuttech:lift" costMultiplier="100.0" disabled="true" soulvial="false"/>
         </spawning>
     </recipe>
-    <recipe name="Spawner, Ships" required="false">
-        <spawning>
-            <entity name="vc:entity_thrown_airship" costMultiplier="100.0" disabled="true" soulvial="false"/>
-            <entity name="vc:entity_airship" costMultiplier="100.0" disabled="true" soulvial="false"/>
-        </spawning>
-    </recipe>
     <recipe name="Spawner, Chickens" required="false">
         <spawning>
             <entity name="chickens:chickenschicken" costMultiplier="100.0" disabled="true" soulvial="false"/>

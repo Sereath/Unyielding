@@ -391,7 +391,6 @@ Unique Enchantments-1.12.2-2.1.4
 Unique+Enchantments+Utils-1.12.2-1.5.1
 UniversalTweaks-1.12.2-1.17.0
 valkyrielib-1.12.2-2.0.20.1
-vc-1.12.2-5.10-final
 VerticallyStackedDimensions-1.12.2-0.1.9
 VillageNames-1.12.2-4.4.13
 VillagerTrades-1.12.2-0.6.5
