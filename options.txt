@@ -158,14 +158,6 @@ key_treechop.key.open_settings_overlay:13:NONE:
 key_Enchantment Gui:45:NONE:
 key_Granis Soul Dash:0:NONE:
 key_Pegasus Soul Key:29:NONE:
-key_vc.key.moveForward:17:NONE:
-key_vc.key.moveBack:31:NONE:
-key_vc.key.moveLeft:30:NONE:
-key_vc.key.moveRight:32:NONE:
-key_vc.key.moveUp:57:NONE:
-key_vc.key.moveDown:45:NONE:
-key_vc.key.openInventory:43:NONE:
-key_vc.key.dropbomb:0:NONE:
 key_key.delivery.store:48:NONE:
 key_dshuds.keybind.SelectionBox:77:NONE:
 key_dshuds.keybind.LightLevel:65:NONE:

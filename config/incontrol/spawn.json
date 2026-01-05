@@ -895,7 +895,7 @@
 		"random": 0.05,
 		"maxlight": 7,
 		"minlight": 0,
-		"maxspawndist": 160,
+		"maxspawndist": 128,
 		"maxcount":	{
 			"amount": 6,
 			"perchunk": true
