@@ -1,6 +1,13 @@
 {
-	x: -4.5d,
-	y: -8.0d,
+	title: "§6Memorizable Gensokyo",
+	x: -3.75d,
+	y: -8.25d,
+	shape: "octagon",
+	description: "§4Touhou Little Maid",
+	text: [
+		""
+	],
+	size: 1.5d,
 	tasks: [{
 		uid: "698e74f2",
 		type: "item",

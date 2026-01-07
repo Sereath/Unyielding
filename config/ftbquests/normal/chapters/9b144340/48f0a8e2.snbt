@@ -1,7 +1,7 @@
 {
-	x: -3.5d,
+	x: -3.0d,
 	y: -6.0d,
-	description: "Gain extra hearts!",
+	description: "Extra hearts",
 	text: [
 		""
 	],

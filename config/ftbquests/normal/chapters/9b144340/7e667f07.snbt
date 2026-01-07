@@ -1,6 +1,6 @@
 {
 	x: -1.0d,
-	y: -9.5d,
+	y: -9.0d,
 	description: "Coordinates",
 	text: [
 		"Get on-screen coordinates."

@@ -3,6 +3,8 @@
 	icon: "thermalfoundation:tool.pickaxe_bronze",
 	x: 1.0d,
 	y: -3.0d,
+	shape: "octagon",
+	description: "§aRead this II",
 	text: [
 		"		No more lava bucketing everything without risk, get some tongs or mitts before doing so.",
 		"",

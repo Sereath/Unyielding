@@ -1,12 +1,28 @@
 {
 	x: 0.0d,
-	y: -11.0d,
+	y: -10.0d,
 	tasks: [{
 		uid: "4df743fd",
 		type: "item",
 		items: [{
 			item: "minecraft:torch"
 		}],
-		count: 32L
+		count: 24L
+	},
+	{
+		uid: "0e4801eb",
+		type: "item",
+		items: [{
+			item: "tconstruct:stone_torch"
+		}],
+		count: 24L
+	},
+	{
+		uid: "9f5f172d",
+		type: "item",
+		items: [{
+			item: "bonetorch:bonetorch"
+		}],
+		count: 24L
 	}]
 }

@@ -1,6 +1,6 @@
 {
 	x: 1.0d,
-	y: -9.5d,
+	y: -9.0d,
 	description: "Map and coordinates",
 	text: [
 		"Very handy on-screen map."

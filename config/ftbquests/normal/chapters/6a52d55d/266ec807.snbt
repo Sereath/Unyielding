@@ -14,19 +14,19 @@
 					],
 					AttributeModifiers: [{
 						Amount: -0.05000000074505806d,
-						AttributeName: "generic.movementSpeed",
+						Name: "qualitytools",
 						Operation: 2,
 						UUIDMost: -2149693275335014090L,
 						UUIDLeast: -5054133077124177676L,
-						Name: "qualitytools"
+						AttributeName: "generic.movementSpeed"
 					},
 					{
 						Amount: 0.5d,
-						AttributeName: "generic.armor",
+						Name: "qualitytools",
 						Operation: 0,
 						UUIDMost: 4238664532548406141L,
 						UUIDLeast: -5266056038534325758L,
-						Name: "qualitytools"
+						AttributeName: "generic.armor"
 					}]
 				}
 			},

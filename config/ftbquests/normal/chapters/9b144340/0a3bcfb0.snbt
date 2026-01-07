@@ -1,6 +1,19 @@
 {
-	x: -6.0d,
-	y: -8.5d,
+	title: "§3Sanity",
+	x: 1.5d,
+	y: 0.0d,
+	shape: "octagon",
+	description: "§aRead this IV",
+	text: [
+		"		Try to not go mad.",
+		"",
+		"		Environmental hazards can cause more damage than you might expect.",
+		"",
+		"		We can all benefit from having a friend nearby. There's no reason to want to endure everything alone.",
+		"",
+		"		And don't forget to treat yourself."
+	],
+	size: 1.5d,
 	tasks: [{
 		uid: "32c85c63",
 		type: "item",

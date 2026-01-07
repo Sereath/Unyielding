@@ -1,0 +1,39 @@
+{
+	title: "§aOpulence",
+	x: -4.5d,
+	y: -0.75d,
+	shape: "octagon",
+	description: "Unyielding's currency",
+	text: [
+		"If you manage to find a store while travelling, you will definitely want to be able to buy some of those goodies."
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "2d81a5d4",
+		type: "item",
+		items: [{
+			item: "unyielding:copper"
+		}]
+	},
+	{
+		uid: "440e014b",
+		type: "item",
+		items: [{
+			item: "unyielding:silver"
+		}]
+	},
+	{
+		uid: "1005fa88",
+		type: "item",
+		items: [{
+			item: "unyielding:gold"
+		}]
+	},
+	{
+		uid: "7530c6c4",
+		type: "item",
+		items: [{
+			item: "unyielding:opulent"
+		}]
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	title: "§dEnder Skills",
+	x: -5.25d,
+	y: -4.5d,
+	shape: "octagon",
+	description: "§3Power",
+	text: [
+		"Make sure to regularly check and level up your Ender Skills abilities and attributes aspects."
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "907064ab",
+		type: "item",
+		items: [{
+			item: "enderskills:token"
+		}]
+	}]
+}

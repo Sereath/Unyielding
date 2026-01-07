@@ -11,8 +11,8 @@
 				}
 			},
 			tag: {
-				Quality: {},
-				energyAmount: 0
+				energyAmount: 0,
+				Quality: {}
 			},
 			id: "bountifulbaubles:ringflywheel"
 		}],

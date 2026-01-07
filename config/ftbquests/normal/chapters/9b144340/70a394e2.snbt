@@ -3,7 +3,8 @@
 	icon: "thermalfoundation:tool.axe_bronze",
 	x: -1.0d,
 	y: -3.0d,
-	description: "§aRead this",
+	shape: "octagon",
+	description: "§aRead this I",
 	text: [
 		"		Press F4 to disable the \"Real First Person 2\" mod.",
 		"",
