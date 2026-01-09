@@ -11,6 +11,7 @@
 				}
 			},
 			tag: {
+				energyAmount: 0,
 				Quality: {
 					Name: "quality.athletic.name",
 					Color: "aqua",
@@ -20,22 +21,21 @@
 					],
 					AttributeModifiers: [{
 						Amount: 0.05000000074505806d,
-						AttributeName: "generic.movementSpeed",
+						Name: "qualitytools",
 						Operation: 2,
 						UUIDMost: 4295663612158822629L,
 						UUIDLeast: -7496657910745505253L,
-						Name: "qualitytools"
+						AttributeName: "generic.movementSpeed"
 					},
 					{
 						Amount: 0.5d,
-						AttributeName: "potioncore.jumpHeight",
+						Name: "qualitytools",
 						Operation: 0,
 						UUIDMost: -6074485305205964310L,
 						UUIDLeast: -4853301974492429624L,
-						Name: "qualitytools"
+						AttributeName: "potioncore.jumpHeight"
 					}]
-				},
-				energyAmount: 0
+				}
 			},
 			id: "bountifulbaubles:ringflywheeladvanced"
 		}],

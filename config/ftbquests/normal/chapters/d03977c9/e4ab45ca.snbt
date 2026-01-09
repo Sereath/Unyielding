@@ -1,0 +1,11 @@
+{
+	icon: "iceandfire:ice_dragon_heart",
+	x: -1.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "2160051d",
+		type: "kill",
+		entity: "iceandfire:icedragon",
+		value: 1L
+	}]
+}

@@ -15,11 +15,11 @@
 					],
 					AttributeModifiers: [{
 						Amount: 2.0d,
-						AttributeName: "generic.maxHealth",
+						Name: "qualitytools",
 						Operation: 0,
 						UUIDMost: 6013568661578206694L,
 						UUIDLeast: -5450462155187014075L,
-						Name: "qualitytools"
+						AttributeName: "generic.maxHealth"
 					}]
 				}
 			},

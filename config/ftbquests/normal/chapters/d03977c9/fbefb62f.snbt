@@ -1,0 +1,23 @@
+{
+	title: "§4Asmodeus",
+	icon: {
+		tag: {
+			CreatureInfoSpawnEgg: {
+				creaturename: "asmodeus"
+			}
+		},
+		id: "lycanitesmobs:aberrationspawn"
+	},
+	x: 0.0d,
+	y: -2.5d,
+	text: [
+		""
+	],
+	size: 1.2d,
+	tasks: [{
+		uid: "a96a4c83",
+		type: "kill",
+		entity: "lycanitesmobs:asmodeus",
+		value: 1L
+	}]
+}

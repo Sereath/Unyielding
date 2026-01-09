@@ -1,0 +1,23 @@
+{
+	title: "§4Amalgalich",
+	icon: {
+		tag: {
+			CreatureInfoSpawnEgg: {
+				creaturename: "amalgalich"
+			}
+		},
+		id: "lycanitesmobs:undeadspawn"
+	},
+	x: -2.0d,
+	y: -2.5d,
+	text: [
+		""
+	],
+	size: 1.2d,
+	tasks: [{
+		uid: "e393f2bd",
+		type: "kill",
+		entity: "lycanitesmobs:amalgalich",
+		value: 1L
+	}]
+}

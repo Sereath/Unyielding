@@ -1,0 +1,16 @@
+{
+	title: "§dThe Moon Queen",
+	icon: "theaurorian:trophymoonqueen",
+	x: -2.0d,
+	y: -5.75d,
+	text: [
+		""
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "61553b82",
+		type: "kill",
+		entity: "theaurorian:moonqueen",
+		value: 1L
+	}]
+}

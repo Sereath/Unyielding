@@ -1,0 +1,14 @@
+{
+	icon: "srparasites:itemmobspawner_lencia",
+	x: -5.5d,
+	y: -7.5d,
+	dependencies: [
+		"687e7403"
+	],
+	tasks: [{
+		uid: "92fd84e8",
+		type: "kill",
+		entity: "srparasites:bogle",
+		value: 5L
+	}]
+}

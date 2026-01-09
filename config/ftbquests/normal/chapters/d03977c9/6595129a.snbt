@@ -1,0 +1,14 @@
+{
+	icon: "srparasites:itemmobspawner_elvia",
+	x: 0.5d,
+	y: -6.5d,
+	dependencies: [
+		"4701f4f6"
+	],
+	tasks: [{
+		uid: "ed53f95f",
+		type: "kill",
+		entity: "srparasites:wraith",
+		value: 3L
+	}]
+}

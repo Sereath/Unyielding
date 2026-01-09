@@ -1,0 +1,14 @@
+{
+	icon: "iceandfire:summoning_crystal_lightning",
+	x: -2.0d,
+	y: 2.5d,
+	dependencies: [
+		"fcba237c"
+	],
+	tasks: [{
+		uid: "e7b4b880",
+		type: "kill",
+		entity: "iceandfire:lightningdragon",
+		value: 3L
+	}]
+}

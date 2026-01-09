@@ -3,7 +3,7 @@
 	icon: "thermalfoundation:tool.sword_bronze",
 	x: 0.0d,
 	y: -1.5d,
-	shape: "octagon",
+	shape: "diamond",
 	description: "§aRead this III",
 	text: [
 		"		Natural regeneration is disabled.",

@@ -1,0 +1,25 @@
+{
+	x: 2.5d,
+	y: -5.5d,
+	tasks: [{
+		uid: "d4a0a42d",
+		type: "kill",
+		entity: "minecraft:skeleton",
+		value: 1000L
+	}],
+	rewards: [{
+		uid: "7777221a",
+		type: "item",
+		item: {
+			tag: {
+				entity_id: "minecraft:skeleton"
+			},
+			id: "openblocks:trophy"
+		}
+	},
+	{
+		uid: "356fbb3f",
+		type: "item",
+		item: "cyclicmagic:heart_food"
+	}]
+}

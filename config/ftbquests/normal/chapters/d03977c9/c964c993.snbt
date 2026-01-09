@@ -1,0 +1,11 @@
+{
+	icon: "minecraft:snowball",
+	x: 0.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "b0d1d959",
+		type: "kill",
+		entity: "mowziesmobs:frostmaw",
+		value: 1L
+	}]
+}

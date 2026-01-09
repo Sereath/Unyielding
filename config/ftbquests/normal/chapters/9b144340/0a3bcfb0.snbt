@@ -2,7 +2,7 @@
 	title: "§3Sanity",
 	x: 1.5d,
 	y: 0.0d,
-	shape: "octagon",
+	shape: "diamond",
 	description: "§aRead this IV",
 	text: [
 		"		Try to not go mad.",

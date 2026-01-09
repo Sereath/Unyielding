@@ -1,0 +1,13 @@
+{
+	x: -7.5d,
+	y: -2.0d,
+	dependencies: [
+		"48b02130"
+	],
+	tasks: [{
+		uid: "1f954270",
+		type: "kill",
+		entity: "da:void_blossom",
+		value: 3L
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	icon: "srparasites:itemmobspawner_jinjo",
+	x: 0.0d,
+	y: -8.0d,
+	dependencies: [
+		"f953362a"
+	],
+	tasks: [{
+		uid: "a3ef7422",
+		type: "kill",
+		entity: "srparasites:bomber_heavy",
+		value: 3L
+	}]
+}

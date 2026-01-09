@@ -1,0 +1,19 @@
+{
+	title: "§6The High King",
+	icon: {
+		tag: {},
+		id: "da:king_helmet"
+	},
+	x: -3.0d,
+	y: -4.0d,
+	text: [
+		""
+	],
+	size: 1.2d,
+	tasks: [{
+		uid: "280718f2",
+		type: "kill",
+		entity: "da:high_king",
+		value: 1L
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	icon: "mowziesmobs:grant_suns_blessing",
+	x: -5.0d,
+	y: 0.0d,
+	dependencies: [
+		"84ff5218"
+	],
+	tasks: [{
+		uid: "ea0865c0",
+		type: "kill",
+		entity: "mowziesmobs:barako",
+		value: 3L
+	}]
+}

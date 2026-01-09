@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: -2.5d,
+	dependencies: [
+		"633cdf20"
+	],
+	tasks: [{
+		uid: "fe3eeed3",
+		type: "kill",
+		entity: "da:night_lich",
+		value: 3L
+	}]
+}

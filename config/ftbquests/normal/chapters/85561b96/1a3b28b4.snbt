@@ -7,38 +7,6 @@
 		items: [{
 			ForgeCaps: {
 				"xat:trinket": {
-					Quality: {
-						Name: "quality.undying.name",
-						Color: "light_purple",
-						Slots: [
-							"baubles_trinket",
-							"offhand"
-						],
-						AttributeModifiers: [{
-							Amount: 0.029999999329447746d,
-							AttributeName: "potioncore.damageResistance",
-							Operation: 2,
-							UUIDMost: -711230617295172754L,
-							UUIDLeast: -8482654917254168343L,
-							Name: "qualitytools"
-						},
-						{
-							Amount: 2.0d,
-							AttributeName: "generic.maxHealth",
-							Operation: 0,
-							UUIDMost: -5435337642895716702L,
-							UUIDLeast: -4813099252377851529L,
-							Name: "qualitytools"
-						},
-						{
-							Amount: 1.0d,
-							AttributeName: "potioncore.magicShielding",
-							Operation: 0,
-							UUIDMost: 4124528143549940350L,
-							UUIDLeast: -5271292949348949256L,
-							Name: "qualitytools"
-						}]
-					},
 					"xat:Trinket": {
 						variant: 0,
 						Counters: {},
@@ -54,42 +22,42 @@
 						main.ability: 0b,
 						handler: "None",
 						slot: -1
+					},
+					Quality: {
+						Name: "quality.undying.name",
+						Color: "light_purple",
+						Slots: [
+							"baubles_trinket",
+							"offhand"
+						],
+						AttributeModifiers: [{
+							Amount: 0.029999999329447746d,
+							Name: "qualitytools",
+							Operation: 2,
+							UUIDMost: -711230617295172754L,
+							UUIDLeast: -8482654917254168343L,
+							AttributeName: "potioncore.damageResistance"
+						},
+						{
+							Amount: 2.0d,
+							Name: "qualitytools",
+							Operation: 0,
+							UUIDMost: -5435337642895716702L,
+							UUIDLeast: -4813099252377851529L,
+							AttributeName: "generic.maxHealth"
+						},
+						{
+							Amount: 1.0d,
+							Name: "qualitytools",
+							Operation: 0,
+							UUIDMost: 4124528143549940350L,
+							UUIDLeast: -5271292949348949256L,
+							AttributeName: "potioncore.magicShielding"
+						}]
 					}
 				}
 			},
 			tag: {
-				Quality: {
-					Name: "quality.undying.name",
-					Color: "light_purple",
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					AttributeModifiers: [{
-						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.damageResistance",
-						Operation: 2,
-						UUIDMost: -711230617295172754L,
-						UUIDLeast: -8482654917254168343L,
-						Name: "qualitytools"
-					},
-					{
-						Amount: 2.0d,
-						AttributeName: "generic.maxHealth",
-						Operation: 0,
-						UUIDMost: -5435337642895716702L,
-						UUIDLeast: -4813099252377851529L,
-						Name: "qualitytools"
-					},
-					{
-						Amount: 1.0d,
-						AttributeName: "potioncore.magicShielding",
-						Operation: 0,
-						UUIDMost: 4124528143549940350L,
-						UUIDLeast: -5271292949348949256L,
-						Name: "qualitytools"
-					}]
-				},
 				"xat:Trinket": {
 					variant: 0,
 					Counters: {},
@@ -105,6 +73,38 @@
 					main.ability: 0b,
 					handler: "None",
 					slot: -1
+				},
+				Quality: {
+					Name: "quality.undying.name",
+					Color: "light_purple",
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					AttributeModifiers: [{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
+						UUIDMost: -711230617295172754L,
+						UUIDLeast: -8482654917254168343L,
+						AttributeName: "potioncore.damageResistance"
+					},
+					{
+						Amount: 2.0d,
+						Name: "qualitytools",
+						Operation: 0,
+						UUIDMost: -5435337642895716702L,
+						UUIDLeast: -4813099252377851529L,
+						AttributeName: "generic.maxHealth"
+					},
+					{
+						Amount: 1.0d,
+						Name: "qualitytools",
+						Operation: 0,
+						UUIDMost: 4124528143549940350L,
+						UUIDLeast: -5271292949348949256L,
+						AttributeName: "potioncore.magicShielding"
+					}]
 				}
 			},
 			id: "xat:polarized_stone"

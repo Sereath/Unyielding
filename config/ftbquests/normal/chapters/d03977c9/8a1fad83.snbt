@@ -1,0 +1,10 @@
+{
+	x: 3.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "1a84e580",
+		type: "kill",
+		entity: "da:frost_draugr_elite",
+		value: 1L
+	}]
+}

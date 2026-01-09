@@ -1,0 +1,10 @@
+{
+	x: -7.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "a1f38c08",
+		type: "kill",
+		entity: "da:void_blossom",
+		value: 1L
+	}]
+}

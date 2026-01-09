@@ -1,0 +1,11 @@
+{
+	icon: "srparasites:itemmobspawner_vesta",
+	x: -3.0d,
+	y: -7.0d,
+	tasks: [{
+		uid: "270786a8",
+		type: "kill",
+		entity: "srparasites:carrier_colony",
+		value: 1L
+	}]
+}

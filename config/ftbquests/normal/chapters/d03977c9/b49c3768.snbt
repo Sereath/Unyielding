@@ -1,0 +1,14 @@
+{
+	icon: "srparasites:itemmobspawner_pheon",
+	x: -2.0d,
+	y: -9.5d,
+	dependencies: [
+		"c9a6da88"
+	],
+	tasks: [{
+		uid: "526d063f",
+		type: "kill",
+		entity: "srparasites:haunter",
+		value: 5L
+	}]
+}

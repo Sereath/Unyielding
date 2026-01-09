@@ -1,0 +1,10 @@
+{
+	x: -7.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "73971e8e",
+		type: "kill",
+		entity: "da:ancient_fallen",
+		value: 1L
+	}]
+}

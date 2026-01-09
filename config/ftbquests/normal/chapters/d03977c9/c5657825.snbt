@@ -1,0 +1,10 @@
+{
+	x: -5.5d,
+	y: -3.5d,
+	tasks: [{
+		uid: "40e9c415",
+		type: "kill",
+		entity: "da:flame_knight",
+		value: 1L
+	}]
+}

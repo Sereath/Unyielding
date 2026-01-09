@@ -1,0 +1,14 @@
+{
+	icon: "iceandfire:summoning_crystal_fire",
+	x: -4.0d,
+	y: 2.0d,
+	dependencies: [
+		"594f7fac"
+	],
+	tasks: [{
+		uid: "6b6e9db7",
+		type: "kill",
+		entity: "iceandfire:firedragon",
+		value: 3L
+	}]
+}

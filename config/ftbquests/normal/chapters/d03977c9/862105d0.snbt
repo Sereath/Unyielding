@@ -1,0 +1,17 @@
+{
+	icon: {
+		tag: {},
+		id: "mowziesmobs:wrought_helmet"
+	},
+	x: -2.0d,
+	y: -1.0d,
+	dependencies: [
+		"01d76631"
+	],
+	tasks: [{
+		uid: "b2f038d8",
+		type: "kill",
+		entity: "mowziesmobs:ferrous_wroughtnaut",
+		value: 3L
+	}]
+}

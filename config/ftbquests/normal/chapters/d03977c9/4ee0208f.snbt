@@ -1,0 +1,15 @@
+{
+	title: "§5Wither",
+	icon: "minecraft:skull 1 1",
+	x: 0.5d,
+	y: -4.5d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "785b5c5c",
+		type: "kill",
+		entity: "minecraft:wither",
+		value: 1L
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "§4Rahovart",
+	icon: {
+		tag: {
+			CreatureInfoSpawnEgg: {
+				creaturename: "rahovart"
+			}
+		},
+		id: "lycanitesmobs:demonspawn"
+	},
+	x: -4.0d,
+	y: -2.5d,
+	text: [
+		""
+	],
+	size: 1.2d,
+	tasks: [{
+		uid: "dda7d082",
+		type: "kill",
+		entity: "lycanitesmobs:rahovart",
+		value: 1L
+	}]
+}

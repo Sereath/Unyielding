@@ -1,0 +1,14 @@
+{
+	icon: "mowziesmobs:ice_crystal",
+	x: 1.0d,
+	y: 0.0d,
+	dependencies: [
+		"c964c993"
+	],
+	tasks: [{
+		uid: "f461b33f",
+		type: "kill",
+		entity: "mowziesmobs:frostmaw",
+		value: 3L
+	}]
+}

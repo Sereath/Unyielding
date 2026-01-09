@@ -1,0 +1,13 @@
+{
+	x: -7.5d,
+	y: 0.0d,
+	dependencies: [
+		"93ac5bc7"
+	],
+	tasks: [{
+		uid: "8ab52484",
+		type: "kill",
+		entity: "da:ancient_fallen",
+		value: 3L
+	}]
+}

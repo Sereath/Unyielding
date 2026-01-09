@@ -1,0 +1,10 @@
+{
+	x: 3.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "c43af913",
+		type: "kill",
+		entity: "da:great_wyrk",
+		value: 1L
+	}]
+}

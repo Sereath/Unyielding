@@ -1,0 +1,11 @@
+{
+	icon: "mowziesmobs:foliaath_seed",
+	x: -5.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "a7025a22",
+		type: "kill",
+		entity: "mowziesmobs:foliaath",
+		value: 10L
+	}]
+}

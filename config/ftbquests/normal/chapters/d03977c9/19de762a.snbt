@@ -1,6 +1,6 @@
 {
-	x: -2.0d,
-	y: -0.5d,
+	x: -6.5d,
+	y: -5.5d,
 	tasks: [{
 		uid: "3db39c71",
 		type: "kill",

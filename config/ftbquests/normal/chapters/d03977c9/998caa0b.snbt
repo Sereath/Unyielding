@@ -1,0 +1,16 @@
+{
+	title: "§3The Dread Queen",
+	icon: "iceandfire:dread_queen_staff",
+	x: -1.0d,
+	y: -4.0d,
+	text: [
+		""
+	],
+	size: 1.2d,
+	tasks: [{
+		uid: "83f4a84c",
+		type: "kill",
+		entity: "iceandfire:dread_queen",
+		value: 1L
+	}]
+}

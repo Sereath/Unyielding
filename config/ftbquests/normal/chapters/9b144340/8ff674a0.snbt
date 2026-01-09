@@ -2,10 +2,10 @@
 	title: "§6Memorizable Gensokyo",
 	x: -3.75d,
 	y: -8.25d,
-	shape: "octagon",
+	shape: "diamond",
 	description: "§4Touhou Little Maid",
 	text: [
-		""
+		"These endearing maids can help with battles, farming and other tasks."
 	],
 	size: 1.5d,
 	tasks: [{

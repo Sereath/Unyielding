@@ -1,0 +1,17 @@
+{
+	title: "xp",
+	icon: "grimoireofgaia:misc_experience 1 1",
+	loot_size: 1,
+	rewards: [{
+		xp_levels: 1,
+		type: "xp_levels"
+	},
+	{
+		xp_levels: 2,
+		type: "xp_levels"
+	},
+	{
+		xp_levels: 3,
+		type: "xp_levels"
+	}]
+}

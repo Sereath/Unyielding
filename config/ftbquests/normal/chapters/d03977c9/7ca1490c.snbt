@@ -1,0 +1,13 @@
+{
+	x: 3.5d,
+	y: -2.0d,
+	dependencies: [
+		"8d4c1aef"
+	],
+	tasks: [{
+		uid: "eb01ee17",
+		type: "kill",
+		entity: "da:great_wyrk",
+		value: 3L
+	}]
+}

@@ -2,7 +2,7 @@
 	title: "§dEnder Skills",
 	x: -5.25d,
 	y: -4.5d,
-	shape: "octagon",
+	shape: "diamond",
 	description: "§3Power",
 	text: [
 		"Make sure to regularly check and level up your Ender Skills abilities and attributes aspects."

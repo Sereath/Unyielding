@@ -2,7 +2,7 @@
 	title: "§aOpulence",
 	x: -4.5d,
 	y: -0.75d,
-	shape: "octagon",
+	shape: "diamond",
 	description: "Unyielding's currency",
 	text: [
 		"If you manage to find a store while travelling, you will definitely want to be able to buy some of those goodies."

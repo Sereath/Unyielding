@@ -1,0 +1,10 @@
+{
+	x: 3.5d,
+	y: -5.0d,
+	tasks: [{
+		uid: "52248b5e",
+		type: "kill",
+		entity: "mutantbeasts:mutant_skeleton",
+		value: 10L
+	}]
+}
