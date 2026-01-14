@@ -1,6 +1,10 @@
 {
-	x: -3.0d,
-	y: -4.0d,
+	x: -2.0d,
+	y: -4.5d,
+	description: "§8Soulbound",
+	text: [
+		""
+	],
 	tasks: [{
 		uid: "5983a416",
 		type: "item",
@@ -14,27 +18,27 @@
 					],
 					AttributeModifiers: [{
 						Amount: -1.0d,
-						Name: "qualitytools",
+						AttributeName: "generic.armorToughness",
 						Operation: 0,
 						UUIDMost: -8130910003825588199L,
 						UUIDLeast: -5693342113614746093L,
-						AttributeName: "generic.armorToughness"
+						Name: "qualitytools"
 					},
 					{
 						Amount: -1.5d,
-						Name: "qualitytools",
+						AttributeName: "generic.armor",
 						Operation: 0,
 						UUIDMost: -8333971175381774875L,
 						UUIDLeast: -6716549036144533141L,
-						AttributeName: "generic.armor"
+						Name: "qualitytools"
 					},
 					{
 						Amount: -1.0d,
-						Name: "qualitytools",
+						AttributeName: "potioncore.magicShielding",
 						Operation: 0,
 						UUIDMost: 576676492356308067L,
 						UUIDLeast: -7819420129498468310L,
-						AttributeName: "potioncore.magicShielding"
+						Name: "qualitytools"
 					}]
 				}
 			},

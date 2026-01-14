@@ -1,7 +1,8 @@
 {
+	title: "Coordinates",
 	x: -1.0d,
-	y: -9.0d,
-	description: "Coordinates",
+	y: -5.5d,
+	description: "§8Soulbound",
 	text: [
 		"Get on-screen coordinates."
 	],

@@ -1,0 +1,17 @@
+{
+	x: 1.0d,
+	y: -5.5d,
+	description: "§8Soulbound",
+	text: [
+		"Your main source of healing for some time. Replenish it by crouch-right clicking on a bed or beacon."
+	],
+	tasks: [{
+		uid: "0011c992",
+		type: "item",
+		items: [{
+			item: "flaskoflife:flask_healing"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

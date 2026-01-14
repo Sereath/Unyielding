@@ -1,7 +1,11 @@
 {
 	title: "§3Sanity",
-	x: 1.5d,
-	y: 0.0d,
+	icon: {
+		tag: {},
+		id: "sanity:garland"
+	},
+	x: 2.25d,
+	y: -6.75d,
 	shape: "diamond",
 	description: "§aRead this IV",
 	text: [
@@ -23,5 +27,12 @@
 		}],
 		ignore_damage: 1b,
 		ignore_nbt: 1b
+	},
+	{
+		uid: "5ab2989a",
+		type: "item",
+		items: [{
+			item: "xlfoodmod:vanilla_cupcake"
+		}]
 	}]
 }

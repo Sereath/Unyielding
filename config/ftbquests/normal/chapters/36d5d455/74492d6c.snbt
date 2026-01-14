@@ -1,14 +1,14 @@
 {
-	x: 5.0d,
-	y: -7.5d,
+	x: 1.0d,
+	y: -1.5d,
 	dependencies: [
 		"ed157a4d"
 	],
 	tasks: [{
-		uid: "22bb2eb2",
+		uid: "bd5f60ce",
 		type: "item",
 		items: [{
-			item: "cookingforblockheads:milk_jar"
+			item: "cookingforblockheads:sink"
 		}]
 	}]
 }

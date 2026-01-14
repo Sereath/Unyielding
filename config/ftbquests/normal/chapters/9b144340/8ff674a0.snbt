@@ -1,7 +1,13 @@
 {
 	title: "§6Memorizable Gensokyo",
-	x: -3.75d,
-	y: -8.25d,
+	icon: {
+		tag: {
+			"patchouli:book": "touhou_little_maid:memorizable_gensokyo"
+		},
+		id: "patchouli:guide_book"
+	},
+	x: -2.25d,
+	y: -6.75d,
 	shape: "diamond",
 	description: "§4Touhou Little Maid",
 	text: [
@@ -16,6 +22,15 @@
 				"patchouli:book": "touhou_little_maid:memorizable_gensokyo"
 			},
 			id: "patchouli:guide_book"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "3ce8adc5",
+		type: "item",
+		items: [{
+			item: "touhou_little_maid:nimble_fabric"
 		}],
 		ignore_damage: 1b,
 		ignore_nbt: 1b

@@ -1,26 +1,88 @@
 {
-	x: -0.5d,
-	y: -7.0d,
+	icon: "minecraft:bed 1 12",
+	x: 0.0d,
+	y: -4.5d,
 	description: "Watch out for certain mobs, they destroy beds.",
 	text: [
 		""
 	],
 	tasks: [{
-		uid: "379a7515",
+		uid: "8484f574",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					id: "ore",
-					data: "bed"
-				}
-			},
-			tag: {
-				display: {
-					Name: "Any bed"
-				}
-			},
-			id: "itemfilters:filter"
+			item: "harderbedcrafting:bed_frame"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7ef6d1a0",
+		type: "item",
+		items: [{
+			item: "harderbedcrafting:bed_mattress"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "517b7b60",
+		type: "item",
+		items: [{
+			item: "harderbedcrafting:bed_pillow"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "39f80a95",
+		type: "item",
+		items: [{
+			item: "harderbedcrafting:bed_blanket"
+		},
+		{
+			item: "harderbedcrafting:bed_blanket 1 1"
+		},
+		{
+			item: "harderbedcrafting:bed_blanket 1 2"
+		},
+		{
+			item: "harderbedcrafting:bed_blanket 1 3"
+		},
+		{
+			item: "harderbedcrafting:bed_blanket 1 4"
+		},
+		{
+			item: "harderbedcrafting:bed_blanket 1 5"
+		},
+		{
+			item: "harderbedcrafting:bed_blanket 1 6"
+		},
+		{
+			item: "harderbedcrafting:bed_blanket 1 7"
+		},
+		{
+			item: "harderbedcrafting:bed_blanket 1 8"
+		},
+		{
+			item: "harderbedcrafting:bed_blanket 1 9"
+		},
+		{
+			item: "harderbedcrafting:bed_blanket 1 10"
+		},
+		{
+			item: "harderbedcrafting:bed_blanket 1 11"
+		},
+		{
+			item: "harderbedcrafting:bed_blanket 1 12"
+		},
+		{
+			item: "harderbedcrafting:bed_blanket 1 13"
+		},
+		{
+			item: "harderbedcrafting:bed_blanket 1 14"
+		},
+		{
+			item: "harderbedcrafting:bed_blanket 1 15"
 		}],
 		ignore_nbt: 1b
 	}]

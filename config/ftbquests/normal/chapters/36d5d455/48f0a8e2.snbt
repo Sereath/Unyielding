@@ -1,7 +1,7 @@
 {
-	x: -3.0d,
-	y: -6.0d,
-	description: "Extra hearts",
+	x: -5.5d,
+	y: 0.0d,
+	description: "§cExtra hearts",
 	text: [
 		""
 	],

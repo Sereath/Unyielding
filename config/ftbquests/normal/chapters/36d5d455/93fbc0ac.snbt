@@ -1,14 +1,14 @@
 {
-	x: 3.0d,
-	y: -8.5d,
+	x: 1.5d,
+	y: -0.5d,
 	dependencies: [
 		"ed157a4d"
 	],
 	tasks: [{
-		uid: "134553e1",
+		uid: "12230a03",
 		type: "item",
 		items: [{
-			item: "cookingforblockheads:oven"
+			item: "cookingforblockheads:fridge"
 		}]
 	}]
 }

@@ -1,7 +1,8 @@
 {
 	title: "§dEnder Skills",
-	x: -5.25d,
-	y: -4.5d,
+	icon: "enderskills:token",
+	x: -3.75d,
+	y: -3.75d,
 	shape: "diamond",
 	description: "§3Power",
 	text: [
@@ -13,6 +14,13 @@
 		type: "item",
 		items: [{
 			item: "enderskills:token"
+		}]
+	},
+	{
+		uid: "b3d110a6",
+		type: "item",
+		items: [{
+			item: "enderskills:crystal"
 		}]
 	}]
 }

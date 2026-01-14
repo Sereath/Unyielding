@@ -120,5 +120,11 @@
 	{
 		item: "qualitytools:emerald_amulet",
 		weight: 4
+	},
+	{
+		item: {
+			tag: {},
+			id: "cyclicmagic:storage_bag"
+		}
 	}]
 }

@@ -1,7 +1,8 @@
 {
 	title: "§aOpulence",
-	x: -4.5d,
-	y: -0.75d,
+	icon: "unyielding:opulent",
+	x: 3.75d,
+	y: -3.75d,
 	shape: "diamond",
 	description: "Unyielding's currency",
 	text: [
