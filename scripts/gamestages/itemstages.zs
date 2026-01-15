@@ -39,7 +39,7 @@ mods.ItemStages.stageModItems("cyc", "cyclicmagic");
 
 mods.ItemStages.stageModItems("rb", "openblocks");
 mods.ItemStages.stageModItems("rb", "randomthings");
-mods.ItemStages.stageModItems("rb", "compositegear");
+mods.ItemStages.stageModItems("aa", "compositegear");
 mods.ItemStages.stageModItems("rb", "refinedrelocation");
 
 //mods.ItemStages.stageModItems("te", "extendedcrafting");

@@ -1,10 +1,10 @@
 {
+	title: "Respawn",
 	icon: "minecraft:bed 1 12",
 	x: 0.0d,
 	y: -4.5d,
-	description: "Watch out for certain mobs, they destroy beds.",
 	text: [
-		""
+		"Watch out for certain mobs, they destroy beds."
 	],
 	tasks: [{
 		uid: "8484f574",

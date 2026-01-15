@@ -317,6 +317,7 @@
 <contenttweaker:book3>.addTooltip(format.darkGray("- Better Boilers"));
 <contenttweaker:book4>.displayName = "§bMany Additions";
 <contenttweaker:book4>.addTooltip(format.darkGray("- Actually Additions"));
+<contenttweaker:book4>.addTooltip(format.darkGray("- CompositeGear"));
 <contenttweaker:book5>.displayName = "§bAncient Technology";
 <contenttweaker:book5>.addTooltip(format.darkGray("- Ender IO"));
 <contenttweaker:book5>.addTooltip(format.darkGray("- Environmental Tech"));
@@ -325,13 +326,12 @@
 <contenttweaker:book6>.addTooltip(format.darkGray("- Open Modular Turrets"));
 <contenttweaker:book6>.addTooltip(format.darkGray("- Portality"));
 <contenttweaker:book6>.addTooltip(format.darkGray("- Scannable"));
-<contenttweaker:book7>.displayName = "§bCyclic";
+<contenttweaker:book7>.displayName = "§bAberrant Technology";
 <contenttweaker:book7>.addTooltip(format.darkGray("- Cyclic"));
 <contenttweaker:book7>.addTooltip(format.darkGray("- XNet"));
 <contenttweaker:book8>.displayName = "§bRandom Blocks";
 <contenttweaker:book8>.addTooltip(format.darkGray("- OpenBlocks"));
 <contenttweaker:book8>.addTooltip(format.darkGray("- Random Things"));
-<contenttweaker:book8>.addTooltip(format.darkGray("- CompositeGear"));
 <contenttweaker:book8>.addTooltip(format.darkGray("- Refined Relocation 2"));
 <contenttweaker:book9>.displayName = "§bRelics";
 <contenttweaker:book9>.addTooltip(format.darkGray("- Trinkets and Baubles"));

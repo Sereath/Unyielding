@@ -1,0 +1,54 @@
+{
+	title: "§2Healing",
+	x: -3.5d,
+	y: -5.0d,
+	description: "No natural healing",
+	text: [
+		"Besides the Flask of Life, there are other healing aids at your disposal."
+	],
+	tasks: [{
+		uid: "0964500f",
+		type: "item",
+		items: [{
+			item: "roughtweaks:salve"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "0a92da32",
+		type: "item",
+		items: [{
+			item: "roughtweaks:plaster"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "5826d3c4",
+		type: "item",
+		items: [{
+			item: "roughtweaks:bandage"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "48af42a1",
+		type: "item",
+		items: [{
+			item: "roughtweaks:medikit"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "dd5b94a2",
+		type: "item",
+		items: [{
+			item: "roughtweaks:medikitenchanted"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

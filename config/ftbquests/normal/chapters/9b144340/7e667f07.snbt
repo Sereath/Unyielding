@@ -4,7 +4,7 @@
 	y: -5.5d,
 	description: "§8Soulbound",
 	text: [
-		"Get on-screen coordinates."
+		"On-screen coordinates."
 	],
 	tasks: [{
 		uid: "8e8431ca",

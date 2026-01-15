@@ -1,6 +1,11 @@
 {
+	title: "Light",
 	x: 0.0d,
 	y: -6.5d,
+	text: [
+		"Many mobs dislike these. ",
+		"So make sure you eventually build some sturdy light sources."
+	],
 	tasks: [{
 		uid: "4df743fd",
 		type: "item",

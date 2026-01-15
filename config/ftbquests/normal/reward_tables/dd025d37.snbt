@@ -2,7 +2,7 @@
 	title: "Basic",
 	loot_size: 1,
 	rewards: [{
-		xp_levels: 16,
+		xp_levels: 12,
 		type: "xp_levels"
 	},
 	{

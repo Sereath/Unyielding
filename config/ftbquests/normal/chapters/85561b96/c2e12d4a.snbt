@@ -15,19 +15,19 @@
 					],
 					AttributeModifiers: [{
 						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.digSpeed",
+						Name: "qualitytools",
 						Operation: 2,
 						UUIDMost: -540440455933376315L,
 						UUIDLeast: -9087354975002756854L,
-						Name: "qualitytools"
+						AttributeName: "potioncore.digSpeed"
 					},
 					{
 						Amount: 0.029999999329447746d,
-						AttributeName: "generic.attackSpeed",
+						Name: "qualitytools",
 						Operation: 2,
 						UUIDMost: -3076060420665359532L,
 						UUIDLeast: -5691535734139370385L,
-						Name: "qualitytools"
+						AttributeName: "generic.attackSpeed"
 					}]
 				}
 			},

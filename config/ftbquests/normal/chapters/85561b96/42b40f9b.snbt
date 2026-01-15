@@ -18,19 +18,19 @@
 					],
 					AttributeModifiers: [{
 						Amount: 0.05000000074505806d,
-						AttributeName: "generic.movementSpeed",
+						Name: "qualitytools",
 						Operation: 2,
 						UUIDMost: -1569348638831917350L,
 						UUIDLeast: -7080298981557871038L,
-						Name: "qualitytools"
+						AttributeName: "generic.movementSpeed"
 					},
 					{
 						Amount: 0.5d,
-						AttributeName: "potioncore.jumpHeight",
+						Name: "qualitytools",
 						Operation: 0,
 						UUIDMost: 2387283957520027053L,
 						UUIDLeast: -5260817613251107026L,
-						Name: "qualitytools"
+						AttributeName: "potioncore.jumpHeight"
 					}]
 				}
 			},

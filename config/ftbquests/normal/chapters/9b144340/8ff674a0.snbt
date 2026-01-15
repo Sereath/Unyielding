@@ -1,5 +1,5 @@
 {
-	title: "§6Memorizable Gensokyo",
+	title: "§4Touhou Little Maid",
 	icon: {
 		tag: {
 			"patchouli:book": "touhou_little_maid:memorizable_gensokyo"
@@ -9,7 +9,7 @@
 	x: -2.25d,
 	y: -6.75d,
 	shape: "diamond",
-	description: "§4Touhou Little Maid",
+	description: "§6Memorizable Gensokyo",
 	text: [
 		"These endearing maids can help with battles, farming and other tasks."
 	],
