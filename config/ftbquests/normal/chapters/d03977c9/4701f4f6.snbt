@@ -2,6 +2,13 @@
 	icon: "srparasites:itemmobspawner_elvia",
 	x: -0.5d,
 	y: -6.0d,
+	dependencies: [
+		"53388dc8",
+		"b9824049",
+		"9d1fd47c",
+		"b35a8c8d"
+	],
+	hide: 1b,
 	tasks: [{
 		uid: "6408893b",
 		type: "kill",

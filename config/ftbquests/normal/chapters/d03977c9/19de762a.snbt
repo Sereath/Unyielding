@@ -5,7 +5,7 @@
 		uid: "3db39c71",
 		type: "kill",
 		entity: "minecraft:zombie",
-		value: 1000L
+		value: 300L
 	}],
 	rewards: [{
 		uid: "35cbd6b6",

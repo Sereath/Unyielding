@@ -1,0 +1,14 @@
+{
+	x: -1.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "f4475f89",
+		type: "item",
+		items: [{
+			tag: {},
+			id: "cyclicmagic:storage_bag"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

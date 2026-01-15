@@ -1,0 +1,21 @@
+{
+	icon: "srparasites:lurecomponent4",
+	x: -5.5d,
+	y: 6.0d,
+	dependencies: [
+		"5e135f62"
+	],
+	hide: 1b,
+	tasks: [{
+		uid: "6f9dfb8b",
+		type: "kill",
+		entity: "srparasites:ada_reeker",
+		value: 25L
+	},
+	{
+		uid: "478fcea0",
+		type: "kill",
+		entity: "srparasites:ada_longarms",
+		value: 25L
+	}]
+}

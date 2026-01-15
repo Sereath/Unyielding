@@ -2,7 +2,8 @@
 	x: -5.5d,
 	y: -3.0d,
 	text: [
-		"- Actually Additions"
+		"- Actually Additions",
+		"- CompositeGear"
 	],
 	tasks: [{
 		uid: "d71e3697",

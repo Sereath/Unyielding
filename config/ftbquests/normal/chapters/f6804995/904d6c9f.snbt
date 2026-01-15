@@ -1,0 +1,12 @@
+{
+	x: -3.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "9838f56f",
+		type: "item",
+		items: [{
+			item: "travelersbackpack:travelers_backpack"
+		}],
+		ignore_nbt: 1b
+	}]
+}

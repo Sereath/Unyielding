@@ -5,6 +5,7 @@
 	dependencies: [
 		"2aa3f796"
 	],
+	hide: 1b,
 	tasks: [{
 		uid: "5d06c25e",
 		type: "kill",

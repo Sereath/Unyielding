@@ -2,6 +2,13 @@
 	icon: "srparasites:itemmobspawner_pheon",
 	x: -2.0d,
 	y: -7.5d,
+	dependencies: [
+		"53388dc8",
+		"b9824049",
+		"9d1fd47c",
+		"b35a8c8d"
+	],
+	hide: 1b,
 	tasks: [{
 		uid: "2b917899",
 		type: "kill",

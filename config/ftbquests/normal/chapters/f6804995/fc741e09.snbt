@@ -1,0 +1,15 @@
+{
+	x: -4.0d,
+	y: -2.0d,
+	description: "Map and coordinates",
+	text: [
+		"Very handy on-screen map."
+	],
+	tasks: [{
+		uid: "0cec5f95",
+		type: "item",
+		items: [{
+			item: "antiqueatlas:empty_antique_atlas"
+		}]
+	}]
+}

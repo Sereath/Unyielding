@@ -5,7 +5,7 @@
 		uid: "d4a0a42d",
 		type: "kill",
 		entity: "minecraft:skeleton",
-		value: 1000L
+		value: 300L
 	}],
 	rewards: [{
 		uid: "7777221a",

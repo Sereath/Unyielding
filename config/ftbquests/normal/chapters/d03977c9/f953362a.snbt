@@ -2,6 +2,13 @@
 	icon: "srparasites:itemmobspawner_jinjo",
 	x: -1.0d,
 	y: -7.0d,
+	dependencies: [
+		"53388dc8",
+		"b9824049",
+		"9d1fd47c",
+		"b35a8c8d"
+	],
+	hide: 1b,
 	tasks: [{
 		uid: "16d249e5",
 		type: "kill",
