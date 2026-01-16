@@ -33,11 +33,6 @@ common.addItemEntry(<extraalchemy:potion_ring>.withTag({Potion: "minecraft:swift
 common.addItemEntry(<extraalchemy:potion_ring>.withTag({Potion: "extraalchemy:reincarnation_normal"}), 10, 1, [Functions.setCount(1, 1)], []);
 common.addItemEntry(<extraalchemy:potion_ring>.withTag({Potion: "minecraft:fire_resistance"}), 10, 1, [Functions.setCount(1, 1)], []);
 common.addItemEntry(<extraalchemy:potion_ring>.withTag({Potion: "minecraft:water_breathing"}), 10, 1, [Functions.setCount(1, 1)], []);
-common.addItemEntry(<bountifulbaubles:trinketballoon>, 10, 1, [Functions.setCount(1, 1)], []);
-common.addItemEntry(<bountifulbaubles:trinketmagiclenses>, 10, 1, [Functions.setCount(1, 1)], []);
-common.addItemEntry(<bountifulbaubles:trinketapple>, 10, 1, [Functions.setCount(1, 1)], []);
-common.addItemEntry(<bountifulbaubles:trinketvitamins>, 10, 1, [Functions.setCount(1, 1)], []);
-common.addItemEntry(<bountifulbaubles:trinketluckyhorseshoe>, 10, 1, [Functions.setCount(1, 1)], []);
 common.addItemEntry(<randomthings:diviningrod>, 10, 1, [Functions.setCount(1, 1)], []);
 common.addItemEntry(<randomthings:diviningrod:3>, 10, 1, [Functions.setCount(1, 1)], []);
 common.addItemEntry(<randomthings:diviningrod:8>, 10, 1, [Functions.setCount(1, 1)], []);
@@ -63,10 +58,10 @@ common.addItemEntry(<theaurorian:scrapumbra>, 10, 1, [Functions.setCount(1, 1)],
 common.addItemEntry(<cyclicmagic:heart_food>, 10, 1, [Functions.setCount(1, 1)], []);
 common.addItemEntry(<grimoireofgaia:misc_book>, 10, 1, [Functions.setCount(1, 2)], []);
 common.addItemEntry(<iceandfire:dragonbone>, 10, 1, [Functions.setCount(1, 2)], []);
-common.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "copper"}), 40, 1, [Functions.setCount(8, 16)], []);
-common.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "silver"}), 40, 1, [Functions.setCount(4, 8)], []);
-common.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "gold"}), 30, 1, [Functions.setCount(2, 4)], []);
-common.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "ancient"}), 30, 1, [Functions.setCount(1, 2)], []);
+common.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "copper"}), 50, 1, [Functions.setCount(8, 16)], []);
+common.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "silver"}), 50, 1, [Functions.setCount(4, 8)], []);
+common.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "gold"}), 40, 1, [Functions.setCount(2, 4)], []);
+common.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "ancient"}), 40, 1, [Functions.setCount(1, 2)], []);
 
 
 //uncommon
@@ -87,13 +82,6 @@ uncommon.addItemEntry(<extraalchemy:potion_ring>.withTag({Potion: "minecraft:str
 uncommon.addItemEntry(<extraalchemy:potion_ring>.withTag({Potion: "extraalchemy:reincarnation_strong"}), 10, 1, [Functions.setCount(1, 1)], []);
 uncommon.addItemEntry(<extraalchemy:potion_ring>.withTag({Potion: "minecraft:fire_resistance"}), 10, 1, [Functions.setCount(1, 1)], []);
 uncommon.addItemEntry(<extraalchemy:potion_ring>.withTag({Potion: "minecraft:water_breathing"}), 10, 1, [Functions.setCount(1, 1)], []);
-uncommon.addItemEntry(<bountifulbaubles:ringoverclocking>, 10, 1, [Functions.setCount(1, 1)], []);
-uncommon.addItemEntry(<bountifulbaubles:trinketshulkerheart>, 10, 1, [Functions.setCount(1, 1)], []);
-uncommon.addItemEntry(<bountifulbaubles:trinketbezoar>, 10, 1, [Functions.setCount(1, 1)], []);
-uncommon.addItemEntry(<bountifulbaubles:enderdragonscale>, 10, 1, [Functions.setCount(1, 1)], []);
-uncommon.addItemEntry(<bountifulbaubles:trinketbrokenheart>, 10, 1, [Functions.setCount(1, 1)], []);
-uncommon.addItemEntry(<bountifulbaubles:ringflywheel>, 10, 1, [Functions.setCount(1, 1)], []);
-uncommon.addItemEntry(<bountifulbaubles:potionrecall>, 10, 1, [Functions.setCount(1, 1)], []);
 uncommon.addItemEntry(<randomthings:chunkanalyzer>, 10, 1, [Functions.setCount(1, 1)], []);
 uncommon.addItemEntry(<randomthings:diviningrod:2>, 10, 1, [Functions.setCount(1, 1)], []);
 uncommon.addItemEntry(<randomthings:diviningrod:4>, 10, 1, [Functions.setCount(1, 1)], []);
@@ -121,10 +109,10 @@ uncommon.addItemEntry(<theaurorian:scrapumbra>, 10, 1, [Functions.setCount(1, 2)
 uncommon.addItemEntry(<cyclicmagic:heart_food>, 10, 1, [Functions.setCount(1, 2)], []);
 uncommon.addItemEntry(<grimoireofgaia:misc_book>, 10, 1, [Functions.setCount(1, 3)], []);
 uncommon.addItemEntry(<iceandfire:dragonbone>, 10, 1, [Functions.setCount(1, 3)], []);
-uncommon.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "copper"}), 30, 1, [Functions.setCount(16, 32)], []);
-uncommon.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "silver"}), 30, 1, [Functions.setCount(8, 16)], []);
-uncommon.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "gold"}), 20, 1, [Functions.setCount(4, 8)], []);
-uncommon.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "ancient"}), 20, 1, [Functions.setCount(2, 4)], []);
+uncommon.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "copper"}), 50, 1, [Functions.setCount(16, 32)], []);
+uncommon.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "silver"}), 50, 1, [Functions.setCount(8, 16)], []);
+uncommon.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "gold"}), 40, 1, [Functions.setCount(4, 8)], []);
+uncommon.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "ancient"}), 40, 1, [Functions.setCount(2, 4)], []);
 
 
 //rare
@@ -132,15 +120,6 @@ uncommon.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "ancient"}), 20, 
 //rare.addLootTableEntry("lt:rare", 20);
 //rare.addLootTableEntry("lt:subway", 10);
 //110
-rare.addItemEntry(<bountifulbaubles:amuletsingluttony>, 10, 1, [Functions.setCount(1, 1)], []);
-rare.addItemEntry(<bountifulbaubles:crowngold>, 10, 1, [Functions.setCount(1, 1)], []);
-rare.addItemEntry(<bountifulbaubles:ringfreeaction>, 10, 1, [Functions.setCount(1, 1)], []);
-rare.addItemEntry(<bountifulbaubles:brokenblackdragonscale>, 10, 1, [Functions.setCount(1, 1)], []);
-rare.addItemEntry(<bountifulbaubles:shieldcobalt>, 10, 1, [Functions.setCount(1, 1)], []);
-rare.addItemEntry(<bountifulbaubles:trinketobsidianskull>, 10, 1, [Functions.setCount(1, 1)], []);
-rare.addItemEntry(<bountifulbaubles:ringflywheeladvanced>, 10, 1, [Functions.setCount(1, 1)], []);
-rare.addItemEntry(<bountifulbaubles:magicmirror>, 10, 1, [Functions.setCount(1, 1)], []);
-rare.addItemEntry(<bountifulbaubles:potionwormhole>, 10, 1, [Functions.setCount(1, 1)], []);
 rare.addItemEntry(<randomthings:diviningrod:1>, 10, 1, [Functions.setCount(1, 1)], []);
 rare.addItemEntry(<randomthings:diviningrod:5>, 10, 1, [Functions.setCount(1, 1)], []);
 rare.addItemEntry(<randomthings:diviningrod:6>, 10, 1, [Functions.setCount(1, 1)], []);
@@ -164,10 +143,10 @@ rare.addItemEntry(<theaurorian:scrapumbra>, 10, 1, [Functions.setCount(1, 3)], [
 rare.addItemEntry(<cyclicmagic:heart_food>, 10, 1, [Functions.setCount(1, 3)], []);
 rare.addItemEntry(<grimoireofgaia:misc_book>, 10, 1, [Functions.setCount(2, 4)], []);
 rare.addItemEntry(<iceandfire:dragonbone>, 10, 1, [Functions.setCount(2, 4)], []);
-rare.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "copper"}), 20, 1, [Functions.setCount(24, 48)], []);
-rare.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "silver"}), 20, 1, [Functions.setCount(12, 24)], []);
-rare.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "gold"}), 10, 1, [Functions.setCount(6, 12)], []);
-rare.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "ancient"}), 10, 1, [Functions.setCount(3, 6)], []);
+rare.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "copper"}), 40, 1, [Functions.setCount(24, 48)], []);
+rare.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "silver"}), 40, 1, [Functions.setCount(12, 24)], []);
+rare.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "gold"}), 30, 1, [Functions.setCount(6, 12)], []);
+rare.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "ancient"}), 30, 1, [Functions.setCount(3, 6)], []);
 
 
 //mythic
@@ -175,14 +154,6 @@ rare.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "ancient"}), 10, 1, [
 //mythic.addLootTableEntry("lt:subway", 30);
 //125
 mythic.addItemEntry(<extraalchemy:potion_ring>.withTag({Potion: "minecraft:invisibility"}), 5, 1, [Functions.setCount(1, 1)], []);
-mythic.addItemEntry(<bountifulbaubles:trinketblackdragonscale>, 20, 1, [Functions.setCount(1, 1)], []);
-mythic.addItemEntry(<bountifulbaubles:shieldobsidian>, 20, 1, [Functions.setCount(1, 1)], []);
-mythic.addItemEntry(<bountifulbaubles:amuletsinpride>, 10, 1, [Functions.setCount(1, 1)], []);
-mythic.addItemEntry(<bountifulbaubles:amuletsinwrath>, 10, 1, [Functions.setCount(1, 1)], []);
-mythic.addItemEntry(<bountifulbaubles:wormholemirror>, 20, 1, [Functions.setCount(1, 1)], []);
-mythic.addItemEntry(<bountifulbaubles:trinketmixeddragonscale>, 10, 1, [Functions.setCount(1, 1)], []);
-mythic.addItemEntry(<bountifulbaubles:trinketankhcharm>, 10, 1, [Functions.setCount(1, 1)], []);
-mythic.addItemEntry(<bountifulbaubles:shieldankh>, 5, 1, [Functions.setCount(1, 1)], []);
 mythic.addItemEntry(<randomthings:timeinabottle>, 5, 1, [Functions.setCount(1, 1)], []);
 mythic.addItemEntry(<tconevo:material:2>, 10, 1, [Functions.setCount(1, 1)], []);
 mythic.addItemEntry(<conditionoverload:wicked_jewel>, 10, 1, [Functions.setCount(1, 1)], []);
@@ -208,7 +179,7 @@ mythic.addItemEntry(<theaurorian:scrapumbra>, 10, 1, [Functions.setCount(2, 4)],
 mythic.addItemEntry(<cyclicmagic:heart_food>, 10, 1, [Functions.setCount(2, 4)], []);
 mythic.addItemEntry(<grimoireofgaia:misc_book>, 10, 1, [Functions.setCount(3, 5)], []);
 mythic.addItemEntry(<iceandfire:dragonbone>, 10, 1, [Functions.setCount(3, 5)], []);
-mythic.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "copper"}), 10, 1, [Functions.setCount(32, 64)], []);
-mythic.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "silver"}), 10, 1, [Functions.setCount(16, 32)], []);
-mythic.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "gold"}), 10, 1, [Functions.setCount(8, 16)], []);
-mythic.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "ancient"}), 10, 1, [Functions.setCount(4, 8)], []);
+mythic.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "copper"}), 30, 1, [Functions.setCount(32, 64)], []);
+mythic.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "silver"}), 30, 1, [Functions.setCount(16, 32)], []);
+mythic.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "gold"}), 30, 1, [Functions.setCount(8, 16)], []);
+mythic.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "ancient"}), 30, 1, [Functions.setCount(4, 8)], []);

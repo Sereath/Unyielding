@@ -12,6 +12,11 @@ LootTable.removeGlobalItem("enderio:item_dark_steel_boots");
 LootTable.removeGlobalItem("cyclicmagic:charm_air");
 LootTable.removeGlobalItem("bountifulbaubles:trinketapple");
 LootTable.removeGlobalItem("bountifulbaubles:trinketvitamins");
+LootTable.removeGlobalItem("bountifulbaubles:trinketmagiclenses");
+LootTable.removeGlobalItem("bountifulbaubles:ringoverclocking");
+LootTable.removeGlobalItem("bountifulbaubles:trinketshulkerheart");
+LootTable.removeGlobalItem("bountifulbaubles:trinketbezoar");
+LootTable.removeGlobalItem("bountifulbaubles:trinketblackdragonscale");
 LootTable.removeGlobalItem("techguns:chainsaw");
 
 //LootTable.removeGlobalItem("touhou_little_maid:power_point");
