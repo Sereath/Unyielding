@@ -143,6 +143,7 @@ mods.Delivery.Store.addTrade(<mysticbows:flame_bow>, store_Ranged).addItem(goldC
 mods.Delivery.Store.addTrade(<mysticbows:shot_bow>, store_Ranged).addItem(goldCoin * 12);
 mods.Delivery.Store.addTrade(<mysticbows:ranged_bow>, store_Ranged).addItem(goldCoin * 12);
 mods.Delivery.Store.addTrade(<mysticbows:burst_bow>, store_Ranged).addItem(goldCoin * 12);
+mods.Delivery.Store.addTrade(<mysticbows:feather_bow>, store_Ranged).addItem(goldCoin * 24);
 mods.Delivery.Store.addTrade(<minecraft:arrow> * 64, store_Ranged).addItem(silverCoin * 12);
 
 //magic
@@ -184,6 +185,10 @@ mods.Delivery.Store.addTrade(<mod_lavacow:goldenheart>, store_Special).addItem(a
 mods.Delivery.Store.addTrade(<mod_lavacow:dreamcatcher>, store_Special).addItem(goldCoin * 48).addItem(scrapAurorianite);
 mods.Delivery.Store.addTrade(<mod_lavacow:halo_necklace>, store_Special).addItem(ancientCoin * 6).addItem(scrapUmbra);
 mods.Delivery.Store.addTrade(<openblocks:luggage>, store_Special).addItem(goldCoin * 12);
+mods.Delivery.Store.addTrade(<cyclicmagic:storage_bag>, store_Special).addItem(goldCoin * 12);
+
+mods.Delivery.Store.addTrade(<elenaidodge2:golden_feather>, store_Special).addItem(goldCoin * 6);
+mods.Delivery.Store.addTrade(<elenaidodge2:iron_feather>, store_Special).addItem(goldCoin * 6);
 
 //exchange
 mods.Delivery.Store.addTrade(silverCoin, store_Exchange).addItem(copperCoin * 2);

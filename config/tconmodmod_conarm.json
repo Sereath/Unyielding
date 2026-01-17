@@ -43,5 +43,14 @@
                 ]
             }
 		]
+	},
+	{
+        "modifier": "tconevo.weightless_armor",
+        "mutations": [
+            {
+                "type": "max_level",
+                "value": 1
+            }
+		]
 	}
 ]

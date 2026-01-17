@@ -319,6 +319,9 @@ recipes.remove(<iceandfire:silver_pickaxe>);
 recipes.remove(<iceandfire:silver_axe>);
 recipes.remove(<iceandfire:silver_hoe>);
 
+recipes.remove(<elenaidodge2:iron_feather>);
+recipes.remove(<elenaidodge2:golden_feather>);
+
 recipes.addShapeless(
     <unyielding:copper>,
     [<ancientwarfarenpc:coin>.withTag({metal: "copper"})]
