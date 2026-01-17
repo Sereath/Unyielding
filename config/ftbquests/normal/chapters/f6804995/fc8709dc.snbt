@@ -1,6 +1,10 @@
 {
-	x: -1.5d,
-	y: -1.0d,
+	x: -2.5d,
+	y: -3.0d,
+	text: [
+		"A close-to-bottomless bag",
+		"that will be invaluable!"
+	],
 	tasks: [{
 		uid: "f4475f89",
 		type: "item",
@@ -10,5 +14,10 @@
 		}],
 		ignore_damage: 1b,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c99c8c96",
+		type: "random",
+		table: 8
 	}]
 }

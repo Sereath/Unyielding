@@ -10,5 +10,10 @@
 		items: [{
 			item: "cookingforblockheads:oven"
 		}]
+	}],
+	rewards: [{
+		uid: "08239178",
+		type: "random",
+		table: 7
 	}]
 }

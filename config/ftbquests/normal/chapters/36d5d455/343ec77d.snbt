@@ -10,5 +10,10 @@
 		items: [{
 			item: "cookingforblockheads:milk_jar"
 		}]
+	}],
+	rewards: [{
+		uid: "f7bd947d",
+		type: "random",
+		table: 7
 	}]
 }

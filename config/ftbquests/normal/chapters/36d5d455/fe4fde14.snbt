@@ -7,5 +7,10 @@
 		items: [{
 			item: "cookingforblockheads:fruit_basket"
 		}]
+	}],
+	rewards: [{
+		uid: "dca3e678",
+		type: "random",
+		table: 7
 	}]
 }

@@ -7,5 +7,10 @@
 		items: [{
 			item: "xreliquary:angelheart_vial"
 		}]
+	}],
+	rewards: [{
+		uid: "1b0d5810",
+		type: "random",
+		table: 7
 	}]
 }

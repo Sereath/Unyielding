@@ -23,5 +23,10 @@
 		items: [{
 			item: "enderskills:crystal"
 		}]
+	}],
+	rewards: [{
+		uid: "adf49c64",
+		type: "random",
+		table: 8
 	}]
 }

@@ -38,5 +38,10 @@
 		}],
 		ignore_damage: 1b,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "cd5280c5",
+		type: "random",
+		table: 7
 	}]
 }

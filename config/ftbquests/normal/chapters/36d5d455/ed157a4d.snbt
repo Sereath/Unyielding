@@ -10,5 +10,10 @@
 		items: [{
 			item: "cookingforblockheads:cooking_table"
 		}]
+	}],
+	rewards: [{
+		uid: "29917fff",
+		type: "random",
+		table: 7
 	}]
 }

@@ -10,5 +10,10 @@
 		type: "kill",
 		entity: "iceandfire:firedragon",
 		value: 3L
+	}],
+	rewards: [{
+		uid: "5fb95dce",
+		type: "random",
+		table: 6
 	}]
 }

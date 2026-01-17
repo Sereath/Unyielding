@@ -32,13 +32,13 @@
 		consume_items: 1b
 	}],
 	rewards: [{
-		uid: "2633a9ab",
-		type: "choice",
-		table: 0
-	},
-	{
-		uid: "aa26cfaf",
+		uid: "84d776e1",
 		type: "loot",
 		table: 3
+	},
+	{
+		uid: "b004e5f5",
+		type: "choice",
+		table: 0
 	}]
 }

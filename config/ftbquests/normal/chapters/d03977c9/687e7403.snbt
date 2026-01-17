@@ -11,5 +11,10 @@
 		type: "kill",
 		entity: "srparasites:bogle",
 		value: 3L
+	}],
+	rewards: [{
+		uid: "965c0e50",
+		type: "random",
+		table: 6
 	}]
 }

@@ -85,5 +85,10 @@
 			item: "harderbedcrafting:bed_blanket 1 15"
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "de3548f6",
+		type: "random",
+		table: 8
 	}]
 }

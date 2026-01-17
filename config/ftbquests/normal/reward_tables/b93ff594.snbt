@@ -1,0 +1,11 @@
+{
+	title: "Healing",
+	loot_size: 1,
+	rewards: [{
+		item: "flaskoflife:flask_healing"
+	},
+	{
+		xp_levels: 6,
+		type: "xp_levels"
+	}]
+}

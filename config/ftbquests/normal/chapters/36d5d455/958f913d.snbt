@@ -7,5 +7,10 @@
 		items: [{
 			item: "cookingforblockheads:spice_rack"
 		}]
+	}],
+	rewards: [{
+		uid: "2dde3eeb",
+		type: "random",
+		table: 7
 	}]
 }

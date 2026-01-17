@@ -36,5 +36,10 @@
 		items: [{
 			item: "unyielding:opulent"
 		}]
+	}],
+	rewards: [{
+		uid: "b90d7db2",
+		type: "random",
+		table: 8
 	}]
 }

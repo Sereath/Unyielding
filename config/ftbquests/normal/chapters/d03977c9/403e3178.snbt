@@ -11,5 +11,10 @@
 		type: "kill",
 		entity: "minecraft:ender_dragon",
 		value: 1L
+	}],
+	rewards: [{
+		uid: "aa57e6df",
+		type: "random",
+		table: 6
 	}]
 }

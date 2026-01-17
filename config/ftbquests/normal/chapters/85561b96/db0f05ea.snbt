@@ -27,5 +27,10 @@
 			id: "grimoireofgaia:accessory_trinket_water_breathing"
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6d251eef",
+		type: "random",
+		table: 7
 	}]
 }

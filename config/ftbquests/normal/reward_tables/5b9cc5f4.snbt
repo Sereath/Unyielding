@@ -1,0 +1,12 @@
+{
+	title: "xpS",
+	loot_size: 1,
+	rewards: [{
+		xp: 85,
+		type: "xp"
+	},
+	{
+		xp: 130,
+		type: "xp"
+	}]
+}

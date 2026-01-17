@@ -3,7 +3,7 @@
 	y: 0.0d,
 	description: "§cExtra hearts",
 	text: [
-		""
+		"Variety is the spice of life"
 	],
 	tasks: [{
 		uid: "a7987877",
@@ -11,5 +11,10 @@
 		items: [{
 			item: "solcarrot:food_book"
 		}]
+	}],
+	rewards: [{
+		uid: "a690f31b",
+		type: "random",
+		table: 7
 	}]
 }

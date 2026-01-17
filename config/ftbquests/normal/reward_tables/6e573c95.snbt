@@ -114,12 +114,10 @@
 		}
 	},
 	{
-		item: "qualitytools:emerald_ring",
-		weight: 4
+		item: "qualitytools:emerald_ring"
 	},
 	{
-		item: "qualitytools:emerald_amulet",
-		weight: 4
+		item: "qualitytools:emerald_amulet"
 	},
 	{
 		item: {

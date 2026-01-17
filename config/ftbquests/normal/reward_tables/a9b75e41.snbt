@@ -1,0 +1,20 @@
+{
+	title: "xpL",
+	loot_size: 1,
+	rewards: [{
+		xp: 144,
+		type: "xp"
+	},
+	{
+		xp: 151,
+		type: "xp"
+	},
+	{
+		xp: 165,
+		type: "xp"
+	},
+	{
+		xp: 207,
+		type: "xp"
+	}]
+}

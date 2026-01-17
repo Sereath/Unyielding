@@ -1,9 +1,10 @@
 {
-	x: -4.0d,
-	y: -2.0d,
+	title: "Antique Atlas",
+	x: -5.5d,
+	y: -4.5d,
 	description: "Map and coordinates",
 	text: [
-		"Very handy on-screen map."
+		"A very handy map."
 	],
 	tasks: [{
 		uid: "0cec5f95",
@@ -11,5 +12,10 @@
 		items: [{
 			item: "antiqueatlas:empty_antique_atlas"
 		}]
+	}],
+	rewards: [{
+		uid: "c99116fe",
+		type: "random",
+		table: 8
 	}]
 }

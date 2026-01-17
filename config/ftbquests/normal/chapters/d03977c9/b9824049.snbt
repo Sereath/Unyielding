@@ -17,5 +17,10 @@
 		type: "kill",
 		entity: "srparasites:ada_longarms",
 		value: 25L
+	}],
+	rewards: [{
+		uid: "c2ba4e7c",
+		type: "random",
+		table: 6
 	}]
 }

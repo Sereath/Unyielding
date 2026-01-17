@@ -21,5 +21,9 @@
 	},
 	{
 		item: "mysticbows:heavy_bow"
+	},
+	{
+		xp_levels: 4,
+		type: "xp_levels"
 	}]
 }

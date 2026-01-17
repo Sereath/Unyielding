@@ -18,5 +18,9 @@
 	},
 	{
 		item: "spartanweaponry:lance_bronze"
+	},
+	{
+		xp_levels: 4,
+		type: "xp_levels"
 	}]
 }

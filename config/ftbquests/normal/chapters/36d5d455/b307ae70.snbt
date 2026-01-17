@@ -10,5 +10,10 @@
 		items: [{
 			item: "minecraft:book"
 		}]
+	}],
+	rewards: [{
+		uid: "1c4d10da",
+		type: "random",
+		table: 7
 	}]
 }

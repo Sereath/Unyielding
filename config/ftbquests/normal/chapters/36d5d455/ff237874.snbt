@@ -10,5 +10,10 @@
 		items: [{
 			item: "cookingforblockheads:toaster"
 		}]
+	}],
+	rewards: [{
+		uid: "68966361",
+		type: "random",
+		table: 7
 	}]
 }

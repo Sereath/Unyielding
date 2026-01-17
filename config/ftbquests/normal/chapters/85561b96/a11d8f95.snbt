@@ -7,5 +7,10 @@
 		items: [{
 			item: "xreliquary:glowing_bread"
 		}]
+	}],
+	rewards: [{
+		uid: "d7c15b06",
+		type: "random",
+		table: 7
 	}]
 }

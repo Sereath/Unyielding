@@ -7,5 +7,10 @@
 		items: [{
 			item: "xreliquary:attraction_potion"
 		}]
+	}],
+	rewards: [{
+		uid: "e80dc5c0",
+		type: "random",
+		table: 7
 	}]
 }

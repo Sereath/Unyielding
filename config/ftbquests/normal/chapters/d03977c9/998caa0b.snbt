@@ -12,5 +12,10 @@
 		type: "kill",
 		entity: "iceandfire:dread_queen",
 		value: 1L
+	}],
+	rewards: [{
+		uid: "0d861d6f",
+		type: "random",
+		table: 6
 	}]
 }

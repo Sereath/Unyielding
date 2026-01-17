@@ -11,5 +11,10 @@
 		type: "kill",
 		entity: "srparasites:haunter",
 		value: 5L
+	}],
+	rewards: [{
+		uid: "e38d5c4d",
+		type: "random",
+		table: 6
 	}]
 }

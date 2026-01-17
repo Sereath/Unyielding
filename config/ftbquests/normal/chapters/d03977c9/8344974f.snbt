@@ -11,5 +11,10 @@
 		type: "kill",
 		entity: "srparasites:carrier_colony",
 		value: 3L
+	}],
+	rewards: [{
+		uid: "9e601d1e",
+		type: "random",
+		table: 6
 	}]
 }

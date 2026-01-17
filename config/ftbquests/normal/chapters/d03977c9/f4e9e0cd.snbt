@@ -11,5 +11,10 @@
 		type: "kill",
 		entity: "srparasites:bomber_heavy",
 		value: 5L
+	}],
+	rewards: [{
+		uid: "59082bd4",
+		type: "random",
+		table: 6
 	}]
 }

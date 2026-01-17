@@ -7,5 +7,10 @@
 		items: [{
 			item: "cookingforblockheads:tool_rack"
 		}]
+	}],
+	rewards: [{
+		uid: "d85943cb",
+		type: "random",
+		table: 7
 	}]
 }

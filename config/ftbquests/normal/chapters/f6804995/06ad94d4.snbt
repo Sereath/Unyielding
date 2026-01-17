@@ -1,7 +1,7 @@
 {
 	title: "§2Healing",
-	x: -2.5d,
-	y: -3.0d,
+	x: -3.5d,
+	y: -5.0d,
 	description: "No natural healing",
 	text: [
 		"Besides the Flask of Life, there are other healing aids at your disposal."
@@ -50,5 +50,10 @@
 		}],
 		ignore_damage: 1b,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a0d1f21f",
+		type: "random",
+		table: 8
 	}]
 }

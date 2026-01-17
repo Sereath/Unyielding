@@ -7,5 +7,10 @@
 		items: [{
 			item: "xreliquary:fertile_potion"
 		}]
+	}],
+	rewards: [{
+		uid: "5d7046de",
+		type: "random",
+		table: 7
 	}]
 }

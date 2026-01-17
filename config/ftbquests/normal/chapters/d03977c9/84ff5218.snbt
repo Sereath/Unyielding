@@ -10,5 +10,10 @@
 		type: "kill",
 		entity: "mowziesmobs:barako",
 		value: 1L
+	}],
+	rewards: [{
+		uid: "10b3eb36",
+		type: "random",
+		table: 6
 	}]
 }

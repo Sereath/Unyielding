@@ -16,5 +16,10 @@
 			},
 			id: "xreliquary:void_tear"
 		}]
+	}],
+	rewards: [{
+		uid: "54b617f5",
+		type: "random",
+		table: 7
 	}]
 }

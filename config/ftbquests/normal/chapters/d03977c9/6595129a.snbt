@@ -11,5 +11,10 @@
 		type: "kill",
 		entity: "srparasites:wraith",
 		value: 3L
+	}],
+	rewards: [{
+		uid: "95ccf73a",
+		type: "random",
+		table: 6
 	}]
 }

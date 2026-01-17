@@ -12,5 +12,10 @@
 		}],
 		ignore_damage: 1b,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "adc4efbb",
+		type: "random",
+		table: 7
 	}]
 }

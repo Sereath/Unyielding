@@ -7,5 +7,10 @@
 		type: "kill",
 		entity: "mowziesmobs:foliaath",
 		value: 10L
+	}],
+	rewards: [{
+		uid: "45dd63b2",
+		type: "random",
+		table: 6
 	}]
 }

@@ -7,5 +7,10 @@
 		type: "kill",
 		entity: "iceandfire:firedragon",
 		value: 1L
+	}],
+	rewards: [{
+		uid: "eaf1464c",
+		type: "random",
+		table: 6
 	}]
 }

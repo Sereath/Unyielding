@@ -34,5 +34,10 @@
 		items: [{
 			item: "xlfoodmod:vanilla_cupcake"
 		}]
+	}],
+	rewards: [{
+		uid: "d9de47c7",
+		type: "random",
+		table: 8
 	}]
 }

@@ -17,5 +17,10 @@
 		type: "kill",
 		entity: "srparasites:marauder",
 		value: 1L
+	}],
+	rewards: [{
+		uid: "97b30891",
+		type: "random",
+		table: 6
 	}]
 }

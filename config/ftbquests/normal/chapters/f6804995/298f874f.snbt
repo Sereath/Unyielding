@@ -1,0 +1,19 @@
+{
+	x: 0.5d,
+	y: -3.5d,
+	text: [
+		"Friends are good."
+	],
+	tasks: [{
+		uid: "95a85dfb",
+		type: "item",
+		items: [{
+			item: "doggytalents:training_treat"
+		}]
+	}],
+	rewards: [{
+		uid: "97a2add7",
+		type: "random",
+		table: 8
+	}]
+}

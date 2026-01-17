@@ -11,5 +11,10 @@
 		type: "kill",
 		entity: "minecraft:wither",
 		value: 1L
+	}],
+	rewards: [{
+		uid: "962173e4",
+		type: "random",
+		table: 6
 	}]
 }

@@ -35,8 +35,8 @@
 		table: 4
 	},
 	{
-		uid: "99e44435",
-		type: "item",
-		item: "flaskoflife:flask_healing"
+		uid: "b6f9473b",
+		type: "choice",
+		table: 5
 	}]
 }

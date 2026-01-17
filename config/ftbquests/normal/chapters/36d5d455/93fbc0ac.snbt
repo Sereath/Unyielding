@@ -10,5 +10,10 @@
 		items: [{
 			item: "cookingforblockheads:fridge"
 		}]
+	}],
+	rewards: [{
+		uid: "d330bf5b",
+		type: "random",
+		table: 7
 	}]
 }

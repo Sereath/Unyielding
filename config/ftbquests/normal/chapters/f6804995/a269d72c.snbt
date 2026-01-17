@@ -1,0 +1,23 @@
+{
+	title: "§9Revenants",
+	x: -7.5d,
+	y: -3.5d,
+	description: "§cHeed",
+	text: [
+		"The area in which you first arrived",
+		"is cursed.",
+		"Do not make it your home."
+	],
+	tasks: [{
+		uid: "12fa4fe8",
+		type: "item",
+		items: [{
+			item: "randomthings:ingredient 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "d2b3153b",
+		type: "random",
+		table: 8
+	}]
+}

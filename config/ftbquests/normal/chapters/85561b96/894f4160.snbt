@@ -7,5 +7,10 @@
 		items: [{
 			item: "xreliquary:glowing_water"
 		}]
+	}],
+	rewards: [{
+		uid: "05b9012a",
+		type: "random",
+		table: 7
 	}]
 }

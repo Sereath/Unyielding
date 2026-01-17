@@ -17,5 +17,10 @@
 		type: "kill",
 		entity: "srparasites:sim_villager",
 		value: 10L
+	}],
+	rewards: [{
+		uid: "a71d85c1",
+		type: "random",
+		table: 6
 	}]
 }

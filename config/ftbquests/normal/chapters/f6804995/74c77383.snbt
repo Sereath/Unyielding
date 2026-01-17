@@ -1,0 +1,16 @@
+{
+	x: -6.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "a12bad7a",
+		type: "item",
+		items: [{
+			item: "cyclicmagic:heart_food"
+		}]
+	}],
+	rewards: [{
+		uid: "5537aa31",
+		type: "random",
+		table: 8
+	}]
+}

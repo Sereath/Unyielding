@@ -7,5 +7,10 @@
 		items: [{
 			item: "cookingforblockheads:corner"
 		}]
+	}],
+	rewards: [{
+		uid: "aa714e1a",
+		type: "random",
+		table: 7
 	}]
 }

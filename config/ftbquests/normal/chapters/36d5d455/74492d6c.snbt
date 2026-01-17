@@ -10,5 +10,10 @@
 		items: [{
 			item: "cookingforblockheads:sink"
 		}]
+	}],
+	rewards: [{
+		uid: "320ef992",
+		type: "random",
+		table: 7
 	}]
 }

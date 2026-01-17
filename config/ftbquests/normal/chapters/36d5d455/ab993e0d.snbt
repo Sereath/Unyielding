@@ -10,5 +10,10 @@
 		items: [{
 			item: "cookingforblockheads:cow_jar"
 		}]
+	}],
+	rewards: [{
+		uid: "b41eca5a",
+		type: "random",
+		table: 7
 	}]
 }

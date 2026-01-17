@@ -19,5 +19,10 @@
 		type: "kill",
 		entity: "lycanitesmobs:rahovart",
 		value: 1L
+	}],
+	rewards: [{
+		uid: "4b74f574",
+		type: "random",
+		table: 6
 	}]
 }

@@ -1,6 +1,11 @@
 {
-	x: -3.5d,
-	y: -1.0d,
+	x: -4.5d,
+	y: -3.0d,
+	text: [
+		"This is a very special",
+		"type of backpack.",
+		"You will likely want one."
+	],
 	tasks: [{
 		uid: "9838f56f",
 		type: "item",
@@ -8,5 +13,10 @@
 			item: "travelersbackpack:travelers_backpack"
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "97216576",
+		type: "random",
+		table: 8
 	}]
 }

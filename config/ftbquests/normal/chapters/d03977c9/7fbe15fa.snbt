@@ -15,5 +15,10 @@
 		type: "kill",
 		entity: "da:high_king",
 		value: 1L
+	}],
+	rewards: [{
+		uid: "27a058de",
+		type: "random",
+		table: 6
 	}]
 }

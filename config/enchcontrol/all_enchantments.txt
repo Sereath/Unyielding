@@ -1,0 +1,187 @@
+mod name - enchantment name - enchantment registry name
+AncientSpellcraft - Degraded - ancientspellcraft:degrade_bow
+AncientSpellcraft - Static Charge - ancientspellcraft:static_charge
+AncientSpellcraft - Degraded - ancientspellcraft:degrade_sword
+Charm - Curse of Haunting - charm:haunting_curse
+Charm - Salvage - charm:salvage
+Charm - Homing - charm:homing
+Charm - Curse of Harming - charm:harming_curse
+Charm - Curse of Rusting - charm:rusting_curse
+Charm - Magnetic - charm:magnetic
+Charm - Curse Break - charm:curse_break
+Charm - Curse of Clumsiness - charm:clumsiness_curse
+Chocolate Quest Repoured - Lightning Protection - cqrepoured:lightning_protection
+Chocolate Quest Repoured - Spectral Balsam - cqrepoured:spectral
+CoFH Core - Insight - cofhcore:insight
+CoFH Core - Soulbound - cofhcore:soulbound
+CoFH Core - Leech - cofhcore:leech
+CoFH Core - Vorpal - cofhcore:vorpal
+CoFH Core - Smelting - cofhcore:smelting
+CoFH Core - Holding - cofhcore:holding
+CoFH Core - Smashing - cofhcore:smashing
+CoFH Core - Multishot - cofhcore:multishot
+Corail Tombstone - Shadow Step - tombstone:shadow_step
+Corail Tombstone - Tombstone Soulbound - tombstone:soulbound
+Corail Tombstone - Plague Bringer - tombstone:plague_bringer
+Corail Tombstone - Magic Siphon - tombstone:magic_siphon
+Corail Tombstone - Curse of Bones - tombstone:curse_of_bones
+Corail Tombstone - Blessing - tombstone:blessing
+Corail Tombstone - Spectral Conjurer - tombstone:spectral_conjurer
+Cyclic - Multi-Shot - cyclicmagic:enchantment.multishot
+Cyclic - Block Reach - cyclicmagic:enchantment.reach
+Cyclic - Magnet - cyclicmagic:enchantment.magnet
+Cyclic - Experience Boost - cyclicmagic:enchantment.expboost
+Cyclic - Excavation - cyclicmagic:enchantment.excavation
+Cyclic - Waterwalking - cyclicmagic:enchantment.waterwalking
+Cyclic - Beheading - cyclicmagic:enchantment.beheading
+Cyclic - Venom - cyclicmagic:enchantment.venom
+Cyclic - Quickdraw - cyclicmagic:enchantment.quickdraw
+Cyclic - Auto-Smelt - cyclicmagic:enchantment.autosmelt
+Cyclic - Life Leech - cyclicmagic:enchantment.lifeleech
+Cyclic - Multi-Jump - cyclicmagic:enchantment.launch
+Electroblob's Wizardry - Shock Protection - ebwizardry:shock_protection
+Electroblob's Wizardry - Magic Protection - ebwizardry:magic_protection
+Electroblob's Wizardry - Fire Imbuement - ebwizardry:flaming_weapon
+Electroblob's Wizardry - Frost Imbuement - ebwizardry:freezing_weapon
+Electroblob's Wizardry - Frost Protection - ebwizardry:frost_protection
+Electroblob's Wizardry - Imbuement - ebwizardry:magic_sword
+Electroblob's Wizardry - Imbuement - ebwizardry:magic_bow
+Elenai Dodge 2 - Lightweight - elenaidodge2:lightweight
+Ender IO - Shimmer - enderio:shimmer
+Ender IO - Decay - enderio:witherweapon
+Ender IO - Withering - enderio:witherarrow
+Ender IO - Repellent - enderio:repellent
+Ender IO - Soulbound - enderio:soulbound
+EnderCore - Auto-Smelt - endercore:autosmelt
+EnderCore - XP Boost - endercore:xpboost
+Fish's Undead Rising - Corrosive - mod_lavacow:corrosive
+Fish's Undead Rising - Poisonous - mod_lavacow:poisonous
+Fish's Undead Rising - Lifesteal - mod_lavacow:lifesteal
+Future Fireproof - Fireproof - futurefireproof:fireproof
+Living Enchantment - Living - livingenchantment:enchantment.living
+Minecraft - Infinity - minecraft:infinity
+Minecraft - Bane of Arthropods - minecraft:bane_of_arthropods
+Minecraft - Smite - minecraft:smite
+Minecraft - Curse of Vanishing - minecraft:vanishing_curse
+Minecraft - Frost Walker - minecraft:frost_walker
+Minecraft - Silk Touch - minecraft:silk_touch
+Minecraft - Fire Aspect - minecraft:fire_aspect
+Minecraft - Curse of Binding - minecraft:binding_curse
+Minecraft - Flame - minecraft:flame
+Minecraft - Sweeping Edge - minecraft:sweeping
+Minecraft - Protection - minecraft:protection
+Minecraft - Projectile Protection - minecraft:projectile_protection
+Minecraft - Sharpness - minecraft:sharpness
+Minecraft - Fire Protection - minecraft:fire_protection
+Minecraft - Looting - minecraft:looting
+Minecraft - Fortune - minecraft:fortune
+Minecraft - Respiration - minecraft:respiration
+Minecraft - Thorns - minecraft:thorns
+Minecraft - Blast Protection - minecraft:blast_protection
+Minecraft - Luck of the Sea - minecraft:luck_of_the_sea
+Minecraft - Mending - minecraft:mending
+Minecraft - Efficiency - minecraft:efficiency
+Minecraft - Lure - minecraft:lure
+Minecraft - Knockback - minecraft:knockback
+Minecraft - Unbreaking - minecraft:unbreaking
+Minecraft - Power - minecraft:power
+Minecraft - Punch - minecraft:punch
+Minecraft - Aqua Affinity - minecraft:aqua_affinity
+Minecraft - Feather Falling - minecraft:feather_falling
+Minecraft - Depth Strider - minecraft:depth_strider
+Nyx - Lunar Shield - nyx:lunar_shield
+Nyx - Lunar Edge - nyx:lunar_edge
+Oceanic Expanse - Channeling - oe:channeling
+Oceanic Expanse - Loyalty - oe:loyalty
+Oceanic Expanse - Mob Stomp - oe:mobstomp
+Oceanic Expanse - Waterjet - oe:is_wet
+Oceanic Expanse - Riptide - oe:riptide
+Oceanic Expanse - Impaling - oe:is_watermob
+Oceanic Expanse - Nor's Rebound - oe:rebound
+OpenBlocks - Unstable - openblocks:explosive
+OpenBlocks - Flim Flam - openblocks:flim_flam
+OpenBlocks - Last Stand - openblocks:last_stand
+Random Things - Magnetic - randomthings:magnetic
+Soul Shards Respawn - Soul Stealer - soulshardsrespawn:soul_stealer
+Spartan Shields - Spikes - spartanshields:ssenchspikes
+Spartan Weaponry - Razors Edge - spartanweaponry:razors_edge
+Spartan Weaponry - Supercharge - spartanweaponry:supercharge
+Spartan Weaponry - Return - spartanweaponry:return
+Spartan Weaponry - Incendiary - spartanweaponry:incendiary
+Spartan Weaponry - Lucky Throw - spartanweaponry:lucky_throw
+Spartan Weaponry - Propulsion - spartanweaponry:propulsion
+Spartan Weaponry - Sharpshooter - spartanweaponry:sharpshooter
+Spartan Weaponry - Rapid Load - spartanweaponry:rapid_load
+Spartan Weaponry - Expanse - spartanweaponry:expanse
+Spartan Weaponry - Spreadshot - spartanweaponry:spreadshot
+Spartan Weaponry - Hydrodynamic - spartanweaponry:hydrodynamic
+The Aurorian - Lightning - theaurorian:lightning
+The Aurorian - Lightning Resistance - theaurorian:lightningresistance
+Unique Battle Enchantments - Fury - uniqueebattle:fury
+Unique Battle Enchantments - Streaker's Will - uniqueebattle:streakers_will
+Unique Battle Enchantments - Ares Fragment - uniqueebattle:ares_fragment
+Unique Battle Enchantments - Artemis Soul - uniqueebattle:artemis_soul
+Unique Battle Enchantments - Ares Grace - uniqueebattle:ares_grace
+Unique Battle Enchantments - Ifrit's Blessing - uniqueebattle:ifrits_blessing
+Unique Battle Enchantments - Ifrit's Judgement - uniqueebattle:ifrits_judgement
+Unique Battle Enchantments - War's Odium - uniqueebattle:wars_odium
+Unique Battle Enchantments - Grani's Soul - uniqueebattle:granis_soul
+Unique Battle Enchantments - Lunatic Despair - uniqueebattle:lunatic_despair
+Unique Battle Enchantments - Golem Soul - uniqueebattle:golem_soul
+Unique Battle Enchantments - Celestial Blessing - uniqueebattle:celestial_blessing
+Unique Battle Enchantments - Iron Bird - uniqueebattle:iron_bird
+Unique Battle Enchantments - Deep Wounds - uniqueebattle:deep_wounds
+Unique Enchantments - Ender Mending - uniquee:ender_mending
+Unique Enchantments - Midas Blessing - uniquee:midas_blessing
+Unique Enchantments - Nature's Grace - uniquee:naturesgrace
+Unique Enchantments - Treasurer's Eyes - uniquee:treasurers_eyes
+Unique Enchantments - Focus Impact - uniquee:focus_impact
+Unique Enchantments - Ameliorated Smite - uniquee:undead
+Unique Enchantments - Endest Reap - uniquee:endest_reap
+Unique Enchantments - Cloud Walker - uniquee:cloudwalker
+Unique Enchantments - Icarus Aegis - uniquee:icarus_aegis
+Unique Enchantments - Range - uniquee:ranged
+Unique Enchantments - Grimoire - uniquee:grimoire
+Unique Enchantments - Swift - uniquee:swift
+Unique Enchantments - Climate Tranquility - uniquee:climate_tranquility
+Unique Enchantments - Alchemist's Grace - uniquee:alchemistsgrace
+Unique Enchantments - Spartan Weapon - uniquee:spartanweapon
+Unique Enchantments - Ameliorated Bane of Arthropod - uniquee:arthropods
+Unique Enchantments - Sage's Blessing - uniquee:sages_blessing
+Unique Enchantments - Ecological - uniquee:ecological
+Unique Enchantments - Bone Crusher - uniquee:bone_crusher
+Unique Enchantments - Ifrit's Grace - uniquee:ifrits_grace
+Unique Enchantments - Vitae - uniquee:vitae
+Unique Enchantments - Perpetual Strike - uniquee:perpetualstrike
+Unique Enchantments - Momentum - uniquee:momentum
+Unique Enchantments - Berserker - uniquee:berserk
+Unique Enchantments - Ares Blessing - uniquee:aresblessing
+Unique Enchantments - Swift Blade - uniquee:swiftblade
+Unique Enchantments - Warrior's Grace - uniquee:warriorsgrace
+Unique Enchantments - Pestilence's Odium - uniquee:pestilences_odium
+Unique Enchantments - Ender Eyes - uniquee:ender_eyes
+Unique Enchantments - Ameliorated Sharpness - uniquee:all
+Unique Enchantments - Smart Ass - uniquee:smart_ass
+Unique Enchantments - Phoenix's Blessing - uniquee:phoenixs_blessing
+Unique Enchantments - Ender Librarian - uniquee:ender_librarian
+Unique Enchantments - Fast Food - uniquee:fastfood
+Unique Enchantments - Ender's Markmen - uniquee:endermarksmen
+Unique Enchantments - Death's Odium - uniquee:deaths_odium
+Unique Util Enchantments - Anemoi Fragment - uniqueeutil:anemoi_fragment
+Unique Util Enchantments - Ambrosia - uniqueeutil:ambrosia
+Unique Util Enchantments - Resonance - uniqueeutil:resonance
+Unique Util Enchantments - Sleipnir's Grace - uniqueeutil:sleipnirs_grace
+Unique Util Enchantments - Mounting Aegis - uniqueeutil:mounting_aegis
+Unique Util Enchantments - Alchemist's Blessing - uniqueeutil:alchemists_blessing
+Unique Util Enchantments - Demeter's Blessing - uniqueeutil:demeters_blessing
+Unique Util Enchantments - Thick Pick - uniqueeutil:thick_pick
+Unique Util Enchantments - Pegasus Soul - uniqueeutil:pegasus_soul
+Unique Util Enchantments - Famine's Odium - uniqueeutil:famines_odium
+Unique Util Enchantments - Demeter's Soul - uniqueeutil:demeters_soul
+Unique Util Enchantments - Sage's Soul - uniqueeutil:sages_soul
+Unique Util Enchantments - Rocket Man - uniqueeutil:rocketman
+Unique Util Enchantments - Reinforced - uniqueeutil:reinforced
+Unique Util Enchantments - Climber - uniqueeutil:climber
+Unique Util Enchantments - Essence of Slime - uniqueeutil:essence_of_slime
+Unique Util Enchantments - Adept - uniqueeutil:adept
+Unique Util Enchantments - Phanes Regret - uniqueeutil:phanes_regret

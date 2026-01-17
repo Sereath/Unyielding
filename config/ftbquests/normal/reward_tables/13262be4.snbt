@@ -1,0 +1,16 @@
+{
+	title: "xpM",
+	loot_size: 1,
+	rewards: [{
+		xp: 130,
+		type: "xp"
+	},
+	{
+		xp: 137,
+		type: "xp"
+	},
+	{
+		xp: 144,
+		type: "xp"
+	}]
+}

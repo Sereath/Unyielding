@@ -7,5 +7,10 @@
 		type: "kill",
 		entity: "mowziesmobs:naga",
 		value: 10L
+	}],
+	rewards: [{
+		uid: "92a3f8bb",
+		type: "random",
+		table: 6
 	}]
 }

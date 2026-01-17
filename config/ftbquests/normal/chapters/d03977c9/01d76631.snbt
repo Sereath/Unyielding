@@ -7,5 +7,10 @@
 		type: "kill",
 		entity: "mowziesmobs:ferrous_wroughtnaut",
 		value: 1L
+	}],
+	rewards: [{
+		uid: "ce13d307",
+		type: "random",
+		table: 6
 	}]
 }

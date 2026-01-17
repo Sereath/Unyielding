@@ -17,5 +17,10 @@
 		type: "kill",
 		entity: "srparasites:carrier_heavy",
 		value: 50L
+	}],
+	rewards: [{
+		uid: "43afd403",
+		type: "random",
+		table: 6
 	}]
 }

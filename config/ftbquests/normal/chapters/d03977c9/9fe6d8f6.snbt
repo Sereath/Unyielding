@@ -6,5 +6,10 @@
 		type: "kill",
 		entity: "mutantbeasts:mutant_zombie",
 		value: 10L
+	}],
+	rewards: [{
+		uid: "0fb2b261",
+		type: "random",
+		table: 6
 	}]
 }

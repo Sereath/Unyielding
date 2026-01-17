@@ -11,5 +11,10 @@
 			item: "cookingforblockheads:recipe_book 1 1"
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d00f2f31",
+		type: "random",
+		table: 7
 	}]
 }

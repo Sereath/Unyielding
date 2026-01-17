@@ -21,5 +21,10 @@
 		uid: "0c18c804",
 		type: "item",
 		item: "cyclicmagic:heart_food"
+	},
+	{
+		uid: "b97e6c8d",
+		type: "random",
+		table: 6
 	}]
 }

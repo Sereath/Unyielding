@@ -9,5 +9,10 @@
 		type: "kill",
 		entity: "da:frost_draugr_elite",
 		value: 3L
+	}],
+	rewards: [{
+		uid: "dc6d5a0e",
+		type: "random",
+		table: 6
 	}]
 }
