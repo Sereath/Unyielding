@@ -1,0 +1,38 @@
+{
+	title: "§bUntaught Technology",
+	x: -3.5d,
+	y: -4.5d,
+	shape: "diamond",
+	description: "§oIs this magic?",
+	text: [
+		"§o\"Knowledge is potential;",
+		"action is power.\""
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "55ceeb3f",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:table_elite"
+		}]
+	},
+	{
+		uid: "b1990168",
+		type: "item",
+		items: [{
+			item: "mod_lavacow:curseweave_cloth"
+		}]
+	},
+	{
+		uid: "4b7fb798",
+		type: "item",
+		items: [{
+			item: "progressivecore:reality_crystal"
+		}]
+	}],
+	rewards: [{
+		uid: "33ee95d4",
+		type: "random",
+		table: 6
+	}]
+}

@@ -1,0 +1,39 @@
+{
+	title: "srp_threat",
+	x: -0.5d,
+	y: 2.5d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "5269d1ea",
+		type: "kill",
+		icon: "srparasites:itemmobspawner_canraadapted",
+		entity: "srparasites:ada_summoner",
+		value: 10L
+	},
+	{
+		uid: "9d204118",
+		type: "kill",
+		icon: "srparasites:itemmobspawner_banoadapted",
+		entity: "srparasites:ada_bolster",
+		value: 10L
+	}],
+	rewards: [{
+		uid: "080d162c",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "threat"
+	},
+	{
+		uid: "5c565873",
+		type: "command",
+		command: "/playsound srparasites:host.em master @p",
+		player_command: 1b
+	},
+	{
+		uid: "4c219de6",
+		type: "command",
+		command: "/sanity remove @p 20"
+	}]
+}
