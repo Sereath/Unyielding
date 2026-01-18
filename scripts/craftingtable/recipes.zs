@@ -230,7 +230,7 @@ recipes.removeByRecipeName("techguns:itemshared_125_redstone_battery");
 //recipes.remove(<techguns:itemshared:122>);
 
 //Glider
-//recipes.remove(<techguns:glider>);
+recipes.remove(<techguns:glider>);
 recipes.removeByRecipeName("techguns:itemshared_90_gliderbackpack");
 recipes.removeByRecipeName("techguns:itemshared_91_gliderwing");
 
@@ -414,10 +414,10 @@ recipes.addShaped(<techguns:t4_praetor_boots>, [[<ore:ingotNetherite>, null, <or
 recipes.addShaped(<techguns:t4_praetor_leggings>, [[<techguns:itemshared:67>, <ore:ingotNetherite>, <techguns:itemshared:67>],[<ore:ingotNetherite>, <ore:ingotNetherite>, <ore:ingotNetherite>], [<techguns:itemshared:67>, null, <techguns:itemshared:67>]]);
 recipes.addShaped(<techguns:t4_praetor_chestplate>, [[<ore:ingotNetherite>, <techguns:itemshared:67>, <ore:ingotNetherite>],[<ore:ingotNetherite>, <techguns:itemshared:131>, <ore:ingotNetherite>], [<techguns:itemshared:67>, <techguns:itemshared:67>, <techguns:itemshared:67>]]);
 recipes.addShaped(<techguns:t4_praetor_helmet>, [[<ore:netherStar>, <ore:ingotNetherite>, <ore:netherStar>],[<ore:ingotNetherite>, <techguns:itemshared:67>, <ore:ingotNetherite>], [<techguns:itemshared:67>, <ore:blockGlassHardened>, <techguns:itemshared:67>]]);
-recipes.addShaped(<techguns:jetpack>, [[<techguns:itemshared:27>, null, <techguns:itemshared:27>],[<techguns:itemshared:67>, <techguns:jumppack>, <techguns:itemshared:67>], [<techguns:itemshared:145>, <ore:gearIridium>, <techguns:itemshared:145>]]);
-recipes.addShaped(<techguns:itemshared:90>, [[<techguns:itemshared:60>, <techguns:itemshared:60>, <techguns:itemshared:60>],[<enderio:item_alloy_ingot:6>, <techguns:itemshared:60>, <enderio:item_alloy_ingot:6>], [<techguns:itemshared:60>, <techguns:itemshared:60>, <techguns:itemshared:60>]]);
-recipes.addShaped(<techguns:itemshared:91>, [[<mod_lavacow:curseweave_cloth>, <enderio:item_alloy_ingot:6>, <mod_lavacow:curseweave_cloth>],[<mod_lavacow:curseweave_cloth>, <enderio:item_alloy_ingot:6>, <mod_lavacow:curseweave_cloth>], [<mod_lavacow:curseweave_cloth>, <enderio:item_alloy_ingot:6>, <mod_lavacow:curseweave_cloth>]]);
-recipes.addShaped(<techguns:jumppack>, [[<enderio:item_alloy_nugget>, null, <enderio:item_alloy_nugget>],[<thermalfoundation:material:352>, <techguns:itemshared:90>, <thermalfoundation:material:352>], [<techguns:itemshared:23>, null, <techguns:itemshared:23>]]);
+//recipes.addShaped(<techguns:jetpack>, [[<techguns:itemshared:27>, null, <techguns:itemshared:27>],[<techguns:itemshared:67>, <techguns:jumppack>, <techguns:itemshared:67>], [<techguns:itemshared:145>, <ore:gearIridium>, <techguns:itemshared:145>]]);
+//recipes.addShaped(<techguns:itemshared:90>, [[<techguns:itemshared:60>, <techguns:itemshared:60>, <techguns:itemshared:60>],[<enderio:item_alloy_ingot:6>, <techguns:itemshared:60>, <enderio:item_alloy_ingot:6>], [<techguns:itemshared:60>, <techguns:itemshared:60>, <techguns:itemshared:60>]]);
+//recipes.addShaped(<techguns:itemshared:91>, [[<mod_lavacow:curseweave_cloth>, <enderio:item_alloy_ingot:6>, <mod_lavacow:curseweave_cloth>],[<mod_lavacow:curseweave_cloth>, <enderio:item_alloy_ingot:6>, <mod_lavacow:curseweave_cloth>], [<mod_lavacow:curseweave_cloth>, <enderio:item_alloy_ingot:6>, <mod_lavacow:curseweave_cloth>]]);
+//recipes.addShaped(<techguns:jumppack>, [[<enderio:item_alloy_nugget>, null, <enderio:item_alloy_nugget>],[<thermalfoundation:material:352>, <techguns:itemshared:90>, <thermalfoundation:material:352>], [<techguns:itemshared:23>, null, <techguns:itemshared:23>]]);
 
 recipes.addShaped(<techguns:metalpanel> * 16, [[<minecraft:stone:*>, <magneticraft:heavy_plates:6>, <minecraft:stone:*>],[<magneticraft:heavy_plates:6>, <minecraft:stone:*>, <magneticraft:heavy_plates:6>], [<minecraft:stone:*>, <minecraft:stone:*>, <minecraft:stone:*>]]);
 recipes.addShaped(<techguns:nethermetal> * 16, [[<minecraft:netherrack:*>, <minecraft:netherrack:*>, <minecraft:netherrack:*>],[<magneticraft:heavy_plates:6>, <minecraft:nether_brick>, <magneticraft:heavy_plates:6>], [<minecraft:netherrack:*>, <minecraft:netherrack:*>, <minecraft:netherrack:*>]]);

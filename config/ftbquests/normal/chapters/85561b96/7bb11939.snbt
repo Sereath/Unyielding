@@ -15,11 +15,11 @@
 					],
 					AttributeModifiers: [{
 						Amount: 0.5d,
-						AttributeName: "potioncore.jumpHeight",
+						Name: "qualitytools",
 						Operation: 0,
 						UUIDMost: 3548559398986074884L,
 						UUIDLeast: -8752430958936876055L,
-						Name: "qualitytools"
+						AttributeName: "potioncore.jumpHeight"
 					}]
 				}
 			},

@@ -15,11 +15,11 @@
 					],
 					AttributeModifiers: [{
 						Amount: -0.20000000298023224d,
-						AttributeName: "generic.luck",
+						Name: "qualitytools",
 						Operation: 0,
 						UUIDMost: -2058068260118641594L,
 						UUIDLeast: -4800712455516322008L,
-						Name: "qualitytools"
+						AttributeName: "generic.luck"
 					}]
 				}
 			},

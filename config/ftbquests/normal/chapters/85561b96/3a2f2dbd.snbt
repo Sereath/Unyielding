@@ -7,30 +7,6 @@
 		items: [{
 			ForgeCaps: {
 				"xat:trinket": {
-					Quality: {
-						Name: "quality.athletic.name",
-						Color: "aqua",
-						Slots: [
-							"baubles_trinket",
-							"offhand"
-						],
-						AttributeModifiers: [{
-							Amount: 0.05000000074505806d,
-							AttributeName: "generic.movementSpeed",
-							Operation: 2,
-							UUIDMost: -2658732671364083898L,
-							UUIDLeast: -8758414970016393420L,
-							Name: "qualitytools"
-						},
-						{
-							Amount: 0.5d,
-							AttributeName: "potioncore.jumpHeight",
-							Operation: 0,
-							UUIDMost: -5321754282265327871L,
-							UUIDLeast: -5685923333575219783L,
-							Name: "qualitytools"
-						}]
-					},
 					"xat:Trinket": {
 						variant: 0,
 						Counters: {},
@@ -46,34 +22,34 @@
 						main.ability: 0b,
 						handler: "None",
 						slot: -1
+					},
+					Quality: {
+						Name: "quality.athletic.name",
+						Color: "aqua",
+						Slots: [
+							"baubles_trinket",
+							"offhand"
+						],
+						AttributeModifiers: [{
+							Amount: 0.05000000074505806d,
+							Name: "qualitytools",
+							Operation: 2,
+							UUIDMost: -2658732671364083898L,
+							UUIDLeast: -8758414970016393420L,
+							AttributeName: "generic.movementSpeed"
+						},
+						{
+							Amount: 0.5d,
+							Name: "qualitytools",
+							Operation: 0,
+							UUIDMost: -5321754282265327871L,
+							UUIDLeast: -5685923333575219783L,
+							AttributeName: "potioncore.jumpHeight"
+						}]
 					}
 				}
 			},
 			tag: {
-				Quality: {
-					Name: "quality.athletic.name",
-					Color: "aqua",
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					AttributeModifiers: [{
-						Amount: 0.05000000074505806d,
-						AttributeName: "generic.movementSpeed",
-						Operation: 2,
-						UUIDMost: -2658732671364083898L,
-						UUIDLeast: -8758414970016393420L,
-						Name: "qualitytools"
-					},
-					{
-						Amount: 0.5d,
-						AttributeName: "potioncore.jumpHeight",
-						Operation: 0,
-						UUIDMost: -5321754282265327871L,
-						UUIDLeast: -5685923333575219783L,
-						Name: "qualitytools"
-					}]
-				},
 				"xat:Trinket": {
 					variant: 0,
 					Counters: {},
@@ -89,6 +65,30 @@
 					main.ability: 0b,
 					handler: "None",
 					slot: -1
+				},
+				Quality: {
+					Name: "quality.athletic.name",
+					Color: "aqua",
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					AttributeModifiers: [{
+						Amount: 0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
+						UUIDMost: -2658732671364083898L,
+						UUIDLeast: -8758414970016393420L,
+						AttributeName: "generic.movementSpeed"
+					},
+					{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
+						UUIDMost: -5321754282265327871L,
+						UUIDLeast: -5685923333575219783L,
+						AttributeName: "potioncore.jumpHeight"
+					}]
 				}
 			},
 			id: "xat:titan_ring"
