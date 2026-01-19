@@ -15,11 +15,11 @@
 					],
 					AttributeModifiers: [{
 						Amount: 0.029999999329447746d,
-						Name: "qualitytools",
+						AttributeName: "generic.attackSpeed",
 						Operation: 2,
 						UUIDMost: 1225202175734271361L,
 						UUIDLeast: -7324235625798275101L,
-						AttributeName: "generic.attackSpeed"
+						Name: "qualitytools"
 					}]
 				}
 			},

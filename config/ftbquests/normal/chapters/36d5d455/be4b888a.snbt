@@ -1,0 +1,24 @@
+{
+	x: 9.0d,
+	y: 1.0d,
+	shape: "square",
+	tasks: [{
+		uid: "a817a733",
+		type: "item",
+		items: [{
+			item: "conarm:book"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8a8d9685",
+		type: "random",
+		table: 7
+	},
+	{
+		uid: "bb7070ff",
+		type: "item",
+		item: "grimoireofgaia:misc_experience 1 1"
+	}]
+}

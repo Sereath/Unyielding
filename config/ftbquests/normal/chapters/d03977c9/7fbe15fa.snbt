@@ -20,5 +20,25 @@
 		uid: "27a058de",
 		type: "random",
 		table: 6
+	},
+	{
+		uid: "00175b00",
+		type: "item",
+		item: {
+			tag: {
+				TrophyColorRed: 63,
+				TrophyColorBlue: 229,
+				TrophyVariant: "neon",
+				TrophyColorGreen: 23,
+				TrophyShowsTooltip: 0b,
+				TrophyItem: {
+					id: "da:king_helmet",
+					Damage: 0s,
+					Count: 1b
+				},
+				TrophyName: ""
+			},
+			id: "simple_trophies:trophy"
+		}
 	}]
 }

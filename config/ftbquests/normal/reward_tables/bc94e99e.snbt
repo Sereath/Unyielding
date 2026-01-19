@@ -20,7 +20,6 @@
 		item: "spartanweaponry:lance_bronze"
 	},
 	{
-		xp_levels: 4,
-		type: "xp_levels"
+		item: "grimoireofgaia:misc_experience 1 2"
 	}]
 }

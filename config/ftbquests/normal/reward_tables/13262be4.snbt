@@ -2,15 +2,18 @@
 	title: "xpM",
 	loot_size: 1,
 	rewards: [{
-		xp: 130,
-		type: "xp"
+		title: "16",
+		item: "actuallyadditions:item_solidified_experience",
+		count: 16
 	},
 	{
-		xp: 137,
-		type: "xp"
+		title: "17",
+		item: "actuallyadditions:item_solidified_experience",
+		count: 17
 	},
 	{
-		xp: 144,
-		type: "xp"
+		title: "18",
+		item: "actuallyadditions:item_solidified_experience",
+		count: 18
 	}]
 }

@@ -2,11 +2,13 @@
 	title: "xpS",
 	loot_size: 1,
 	rewards: [{
-		xp: 85,
-		type: "xp"
+		title: "11",
+		item: "actuallyadditions:item_solidified_experience",
+		count: 11
 	},
 	{
-		xp: 130,
-		type: "xp"
+		title: "16",
+		item: "actuallyadditions:item_solidified_experience",
+		count: 16
 	}]
 }

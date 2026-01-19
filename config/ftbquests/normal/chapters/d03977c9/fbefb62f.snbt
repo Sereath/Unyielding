@@ -24,5 +24,25 @@
 		uid: "126d1bba",
 		type: "random",
 		table: 6
+	},
+	{
+		uid: "001af91f",
+		type: "item",
+		item: {
+			tag: {
+				TrophyColorRed: 63,
+				TrophyColorBlue: 229,
+				TrophyVariant: "gold",
+				TrophyColorGreen: 23,
+				TrophyShowsTooltip: 0b,
+				TrophyItem: {
+					id: "techguns:nucleardeathray",
+					Damage: 0s,
+					Count: 1b
+				},
+				TrophyName: ""
+			},
+			id: "simple_trophies:trophy"
+		}
 	}]
 }

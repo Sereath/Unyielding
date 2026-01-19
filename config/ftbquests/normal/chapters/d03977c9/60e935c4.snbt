@@ -1,6 +1,6 @@
 {
 	title: "§dThe Moon Queen",
-	icon: "theaurorian:trophymoonqueen",
+	icon: "theaurorian:queenschipper",
 	x: -2.0d,
 	y: -5.75d,
 	text: [
@@ -17,5 +17,25 @@
 		uid: "4ddc994d",
 		type: "random",
 		table: 6
+	},
+	{
+		uid: "211f6f8b",
+		type: "item",
+		item: {
+			tag: {
+				TrophyColorRed: 63,
+				TrophyColorBlue: 229,
+				TrophyVariant: "gold",
+				TrophyColorGreen: 23,
+				TrophyShowsTooltip: 0b,
+				TrophyItem: {
+					id: "theaurorian:queenschipper",
+					Damage: 0s,
+					Count: 1b
+				},
+				TrophyName: ""
+			},
+			id: "simple_trophies:trophy"
+		}
 	}]
 }

@@ -1,5 +1,8 @@
 {
-	icon: "mowziesmobs:wrought_axe",
+	icon: {
+		tag: {},
+		id: "mowziesmobs:wrought_helmet"
+	},
 	x: -2.0d,
 	y: 0.5d,
 	tasks: [{

@@ -12,5 +12,10 @@
 		items: [{
 			item: "minecraft:compass"
 		}]
+	}],
+	rewards: [{
+		uid: "35a162a9",
+		type: "random",
+		table: 8
 	}]
 }

@@ -85,6 +85,12 @@
 <iceandfire:dragonsteel_lightning_shovel>.displayName = "§1Lightninge Dragonsteel Shovel";
 <iceandfire:dragonsteel_lightning_hoe>.displayName = "§1Lightning Dragonsteel Hoe";
 
+<iceandfire:summoning_crystal_fire>.displayName = "§4Fire Dragon Summoning Crystal";
+<iceandfire:summoning_crystal_ice>.displayName = "§3Ice Dragon Summoning Crystal";
+<iceandfire:summoning_crystal_lightning>.displayName = "§1Lightning Dragon Summoning Crystal";
+
+<iceandfire:dread_queen_sword>.displayName = "§3Blade of the Dreaded Queen";
+
 
 <nyx:meteor_helm>.displayName = "§4Meteor Helmet";
 <nyx:meteor_chest>.displayName = "§4Meteor Chestplate";
@@ -203,6 +209,8 @@
 <theaurorian:scrapaurorianite>.displayName = "§bAurorianite Scrap";
 <theaurorian:scrapcrystalline>.displayName = "§bCrystalline Scrap";
 <theaurorian:scrapumbra>.displayName = "§bUmbra Scrap";
+
+<theaurorian:queenschipper>.displayName = "§5Queen's Chipper";
 
 
 <cqrepoured:sword_walker>.displayName = "§dWalker King Sword";
@@ -356,3 +364,7 @@
 <heroicarmory:rssaradomingodsword>.displayName = "§6Gracious Greatsword";
 
 <ancientspellcraft:devoritium_chestplate>.displayName = "§6Devoritium Chestplate";
+
+<da:king_helmet>.displayName = "§6Crown of the Cursed";
+
+<simple_trophies:trophy>.displayName = "§6Monument";

@@ -1,0 +1,25 @@
+{
+	x: 11.5d,
+	y: 3.0d,
+	dependencies: [
+		"359d8c1d",
+		"fb5eb5ec"
+	],
+	tasks: [{
+		uid: "bb4707ce",
+		type: "item",
+		items: [{
+			item: "tconevo:material 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "f36f558e",
+		type: "random",
+		table: 7
+	},
+	{
+		uid: "418c33a6",
+		type: "item",
+		item: "grimoireofgaia:misc_experience"
+	}]
+}

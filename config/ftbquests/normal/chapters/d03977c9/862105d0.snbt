@@ -1,8 +1,5 @@
 {
-	icon: {
-		tag: {},
-		id: "mowziesmobs:wrought_helmet"
-	},
+	icon: "mowziesmobs:wrought_axe",
 	x: -2.0d,
 	y: -1.0d,
 	dependencies: [
@@ -18,5 +15,25 @@
 		uid: "17039f39",
 		type: "random",
 		table: 6
+	},
+	{
+		uid: "6a797934",
+		type: "item",
+		item: {
+			tag: {
+				TrophyColorRed: 63,
+				TrophyColorBlue: 229,
+				TrophyName: "",
+				TrophyColorGreen: 23,
+				TrophyShowsTooltip: 0b,
+				TrophyItem: {
+					id: "mowziesmobs:wrought_axe",
+					Damage: 0s,
+					Count: 1b
+				},
+				TrophyVariant: "neon"
+			},
+			id: "simple_trophies:trophy"
+		}
 	}]
 }

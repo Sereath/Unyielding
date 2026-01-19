@@ -1,12 +1,15 @@
 {
-	title: "§bUntaught Technology",
+	title: "§kUntaught Technology",
 	x: -3.5d,
 	y: -4.5d,
 	shape: "diamond",
 	description: "§oIs this magic?",
 	text: [
 		"§o\"Knowledge is potential;",
-		"action is power.\""
+		"action is power.\"",
+		"",
+		"§rIn order to produce something of value, you will have to look around for the right papers and put them together.",
+		"You might be able to buy some if you're lucky and have the money."
 	],
 	size: 1.5d,
 	tasks: [{
@@ -34,5 +37,10 @@
 		uid: "33ee95d4",
 		type: "random",
 		table: 6
+	},
+	{
+		uid: "b3266630",
+		type: "item",
+		item: "grimoireofgaia:misc_experience 1 2"
 	}]
 }

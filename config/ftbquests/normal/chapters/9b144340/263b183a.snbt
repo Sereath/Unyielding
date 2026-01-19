@@ -19,11 +19,11 @@
 					],
 					AttributeModifiers: [{
 						Amount: 0.20000000298023224d,
-						Name: "qualitytools",
+						AttributeName: "generic.luck",
 						Operation: 0,
 						UUIDMost: -485765555674200465L,
 						UUIDLeast: -8684407208641238806L,
-						AttributeName: "generic.luck"
+						Name: "qualitytools"
 					}]
 				}
 			},
@@ -31,5 +31,10 @@
 		}],
 		ignore_damage: 1b,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "424fb898",
+		type: "random",
+		table: 8
 	}]
 }

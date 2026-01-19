@@ -8,6 +8,22 @@
 		items: [{
 			ForgeCaps: {
 				"xat:trinket": {
+					Quality: {
+						Name: "quality.healthy.name",
+						Color: "blue",
+						Slots: [
+							"baubles_trinket",
+							"offhand"
+						],
+						AttributeModifiers: [{
+							Amount: 2.0d,
+							AttributeName: "generic.maxHealth",
+							Operation: 0,
+							UUIDMost: -1226706897559204372L,
+							UUIDLeast: -4680139962681126814L,
+							Name: "qualitytools"
+						}]
+					},
 					"xat:Trinket": {
 						variant: 0,
 						Counters: {},
@@ -23,26 +39,26 @@
 						main.ability: 0b,
 						handler: "None",
 						slot: -1
-					},
-					Quality: {
-						Name: "quality.healthy.name",
-						Color: "blue",
-						Slots: [
-							"baubles_trinket",
-							"offhand"
-						],
-						AttributeModifiers: [{
-							Amount: 2.0d,
-							Name: "qualitytools",
-							Operation: 0,
-							UUIDMost: -1226706897559204372L,
-							UUIDLeast: -4680139962681126814L,
-							AttributeName: "generic.maxHealth"
-						}]
 					}
 				}
 			},
 			tag: {
+				Quality: {
+					Name: "quality.healthy.name",
+					Color: "blue",
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					AttributeModifiers: [{
+						Amount: 2.0d,
+						AttributeName: "generic.maxHealth",
+						Operation: 0,
+						UUIDMost: -1226706897559204372L,
+						UUIDLeast: -4680139962681126814L,
+						Name: "qualitytools"
+					}]
+				},
 				"xat:Trinket": {
 					variant: 0,
 					Counters: {},
@@ -58,22 +74,6 @@
 					main.ability: 0b,
 					handler: "None",
 					slot: -1
-				},
-				Quality: {
-					Name: "quality.healthy.name",
-					Color: "blue",
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					AttributeModifiers: [{
-						Amount: 2.0d,
-						Name: "qualitytools",
-						Operation: 0,
-						UUIDMost: -1226706897559204372L,
-						UUIDLeast: -4680139962681126814L,
-						AttributeName: "generic.maxHealth"
-					}]
 				}
 			},
 			id: "xat:damage_shield"

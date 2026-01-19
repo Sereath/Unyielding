@@ -1,8 +1,8 @@
 {
-	x: 0.5d,
-	y: -3.5d,
+	x: -1.0d,
+	y: -2.0d,
 	text: [
-		"Friends are good."
+		""
 	],
 	tasks: [{
 		uid: "95a85dfb",

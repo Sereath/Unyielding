@@ -1,0 +1,19 @@
+{
+	x: 7.5d,
+	y: -1.5d,
+	dependencies: [
+		"bb3e12f6"
+	],
+	tasks: [{
+		uid: "4ca9e54d",
+		type: "item",
+		items: [{
+			item: "lycanitesmobs:equipment_station"
+		}]
+	}],
+	rewards: [{
+		uid: "af533155",
+		type: "random",
+		table: 7
+	}]
+}

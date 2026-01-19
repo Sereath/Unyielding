@@ -1,0 +1,24 @@
+{
+	x: 15.0d,
+	y: -6.5d,
+	dependencies: [
+		"7d0d1714"
+	],
+	tasks: [{
+		uid: "4d97f5f3",
+		type: "item",
+		items: [{
+			item: "lycanitesmobs:soulstone"
+		}]
+	}],
+	rewards: [{
+		uid: "a2f662c9",
+		type: "random",
+		table: 7
+	},
+	{
+		uid: "8eaeba5d",
+		type: "item",
+		item: "grimoireofgaia:misc_experience 1 1"
+	}]
+}

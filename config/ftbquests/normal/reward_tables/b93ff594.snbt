@@ -5,7 +5,7 @@
 		item: "flaskoflife:flask_healing"
 	},
 	{
-		xp_levels: 6,
-		type: "xp_levels"
+		item: "grimoireofgaia:misc_experience 1 2",
+		count: 2
 	}]
 }

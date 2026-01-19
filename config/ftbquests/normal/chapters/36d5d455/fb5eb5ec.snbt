@@ -1,0 +1,27 @@
+{
+	x: 10.5d,
+	y: 3.5d,
+	dependencies: [
+		"589b605c"
+	],
+	tasks: [{
+		uid: "22457250",
+		type: "item",
+		items: [{
+			tag: {
+				textureBlock: {
+					id: "thermalfoundation:storage",
+					Count: 1b,
+					Damage: 7s
+				}
+			},
+			id: "tconstruct:toolforge"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3369a042",
+		type: "random",
+		table: 7
+	}]
+}

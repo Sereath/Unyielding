@@ -2,19 +2,23 @@
 	title: "xpL",
 	loot_size: 1,
 	rewards: [{
-		xp: 144,
-		type: "xp"
+		title: "18",
+		item: "actuallyadditions:item_solidified_experience",
+		count: 18
 	},
 	{
-		xp: 151,
-		type: "xp"
+		title: "19",
+		item: "actuallyadditions:item_solidified_experience",
+		count: 19
 	},
 	{
-		xp: 165,
-		type: "xp"
+		title: "20",
+		item: "actuallyadditions:item_solidified_experience",
+		count: 20
 	},
 	{
-		xp: 207,
-		type: "xp"
+		title: "25",
+		item: "actuallyadditions:item_solidified_experience",
+		count: 25
 	}]
 }

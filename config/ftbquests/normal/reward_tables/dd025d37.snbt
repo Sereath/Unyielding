@@ -2,10 +2,6 @@
 	title: "Basic",
 	loot_size: 1,
 	rewards: [{
-		xp_levels: 12,
-		type: "xp_levels"
-	},
-	{
 		item: "toolbelt:belt"
 	},
 	{
@@ -15,5 +11,9 @@
 	{
 		title: "Compass",
 		item: "minecraft:compass"
+	},
+	{
+		item: "grimoireofgaia:misc_experience 1 2",
+		count: 3
 	}]
 }

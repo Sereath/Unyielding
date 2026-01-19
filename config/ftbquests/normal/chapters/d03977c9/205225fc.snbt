@@ -24,5 +24,25 @@
 		uid: "2d92d9ca",
 		type: "random",
 		table: 6
+	},
+	{
+		uid: "6047d825",
+		type: "item",
+		item: {
+			tag: {
+				TrophyColorRed: 63,
+				TrophyColorBlue: 229,
+				TrophyVariant: "gold",
+				TrophyColorGreen: 23,
+				TrophyShowsTooltip: 0b,
+				TrophyItem: {
+					id: "techguns:tfg",
+					Damage: 0s,
+					Count: 1b
+				},
+				TrophyName: ""
+			},
+			id: "simple_trophies:trophy"
+		}
 	}]
 }

@@ -1,0 +1,19 @@
+{
+	x: 9.0d,
+	y: -1.5d,
+	dependencies: [
+		"569cf099"
+	],
+	tasks: [{
+		uid: "c6e04dea",
+		type: "item",
+		items: [{
+			item: "lycanitesmobs:equipmentforge_master"
+		}]
+	}],
+	rewards: [{
+		uid: "ece47ee9",
+		type: "random",
+		table: 7
+	}]
+}

@@ -14,6 +14,7 @@
 		items: [{
 			ForgeCaps: {
 				"xat:trinket": {
+					Quality: {},
 					"xat:Trinket": {
 						variant: 0,
 						Counters: {},
@@ -29,11 +30,11 @@
 						main.ability: 0b,
 						handler: "None",
 						slot: -1
-					},
-					Quality: {}
+					}
 				}
 			},
 			tag: {
+				Quality: {},
 				"xat:Trinket": {
 					variant: 0,
 					Counters: {},
@@ -49,8 +50,7 @@
 					main.ability: 0b,
 					handler: "None",
 					slot: -1
-				},
-				Quality: {}
+				}
 			},
 			id: "xat:wither_ring"
 		}],

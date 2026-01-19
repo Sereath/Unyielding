@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 3.5d,
+	tasks: [{
+		uid: "a8c4206c",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "c7e63b48",
+		type: "random",
+		table: 7
+	}]
+}

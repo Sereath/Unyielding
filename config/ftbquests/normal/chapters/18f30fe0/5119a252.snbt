@@ -18,5 +18,10 @@
 		uid: "8d1be573",
 		type: "random",
 		table: 6
+	},
+	{
+		uid: "faa08aa7",
+		type: "item",
+		item: "grimoireofgaia:misc_experience 1 1"
 	}]
 }

@@ -1,6 +1,6 @@
 {
 	title: "§3The Dread Queen",
-	icon: "iceandfire:dread_queen_staff",
+	icon: "iceandfire:dread_queen_sword",
 	x: -1.0d,
 	y: -4.0d,
 	text: [
@@ -17,5 +17,25 @@
 		uid: "0d861d6f",
 		type: "random",
 		table: 6
+	},
+	{
+		uid: "02310fbc",
+		type: "item",
+		item: {
+			tag: {
+				TrophyColorRed: 63,
+				TrophyColorBlue: 229,
+				TrophyVariant: "neon",
+				TrophyColorGreen: 23,
+				TrophyShowsTooltip: 0b,
+				TrophyItem: {
+					id: "iceandfire:dread_queen_sword",
+					Damage: 0s,
+					Count: 1b
+				},
+				TrophyName: ""
+			},
+			id: "simple_trophies:trophy"
+		}
 	}]
 }

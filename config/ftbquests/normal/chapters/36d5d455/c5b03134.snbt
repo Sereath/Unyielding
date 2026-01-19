@@ -1,0 +1,19 @@
+{
+	x: 3.5d,
+	y: 4.5d,
+	dependencies: [
+		"8fea2b81"
+	],
+	tasks: [{
+		uid: "35a95b28",
+		type: "item",
+		items: [{
+			item: "progressivecore:ingot_orichalcum"
+		}]
+	}],
+	rewards: [{
+		uid: "d395ea82",
+		type: "random",
+		table: 7
+	}]
+}

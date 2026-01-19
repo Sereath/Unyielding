@@ -1,0 +1,19 @@
+{
+	x: -0.5d,
+	y: 4.5d,
+	dependencies: [
+		"f07b99bb"
+	],
+	tasks: [{
+		uid: "b75e9ac6",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 160"
+		}]
+	}],
+	rewards: [{
+		uid: "95885de4",
+		type: "random",
+		table: 7
+	}]
+}

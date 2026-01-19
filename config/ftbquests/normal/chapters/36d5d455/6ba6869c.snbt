@@ -1,0 +1,16 @@
+{
+	x: -2.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "b50c07e1",
+		type: "item",
+		items: [{
+			item: "progressivecore:smelter1"
+		}]
+	}],
+	rewards: [{
+		uid: "a550a69e",
+		type: "random",
+		table: 7
+	}]
+}

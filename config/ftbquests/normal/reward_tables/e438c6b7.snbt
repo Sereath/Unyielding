@@ -4,120 +4,6 @@
 	rewards: [{
 		title: "Building",
 		item: {
-			ForgeCaps: {
-				Parent: [{
-					Slot: 9,
-					id: "chisel:chisel_iron",
-					Count: 1b,
-					Damage: 0s
-				},
-				{
-					Slot: 10,
-					id: "betterbuilderswands:wandiron",
-					Count: 1b,
-					Damage: 0s
-				},
-				{
-					Slot: 11,
-					id: "inspirations:photometer",
-					Count: 1b,
-					Damage: 0s
-				},
-				{
-					Slot: 12,
-					id: "mysticalworld:charred_log",
-					Count: 32b,
-					Damage: 0s
-				},
-				{
-					Slot: 13,
-					id: "rustic:candle",
-					Count: 4b,
-					Damage: 0s
-				},
-				{
-					Slot: 14,
-					id: "mysticalworld:mud_brick",
-					Count: 32b,
-					Damage: 0s
-				},
-				{
-					Slot: 15,
-					id: "mysticalworld:thatch",
-					Count: 32b,
-					Damage: 0s
-				},
-				{
-					Slot: 16,
-					id: "rustic:lantern_wood",
-					Count: 4b,
-					Damage: 0s
-				},
-				{
-					Slot: 17,
-					id: "mcwfences:oak_highley_gate",
-					Count: 2b,
-					Damage: 0s
-				},
-				{
-					Slot: 18,
-					id: "mcwfences:oak_picket_fence",
-					Count: 8b,
-					Damage: 0s
-				},
-				{
-					Slot: 19,
-					id: "chisel:cobblestone",
-					Count: 32b,
-					Damage: 1s
-				},
-				{
-					Slot: 20,
-					id: "hotornot:mitts",
-					Count: 1b,
-					Damage: 0s
-				},
-				{
-					Slot: 21,
-					Damage: 0s,
-					tag: {},
-					id: "mocreatures:hidehelmet",
-					Count: 1b
-				},
-				{
-					Slot: 22,
-					Damage: 0s,
-					tag: {},
-					id: "mocreatures:hidechest",
-					Count: 1b
-				},
-				{
-					Slot: 23,
-					Damage: 0s,
-					tag: {},
-					id: "mocreatures:hidelegs",
-					Count: 1b
-				},
-				{
-					Slot: 24,
-					Damage: 0s,
-					tag: {},
-					id: "mocreatures:hideboots",
-					Count: 1b
-				},
-				{
-					Slot: 25,
-					id: "chisel:hardenedclay1",
-					Count: 32b,
-					Damage: 8s
-				},
-				{
-					Slot: 26,
-					id: "charm:barrel",
-					Count: 4b,
-					Damage: 0s
-				}]
-			},
 			tag: {
 				display: {
 					Name: "Building Backpack"
@@ -197,31 +83,31 @@
 					},
 					{
 						Slot: 21,
-						Damage: 0s,
 						tag: {},
 						id: "mocreatures:hidehelmet",
-						Count: 1b
+						Count: 1b,
+						Damage: 0s
 					},
 					{
 						Slot: 22,
-						Damage: 0s,
 						tag: {},
 						id: "mocreatures:hidechest",
-						Count: 1b
+						Count: 1b,
+						Damage: 0s
 					},
 					{
 						Slot: 23,
-						Damage: 0s,
 						tag: {},
 						id: "mocreatures:hidelegs",
-						Count: 1b
+						Count: 1b,
+						Damage: 0s
 					},
 					{
 						Slot: 24,
-						Damage: 0s,
 						tag: {},
 						id: "mocreatures:hideboots",
-						Count: 1b
+						Count: 1b,
+						Damage: 0s
 					},
 					{
 						Slot: 25,
@@ -245,11 +131,11 @@
 					],
 					AttributeModifiers: [{
 						Name: "qualitytools",
-						Amount: -0.10000000149011612d,
+						AttributeName: "generic.movementSpeed",
 						Operation: 2,
 						UUIDMost: 5847570842571656254L,
 						UUIDLeast: -5859170564152827970L,
-						AttributeName: "generic.movementSpeed"
+						Amount: -0.10000000149011612d
 					}]
 				}
 			},
@@ -259,108 +145,6 @@
 	{
 		title: "Combat",
 		item: {
-			ForgeCaps: {
-				Parent: [{
-					Slot: 10,
-					id: "cqrepoured:potion_healing",
-					Count: 3b,
-					Damage: 0s
-				},
-				{
-					Slot: 12,
-					id: "minecraft:arrow",
-					Count: 24b,
-					Damage: 0s
-				},
-				{
-					Slot: 13,
-					id: "inspirations:north_compass",
-					Count: 1b,
-					Damage: 0s
-				},
-				{
-					Slot: 14,
-					id: "unyielding:gold",
-					Count: 9b,
-					Damage: 0s
-				},
-				{
-					Slot: 16,
-					id: "enderskills:token",
-					Count: 1b,
-					Damage: 0s
-				},
-				{
-					Slot: 17,
-					Damage: 10s,
-					tag: {
-						foodspoiling: {
-							ID: 1844765100,
-							CreationTime: 12286800L
-						}
-					},
-					id: "tconstruct:edible",
-					Count: 2b
-				},
-				{
-					Slot: 19,
-					Damage: 0s,
-					tag: {},
-					id: "iceandfire:sheep_helmet",
-					Count: 1b
-				},
-				{
-					Slot: 20,
-					Damage: 0s,
-					tag: {},
-					id: "iceandfire:sheep_chestplate",
-					Count: 1b
-				},
-				{
-					Slot: 21,
-					Damage: 0s,
-					tag: {},
-					id: "iceandfire:sheep_leggings",
-					Count: 1b
-				},
-				{
-					Slot: 22,
-					Damage: 0s,
-					tag: {},
-					id: "iceandfire:sheep_boots",
-					Count: 1b
-				},
-				{
-					Slot: 23,
-					id: "minecraft:bone",
-					Count: 6b,
-					Damage: 0s
-				},
-				{
-					Slot: 24,
-					id: "doggytalents:training_treat",
-					Count: 2b,
-					Damage: 0s
-				},
-				{
-					Slot: 25,
-					id: "minecraft:stick",
-					Count: 1b,
-					Damage: 0s
-				},
-				{
-					Slot: 26,
-					Damage: 14s,
-					tag: {
-						foodspoiling: {
-							ID: 2069620930,
-							CreationTime: 12286800L
-						}
-					},
-					id: "tconstruct:edible",
-					Count: 2b
-				}]
-			},
 			tag: {
 				display: {
 					Name: "Combat Backpack"
@@ -398,43 +182,43 @@
 					},
 					{
 						Slot: 17,
-						Damage: 10s,
 						tag: {
 							foodspoiling: {
-								ID: 1844765100,
-								CreationTime: 12286800L
+								CreationTime: 12286800L,
+								ID: 1844765100
 							}
 						},
 						id: "tconstruct:edible",
-						Count: 2b
+						Count: 2b,
+						Damage: 10s
 					},
 					{
 						Slot: 19,
-						Damage: 0s,
 						tag: {},
 						id: "iceandfire:sheep_helmet",
-						Count: 1b
+						Count: 1b,
+						Damage: 0s
 					},
 					{
 						Slot: 20,
-						Damage: 0s,
 						tag: {},
 						id: "iceandfire:sheep_chestplate",
-						Count: 1b
+						Count: 1b,
+						Damage: 0s
 					},
 					{
 						Slot: 21,
-						Damage: 0s,
 						tag: {},
 						id: "iceandfire:sheep_leggings",
-						Count: 1b
+						Count: 1b,
+						Damage: 0s
 					},
 					{
 						Slot: 22,
-						Damage: 0s,
 						tag: {},
 						id: "iceandfire:sheep_boots",
-						Count: 1b
+						Count: 1b,
+						Damage: 0s
 					},
 					{
 						Slot: 23,
@@ -456,15 +240,15 @@
 					},
 					{
 						Slot: 26,
-						Damage: 14s,
 						tag: {
 							foodspoiling: {
-								ID: 2069620930,
-								CreationTime: 12286800L
+								CreationTime: 12286800L,
+								ID: 2069620930
 							}
 						},
 						id: "tconstruct:edible",
-						Count: 2b
+						Count: 2b,
+						Damage: 14s
 					}],
 					Size: 36
 				},
@@ -476,11 +260,11 @@
 					],
 					AttributeModifiers: [{
 						Name: "qualitytools",
-						Amount: 0.5d,
+						AttributeName: "generic.knockbackResistance",
 						Operation: 0,
 						UUIDMost: -4516712562736740170L,
 						UUIDLeast: -8284583096287076153L,
-						AttributeName: "generic.knockbackResistance"
+						Amount: 0.5d
 					}]
 				}
 			},
@@ -490,196 +274,6 @@
 	{
 		title: "Support",
 		item: {
-			ForgeCaps: {
-				Parent: [{
-					Slot: 9,
-					Damage: 0s,
-					tag: {
-						Potion: "minecraft:long_night_vision"
-					},
-					id: "minecraft:splash_potion",
-					Count: 2b
-				},
-				{
-					Slot: 10,
-					Damage: 0s,
-					tag: {
-						CustomPotionEffects: [{
-							CurativeItems: [{
-								id: "minecraft:milk_bucket",
-								Damage: 0s,
-								Count: 1b
-							}],
-							Duration: 1800,
-							Ambient: 0b,
-							ShowParticles: 1b,
-							Id: 10,
-							Amplifier: 0b,
-							Incurable: 0b
-						}],
-						Potion: "minecraft:long_regeneration"
-					},
-					id: "extraalchemy:breakable_potion",
-					Count: 3b
-				},
-				{
-					Slot: 12,
-					Damage: 0s,
-					tag: {
-						effects: [{
-							name: "minecraft:resistance",
-							potency: 0,
-							duration: 1750
-						}],
-						hasPotion: 1b,
-						lingering: 1b
-					},
-					id: "xreliquary:potion",
-					Count: 2b
-				},
-				{
-					Slot: 13,
-					Damage: 0s,
-					tag: {
-						effects: [{
-							name: "minecraft:resistance",
-							potency: 1,
-							duration: 2250
-						}],
-						hasPotion: 1b,
-						lingering: 1b
-					},
-					id: "xreliquary:potion",
-					Count: 1b
-				},
-				{
-					Slot: 15,
-					Damage: 0s,
-					tag: {
-						CustomPotionEffects: [{
-							CurativeItems: [{
-								id: "minecraft:milk_bucket",
-								Count: 1b,
-								Damage: 0s
-							}],
-							Duration: 400,
-							Ambient: 0b,
-							ShowParticles: 1b,
-							Id: 11,
-							Amplifier: 5b,
-							Incurable: 0b
-						},
-						{
-							CurativeItems: [{
-								id: "minecraft:milk_bucket",
-								Count: 1b,
-								Damage: 0s
-							}],
-							Duration: 400,
-							Ambient: 0b,
-							ShowParticles: 1b,
-							Id: 2,
-							Amplifier: 5b,
-							Incurable: 0b
-						}],
-						Potion: "oe:turtle_master_strong"
-					},
-					id: "extraalchemy:breakable_potion",
-					Count: 2b
-				},
-				{
-					Slot: 16,
-					Damage: 0s,
-					tag: {
-						Potion: "potioncore:strong_revival"
-					},
-					id: "minecraft:splash_potion",
-					Count: 1b
-				},
-				{
-					Slot: 17,
-					id: "xreliquary:angelheart_vial",
-					Count: 1b,
-					Damage: 0s
-				},
-				{
-					Slot: 18,
-					Damage: 0s,
-					tag: {
-						CustomPotionEffects: [{
-							CurativeItems: [{
-								id: "minecraft:milk_bucket",
-								Damage: 0s,
-								Count: 1b
-							}],
-							Duration: 9600,
-							Ambient: 0b,
-							ShowParticles: 1b,
-							Id: 22,
-							Amplifier: 0b,
-							Incurable: 0b
-						}],
-						Potion: "cofhcore:absorption+"
-					},
-					id: "extraalchemy:breakable_potion",
-					Count: 2b
-				},
-				{
-					Slot: 19,
-					id: "inspirations:bone_crook",
-					Count: 1b,
-					Damage: 0s
-				},
-				{
-					Slot: 20,
-					Damage: 0s,
-					tag: {},
-					id: "mocreatures:furhelmet",
-					Count: 1b
-				},
-				{
-					Slot: 21,
-					Damage: 0s,
-					tag: {},
-					id: "mocreatures:furchest",
-					Count: 1b
-				},
-				{
-					Slot: 22,
-					Damage: 0s,
-					tag: {},
-					id: "mocreatures:furlegs",
-					Count: 1b
-				},
-				{
-					Slot: 23,
-					Damage: 0s,
-					tag: {},
-					id: "mocreatures:furboots",
-					Count: 1b
-				},
-				{
-					Slot: 24,
-					id: "grimoireofgaia:misc_book",
-					Count: 1b,
-					Damage: 0s
-				},
-				{
-					Slot: 25,
-					id: "inspirations:barometer",
-					Count: 1b,
-					Damage: 0s
-				},
-				{
-					Slot: 26,
-					Damage: 0s,
-					tag: {
-						Potion: "oe:turtle_master"
-					},
-					id: "minecraft:lingering_potion",
-					Count: 1b
-				}]
-			},
 			tag: {
 				display: {
 					Name: "Support Backpack"
@@ -687,22 +281,22 @@
 				"cqrepoured:item_stack_handler": {
 					Items: [{
 						Slot: 9,
-						Damage: 0s,
 						tag: {
 							Potion: "minecraft:long_night_vision"
 						},
 						id: "minecraft:splash_potion",
-						Count: 2b
+						Count: 2b,
+						Damage: 0s
 					},
 					{
 						Slot: 10,
-						Damage: 0s,
 						tag: {
+							Potion: "minecraft:long_regeneration",
 							CustomPotionEffects: [{
 								CurativeItems: [{
 									id: "minecraft:milk_bucket",
-									Damage: 0s,
-									Count: 1b
+									Count: 1b,
+									Damage: 0s
 								}],
 								Duration: 1800,
 								Ambient: 0b,
@@ -710,51 +304,51 @@
 								Id: 10,
 								Amplifier: 0b,
 								Incurable: 0b
-							}],
-							Potion: "minecraft:long_regeneration"
+							}]
 						},
 						id: "extraalchemy:breakable_potion",
-						Count: 3b
+						Count: 3b,
+						Damage: 0s
 					},
 					{
 						Slot: 12,
-						Damage: 0s,
 						tag: {
+							lingering: 1b,
+							hasPotion: 1b,
 							effects: [{
 								name: "minecraft:resistance",
 								potency: 0,
 								duration: 1750
-							}],
-							hasPotion: 1b,
-							lingering: 1b
+							}]
 						},
 						id: "xreliquary:potion",
-						Count: 2b
+						Count: 2b,
+						Damage: 0s
 					},
 					{
 						Slot: 13,
-						Damage: 0s,
 						tag: {
+							lingering: 1b,
+							hasPotion: 1b,
 							effects: [{
 								name: "minecraft:resistance",
 								potency: 1,
 								duration: 2250
-							}],
-							hasPotion: 1b,
-							lingering: 1b
+							}]
 						},
 						id: "xreliquary:potion",
-						Count: 1b
+						Count: 1b,
+						Damage: 0s
 					},
 					{
 						Slot: 15,
-						Damage: 0s,
 						tag: {
+							Potion: "oe:turtle_master_strong",
 							CustomPotionEffects: [{
 								CurativeItems: [{
 									id: "minecraft:milk_bucket",
-									Count: 1b,
-									Damage: 0s
+									Damage: 0s,
+									Count: 1b
 								}],
 								Duration: 400,
 								Ambient: 0b,
@@ -766,8 +360,8 @@
 							{
 								CurativeItems: [{
 									id: "minecraft:milk_bucket",
-									Count: 1b,
-									Damage: 0s
+									Damage: 0s,
+									Count: 1b
 								}],
 								Duration: 400,
 								Ambient: 0b,
@@ -775,20 +369,20 @@
 								Id: 2,
 								Amplifier: 5b,
 								Incurable: 0b
-							}],
-							Potion: "oe:turtle_master_strong"
+							}]
 						},
 						id: "extraalchemy:breakable_potion",
-						Count: 2b
+						Count: 2b,
+						Damage: 0s
 					},
 					{
 						Slot: 16,
-						Damage: 0s,
 						tag: {
 							Potion: "potioncore:strong_revival"
 						},
 						id: "minecraft:splash_potion",
-						Count: 1b
+						Count: 1b,
+						Damage: 0s
 					},
 					{
 						Slot: 17,
@@ -798,13 +392,13 @@
 					},
 					{
 						Slot: 18,
-						Damage: 0s,
 						tag: {
+							Potion: "cofhcore:absorption+",
 							CustomPotionEffects: [{
 								CurativeItems: [{
 									id: "minecraft:milk_bucket",
-									Damage: 0s,
-									Count: 1b
+									Count: 1b,
+									Damage: 0s
 								}],
 								Duration: 9600,
 								Ambient: 0b,
@@ -812,11 +406,11 @@
 								Id: 22,
 								Amplifier: 0b,
 								Incurable: 0b
-							}],
-							Potion: "cofhcore:absorption+"
+							}]
 						},
 						id: "extraalchemy:breakable_potion",
-						Count: 2b
+						Count: 2b,
+						Damage: 0s
 					},
 					{
 						Slot: 19,
@@ -826,31 +420,31 @@
 					},
 					{
 						Slot: 20,
-						Damage: 0s,
 						tag: {},
 						id: "mocreatures:furhelmet",
-						Count: 1b
+						Count: 1b,
+						Damage: 0s
 					},
 					{
 						Slot: 21,
-						Damage: 0s,
 						tag: {},
 						id: "mocreatures:furchest",
-						Count: 1b
+						Count: 1b,
+						Damage: 0s
 					},
 					{
 						Slot: 22,
-						Damage: 0s,
 						tag: {},
 						id: "mocreatures:furlegs",
-						Count: 1b
+						Count: 1b,
+						Damage: 0s
 					},
 					{
 						Slot: 23,
-						Damage: 0s,
 						tag: {},
 						id: "mocreatures:furboots",
-						Count: 1b
+						Count: 1b,
+						Damage: 0s
 					},
 					{
 						Slot: 24,
@@ -866,12 +460,12 @@
 					},
 					{
 						Slot: 26,
-						Damage: 0s,
 						tag: {
 							Potion: "oe:turtle_master"
 						},
 						id: "minecraft:lingering_potion",
-						Count: 1b
+						Count: 1b,
+						Damage: 0s
 					}],
 					Size: 36
 				},
@@ -883,11 +477,11 @@
 					],
 					AttributeModifiers: [{
 						Name: "qualitytools",
-						Amount: 1.0d,
+						AttributeName: "potioncore.magicShielding",
 						Operation: 0,
 						UUIDMost: 2790155078228135083L,
 						UUIDLeast: -9007125081711658536L,
-						AttributeName: "potioncore.magicShielding"
+						Amount: 1.0d
 					}]
 				}
 			},
@@ -895,7 +489,6 @@
 		}
 	},
 	{
-		xp_levels: 4,
-		type: "xp_levels"
+		item: "grimoireofgaia:misc_experience 1 2"
 	}]
 }

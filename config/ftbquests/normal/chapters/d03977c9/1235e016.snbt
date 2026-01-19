@@ -15,5 +15,25 @@
 		uid: "4ff4dcc4",
 		type: "random",
 		table: 6
+	},
+	{
+		uid: "ace5492c",
+		type: "item",
+		item: {
+			tag: {
+				TrophyColorRed: 63,
+				TrophyColorBlue: 229,
+				TrophyVariant: "gold",
+				TrophyColorGreen: 23,
+				TrophyShowsTooltip: 0b,
+				TrophyItem: {
+					id: "iceandfire:summoning_crystal_ice",
+					Damage: 0s,
+					Count: 1b
+				},
+				TrophyName: ""
+			},
+			id: "simple_trophies:trophy"
+		}
 	}]
 }

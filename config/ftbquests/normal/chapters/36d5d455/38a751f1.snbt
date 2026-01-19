@@ -1,0 +1,24 @@
+{
+	x: 12.5d,
+	y: 3.0d,
+	dependencies: [
+		"2c15a9ca"
+	],
+	tasks: [{
+		uid: "ae16ef7c",
+		type: "item",
+		items: [{
+			item: "conditionoverload:wicked_jewel"
+		}]
+	}],
+	rewards: [{
+		uid: "110b0a73",
+		type: "random",
+		table: 7
+	},
+	{
+		uid: "e16683d2",
+		type: "item",
+		item: "grimoireofgaia:misc_experience"
+	}]
+}

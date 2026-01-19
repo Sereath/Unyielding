@@ -1,0 +1,16 @@
+{
+	x: 7.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "a7535dd1",
+		type: "item",
+		items: [{
+			item: "lycanitesmobs:equipmentforge_lesser"
+		}]
+	}],
+	rewards: [{
+		uid: "0f95f8cb",
+		type: "random",
+		table: 7
+	}]
+}

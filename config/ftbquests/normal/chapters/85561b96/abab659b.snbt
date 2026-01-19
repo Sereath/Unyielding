@@ -19,27 +19,27 @@
 					],
 					AttributeModifiers: [{
 						Amount: -0.05000000074505806d,
-						Name: "qualitytools",
+						AttributeName: "potioncore.digSpeed",
 						Operation: 2,
 						UUIDMost: 8216463534645792442L,
 						UUIDLeast: -4779351949830568021L,
-						AttributeName: "potioncore.digSpeed"
+						Name: "qualitytools"
 					},
 					{
 						Amount: -0.05000000074505806d,
-						Name: "qualitytools",
+						AttributeName: "generic.movementSpeed",
 						Operation: 2,
 						UUIDMost: -8568209780954148950L,
 						UUIDLeast: -9010902287726261438L,
-						AttributeName: "generic.movementSpeed"
+						Name: "qualitytools"
 					},
 					{
 						Amount: -0.05000000074505806d,
-						Name: "qualitytools",
+						AttributeName: "generic.attackSpeed",
 						Operation: 2,
 						UUIDMost: 7623563564969640065L,
 						UUIDLeast: -6581761094335953757L,
-						AttributeName: "generic.attackSpeed"
+						Name: "qualitytools"
 					}]
 				}
 			},

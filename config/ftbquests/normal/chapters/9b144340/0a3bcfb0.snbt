@@ -36,8 +36,8 @@
 		}]
 	}],
 	rewards: [{
-		uid: "d9de47c7",
-		type: "random",
-		table: 8
+		uid: "ed88cc28",
+		type: "item",
+		item: "grimoireofgaia:misc_experience 1 2"
 	}]
 }

@@ -23,8 +23,7 @@
 			},
 			id: "patchouli:guide_book"
 		}],
-		ignore_damage: 1b,
-		ignore_nbt: 1b
+		ignore_damage: 1b
 	},
 	{
 		uid: "3ce8adc5",
@@ -36,8 +35,8 @@
 		ignore_nbt: 1b
 	}],
 	rewards: [{
-		uid: "45e440a4",
-		type: "random",
-		table: 8
+		uid: "863bbffd",
+		type: "item",
+		item: "grimoireofgaia:misc_experience 1 2"
 	}]
 }

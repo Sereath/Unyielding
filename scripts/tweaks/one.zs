@@ -88,3 +88,6 @@ val rtcndl as IItemStack = <randomthings:peacecandle>;
 rtcndl.hardness = 100;
 val eioprs as IItemStack = <enderio:block_painted_pressure_plate>;
 eioprs.hardness = 100;
+
+val stbase as IItemStack = <simple_trophies:trophy>;
+stbase.hardness = 50;

@@ -1,0 +1,18 @@
+{
+	x: 13.5d,
+	y: -6.5d,
+	tasks: [{
+		uid: "1d58b629",
+		type: "item",
+		items: [{
+			item: "lycanitesmobs:soulgazer"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "dca143c9",
+		type: "random",
+		table: 7
+	}]
+}

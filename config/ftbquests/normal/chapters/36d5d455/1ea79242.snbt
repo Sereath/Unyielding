@@ -1,0 +1,19 @@
+{
+	x: 2.5d,
+	y: 4.5d,
+	dependencies: [
+		"8fea2b81"
+	],
+	tasks: [{
+		uid: "03e2396a",
+		type: "item",
+		items: [{
+			item: "progressivecore:ingot_adamantite"
+		}]
+	}],
+	rewards: [{
+		uid: "55d8fbba",
+		type: "random",
+		table: 7
+	}]
+}
