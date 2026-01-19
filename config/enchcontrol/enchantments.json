@@ -2874,6 +2874,33 @@
     "description": []
   },
   {
+    "id": "walljump:doublejump",
+    "name": "enchantment.doublejump",
+    "enabled": false,
+    "hide_on_item": false,
+    "hide_on_book": false,
+    "rarity": "RARE",
+    "treasure": false,
+    "double_price": false,
+    "curse": false,
+    "allowed_on_books": true,
+    "min_lvl": 1,
+    "max_lvl": 2,
+    "custom_evaluations": false,
+    "min_ench_eval": "1+LVL*10",
+    "max_ench_eval": "MIN+5",
+    "type": "ARMOR_FEET",
+    "equipment_slots": [
+      "FEET"
+    ],
+    "incompat_mode": 0,
+    "incompatible": [],
+    "applicability_mode": 0,
+    "items_list_mode": 0,
+    "items_list": [],
+    "description": []
+  },
+  {
     "id": "uniquee:cloudwalker",
     "name": "enchantment.uniquee.cloudwalker",
     "enabled": true,
@@ -3717,6 +3744,33 @@
     "equipment_slots": [
       "MAINHAND",
       "OFFHAND"
+    ],
+    "incompat_mode": 0,
+    "incompatible": [],
+    "applicability_mode": 0,
+    "items_list_mode": 0,
+    "items_list": [],
+    "description": []
+  },
+  {
+    "id": "walljump:speedboost",
+    "name": "enchantment.speedboost",
+    "enabled": false,
+    "hide_on_item": false,
+    "hide_on_book": false,
+    "rarity": "RARE",
+    "treasure": false,
+    "double_price": false,
+    "curse": false,
+    "allowed_on_books": true,
+    "min_lvl": 1,
+    "max_lvl": 3,
+    "custom_evaluations": false,
+    "min_ench_eval": "1+LVL*10",
+    "max_ench_eval": "MIN+5",
+    "type": "ARMOR_FEET",
+    "equipment_slots": [
+      "FEET"
     ],
     "incompat_mode": 0,
     "incompatible": [],
@@ -4971,6 +5025,33 @@
       "HEAD",
       "CHEST",
       "LEGS",
+      "FEET"
+    ],
+    "incompat_mode": 0,
+    "incompatible": [],
+    "applicability_mode": 0,
+    "items_list_mode": 0,
+    "items_list": [],
+    "description": []
+  },
+  {
+    "id": "walljump:walljump",
+    "name": "enchantment.walljump",
+    "enabled": false,
+    "hide_on_item": false,
+    "hide_on_book": false,
+    "rarity": "UNCOMMON",
+    "treasure": false,
+    "double_price": false,
+    "curse": false,
+    "allowed_on_books": true,
+    "min_lvl": 1,
+    "max_lvl": 1,
+    "custom_evaluations": false,
+    "min_ench_eval": "1+LVL*10",
+    "max_ench_eval": "MIN+5",
+    "type": "ARMOR_FEET",
+    "equipment_slots": [
       "FEET"
     ],
     "incompat_mode": 0,
