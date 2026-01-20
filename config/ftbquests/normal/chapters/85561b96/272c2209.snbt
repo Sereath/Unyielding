@@ -1,0 +1,97 @@
+{
+	title: "Cleavers",
+	x: 17.0d,
+	y: -7.5d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "9b9244ce",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"plustic:fruitsalad_cap": {
+					Items: [],
+					Size: 5
+				},
+				"plustic:musicofthespheres_cap": {
+					Items: [],
+					Size: 1
+				},
+				"plustic:": {
+					Items: [],
+					Size: 1
+				}
+			},
+			tag: {
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				Stats: {
+					FreeModifiers: 2,
+					MiningSpeed: 5.85f,
+					AttackSpeedMultiplier: 1.1f,
+					HarvestLevel: 2,
+					Attack: 9.174999f,
+					Durability: 550
+				},
+				TinkerData: {
+					Materials: [
+						"electrical_steel",
+						"electrical_steel",
+						"electrical_steel",
+						"electrical_steel"
+					],
+					Modifiers: [
+						"beheading_cleaver",
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					color: -5658199,
+					identifier: "lightweight",
+					level: 1
+				},
+				{
+					color: -5658199,
+					identifier: "shocking",
+					level: 1
+				},
+				{
+					color: 1070923,
+					identifier: "beheading_cleaver",
+					level: 2
+				},
+				{
+					color: 16777215,
+					identifier: "toolleveling",
+					level: 1
+				}],
+				StatsOriginal: {
+					FreeModifiers: 3,
+					MiningSpeed: 5.85f,
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevel: 2,
+					Attack: 9.174999f,
+					Durability: 550
+				},
+				Traits: [
+					"lightweight",
+					"shocking",
+					"toolleveling"
+				]
+			},
+			id: "tconstruct:cleaver"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5ca8526d",
+		type: "random",
+		table: 7
+	}]
+}

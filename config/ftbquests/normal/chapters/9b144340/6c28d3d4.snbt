@@ -8,6 +8,10 @@
 	text: [
 		"If you manage to find a store while travelling, you will definitely want to be able to buy some of those goodies."
 	],
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"a47c3a9a"
+	],
 	size: 1.5d,
 	tasks: [{
 		uid: "2d81a5d4",

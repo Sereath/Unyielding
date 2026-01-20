@@ -5,6 +5,9 @@
 		"A close-to-bottomless bag",
 		"that will be invaluable!"
 	],
+	dependencies: [
+		"a47c3a9a"
+	],
 	tasks: [{
 		uid: "f4475f89",
 		type: "item",

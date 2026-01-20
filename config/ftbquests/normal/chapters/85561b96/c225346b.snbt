@@ -1,0 +1,18 @@
+{
+	x: 14.0d,
+	y: -6.5d,
+	tasks: [{
+		uid: "46cfe2a9",
+		type: "item",
+		items: [{
+			item: "nyx:meteor_sword"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f186d217",
+		type: "random",
+		table: 7
+	}]
+}

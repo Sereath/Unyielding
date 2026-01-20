@@ -1,0 +1,19 @@
+{
+	x: 12.5d,
+	y: -3.5d,
+	tasks: [{
+		uid: "60373c59",
+		type: "item",
+		items: [{
+			tag: {},
+			id: "cyclicmagic:ender_blaze"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d1ca487f",
+		type: "random",
+		table: 7
+	}]
+}

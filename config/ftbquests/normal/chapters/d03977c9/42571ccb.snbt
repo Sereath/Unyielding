@@ -1,0 +1,45 @@
+{
+	title: "§bSpider Mother",
+	icon: "theaurorian:trophyspider",
+	x: -1.0d,
+	y: -5.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"098e175d"
+	],
+	hide: 1b,
+	size: 1.2d,
+	tasks: [{
+		uid: "bc6f5810",
+		type: "kill",
+		entity: "theaurorian:spider",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "6f2b5862",
+		type: "random",
+		table: 6
+	},
+	{
+		uid: "20fb4322",
+		type: "item",
+		item: {
+			tag: {
+				TrophyColorRed: 63,
+				TrophyColorBlue: 229,
+				TrophyName: "",
+				TrophyColorGreen: 23,
+				TrophyShowsTooltip: 0b,
+				TrophyItem: {
+					id: "theaurorian:trophyspider",
+					Damage: 0s,
+					Count: 1b
+				},
+				TrophyVariant: "gold"
+			},
+			id: "simple_trophies:trophy"
+		}
+	}]
+}

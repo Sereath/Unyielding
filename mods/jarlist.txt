@@ -2,7 +2,7 @@
 !mixinbooter-10.7
 !mod-director-launchwrapper-1.9.1
 !Red-Core-MC-1.8-1.12-0.7.1
-+Fugue-0.22.7
++Fugue-0.22.10
 ActuallyAdditions-1.12.2-r152
 ActuallyBaubles-1.12-1.1
 AggroTP-0.4.1
@@ -212,7 +212,7 @@ llibrary-1.7.20-1.12.2
 Loading-Progress-Bar-v1.0-mc[1.8-1.12.2]
 logimmune-0.1
 loliasm-5.30
-lootbeamsretro-1.2.0
+lootbeamsretro-1.2.1
 lootcapacitortooltips-1.3
 lootchests-1.2.5
 LootTableTweaker-1.12.2-1.1.14

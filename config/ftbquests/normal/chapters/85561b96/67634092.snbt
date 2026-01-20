@@ -1,0 +1,18 @@
+{
+	x: 15.0d,
+	y: -4.5d,
+	tasks: [{
+		uid: "5f9b0c3e",
+		type: "item",
+		items: [{
+			item: "heroicarmory:rsbandosgodsword"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "36c0e89e",
+		type: "random",
+		table: 7
+	}]
+}

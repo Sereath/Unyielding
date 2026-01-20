@@ -1,0 +1,18 @@
+{
+	x: 14.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "f41ce179",
+		type: "item",
+		items: [{
+			item: "mysticstaffs:sunstrike_staff"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ab640310",
+		type: "random",
+		table: 7
+	}]
+}

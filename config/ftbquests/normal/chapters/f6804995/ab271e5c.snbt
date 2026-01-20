@@ -1,0 +1,23 @@
+{
+	x: -2.0d,
+	y: 0.0d,
+	description: "Renew",
+	text: [
+		"Most, if not all, types of equipment can be reforged using these gems."
+	],
+	dependencies: [
+		"a47c3a9a"
+	],
+	tasks: [{
+		uid: "a37d262d",
+		type: "item",
+		items: [{
+			item: "xat:glowing_gem"
+		}]
+	}],
+	rewards: [{
+		uid: "e9d5fd56",
+		type: "random",
+		table: 8
+	}]
+}

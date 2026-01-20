@@ -1,0 +1,24 @@
+{
+	title: "§6Fallen Star",
+	x: -5.0d,
+	y: 0.0d,
+	description: "Seek",
+	text: [
+		"These alluring objects are quite valuable."
+	],
+	dependencies: [
+		"a47c3a9a"
+	],
+	tasks: [{
+		uid: "69e4936e",
+		type: "item",
+		items: [{
+			item: "nyx:fallen_star"
+		}]
+	}],
+	rewards: [{
+		uid: "cb078e1b",
+		type: "random",
+		table: 8
+	}]
+}

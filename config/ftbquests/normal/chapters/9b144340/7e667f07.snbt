@@ -6,6 +6,10 @@
 	text: [
 		"On-screen coordinates."
 	],
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"a47c3a9a"
+	],
 	tasks: [{
 		uid: "8e8431ca",
 		type: "item",

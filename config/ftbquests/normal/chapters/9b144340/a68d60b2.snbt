@@ -9,6 +9,10 @@
 		"Make sure to regularly check and level up your Ender Skills abilities and attributes aspects.",
 		"You will need an Ender Skills Altar for this."
 	],
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"a47c3a9a"
+	],
 	size: 1.5d,
 	tasks: [{
 		uid: "907064ab",

@@ -1,7 +1,7 @@
 {
 	icon: "srparasites:itemmobspawner_vesta",
 	x: -4.0d,
-	y: -8.0d,
+	y: -9.0d,
 	dependencies: [
 		"231f1cdb"
 	],

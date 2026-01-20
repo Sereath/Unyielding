@@ -13,6 +13,10 @@
 	text: [
 		"These endearing maids can help with battles, farming and other tasks."
 	],
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"a47c3a9a"
+	],
 	size: 1.5d,
 	tasks: [{
 		uid: "698e74f2",

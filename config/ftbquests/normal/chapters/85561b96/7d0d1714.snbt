@@ -1,6 +1,6 @@
 {
-	x: 13.5d,
-	y: -6.5d,
+	x: -3.0d,
+	y: -14.0d,
 	tasks: [{
 		uid: "1d58b629",
 		type: "item",
@@ -14,5 +14,10 @@
 		uid: "dca143c9",
 		type: "random",
 		table: 7
+	},
+	{
+		uid: "0bce133c",
+		type: "item",
+		item: "grimoireofgaia:misc_experience 1 1"
 	}]
 }

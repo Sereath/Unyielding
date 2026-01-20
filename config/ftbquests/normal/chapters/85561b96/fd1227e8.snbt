@@ -1,0 +1,90 @@
+{
+	title: "Broadswords",
+	x: 14.0d,
+	y: -7.5d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "d3a5be60",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"plustic:fruitsalad_cap": {
+					Items: [],
+					Size: 5
+				},
+				"plustic:musicofthespheres_cap": {
+					Items: [],
+					Size: 1
+				},
+				"plustic:": {
+					Items: [],
+					Size: 1
+				}
+			},
+			tag: {
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				Stats: {
+					FreeModifiers: 2,
+					MiningSpeed: 5.85f,
+					AttackSpeedMultiplier: 1.1f,
+					HarvestLevel: 2,
+					Attack: 5.75f,
+					Durability: 302
+				},
+				TinkerData: {
+					Materials: [
+						"electrical_steel",
+						"electrical_steel",
+						"electrical_steel"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					color: -5658199,
+					identifier: "lightweight",
+					level: 1
+				},
+				{
+					color: -5658199,
+					identifier: "shocking",
+					level: 1
+				},
+				{
+					color: 16777215,
+					identifier: "toolleveling",
+					level: 1
+				}],
+				StatsOriginal: {
+					FreeModifiers: 3,
+					MiningSpeed: 5.85f,
+					AttackSpeedMultiplier: 1.0f,
+					HarvestLevel: 2,
+					Attack: 5.75f,
+					Durability: 302
+				},
+				Traits: [
+					"lightweight",
+					"shocking",
+					"toolleveling"
+				]
+			},
+			id: "tconstruct:broadsword"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3493a8ee",
+		type: "random",
+		table: 7
+	}]
+}

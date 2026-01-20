@@ -1,0 +1,18 @@
+{
+	x: 12.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "4bc3ed55",
+		type: "item",
+		items: [{
+			item: "mysticstaffs:path_staff"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d5f3910b",
+		type: "random",
+		table: 7
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 12.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "7ed9dfd9",
+		type: "item",
+		items: [{
+			item: "mysticstaffs:invisibility_staff"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "798579cb",
+		type: "random",
+		table: 7
+	}]
+}

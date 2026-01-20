@@ -1,0 +1,18 @@
+{
+	x: -2.0d,
+	y: -11.0d,
+	tasks: [{
+		uid: "0c93871a",
+		type: "item",
+		items: [{
+			item: "lycanitesmobs:sturdysummoningstaff"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "be00b321",
+		type: "random",
+		table: 7
+	}]
+}

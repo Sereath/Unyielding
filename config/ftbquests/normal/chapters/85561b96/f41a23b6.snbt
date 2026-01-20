@@ -1,0 +1,18 @@
+{
+	x: 11.5d,
+	y: -2.5d,
+	tasks: [{
+		uid: "44ee5d3f",
+		type: "item",
+		items: [{
+			item: "cqrepoured:staff_healing"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b156c902",
+		type: "random",
+		table: 7
+	}]
+}

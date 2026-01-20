@@ -1,0 +1,18 @@
+{
+	x: 17.5d,
+	y: -2.5d,
+	tasks: [{
+		uid: "3647ff39",
+		type: "item",
+		items: [{
+			item: "da:dragon_bow"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "eee0e57b",
+		type: "random",
+		table: 7
+	}]
+}

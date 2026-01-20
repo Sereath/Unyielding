@@ -2,6 +2,10 @@
 	icon: "srparasites:lurecomponent2",
 	x: 5.0d,
 	y: 6.0d,
+	description: "§8§mBeware",
+	text: [
+		""
+	],
 	dependencies: [
 		"34189455"
 	],

@@ -1,0 +1,18 @@
+{
+	x: 14.0d,
+	y: -4.5d,
+	tasks: [{
+		uid: "dc525474",
+		type: "item",
+		items: [{
+			item: "heroicarmory:rszamorakgodsword"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a3f53042",
+		type: "random",
+		table: 7
+	}]
+}

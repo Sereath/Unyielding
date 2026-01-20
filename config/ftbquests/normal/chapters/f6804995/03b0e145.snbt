@@ -1,0 +1,31 @@
+{
+	title: "§5§kScape and Run",
+	x: 2.0d,
+	y: -4.0d,
+	text: [
+		"§o\"By far, these are the worst things I've encountered.",
+		"Something is very wrong. I still need answers, but I don't know if I should keep delving too greedily and too deep.\""
+	],
+	dependencies: [
+		"a47c3a9a"
+	],
+	hide_text_until_complete: 1b,
+	tasks: [{
+		uid: "f79cb2b9",
+		type: "item",
+		title: "???",
+		items: [{
+			item: "srparasites:lurecomponent1"
+		}]
+	}],
+	rewards: [{
+		uid: "d397e00c",
+		type: "random",
+		table: 8
+	},
+	{
+		uid: "8ac8ed45",
+		type: "item",
+		item: "grimoireofgaia:misc_experience 1 1"
+	}]
+}

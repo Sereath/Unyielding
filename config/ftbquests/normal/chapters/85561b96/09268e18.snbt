@@ -1,0 +1,18 @@
+{
+	x: 14.5d,
+	y: -3.5d,
+	tasks: [{
+		uid: "3082d9c8",
+		type: "item",
+		items: [{
+			item: "ebwizardry:magic_wand"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "be5a4e42",
+		type: "random",
+		table: 7
+	}]
+}

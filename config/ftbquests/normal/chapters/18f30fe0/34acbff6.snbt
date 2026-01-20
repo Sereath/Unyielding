@@ -1,9 +1,9 @@
 {
-	title: "§kUntaught Technology",
+	title: "§3§kUntaught Technology",
 	x: -3.5d,
 	y: -4.5d,
 	shape: "diamond",
-	description: "§oIs this magic?",
+	description: "§o\"Is this magic?\"",
 	text: [
 		"§o\"Knowledge is potential;",
 		"action is power.\"",

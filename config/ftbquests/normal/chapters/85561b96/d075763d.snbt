@@ -1,0 +1,18 @@
+{
+	x: 11.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "4edc4289",
+		type: "item",
+		items: [{
+			item: "mysticstaffs:flight_staff"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b0c12890",
+		type: "random",
+		table: 7
+	}]
+}

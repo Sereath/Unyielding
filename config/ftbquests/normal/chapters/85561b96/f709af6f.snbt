@@ -1,0 +1,28 @@
+{
+	x: 22.0d,
+	y: -4.75d,
+	dependencies: [
+		"03b0e145"
+	],
+	hide: 1b,
+	size: 1.5d,
+	tasks: [{
+		uid: "78c29aca",
+		type: "item",
+		items: [{
+			item: "srparasites:weapon_maul_sentient"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "91273c2b",
+		type: "random",
+		table: 7
+	},
+	{
+		uid: "17df534f",
+		type: "item",
+		item: "grimoireofgaia:misc_experience 1 2"
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 16.0d,
+	y: -6.5d,
+	tasks: [{
+		uid: "bac55fc4",
+		type: "item",
+		items: [{
+			item: "heroicarmory:rsgranitehammer"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4a17dbfd",
+		type: "random",
+		table: 7
+	}]
+}

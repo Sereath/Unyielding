@@ -1,0 +1,39 @@
+{
+	title: "§bThe Aurorian",
+	x: 2.0d,
+	y: -5.5d,
+	text: [
+		"§o\"This place might not be my world, but even these objects feel alien here.",
+		"",
+		"Ever since I made contact with one of these things, I've had a feeling that I should look for something",
+		"in the deep caves layer right below the overworld.\""
+	],
+	dependencies: [
+		"a47c3a9a"
+	],
+	hide_text_until_complete: 1b,
+	tasks: [{
+		uid: "1c69b064",
+		type: "item",
+		title: "???",
+		items: [{
+			item: "theaurorian:scrapaurorianite"
+		},
+		{
+			item: "theaurorian:scrapcrystalline"
+		},
+		{
+			item: "theaurorian:scrapumbra"
+		}]
+	}],
+	rewards: [{
+		uid: "25914d86",
+		type: "random",
+		table: 8
+	},
+	{
+		uid: "4c2e8513",
+		type: "item",
+		item: "grimoireofgaia:misc_experience 1 1"
+	}]
+}

@@ -6,6 +6,10 @@
 		"Many mobs dislike these. ",
 		"So make sure you eventually build some sturdy light sources."
 	],
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"a47c3a9a"
+	],
 	tasks: [{
 		uid: "4df743fd",
 		type: "item",

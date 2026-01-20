@@ -1,0 +1,18 @@
+{
+	x: 18.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "ebfad260",
+		type: "item",
+		items: [{
+			item: "mysticbows:burst_bow"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e1c0f674",
+		type: "random",
+		table: 7
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 17.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "609c1c37",
+		type: "item",
+		items: [{
+			item: "mysticbows:ranged_bow"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a730f8d2",
+		type: "random",
+		table: 7
+	}]
+}

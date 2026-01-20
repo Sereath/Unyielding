@@ -1,0 +1,18 @@
+{
+	x: 14.0d,
+	y: -5.5d,
+	tasks: [{
+		uid: "cad7258f",
+		type: "item",
+		items: [{
+			item: "heroicarmory:rsbarrelchestanchor"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1fdcbedb",
+		type: "random",
+		table: 7
+	}]
+}

@@ -212,6 +212,10 @@
 
 <theaurorian:queenschipper>.displayName = "§5Queen's Chipper";
 
+<theaurorian:trophymoonqueen>.displayName = "§dMoon Queen";
+<theaurorian:trophykeeper>.displayName = "§bDungeon Keeper";
+<theaurorian:trophyspider>.displayName = "§bSpider Mother";
+
 
 <cqrepoured:sword_walker>.displayName = "§dWalker King Sword";
 <cqrepoured:shield_walker_king>.displayName = "§dWalker King Shield";

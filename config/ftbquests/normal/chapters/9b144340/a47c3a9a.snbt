@@ -16,6 +16,10 @@
 		"",
 		"		Get an Antique Atlas if you want both the coordinates and a minimap on screen."
 	],
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"e4235a5f"
+	],
 	size: 1.5d,
 	tasks: [{
 		uid: "55cdf06e",

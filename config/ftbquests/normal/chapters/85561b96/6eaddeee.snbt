@@ -1,0 +1,18 @@
+{
+	x: 16.0d,
+	y: -5.5d,
+	tasks: [{
+		uid: "80465919",
+		type: "item",
+		items: [{
+			item: "heroicarmory:rstoktzxilak"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c1d80077",
+		type: "random",
+		table: 7
+	}]
+}

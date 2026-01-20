@@ -14,6 +14,10 @@
 		"",
 		"		If music stops playing. Press Alt + R to reload its configurations."
 	],
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"70a394e2"
+	],
 	size: 1.5d,
 	tasks: [{
 		uid: "73a8573f",

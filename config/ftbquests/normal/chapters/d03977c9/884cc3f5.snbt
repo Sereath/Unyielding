@@ -1,0 +1,45 @@
+{
+	title: "§bDungeon Keeper",
+	icon: "theaurorian:trophykeeper",
+	x: -3.0d,
+	y: -5.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"098e175d"
+	],
+	hide: 1b,
+	size: 1.2d,
+	tasks: [{
+		uid: "45a55a53",
+		type: "kill",
+		entity: "theaurorian:runestonedungeonkeeper",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "d8e719a0",
+		type: "random",
+		table: 6
+	},
+	{
+		uid: "56f1d5f7",
+		type: "item",
+		item: {
+			tag: {
+				TrophyColorRed: 63,
+				TrophyColorBlue: 229,
+				TrophyName: "",
+				TrophyColorGreen: 23,
+				TrophyShowsTooltip: 0b,
+				TrophyItem: {
+					id: "theaurorian:trophykeeper",
+					Damage: 0s,
+					Count: 1b
+				},
+				TrophyVariant: "gold"
+			},
+			id: "simple_trophies:trophy"
+		}
+	}]
+}

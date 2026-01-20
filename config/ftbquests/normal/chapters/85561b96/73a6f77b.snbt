@@ -1,0 +1,18 @@
+{
+	x: 17.0d,
+	y: -5.5d,
+	tasks: [{
+		uid: "fa44dbc8",
+		type: "item",
+		items: [{
+			item: "heroicarmory:rswolfsbane"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d3e3070e",
+		type: "random",
+		table: 7
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 16.5d,
+	y: -2.5d,
+	tasks: [{
+		uid: "7802350d",
+		type: "item",
+		items: [{
+			item: "nyx:meteor_bow"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5861ee9b",
+		type: "random",
+		table: 7
+	}]
+}

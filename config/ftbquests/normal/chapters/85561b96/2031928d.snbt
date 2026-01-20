@@ -1,0 +1,98 @@
+{
+	title: "Sceptres",
+	x: 11.5d,
+	y: -3.5d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "0f606b54",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"plustic:fruitsalad_cap": {
+					Items: [],
+					Size: 5
+				},
+				"plustic:musicofthespheres_cap": {
+					Items: [],
+					Size: 1
+				},
+				"plustic:": {
+					Items: [],
+					Size: 1
+				}
+			},
+			tag: {
+				Special: {
+					Categories: [
+						"weapon",
+						"launcher",
+						"tool"
+					]
+				},
+				Stats: {
+					MiningSpeed: 1.8f,
+					HarvestLevel: 1,
+					DrawSpeed: 1.0f,
+					FreeModifiers: 2,
+					AttackSpeedMultiplier: 1.0f,
+					Attack: 1.625f,
+					Range: 0.25f,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 1
+				},
+				TinkerData: {
+					Materials: [
+						"stone",
+						"stone",
+						"stone",
+						"stone"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					color: -6710887,
+					identifier: "cheap",
+					level: 1
+				},
+				{
+					color: -6710887,
+					identifier: "cheapskate",
+					level: 1
+				},
+				{
+					color: 16777215,
+					identifier: "toolleveling",
+					level: 1
+				}],
+				StatsOriginal: {
+					MiningSpeed: 1.8f,
+					HarvestLevel: 1,
+					DrawSpeed: 1.0f,
+					FreeModifiers: 3,
+					AttackSpeedMultiplier: 1.0f,
+					Attack: 1.625f,
+					Range: 0.25f,
+					ProjectileBonusDamage: 0.0f,
+					Durability: 1
+				},
+				Traits: [
+					"cheap",
+					"cheapskate",
+					"toolleveling"
+				]
+			},
+			id: "tconevo:tool_sceptre"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ea128509",
+		type: "random",
+		table: 7
+	}]
+}

@@ -6,6 +6,9 @@
 	text: [
 		"Besides the Flask of Life, there are other healing aids at your disposal."
 	],
+	dependencies: [
+		"a47c3a9a"
+	],
 	tasks: [{
 		uid: "0964500f",
 		type: "item",

@@ -1,10 +1,14 @@
 {
 	title: "§dThe Moon Queen",
-	icon: "theaurorian:queenschipper",
+	icon: "theaurorian:trophymoonqueen",
 	x: -2.0d,
-	y: -5.75d,
+	y: -6.75d,
 	text: [
-		""
+		"§o\"Is this the right answer?\""
+	],
+	dependencies: [
+		"42571ccb",
+		"884cc3f5"
 	],
 	size: 1.5d,
 	tasks: [{
@@ -25,15 +29,15 @@
 			tag: {
 				TrophyColorRed: 63,
 				TrophyColorBlue: 229,
-				TrophyVariant: "gold",
+				TrophyName: "",
 				TrophyColorGreen: 23,
 				TrophyShowsTooltip: 0b,
 				TrophyItem: {
-					id: "theaurorian:queenschipper",
+					id: "theaurorian:trophymoonqueen",
 					Damage: 0s,
 					Count: 1b
 				},
-				TrophyName: ""
+				TrophyVariant: "gold"
 			},
 			id: "simple_trophies:trophy"
 		}
