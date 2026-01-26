@@ -12,9 +12,7 @@
 		"",
 		"		In general, several core mechanics have been altered.",
 		"",
-		"		Press NUM 0 to lock/unlock a hotbar slot.",
-		"",
-		"		Get an Antique Atlas if you want both the coordinates and a minimap on screen."
+		"		§8Press NUM 0 to lock/unlock a hotbar slot."
 	],
 	hide_dependency_lines: 1b,
 	dependencies: [

@@ -1,0 +1,19 @@
+{
+	x: -0.5d,
+	y: -4.5d,
+	dependencies: [
+		"512abcb4"
+	],
+	tasks: [{
+		uid: "55774f1e",
+		type: "item",
+		items: [{
+			item: "ancientwarfareautomation:quarry"
+		}]
+	}],
+	rewards: [{
+		uid: "6ef1f4e7",
+		type: "random",
+		table: 7
+	}]
+}

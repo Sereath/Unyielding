@@ -1,6 +1,10 @@
 {
-	x: 8.5d,
-	y: -1.5d,
+	x: 9.0d,
+	y: -2.0d,
+	description: "§dLycanites Mobs",
+	text: [
+		""
+	],
 	dependencies: [
 		"33a0869d"
 	],

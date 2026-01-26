@@ -8,11 +8,11 @@
 	text: [
 		"		No more lava bucketing everything without risk, get some tongs or mitts before doing so.",
 		"",
-		"		Debug info has been disabled, grab a compass if you want to see the coordinates on screen.",
-		"",
 		"		Glowing Gems are the universal material for reforging your equipment.",
 		"",
-		"		If music stops playing. Press Alt + R to reload its configurations."
+		"		'Debug info' has been disabled.",
+		"",
+		"		§8If music stops playing. Press Alt + R to reload its configurations."
 	],
 	hide_dependency_lines: 1b,
 	dependencies: [

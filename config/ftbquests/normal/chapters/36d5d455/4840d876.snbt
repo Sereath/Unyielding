@@ -1,0 +1,19 @@
+{
+	x: 0.5d,
+	y: -6.5d,
+	dependencies: [
+		"49a5141a"
+	],
+	tasks: [{
+		uid: "bfd59b81",
+		type: "item",
+		items: [{
+			item: "ancientwarfareautomation:tree_farm"
+		}]
+	}],
+	rewards: [{
+		uid: "e1b0a0f1",
+		type: "random",
+		table: 7
+	}]
+}

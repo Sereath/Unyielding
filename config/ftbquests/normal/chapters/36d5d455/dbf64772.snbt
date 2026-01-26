@@ -1,0 +1,19 @@
+{
+	x: 7.5d,
+	y: -5.0d,
+	dependencies: [
+		"03b3ff5c"
+	],
+	tasks: [{
+		uid: "4c403590",
+		type: "item",
+		items: [{
+			item: "ancientwarfareautomation:warehouse_crafting"
+		}]
+	}],
+	rewards: [{
+		uid: "5a73080a",
+		type: "random",
+		table: 7
+	}]
+}

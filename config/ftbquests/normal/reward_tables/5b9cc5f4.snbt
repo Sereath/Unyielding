@@ -1,5 +1,6 @@
 {
 	title: "xpS",
+	icon: "biomesoplenty:waterlily 1 2",
 	loot_size: 1,
 	rewards: [{
 		title: "11",

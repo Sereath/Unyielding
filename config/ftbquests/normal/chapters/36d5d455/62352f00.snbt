@@ -1,0 +1,19 @@
+{
+	x: 3.0d,
+	y: -5.0d,
+	dependencies: [
+		"80daee2f"
+	],
+	tasks: [{
+		uid: "56ef3d12",
+		type: "item",
+		items: [{
+			item: "ancientwarfareautomation:stirling_generator"
+		}]
+	}],
+	rewards: [{
+		uid: "8932479d",
+		type: "random",
+		table: 7
+	}]
+}

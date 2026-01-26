@@ -1,0 +1,24 @@
+{
+	x: 5.0d,
+	y: -2.0d,
+	description: "§6Ancient Warfare 2",
+	text: [
+		"In here, you will provide the resources needed for each research project to be completed."
+	],
+	dependencies: [
+		"5f9c05c4",
+		"33a0869d"
+	],
+	tasks: [{
+		uid: "19ccedb3",
+		type: "item",
+		items: [{
+			item: "ancientwarfare:research_station"
+		}]
+	}],
+	rewards: [{
+		uid: "91f091b6",
+		type: "random",
+		table: 7
+	}]
+}

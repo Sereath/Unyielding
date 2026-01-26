@@ -1,0 +1,23 @@
+{
+	x: -0.5d,
+	y: -3.0d,
+	dependencies: [
+		"c11d4d36"
+	],
+	tasks: [{
+		uid: "a5523fa6",
+		type: "item",
+		items: [{
+			tag: {
+				npcType: "trader",
+				npcSubtype: ""
+			},
+			id: "ancientwarfarenpc:npc_spawner"
+		}]
+	}],
+	rewards: [{
+		uid: "0ddedb3b",
+		type: "random",
+		table: 7
+	}]
+}

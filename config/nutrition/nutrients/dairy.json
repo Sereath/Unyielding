@@ -9,7 +9,8 @@
 			"foodButter",
 			"foodCheese",
 			"foodChocolatebar",
-			"listAllmilk"
+			"listAllmilk",
+			"foodBundle"
 		],
 		"items": [
 			"actuallyadditions:item_food:0",

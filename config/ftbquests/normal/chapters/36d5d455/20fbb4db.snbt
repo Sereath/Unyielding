@@ -1,0 +1,19 @@
+{
+	x: -2.0d,
+	y: -2.0d,
+	dependencies: [
+		"c11d4d36"
+	],
+	tasks: [{
+		uid: "f1d14952",
+		type: "item",
+		items: [{
+			item: "ancientwarfarenpc:work_order"
+		}]
+	}],
+	rewards: [{
+		uid: "9808df90",
+		type: "random",
+		table: 7
+	}]
+}

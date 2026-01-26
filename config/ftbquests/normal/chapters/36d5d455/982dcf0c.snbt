@@ -1,0 +1,23 @@
+{
+	x: -1.0d,
+	y: -2.0d,
+	dependencies: [
+		"c11d4d36"
+	],
+	tasks: [{
+		uid: "95ec2ca4",
+		type: "item",
+		items: [{
+			tag: {
+				npcType: "siege_engineer",
+				npcSubtype: ""
+			},
+			id: "ancientwarfarenpc:npc_spawner"
+		}]
+	}],
+	rewards: [{
+		uid: "321347a1",
+		type: "random",
+		table: 7
+	}]
+}

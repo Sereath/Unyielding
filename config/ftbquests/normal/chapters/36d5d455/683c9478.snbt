@@ -1,6 +1,10 @@
 {
 	x: 7.0d,
 	y: 0.0d,
+	description: "§3Tinkers' Antique",
+	text: [
+		""
+	],
 	dependencies: [
 		"33a0869d"
 	],

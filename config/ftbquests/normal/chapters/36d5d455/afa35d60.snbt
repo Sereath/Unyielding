@@ -1,0 +1,19 @@
+{
+	x: 5.0d,
+	y: -0.5d,
+	dependencies: [
+		"7aab5dac"
+	],
+	tasks: [{
+		uid: "360838fc",
+		type: "item",
+		items: [{
+			item: "ancientwarfarestructure:drafting_station"
+		}]
+	}],
+	rewards: [{
+		uid: "8e6573d4",
+		type: "random",
+		table: 7
+	}]
+}

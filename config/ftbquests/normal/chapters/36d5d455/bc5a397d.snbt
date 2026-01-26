@@ -1,0 +1,19 @@
+{
+	x: -1.5d,
+	y: -5.5d,
+	dependencies: [
+		"aee43a86"
+	],
+	tasks: [{
+		uid: "03c97e76",
+		type: "item",
+		items: [{
+			item: "ancientwarfareautomation:mailbox"
+		}]
+	}],
+	rewards: [{
+		uid: "502d4851",
+		type: "random",
+		table: 7
+	}]
+}

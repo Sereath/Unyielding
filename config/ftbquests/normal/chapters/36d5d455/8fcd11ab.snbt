@@ -1,0 +1,24 @@
+{
+	title: "§2Well",
+	x: -3.5d,
+	y: 6.5d,
+	description: "§bWater source",
+	text: [
+		""
+	],
+	dependencies: [
+		"598a9b01"
+	],
+	tasks: [{
+		uid: "defe80cf",
+		type: "item",
+		items: [{
+			item: "well:well"
+		}]
+	}],
+	rewards: [{
+		uid: "9d0c6373",
+		type: "random",
+		table: 7
+	}]
+}

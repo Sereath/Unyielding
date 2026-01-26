@@ -1,0 +1,62 @@
+{
+	title: "Command Baton",
+	x: -2.0d,
+	y: 1.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"69d9171e"
+	],
+	tasks: [{
+		uid: "c3b0e75e",
+		type: "item",
+		items: [{
+			tag: {
+				mode: {
+					mode: "clear"
+				}
+			},
+			id: "ancientwarfarenpc:wooden_command_baton"
+		},
+		{
+			tag: {
+				mode: {
+					mode: "clear"
+				}
+			},
+			id: "ancientwarfarenpc:stone_command_baton"
+		},
+		{
+			tag: {
+				mode: {
+					mode: "clear"
+				}
+			},
+			id: "ancientwarfarenpc:iron_command_baton"
+		},
+		{
+			tag: {
+				mode: {
+					mode: "clear"
+				}
+			},
+			id: "ancientwarfarenpc:gold_command_baton"
+		},
+		{
+			tag: {
+				mode: {
+					mode: "clear"
+				}
+			},
+			id: "ancientwarfarenpc:diamond_command_baton"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3a7206cb",
+		type: "random",
+		table: 7
+	}]
+}

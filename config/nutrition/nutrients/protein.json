@@ -55,7 +55,8 @@
 			"listAllrabbitcooked",
 			"nuggetMeat",
 			"portionFish",
-			"portionMeat"
+			"portionMeat",
+			"foodBundle"
 		],
 		"items": [
 			"abyssalcraft:beefp",

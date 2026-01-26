@@ -1,0 +1,20 @@
+{
+	x: 2.0d,
+	y: -5.0d,
+	dependencies: [
+		"9a855fc7",
+		"b5be8945"
+	],
+	tasks: [{
+		uid: "43e92369",
+		type: "item",
+		items: [{
+			item: "ancientwarfareautomation:hand_cranked_generator"
+		}]
+	}],
+	rewards: [{
+		uid: "63113827",
+		type: "random",
+		table: 7
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: 5.0d,
+	y: -3.5d,
+	text: [
+		"You will need to research the knowledge contained in this book."
+	],
+	dependencies: [
+		"dda46a90"
+	],
+	tasks: [{
+		uid: "5139eb9c",
+		type: "item",
+		items: [{
+			item: "ancientwarfare:research_book"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7f5afbab",
+		type: "random",
+		table: 7
+	}]
+}

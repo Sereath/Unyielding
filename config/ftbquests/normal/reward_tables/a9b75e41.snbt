@@ -1,5 +1,6 @@
 {
 	title: "xpL",
+	icon: "biomesoplenty:waterlily",
 	loot_size: 1,
 	rewards: [{
 		title: "18",

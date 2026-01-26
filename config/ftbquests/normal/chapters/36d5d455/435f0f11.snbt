@@ -1,0 +1,20 @@
+{
+	x: 3.0d,
+	y: 0.5d,
+	dependencies: [
+		"31cb192c"
+	],
+	tasks: [{
+		uid: "d6a1055b",
+		type: "item",
+		items: [{
+			item: "ancientwarfarestructure:gate_spawner 1 4"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ac618cc8",
+		type: "random",
+		table: 7
+	}]
+}

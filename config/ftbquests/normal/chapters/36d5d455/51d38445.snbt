@@ -1,0 +1,19 @@
+{
+	x: -0.5d,
+	y: -6.5d,
+	dependencies: [
+		"4840d876"
+	],
+	tasks: [{
+		uid: "1984ff5a",
+		type: "item",
+		items: [{
+			item: "ancientwarfareautomation:fruit_farm"
+		}]
+	}],
+	rewards: [{
+		uid: "a6ef2516",
+		type: "random",
+		table: 7
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "§6Town Hall",
+	x: 2.5d,
+	y: -1.0d,
+	text: [
+		"Your people's home point."
+	],
+	dependencies: [
+		"0a12f9cc"
+	],
+	tasks: [{
+		uid: "f6ca2d29",
+		type: "item",
+		items: [{
+			item: "ancientwarfarenpc:town_hall"
+		}]
+	}],
+	rewards: [{
+		uid: "d8637e6b",
+		type: "random",
+		table: 7
+	}]
+}

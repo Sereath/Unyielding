@@ -6,13 +6,11 @@
 	shape: "diamond",
 	description: "§aRead this I",
 	text: [
-		"		Press F4 to disable the \"Real First Person 2\" mod.",
-		"",
 		"		Press J to view the progression guide.",
 		"",
-		"		To check the recipe for something, press R while hovering over it. Press U to see its uses.",
+		"		Don't forget about your starter backpack, it contains some very useful items and can be equipped as a bauble.",
 		"",
-		"		Don't forget about your starter backpack, it contains some very useful items and can be equipped as a bauble."
+		"		§8Press F4 to toggle the \"Real First Person 2\" mod."
 	],
 	size: 1.5d,
 	tasks: [{

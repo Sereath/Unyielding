@@ -1,0 +1,23 @@
+{
+	x: -0.5d,
+	y: 1.0d,
+	dependencies: [
+		"c11d4d36"
+	],
+	tasks: [{
+		uid: "96f547b4",
+		type: "item",
+		items: [{
+			tag: {
+				npcType: "combat",
+				npcSubtype: ""
+			},
+			id: "ancientwarfarenpc:npc_spawner"
+		}]
+	}],
+	rewards: [{
+		uid: "b722fcb1",
+		type: "random",
+		table: 7
+	}]
+}

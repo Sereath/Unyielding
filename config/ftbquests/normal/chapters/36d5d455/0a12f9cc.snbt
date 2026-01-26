@@ -1,0 +1,22 @@
+{
+	x: 3.5d,
+	y: -2.0d,
+	text: [
+		"The creation of AW2 items is facilitated by this special bench."
+	],
+	dependencies: [
+		"7aab5dac"
+	],
+	tasks: [{
+		uid: "8439e207",
+		type: "item",
+		items: [{
+			item: "ancientwarfare:engineering_station"
+		}]
+	}],
+	rewards: [{
+		uid: "fa38c6e7",
+		type: "random",
+		table: 7
+	}]
+}

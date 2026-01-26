@@ -30,7 +30,8 @@
 			"fruitForestry",
 			"listAllberry",
 			"listAllfruit",
-			"listAllsmoothie"
+			"listAllsmoothie",
+			"foodBundle"
 		],
 		"items": [
 			"actuallyadditions:item_food:1",

@@ -1,0 +1,22 @@
+{
+	x: 3.5d,
+	y: -3.5d,
+	description: "§6Starting a Civilization",
+	text: [
+		"Everything you will need to know about §6Ancient Warfare 2."
+	],
+	tasks: [{
+		uid: "515fb384",
+		type: "item",
+		items: [{
+			item: "ancientwarfare:manual"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d5aa3aa1",
+		type: "random",
+		table: 7
+	}]
+}

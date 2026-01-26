@@ -1,0 +1,19 @@
+{
+	x: 0.5d,
+	y: -1.0d,
+	dependencies: [
+		"dd1ad4c8"
+	],
+	tasks: [{
+		uid: "af12681e",
+		type: "item",
+		items: [{
+			item: "ancientwarfarenpc:food_bundle"
+		}]
+	}],
+	rewards: [{
+		uid: "0b06d8c7",
+		type: "random",
+		table: 7
+	}]
+}

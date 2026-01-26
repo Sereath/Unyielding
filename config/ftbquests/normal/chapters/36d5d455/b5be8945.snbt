@@ -1,0 +1,37 @@
+{
+	title: "Hammer",
+	x: 2.0d,
+	y: -3.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"dda46a90"
+	],
+	tasks: [{
+		uid: "0f9c6b30",
+		type: "item",
+		items: [{
+			item: "ancientwarfare:wooden_hammer"
+		},
+		{
+			item: "ancientwarfare:stone_hammer"
+		},
+		{
+			item: "ancientwarfare:iron_hammer"
+		},
+		{
+			item: "ancientwarfare:gold_hammer"
+		},
+		{
+			item: "ancientwarfare:diamond_hammer"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2faaadab",
+		type: "random",
+		table: 7
+	}]
+}

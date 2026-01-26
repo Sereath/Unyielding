@@ -1,0 +1,19 @@
+{
+	x: 4.0d,
+	y: -5.0d,
+	dependencies: [
+		"62352f00"
+	],
+	tasks: [{
+		uid: "3871a956",
+		type: "item",
+		items: [{
+			item: "ancientwarfareautomation:waterwheel_generator"
+		}]
+	}],
+	rewards: [{
+		uid: "af206d8e",
+		type: "random",
+		table: 7
+	}]
+}

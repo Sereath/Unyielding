@@ -1,0 +1,19 @@
+{
+	x: 5.0d,
+	y: -5.0d,
+	dependencies: [
+		"f68d15c8"
+	],
+	tasks: [{
+		uid: "8521ea43",
+		type: "item",
+		items: [{
+			item: "ancientwarfareautomation:windmill_generator"
+		}]
+	}],
+	rewards: [{
+		uid: "a31ff42d",
+		type: "random",
+		table: 7
+	}]
+}

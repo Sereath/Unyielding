@@ -1,0 +1,19 @@
+{
+	x: 6.0d,
+	y: -6.5d,
+	dependencies: [
+		"d4cb373b"
+	],
+	tasks: [{
+		uid: "07d6e759",
+		type: "item",
+		items: [{
+			item: "ancientwarfareautomation:flywheel_storage"
+		}]
+	}],
+	rewards: [{
+		uid: "4250d229",
+		type: "random",
+		table: 7
+	}]
+}

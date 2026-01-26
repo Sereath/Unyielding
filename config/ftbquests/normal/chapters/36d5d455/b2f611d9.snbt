@@ -1,0 +1,23 @@
+{
+	x: -1.0d,
+	y: -1.0d,
+	dependencies: [
+		"c11d4d36"
+	],
+	tasks: [{
+		uid: "3d967922",
+		type: "item",
+		items: [{
+			tag: {
+				npcType: "priest",
+				npcSubtype: ""
+			},
+			id: "ancientwarfarenpc:npc_spawner"
+		}]
+	}],
+	rewards: [{
+		uid: "26f57e3b",
+		type: "random",
+		table: 7
+	}]
+}

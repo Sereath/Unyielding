@@ -1,0 +1,23 @@
+{
+	x: 0.5d,
+	y: 1.0d,
+	dependencies: [
+		"c11d4d36"
+	],
+	tasks: [{
+		uid: "7182f5cb",
+		type: "item",
+		items: [{
+			tag: {
+				npcType: "bard",
+				npcSubtype: ""
+			},
+			id: "ancientwarfarenpc:npc_spawner"
+		}]
+	}],
+	rewards: [{
+		uid: "1bf75f4c",
+		type: "random",
+		table: 7
+	}]
+}

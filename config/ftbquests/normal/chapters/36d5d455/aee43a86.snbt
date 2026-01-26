@@ -1,0 +1,19 @@
+{
+	x: -1.5d,
+	y: -4.5d,
+	dependencies: [
+		"06952f71"
+	],
+	tasks: [{
+		uid: "9220ce0a",
+		type: "item",
+		items: [{
+			item: "ancientwarfareautomation:auto_crafting"
+		}]
+	}],
+	rewards: [{
+		uid: "aff562b6",
+		type: "random",
+		table: 7
+	}]
+}

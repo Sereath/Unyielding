@@ -29,7 +29,8 @@
 			"listAllmushroom",
 			"listAllpepper",
 			"listAllspice",
-			"listAllveggie"
+			"listAllveggie",
+			"foodBundle"
 		],
 		"items": [
 			"abyssalcraft:mre",

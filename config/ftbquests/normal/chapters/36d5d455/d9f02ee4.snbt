@@ -1,0 +1,19 @@
+{
+	x: 3.0d,
+	y: -7.5d,
+	dependencies: [
+		"6f914f75"
+	],
+	tasks: [{
+		uid: "ff678462",
+		type: "item",
+		items: [{
+			item: "ancientwarfareautomation:torque_shaft 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "bbebfc10",
+		type: "random",
+		table: 7
+	}]
+}
