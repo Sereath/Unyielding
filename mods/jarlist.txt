@@ -142,7 +142,6 @@ Fish's Undead Rising-1.4.2
 Fixeroo-2.3.6
 flare-0.7.0
 flaskoflife-1.0.3HOTFIX-3
-fluiddrawers-1.12.2-1.0.7
 Forgelin-Continuous-2.2.21.0
 FpsReducer-mc1.12.2-1.20
 FriendlyFire-1.12.2-1.5.10
@@ -293,7 +292,6 @@ RealFirstPerson2-1.12.2-1.3.2
 RecipeStages-1.1.3.8
 RecurrentComplex-1.4.8.6
 RedstoneFlux-1.12-2.1.1.1-universal
-RefinedRelocation_1.12.2-4.2.37
 Reliquary-1.12.2-1.3.4.796
 RenderLib-1.12.2-1.4.5
 replant1.12.2-1.0.0
@@ -345,7 +343,6 @@ srpmeshi-1.8
 SRRevenants-1.12.2v1.0.2
 startuptimer-1.1.0
 StellarCore-1.5.22
-StorageDrawers-1.12.2-5.5.3
 stygian-1.0.4
 superflatcaves-1.3.1
 SuperiorShields-1.12.2-1.0.2

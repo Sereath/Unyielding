@@ -3,8 +3,7 @@
 	y: -3.5d,
 	text: [
 		"- OpenBlocks",
-		"- Random Things",
-		"- Refined Relocation 2"
+		"- Random Things"
 	],
 	tasks: [{
 		uid: "666d0c16",

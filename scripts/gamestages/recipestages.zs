@@ -8,8 +8,8 @@ Recipes.setRecipeStageByMod("te", "thermalinnovation");
 Recipes.setRecipeStageByMod("te", "superiorshields");
 
 Recipes.setRecipeStageByMod("ir", "industrialrenewal");
-Recipes.setRecipeStageByMod("ir", "storagedrawers");
-Recipes.setRecipeStageByMod("ir", "fluiddrawers");
+//Recipes.setRecipeStageByMod("ir", "storagedrawers");
+//Recipes.setRecipeStageByMod("ir", "fluiddrawers");
 Recipes.setRecipeStageByMod("ir", "filcabref");
 
 Recipes.setRecipeStageByMod("tg", "techguns");
@@ -40,7 +40,7 @@ Recipes.setRecipeStageByMod("cyc", "cyclicmagic");
 Recipes.setRecipeStageByMod("rb", "openblocks");
 Recipes.setRecipeStageByMod("rb", "randomthings");
 Recipes.setRecipeStageByMod("aa", "compositegear");
-Recipes.setRecipeStageByMod("rb", "refinedrelocation");
+//Recipes.setRecipeStageByMod("rb", "refinedrelocation");
 
 //Recipes.setRecipeStageByMod("te", "extendedcrafting");
 

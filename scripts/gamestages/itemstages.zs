@@ -8,8 +8,8 @@ mods.ItemStages.stageModItems("te", "thermalinnovation");
 mods.ItemStages.stageModItems("te", "superiorshields");
 
 mods.ItemStages.stageModItems("ir", "industrialrenewal");
-mods.ItemStages.stageModItems("ir", "storagedrawers");
-mods.ItemStages.stageModItems("ir", "fluiddrawers");
+//mods.ItemStages.stageModItems("ir", "storagedrawers");
+//mods.ItemStages.stageModItems("ir", "fluiddrawers");
 mods.ItemStages.stageModItems("ir", "filcabref");
 
 mods.ItemStages.stageModItems("tg", "techguns");
@@ -40,7 +40,7 @@ mods.ItemStages.stageModItems("cyc", "cyclicmagic");
 mods.ItemStages.stageModItems("rb", "openblocks");
 mods.ItemStages.stageModItems("rb", "randomthings");
 mods.ItemStages.stageModItems("aa", "compositegear");
-mods.ItemStages.stageModItems("rb", "refinedrelocation");
+//mods.ItemStages.stageModItems("rb", "refinedrelocation");
 
 //mods.ItemStages.stageModItems("te", "extendedcrafting");
 

@@ -29,8 +29,8 @@
 				TrophyShowsTooltip: 0b,
 				TrophyItem: {
 					id: "srparasites:weapon_axe_sentient",
-					Count: 1b,
-					Damage: 0s
+					Damage: 0s,
+					Count: 1b
 				},
 				TrophyName: ""
 			},

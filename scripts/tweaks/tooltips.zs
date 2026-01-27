@@ -344,7 +344,6 @@
 <contenttweaker:book8>.displayName = "§bRandom Blocks";
 <contenttweaker:book8>.addTooltip(format.darkGray("- OpenBlocks"));
 <contenttweaker:book8>.addTooltip(format.darkGray("- Random Things"));
-<contenttweaker:book8>.addTooltip(format.darkGray("- Refined Relocation 2"));
 <contenttweaker:book9>.displayName = "§bRelics";
 <contenttweaker:book9>.addTooltip(format.darkGray("- Trinkets and Baubles"));
 <contenttweaker:book10>.displayName = "§bBrighter Than the Sun";
@@ -352,8 +351,6 @@
 <contenttweaker:book10>.addTooltip(format.darkGray("- QMD"));
 <contenttweaker:book11>.displayName = "§bManufacturing";
 <contenttweaker:book11>.addTooltip(format.darkGray("- Industrial Renewal"));
-<contenttweaker:book11>.addTooltip(format.darkGray("- Storage Drawers"));
-<contenttweaker:book11>.addTooltip(format.darkGray("- Fluid Drawers"));
 <contenttweaker:book11>.addTooltip(format.darkGray("- Filing Cabinets Refurbished"));
 
 <progressivecore:reality_crystal>.displayName = "§bReality Crystal";
