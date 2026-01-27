@@ -1,0 +1,19 @@
+{
+	x: 14.5d,
+	y: -0.5d,
+	dependencies: [
+		"9d1d93c1"
+	],
+	tasks: [{
+		uid: "8925ca80",
+		type: "item",
+		items: [{
+			item: "arcanearchives:shaped_quartz"
+		}]
+	}],
+	rewards: [{
+		uid: "4dd729b1",
+		type: "random",
+		table: 7
+	}]
+}

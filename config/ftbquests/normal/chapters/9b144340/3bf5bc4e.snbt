@@ -33,6 +33,14 @@
 			item: "bonetorch:bonetorch"
 		}],
 		count: 24L
+	},
+	{
+		uid: "7eadddda",
+		type: "item",
+		items: [{
+			item: "arcanearchives:quartz_sliver"
+		}],
+		count: 24L
 	}],
 	rewards: [{
 		uid: "7cbfed13",

@@ -5,24 +5,7 @@
 		uid: "42546aca",
 		type: "item",
 		items: [{
-			tag: {
-				Quality: {
-					Name: "quality.speedy.name",
-					Color: "blue",
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					AttributeModifiers: [{
-						Amount: 0.05000000074505806d,
-						AttributeName: "generic.movementSpeed",
-						Operation: 2,
-						UUIDMost: -8200572124769530509L,
-						UUIDLeast: -8757707930286374247L,
-						Name: "qualitytools"
-					}]
-				}
-			},
+			tag: {},
 			id: "cyclicmagic:charm_void"
 		}],
 		ignore_damage: 1b,

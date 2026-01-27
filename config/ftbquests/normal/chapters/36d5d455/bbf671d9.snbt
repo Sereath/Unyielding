@@ -1,0 +1,19 @@
+{
+	x: 13.5d,
+	y: 1.0d,
+	dependencies: [
+		"f6102455"
+	],
+	tasks: [{
+		uid: "4bae1cac",
+		type: "item",
+		items: [{
+			item: "arcanearchives:monitoring_crystal"
+		}]
+	}],
+	rewards: [{
+		uid: "7b14f91c",
+		type: "random",
+		table: 7
+	}]
+}

@@ -7,38 +7,6 @@
 		items: [{
 			ForgeCaps: {
 				"xat:trinket": {
-					Quality: {
-						Name: "quality.clunky.name",
-						Color: "dark_gray",
-						Slots: [
-							"baubles_trinket",
-							"offhand"
-						],
-						AttributeModifiers: [{
-							Amount: -0.05000000074505806d,
-							AttributeName: "potioncore.digSpeed",
-							Operation: 2,
-							UUIDMost: -4629101462084237753L,
-							UUIDLeast: -6319450233560337474L,
-							Name: "qualitytools"
-						},
-						{
-							Amount: -0.05000000074505806d,
-							AttributeName: "generic.movementSpeed",
-							Operation: 2,
-							UUIDMost: 7591488189101852837L,
-							UUIDLeast: -6539761092047131324L,
-							Name: "qualitytools"
-						},
-						{
-							Amount: -0.05000000074505806d,
-							AttributeName: "generic.attackSpeed",
-							Operation: 2,
-							UUIDMost: -8413381711027353557L,
-							UUIDLeast: -7175997337968582538L,
-							Name: "qualitytools"
-						}]
-					},
 					"xat:Trinket": {
 						variant: 0,
 						Counters: {},
@@ -58,38 +26,6 @@
 				}
 			},
 			tag: {
-				Quality: {
-					Name: "quality.clunky.name",
-					Color: "dark_gray",
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					AttributeModifiers: [{
-						Amount: -0.05000000074505806d,
-						AttributeName: "potioncore.digSpeed",
-						Operation: 2,
-						UUIDMost: -4629101462084237753L,
-						UUIDLeast: -6319450233560337474L,
-						Name: "qualitytools"
-					},
-					{
-						Amount: -0.05000000074505806d,
-						AttributeName: "generic.movementSpeed",
-						Operation: 2,
-						UUIDMost: 7591488189101852837L,
-						UUIDLeast: -6539761092047131324L,
-						Name: "qualitytools"
-					},
-					{
-						Amount: -0.05000000074505806d,
-						AttributeName: "generic.attackSpeed",
-						Operation: 2,
-						UUIDMost: -8413381711027353557L,
-						UUIDLeast: -7175997337968582538L,
-						Name: "qualitytools"
-					}]
-				},
 				"xat:Trinket": {
 					variant: 0,
 					Counters: {},

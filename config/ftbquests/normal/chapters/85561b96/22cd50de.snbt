@@ -5,9 +5,7 @@
 		uid: "f67553ec",
 		type: "item",
 		items: [{
-			tag: {
-				Quality: {}
-			},
+			tag: {},
 			id: "cyclicmagic:charm_boat"
 		}],
 		ignore_damage: 1b,

@@ -1,0 +1,19 @@
+{
+	x: 15.0d,
+	y: -5.0d,
+	dependencies: [
+		"2dc058e1"
+	],
+	tasks: [{
+		uid: "d6ca81bb",
+		type: "item",
+		items: [{
+			item: "arcanearchives:quartz_sliver"
+		}]
+	}],
+	rewards: [{
+		uid: "558086dd",
+		type: "random",
+		table: 7
+	}]
+}

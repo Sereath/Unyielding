@@ -5,25 +5,7 @@
 		uid: "42d3eb24",
 		type: "item",
 		items: [{
-			tag: {
-				Quality: {
-					Name: "quality.flailing.name",
-					Color: "blue",
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					AttributeModifiers: [{
-						Amount: 0.029999999329447746d,
-						AttributeName: "generic.attackSpeed",
-						Operation: 2,
-						UUIDMost: -1863234838945382248L,
-						UUIDLeast: -6993915181829219127L,
-						Name: "qualitytools"
-					}]
-				}
-			},
-			id: "grimoireofgaia:accessory_cursed"
+			item: "grimoireofgaia:accessory_cursed"
 		}],
 		ignore_damage: 1b,
 		ignore_nbt: 1b

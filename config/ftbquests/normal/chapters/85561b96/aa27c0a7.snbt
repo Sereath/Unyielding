@@ -5,25 +5,7 @@
 		uid: "d0b1b94f",
 		type: "item",
 		items: [{
-			tag: {
-				Quality: {
-					Name: "quality.prospecting.name",
-					Color: "blue",
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					AttributeModifiers: [{
-						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.digSpeed",
-						Operation: 2,
-						UUIDMost: 3452548182615607411L,
-						UUIDLeast: -6503567672946354110L,
-						Name: "qualitytools"
-					}]
-				}
-			},
-			id: "bountifulbaubles:amuletcross"
+			item: "bountifulbaubles:amuletcross"
 		}],
 		ignore_damage: 1b,
 		ignore_nbt: 1b

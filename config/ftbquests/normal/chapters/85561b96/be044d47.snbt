@@ -5,25 +5,7 @@
 		uid: "1d3b9415",
 		type: "item",
 		items: [{
-			tag: {
-				Quality: {
-					Name: "quality.healthy.name",
-					Color: "blue",
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					AttributeModifiers: [{
-						Amount: 2.0d,
-						AttributeName: "generic.maxHealth",
-						Operation: 0,
-						UUIDMost: 6013568661578206694L,
-						UUIDLeast: -5450462155187014075L,
-						Name: "qualitytools"
-					}]
-				}
-			},
-			id: "bountifulbaubles:trinketvitamins"
+			item: "bountifulbaubles:trinketvitamins"
 		}],
 		ignore_damage: 1b,
 		ignore_nbt: 1b

@@ -5,32 +5,7 @@
 		uid: "46fc92d3",
 		type: "item",
 		items: [{
-			tag: {
-				Quality: {
-					Name: "quality.graceful.name",
-					Color: "aqua",
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					AttributeModifiers: [{
-						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.digSpeed",
-						Operation: 2,
-						UUIDMost: -7498397837108034888L,
-						UUIDLeast: -6399396613657122228L,
-						Name: "qualitytools"
-					},
-					{
-						Amount: 0.029999999329447746d,
-						AttributeName: "generic.attackSpeed",
-						Operation: 2,
-						UUIDMost: -6735846030357149572L,
-						UUIDLeast: -5963690963436563956L,
-						Name: "qualitytools"
-					}]
-				}
-			},
+			tag: {},
 			id: "cyclicmagic:charm_fire"
 		}],
 		ignore_damage: 1b,

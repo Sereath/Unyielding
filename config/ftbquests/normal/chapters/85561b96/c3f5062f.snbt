@@ -10,10 +10,6 @@
 					amount: 0
 				}
 			},
-			tag: {
-				Quality: {},
-				energyAmount: 0
-			},
 			id: "bountifulbaubles:ringflywheel"
 		}],
 		ignore_damage: 1b,

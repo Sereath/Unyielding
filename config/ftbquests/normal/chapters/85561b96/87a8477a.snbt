@@ -5,25 +5,7 @@
 		uid: "43b97fb0",
 		type: "item",
 		items: [{
-			tag: {
-				Quality: {
-					Name: "quality.shielding.name",
-					Color: "blue",
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					AttributeModifiers: [{
-						Amount: 1.0d,
-						AttributeName: "potioncore.magicShielding",
-						Operation: 0,
-						UUIDMost: -7925002130818969641L,
-						UUIDLeast: -9116921374746179778L,
-						Name: "qualitytools"
-					}]
-				}
-			},
-			id: "grimoireofgaia:accessory_ring_haste"
+			item: "grimoireofgaia:accessory_ring_haste"
 		}],
 		ignore_damage: 1b,
 		ignore_nbt: 1b

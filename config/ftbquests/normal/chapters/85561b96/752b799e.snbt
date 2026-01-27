@@ -5,10 +5,7 @@
 		uid: "d2674ae9",
 		type: "item",
 		items: [{
-			tag: {
-				Quality: {}
-			},
-			id: "bountifulbaubles:ringoverclocking"
+			item: "bountifulbaubles:ringoverclocking"
 		}],
 		ignore_damage: 1b,
 		ignore_nbt: 1b

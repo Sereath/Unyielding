@@ -5,41 +5,7 @@
 		uid: "2f4e5d97",
 		type: "item",
 		items: [{
-			tag: {
-				Quality: {
-					Name: "quality.undying.name",
-					Color: "light_purple",
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					AttributeModifiers: [{
-						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.damageResistance",
-						Operation: 2,
-						UUIDMost: 170849615258798941L,
-						UUIDLeast: -5241439581127927964L,
-						Name: "qualitytools"
-					},
-					{
-						Amount: 2.0d,
-						AttributeName: "generic.maxHealth",
-						Operation: 0,
-						UUIDMost: 8595742327858283563L,
-						UUIDLeast: -8113759384085831457L,
-						Name: "qualitytools"
-					},
-					{
-						Amount: 1.0d,
-						AttributeName: "potioncore.magicShielding",
-						Operation: 0,
-						UUIDMost: 745619245783599851L,
-						UUIDLeast: -9128570866678969767L,
-						Name: "qualitytools"
-					}]
-				}
-			},
-			id: "bountifulbaubles:trinketapple"
+			item: "bountifulbaubles:trinketapple"
 		}],
 		ignore_damage: 1b,
 		ignore_nbt: 1b

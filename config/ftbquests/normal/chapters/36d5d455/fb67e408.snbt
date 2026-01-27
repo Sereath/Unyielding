@@ -1,0 +1,19 @@
+{
+	x: 13.5d,
+	y: -3.5d,
+	dependencies: [
+		"decb9158"
+	],
+	tasks: [{
+		uid: "45dec031",
+		type: "item",
+		items: [{
+			item: "arcanearchives:radiant_resonator"
+		}]
+	}],
+	rewards: [{
+		uid: "fbd89238",
+		type: "random",
+		table: 7
+	}]
+}

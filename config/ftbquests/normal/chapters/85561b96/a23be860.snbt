@@ -5,9 +5,7 @@
 		uid: "266896f6",
 		type: "item",
 		items: [{
-			tag: {
-				Quality: {}
-			},
+			tag: {},
 			id: "bountifulbaubles:trinketmagiclenses"
 		}],
 		ignore_damage: 1b,

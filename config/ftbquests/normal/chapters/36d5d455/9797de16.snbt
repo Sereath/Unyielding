@@ -9,8 +9,8 @@
 		type: "item",
 		items: [{
 			tag: {
-				npcType: "courier",
-				npcSubtype: ""
+				npcSubtype: "",
+				npcType: "courier"
 			},
 			id: "ancientwarfarenpc:npc_spawner"
 		}]

@@ -8,22 +8,6 @@
 		items: [{
 			ForgeCaps: {
 				"xat:trinket": {
-					Quality: {
-						Name: "quality.healthy.name",
-						Color: "blue",
-						Slots: [
-							"baubles_trinket",
-							"offhand"
-						],
-						AttributeModifiers: [{
-							Amount: 2.0d,
-							AttributeName: "generic.maxHealth",
-							Operation: 0,
-							UUIDMost: 3087691528262798417L,
-							UUIDLeast: -8116955828774866075L,
-							Name: "qualitytools"
-						}]
-					},
 					"xat:Trinket": {
 						variant: 0,
 						Counters: {},
@@ -43,22 +27,6 @@
 				}
 			},
 			tag: {
-				Quality: {
-					Name: "quality.healthy.name",
-					Color: "blue",
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					AttributeModifiers: [{
-						Amount: 2.0d,
-						AttributeName: "generic.maxHealth",
-						Operation: 0,
-						UUIDMost: 3087691528262798417L,
-						UUIDLeast: -8116955828774866075L,
-						Name: "qualitytools"
-					}]
-				},
 				"xat:Trinket": {
 					variant: 0,
 					Counters: {},

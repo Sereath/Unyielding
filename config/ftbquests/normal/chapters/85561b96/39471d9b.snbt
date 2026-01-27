@@ -5,10 +5,7 @@
 		uid: "8fdbf498",
 		type: "item",
 		items: [{
-			tag: {
-				Quality: {}
-			},
-			id: "bountifulbaubles:trinketbezoar"
+			item: "bountifulbaubles:trinketbezoar"
 		}],
 		ignore_damage: 1b,
 		ignore_nbt: 1b

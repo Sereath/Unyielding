@@ -1,0 +1,19 @@
+{
+	x: 16.5d,
+	y: 1.0d,
+	dependencies: [
+		"c5400ee5"
+	],
+	tasks: [{
+		uid: "426d0d28",
+		type: "item",
+		items: [{
+			item: "arcanearchives:lectern_manifest"
+		}]
+	}],
+	rewards: [{
+		uid: "012b8698",
+		type: "random",
+		table: 7
+	}]
+}

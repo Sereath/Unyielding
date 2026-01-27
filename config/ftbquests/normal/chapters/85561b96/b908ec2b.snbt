@@ -5,25 +5,7 @@
 		uid: "b4f4d35b",
 		type: "item",
 		items: [{
-			tag: {
-				Quality: {
-					Name: "quality.speedy.name",
-					Color: "blue",
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					AttributeModifiers: [{
-						Amount: 0.05000000074505806d,
-						AttributeName: "generic.movementSpeed",
-						Operation: 2,
-						UUIDMost: 537732472219453884L,
-						UUIDLeast: -5055550071411203330L,
-						Name: "qualitytools"
-					}]
-				}
-			},
-			id: "bountifulbaubles:amuletsinempty"
+			item: "bountifulbaubles:amuletsinempty"
 		}],
 		ignore_damage: 1b,
 		ignore_nbt: 1b

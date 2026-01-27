@@ -5,26 +5,7 @@
 		uid: "334918d8",
 		type: "item",
 		items: [{
-			Damage: 1s,
-			tag: {
-				Quality: {
-					Name: "quality.shielding.name",
-					Color: "blue",
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					AttributeModifiers: [{
-						Amount: 1.0d,
-						AttributeName: "potioncore.magicShielding",
-						Operation: 0,
-						UUIDMost: -4347456628283846959L,
-						UUIDLeast: -4882206192757445280L,
-						Name: "qualitytools"
-					}]
-				}
-			},
-			id: "grimoireofgaia:accessory_trinket_water_breathing"
+			item: "grimoireofgaia:accessory_trinket_water_breathing 1 1"
 		}],
 		ignore_nbt: 1b
 	}],

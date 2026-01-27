@@ -1,0 +1,21 @@
+{
+	x: 17.0d,
+	y: -3.0d,
+	dependencies: [
+		"4016dc56",
+		"9d1d93c1"
+	],
+	tasks: [{
+		uid: "1762f625",
+		type: "item",
+		items: [{
+			tag: {},
+			id: "arcanearchives:radiant_trove"
+		}]
+	}],
+	rewards: [{
+		uid: "7c2025f2",
+		type: "random",
+		table: 7
+	}]
+}

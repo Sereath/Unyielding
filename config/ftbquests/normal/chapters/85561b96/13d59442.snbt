@@ -9,10 +9,7 @@
 		uid: "3804c7a3",
 		type: "item",
 		items: [{
-			tag: {
-				Quality: {}
-			},
-			id: "bountifulbaubles:ringfreeaction"
+			item: "bountifulbaubles:ringfreeaction"
 		}],
 		ignore_damage: 1b,
 		ignore_nbt: 1b

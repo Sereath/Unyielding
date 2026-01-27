@@ -10,22 +10,6 @@
 		items: [{
 			ForgeCaps: {
 				"xat:trinket": {
-					Quality: {
-						Name: "quality.prospecting.name",
-						Color: "blue",
-						Slots: [
-							"baubles_trinket",
-							"offhand"
-						],
-						AttributeModifiers: [{
-							Amount: 0.029999999329447746d,
-							AttributeName: "potioncore.digSpeed",
-							Operation: 2,
-							UUIDMost: -5227861070772550267L,
-							UUIDLeast: -5685884684642057474L,
-							Name: "qualitytools"
-						}]
-					},
 					"xat:Trinket": {
 						variant: 0,
 						Counters: {},
@@ -45,22 +29,6 @@
 				}
 			},
 			tag: {
-				Quality: {
-					Name: "quality.prospecting.name",
-					Color: "blue",
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					AttributeModifiers: [{
-						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.digSpeed",
-						Operation: 2,
-						UUIDMost: -5227861070772550267L,
-						UUIDLeast: -5685884684642057474L,
-						Name: "qualitytools"
-					}]
-				},
 				"xat:Trinket": {
 					variant: 0,
 					Counters: {},

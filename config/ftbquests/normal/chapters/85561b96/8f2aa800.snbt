@@ -10,22 +10,7 @@
 		type: "item",
 		items: [{
 			tag: {
-				HideFlags: 2,
-				Quality: {
-					Name: "quality.heavy.name",
-					Color: "dark_gray",
-					Slots: [
-						"offhand"
-					],
-					AttributeModifiers: [{
-						Amount: -0.10000000149011612d,
-						AttributeName: "generic.movementSpeed",
-						Operation: 2,
-						UUIDMost: 2961002255360081974L,
-						UUIDLeast: -7892683637827986682L,
-						Name: "qualitytools"
-					}]
-				}
+				HideFlags: 2
 			},
 			id: "bountifulbaubles:shieldobsidian"
 		}],

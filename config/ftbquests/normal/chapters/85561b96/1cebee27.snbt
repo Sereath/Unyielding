@@ -5,25 +5,7 @@
 		uid: "f5daf06e",
 		type: "item",
 		items: [{
-			tag: {
-				Quality: {
-					Name: "quality.prospecting.name",
-					Color: "blue",
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					AttributeModifiers: [{
-						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.digSpeed",
-						Operation: 2,
-						UUIDMost: 8196154615880041108L,
-						UUIDLeast: -5712153002761304456L,
-						Name: "qualitytools"
-					}]
-				}
-			},
-			id: "bountifulbaubles:trinketluckyhorseshoe"
+			item: "bountifulbaubles:trinketluckyhorseshoe"
 		}],
 		ignore_damage: 1b,
 		ignore_nbt: 1b

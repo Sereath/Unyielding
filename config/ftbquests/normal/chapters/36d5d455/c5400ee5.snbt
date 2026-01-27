@@ -1,0 +1,21 @@
+{
+	x: 15.0d,
+	y: 1.0d,
+	dependencies: [
+		"9d1d93c1"
+	],
+	tasks: [{
+		uid: "a190e66b",
+		type: "item",
+		items: [{
+			item: "arcanearchives:manifest"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "cea2abf5",
+		type: "random",
+		table: 7
+	}]
+}

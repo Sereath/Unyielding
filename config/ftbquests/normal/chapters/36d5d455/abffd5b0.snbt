@@ -1,0 +1,22 @@
+{
+	x: 17.5d,
+	y: 0.0d,
+	dependencies: [
+		"be0d0ba6"
+	],
+	tasks: [{
+		uid: "a149bcc2",
+		type: "item",
+		items: [{
+			tag: {},
+			id: "arcanearchives:radiant_amphora"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b00b7f76",
+		type: "random",
+		table: 7
+	}]
+}

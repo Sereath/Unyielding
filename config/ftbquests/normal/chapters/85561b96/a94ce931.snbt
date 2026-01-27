@@ -5,25 +5,7 @@
 		uid: "02dd58d0",
 		type: "item",
 		items: [{
-			tag: {
-				Quality: {
-					Name: "quality.prospecting.name",
-					Color: "blue",
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					AttributeModifiers: [{
-						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.digSpeed",
-						Operation: 2,
-						UUIDMost: 362770178593344057L,
-						UUIDLeast: -7930426794614674098L,
-						Name: "qualitytools"
-					}]
-				}
-			},
-			id: "grimoireofgaia:accessory_trinket_levitation"
+			item: "grimoireofgaia:accessory_trinket_levitation"
 		}],
 		ignore_damage: 1b,
 		ignore_nbt: 1b

@@ -1,0 +1,19 @@
+{
+	x: 16.0d,
+	y: -0.5d,
+	dependencies: [
+		"9d1d93c1"
+	],
+	tasks: [{
+		uid: "68843001",
+		type: "item",
+		items: [{
+			item: "arcanearchives:brazier_of_hoarding"
+		}]
+	}],
+	rewards: [{
+		uid: "f2dea399",
+		type: "random",
+		table: 7
+	}]
+}

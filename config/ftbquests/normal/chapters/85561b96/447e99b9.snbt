@@ -5,9 +5,7 @@
 		uid: "b71c1e52",
 		type: "item",
 		items: [{
-			tag: {
-				Quality: {}
-			},
+			tag: {},
 			id: "cyclicmagic:tool_auto_torch"
 		}],
 		ignore_damage: 1b,

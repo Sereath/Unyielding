@@ -7,7 +7,6 @@
 		items: [{
 			ForgeCaps: {
 				"xat:trinket": {
-					Quality: {},
 					"xat:Trinket": {
 						variant: 0,
 						Counters: {},
@@ -27,7 +26,6 @@
 				}
 			},
 			tag: {
-				Quality: {},
 				"xat:Trinket": {
 					variant: 0,
 					Counters: {},

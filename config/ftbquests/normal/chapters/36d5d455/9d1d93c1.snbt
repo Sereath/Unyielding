@@ -1,0 +1,19 @@
+{
+	x: 15.5d,
+	y: -2.0d,
+	dependencies: [
+		"2dc058e1"
+	],
+	tasks: [{
+		uid: "e7cbcc5d",
+		type: "item",
+		items: [{
+			item: "arcanearchives:gemcutters_table"
+		}]
+	}],
+	rewards: [{
+		uid: "b401b7ed",
+		type: "random",
+		table: 7
+	}]
+}

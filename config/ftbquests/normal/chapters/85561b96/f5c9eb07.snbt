@@ -5,25 +5,7 @@
 		uid: "4e7f3875",
 		type: "item",
 		items: [{
-			tag: {
-				Quality: {
-					Name: "quality.flailing.name",
-					Color: "blue",
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					AttributeModifiers: [{
-						Amount: 0.029999999329447746d,
-						AttributeName: "generic.attackSpeed",
-						Operation: 2,
-						UUIDMost: 1225202175734271361L,
-						UUIDLeast: -7324235625798275101L,
-						Name: "qualitytools"
-					}]
-				}
-			},
-			id: "mod_lavacow:halo_necklace"
+			item: "mod_lavacow:halo_necklace"
 		}],
 		ignore_damage: 1b,
 		ignore_nbt: 1b

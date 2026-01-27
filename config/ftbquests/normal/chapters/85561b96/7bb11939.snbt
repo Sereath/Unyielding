@@ -5,25 +5,7 @@
 		uid: "abcd6c1b",
 		type: "item",
 		items: [{
-			tag: {
-				Quality: {
-					Name: "quality.springy.name",
-					Color: "blue",
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					AttributeModifiers: [{
-						Amount: 0.5d,
-						AttributeName: "potioncore.jumpHeight",
-						Operation: 0,
-						UUIDMost: 3548559398986074884L,
-						UUIDLeast: -8752430958936876055L,
-						Name: "qualitytools"
-					}]
-				}
-			},
-			id: "mod_lavacow:dreamcatcher"
+			item: "mod_lavacow:dreamcatcher"
 		}],
 		ignore_damage: 1b,
 		ignore_nbt: 1b

@@ -1,0 +1,22 @@
+{
+	x: 13.0d,
+	y: -0.5d,
+	dependencies: [
+		"f6102455",
+		"e5a7b19d"
+	],
+	tasks: [{
+		uid: "1c82811f",
+		type: "item",
+		items: [{
+			item: "arcanearchives:scepter_manipulation"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ab6d1e6c",
+		type: "random",
+		table: 7
+	}]
+}

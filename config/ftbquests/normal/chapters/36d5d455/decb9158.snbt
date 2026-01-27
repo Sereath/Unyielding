@@ -1,0 +1,24 @@
+{
+	x: 12.0d,
+	y: -3.5d,
+	description: "§6Arcane Archives",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "478cb02b",
+		type: "item",
+		items: [{
+			tag: {
+				Book: "arcanearchives:xml/tome.xml"
+			},
+			id: "arcanearchives:tome_arcana"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8586a84f",
+		type: "random",
+		table: 7
+	}]
+}

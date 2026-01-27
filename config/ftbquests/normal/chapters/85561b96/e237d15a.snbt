@@ -6,22 +6,7 @@
 		type: "item",
 		items: [{
 			tag: {
-				HideFlags: 2,
-				Quality: {
-					Name: "quality.arcane.name",
-					Color: "blue",
-					Slots: [
-						"offhand"
-					],
-					AttributeModifiers: [{
-						Amount: 1.0d,
-						AttributeName: "potioncore.magicShielding",
-						Operation: 0,
-						UUIDMost: -7622891332298062596L,
-						UUIDLeast: -6854367528931448480L,
-						Name: "qualitytools"
-					}]
-				}
+				HideFlags: 2
 			},
 			id: "bountifulbaubles:shieldcobalt"
 		}],

@@ -8,33 +8,7 @@
 		uid: "6d74cb43",
 		type: "item",
 		items: [{
-			tag: {
-				Quality: {
-					Name: "quality.athletic.name",
-					Color: "aqua",
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					AttributeModifiers: [{
-						Amount: 0.05000000074505806d,
-						AttributeName: "generic.movementSpeed",
-						Operation: 2,
-						UUIDMost: 1315443974414748614L,
-						UUIDLeast: -7593845433096930409L,
-						Name: "qualitytools"
-					},
-					{
-						Amount: 0.5d,
-						AttributeName: "potioncore.jumpHeight",
-						Operation: 0,
-						UUIDMost: 8419510373092052191L,
-						UUIDLeast: -8881349395115061056L,
-						Name: "qualitytools"
-					}]
-				}
-			},
-			id: "bountifulbaubles:amuletsinpride"
+			item: "bountifulbaubles:amuletsinpride"
 		}],
 		ignore_damage: 1b,
 		ignore_nbt: 1b

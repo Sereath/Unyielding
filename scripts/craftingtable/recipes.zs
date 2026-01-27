@@ -327,6 +327,8 @@ recipes.removeByRecipeName("srpmeshi:living_boots");
 recipes.remove(<elenaidodge2:iron_feather>);
 recipes.remove(<elenaidodge2:golden_feather>);
 
+recipes.remove(<arcanearchives:radiant_crafting_table>);
+
 recipes.addShapeless(
     <unyielding:copper>,
     [<ancientwarfarenpc:coin>.withTag({metal: "copper"})]

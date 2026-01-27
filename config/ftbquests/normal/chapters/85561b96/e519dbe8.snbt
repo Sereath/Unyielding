@@ -5,25 +5,7 @@
 		uid: "983a7c45",
 		type: "item",
 		items: [{
-			tag: {
-				Quality: {
-					Name: "quality.focusing.name",
-					Color: "blue",
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					AttributeModifiers: [{
-						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.magicDamage",
-						Operation: 2,
-						UUIDMost: -8855766858334648407L,
-						UUIDLeast: -8201017573697859203L,
-						Name: "qualitytools"
-					}]
-				}
-			},
-			id: "bountifulbaubles:trinketballoon"
+			item: "bountifulbaubles:trinketballoon"
 		}],
 		ignore_damage: 1b,
 		ignore_nbt: 1b

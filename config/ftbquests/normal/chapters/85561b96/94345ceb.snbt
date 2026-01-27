@@ -5,10 +5,7 @@
 		uid: "7eb49741",
 		type: "item",
 		items: [{
-			tag: {
-				Quality: {}
-			},
-			id: "bountifulbaubles:trinketblackdragonscale"
+			item: "bountifulbaubles:trinketblackdragonscale"
 		}],
 		ignore_damage: 1b,
 		ignore_nbt: 1b

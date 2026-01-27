@@ -8,10 +8,7 @@
 		uid: "a94b6347",
 		type: "item",
 		items: [{
-			tag: {
-				Quality: {}
-			},
-			id: "bountifulbaubles:amuletsinwrath"
+			item: "bountifulbaubles:amuletsinwrath"
 		}],
 		ignore_damage: 1b,
 		ignore_nbt: 1b

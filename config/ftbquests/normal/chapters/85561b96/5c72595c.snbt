@@ -1,6 +1,9 @@
 {
 	x: 13.5d,
 	y: -10.5d,
+	dependencies: [
+		"c3f5062f"
+	],
 	tasks: [{
 		uid: "d1d8d99e",
 		type: "item",
@@ -9,33 +12,6 @@
 				Parent: {
 					amount: 0
 				}
-			},
-			tag: {
-				Quality: {
-					Name: "quality.athletic.name",
-					Color: "aqua",
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					AttributeModifiers: [{
-						Amount: 0.05000000074505806d,
-						AttributeName: "generic.movementSpeed",
-						Operation: 2,
-						UUIDMost: 4295663612158822629L,
-						UUIDLeast: -7496657910745505253L,
-						Name: "qualitytools"
-					},
-					{
-						Amount: 0.5d,
-						AttributeName: "potioncore.jumpHeight",
-						Operation: 0,
-						UUIDMost: -6074485305205964310L,
-						UUIDLeast: -4853301974492429624L,
-						Name: "qualitytools"
-					}]
-				},
-				energyAmount: 0
 			},
 			id: "bountifulbaubles:ringflywheeladvanced"
 		}],

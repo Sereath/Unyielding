@@ -1,0 +1,19 @@
+{
+	x: 16.5d,
+	y: -6.0d,
+	dependencies: [
+		"b39dcd63"
+	],
+	tasks: [{
+		uid: "3738637e",
+		type: "item",
+		items: [{
+			item: "arcanearchives:radiant_lantern"
+		}]
+	}],
+	rewards: [{
+		uid: "b4758f16",
+		type: "random",
+		table: 7
+	}]
+}

@@ -5,25 +5,7 @@
 		uid: "411c5353",
 		type: "item",
 		items: [{
-			tag: {
-				Quality: {
-					Name: "quality.unlucky.name",
-					Color: "red",
-					Slots: [
-						"baubles_trinket",
-						"offhand"
-					],
-					AttributeModifiers: [{
-						Amount: -0.20000000298023224d,
-						AttributeName: "generic.luck",
-						Operation: 0,
-						UUIDMost: -2058068260118641594L,
-						UUIDLeast: -4800712455516322008L,
-						Name: "qualitytools"
-					}]
-				}
-			},
-			id: "bountifulbaubles:trinketobsidianskull"
+			item: "bountifulbaubles:trinketobsidianskull"
 		}],
 		ignore_damage: 1b,
 		ignore_nbt: 1b
