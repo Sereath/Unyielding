@@ -735,50 +735,6 @@
 		"dimension": 3,
 		"mobs":	[
 			{
-				"mob": "lycanitesmobs:ent",
-				"weight": 40,
-				"groupcountmin": 1,
-				"groupcountmax": 1
-			}
-		]
-	},
-	{
-		"dimension": 3,
-		"mobs":	[
-			{
-				"mob": "lycanitesmobs:tpumpkyn",
-				"weight": 40,
-				"groupcountmin": 1,
-				"groupcountmax": 1
-			}
-		]
-	},
-	{
-		"dimension": 3,
-		"mobs":	[
-			{
-				"mob": "lycanitesmobs:triffid",
-				"weight": 40,
-				"groupcountmin": 1,
-				"groupcountmax": 1
-			}
-		]
-	},
-	{
-		"dimension": 3,
-		"mobs":	[
-			{
-				"mob": "lycanitesmobs:shambler",
-				"weight": 40,
-				"groupcountmin": 1,
-				"groupcountmax": 1
-			}
-		]
-	},
-	{
-		"dimension": 3,
-		"mobs":	[
-			{
 				"mob": "lycanitesmobs:remobra",
 				"weight": 40,
 				"groupcountmin": 1,
@@ -901,52 +857,8 @@
 		"dimension": 5,
 		"mobs":	[
 			{
-				"mob": "lycanitesmobs:belph",
-				"weight": 40,
-				"groupcountmin": 1,
-				"groupcountmax": 1
-			}
-		]
-	},
-	{
-		"dimension": 5,
-		"mobs":	[
-			{
-				"mob": "lycanitesmobs:pinky",
-				"weight": 30,
-				"groupcountmin": 1,
-				"groupcountmax": 1
-			}
-		]
-	},
-	{
-		"dimension": 5,
-		"mobs":	[
-			{
-				"mob": "lycanitesmobs:behemoth",
-				"weight": 10,
-				"groupcountmin": 1,
-				"groupcountmax": 1
-			}
-		]
-	},
-	{
-		"dimension": 5,
-		"mobs":	[
-			{
 				"mob": "lycanitesmobs:vorach",
 				"weight": 20,
-				"groupcountmin": 1,
-				"groupcountmax": 1
-			}
-		]
-	},
-	{
-		"dimension": 5,
-		"mobs":	[
-			{
-				"mob": "lycanitesmobs:archvile",
-				"weight": 5,
 				"groupcountmin": 1,
 				"groupcountmax": 1
 			}
@@ -959,6 +871,31 @@
 			{
 				"mob": "lycanitesmobs:dweller",
 				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+
+	//theaurorian
+
+	{
+		"dimension": 3,
+		"mobs":	[
+			{
+				"mob": "theaurorian:disturbedhollow",
+				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
+	{
+		"dimension": 3,
+		"mobs":	[
+			{
+				"mob": "theaurorian:spirit",
+				"weight": 10,
 				"groupcountmin": 1,
 				"groupcountmax": 1
 			}

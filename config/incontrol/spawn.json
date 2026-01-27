@@ -931,7 +931,7 @@
 	//abyss
 	{
 		"dimension": 3,
-		"mob": ["lycanitesmobs:ent","lycanitesmobs:tpumpkyn","lycanitesmobs:triffid","lycanitesmobs:shambler","lycanitesmobs:remobra","lycanitesmobs:aspid","lycanitesmobs:calpod","lycanitesmobs:eyewig","lycanitesmobs:lurker","lycanitesmobs:gorgomite"],
+		"mob": ["lycanitesmobs:remobra","lycanitesmobs:aspid","lycanitesmobs:calpod","lycanitesmobs:eyewig","lycanitesmobs:lurker","lycanitesmobs:gorgomite"],
 		"random": 0.05,
 		"maxlight": 7,
 		"minlight": 0,
@@ -944,13 +944,13 @@
 	},
 	{
 		"dimension": 3,
-		"mob": ["lycanitesmobs:ent","lycanitesmobs:tpumpkyn","lycanitesmobs:triffid","lycanitesmobs:shambler","lycanitesmobs:remobra","lycanitesmobs:aspid","lycanitesmobs:calpod","lycanitesmobs:eyewig","lycanitesmobs:lurker","lycanitesmobs:gorgomite"],
+		"mob": ["lycanitesmobs:remobra","lycanitesmobs:aspid","lycanitesmobs:calpod","lycanitesmobs:eyewig","lycanitesmobs:lurker","lycanitesmobs:gorgomite"],
 		"result": "deny"
 	},
 	//under
 	{
 		"dimension": 5,
-		"mob": ["lycanitesmobs:necrovore","lycanitesmobs:gnekk","lycanitesmobs:cacodemon","lycanitesmobs:astaroth","lycanitesmobs:trite","lycanitesmobs:belph","lycanitesmobs:pinky","lycanitesmobs:behemoth","lycanitesmobs:vorach","lycanitesmobs:archvile"],
+		"mob": ["lycanitesmobs:necrovore","lycanitesmobs:gnekk","lycanitesmobs:cacodemon","lycanitesmobs:astaroth","lycanitesmobs:trite","lycanitesmobs:vorach"],
 		"random": 0.05,
 		"maxlight": 7,
 		"minlight": 0,
@@ -963,7 +963,7 @@
 	},
 	{
 		"dimension": 5,
-		"mob": ["lycanitesmobs:necrovore","lycanitesmobs:gnekk","lycanitesmobs:cacodemon","lycanitesmobs:astaroth","lycanitesmobs:trite","lycanitesmobs:belph","lycanitesmobs:pinky","lycanitesmobs:behemoth","lycanitesmobs:vorach","lycanitesmobs:archvile"],
+		"mob": ["lycanitesmobs:necrovore","lycanitesmobs:gnekk","lycanitesmobs:cacodemon","lycanitesmobs:astaroth","lycanitesmobs:trite","lycanitesmobs:vorach"],
 		"result": "deny"
 	},
 	//chasm
@@ -983,6 +983,27 @@
 	{
 		"dimension": 7,
 		"mob": "lycanitesmobs:dweller",
+		"result": "deny"
+	},
+
+	//theaurorian
+
+	{
+		"dimension": 3,
+		"mob": ["theaurorian:disturbedhollow","theaurorian:spirit"],
+		"random": 0.05,
+		"maxlight": 7,
+		"minlight": 0,
+		"maxheight": 192,
+		"maxcount":	{
+			"amount": 5,
+			"perchunk": true
+		},
+		"result": "allow"
+	},
+	{
+		"dimension": 3,
+		"mob": ["theaurorian:disturbedhollow","theaurorian:spirit"],
 		"result": "deny"
 	},
 

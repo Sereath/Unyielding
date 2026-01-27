@@ -23,6 +23,18 @@ val armourList = [
     <theaurorian:auroriansteelchestplate>,
     <theaurorian:auroriansteelleggings>,
     <theaurorian:auroriansteelboots>,
+    <theaurorian:ceruleanhelmet>,
+    <theaurorian:ceruleanchestplate>,
+    <theaurorian:ceruleanleggings>,
+    <theaurorian:ceruleanboots>,
+    <theaurorian:knighthelmet>,
+    <theaurorian:knightchestplate>,
+    <theaurorian:knightleggings>,
+    <theaurorian:knightboots>,
+    <theaurorian:spectralhelmet>,
+    <theaurorian:spectralchestplate>,
+    <theaurorian:spectralleggings>,
+    <theaurorian:spectralboots>,
     <mutantbeasts:mutant_skeleton_skull>,
     <mutantbeasts:mutant_skeleton_chestplate>,
     <mutantbeasts:mutant_skeleton_leggings>,
@@ -361,7 +373,8 @@ val armourList = [
     <ebwizardry:warlock_robe_healing>,
     <ebwizardry:warlock_leggings_healing>,
     <ebwizardry:warlock_boots_healing>,
-    <ancientspellcraft:devoritium_chestplate>
+    <ancientspellcraft:devoritium_chestplate>,
+    <theaurorian:spikedchestplate>
 ] as IItemStack[];
 
 for armour in armourList {
