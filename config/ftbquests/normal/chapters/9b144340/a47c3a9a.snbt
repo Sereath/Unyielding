@@ -1,5 +1,5 @@
 {
-	title: "§3Survival",
+	title: "§3Tips",
 	icon: "thermalfoundation:tool.sword_bronze",
 	x: 0.0d,
 	y: -1.5d,
@@ -36,7 +36,7 @@
 	rewards: [{
 		uid: "84d776e1",
 		type: "loot",
-		table: 3
+		table: 6
 	},
 	{
 		uid: "b004e5f5",

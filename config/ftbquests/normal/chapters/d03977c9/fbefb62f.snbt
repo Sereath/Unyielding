@@ -23,7 +23,7 @@
 	rewards: [{
 		uid: "126d1bba",
 		type: "random",
-		table: 6
+		table: 5
 	},
 	{
 		uid: "001af91f",
@@ -37,8 +37,8 @@
 				TrophyShowsTooltip: 0b,
 				TrophyItem: {
 					id: "techguns:nucleardeathray",
-					Damage: 0s,
-					Count: 1b
+					Count: 1b,
+					Damage: 0s
 				},
 				TrophyName: ""
 			},

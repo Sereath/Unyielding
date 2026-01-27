@@ -14,6 +14,6 @@
 	rewards: [{
 		uid: "97fb5f69",
 		type: "random",
-		table: 7
+		table: 6
 	}]
 }

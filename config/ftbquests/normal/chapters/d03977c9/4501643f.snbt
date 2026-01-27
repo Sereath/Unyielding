@@ -15,7 +15,7 @@
 	rewards: [{
 		uid: "c2210063",
 		type: "random",
-		table: 6
+		table: 5
 	},
 	{
 		uid: "dfb9f93b",
@@ -29,8 +29,8 @@
 				TrophyShowsTooltip: 0b,
 				TrophyItem: {
 					id: "srparasites:weapon_lance_sentient",
-					Damage: 0s,
-					Count: 1b
+					Count: 1b,
+					Damage: 0s
 				},
 				TrophyName: ""
 			},

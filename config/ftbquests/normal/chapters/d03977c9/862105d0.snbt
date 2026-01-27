@@ -14,7 +14,7 @@
 	rewards: [{
 		uid: "17039f39",
 		type: "random",
-		table: 6
+		table: 5
 	},
 	{
 		uid: "6a797934",
@@ -28,8 +28,8 @@
 				TrophyShowsTooltip: 0b,
 				TrophyItem: {
 					id: "mowziesmobs:wrought_axe",
-					Damage: 0s,
-					Count: 1b
+					Count: 1b,
+					Damage: 0s
 				},
 				TrophyVariant: "neon"
 			},

@@ -36,11 +36,11 @@
 	rewards: [{
 		uid: "f776f03c",
 		type: "loot",
-		table: 4
+		table: 3
 	},
 	{
 		uid: "b6f9473b",
 		type: "choice",
-		table: 5
+		table: 4
 	}]
 }

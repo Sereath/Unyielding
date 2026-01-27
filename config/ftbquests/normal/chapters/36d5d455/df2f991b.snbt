@@ -9,8 +9,8 @@
 		type: "item",
 		items: [{
 			tag: {
-				npcType: "trader",
-				npcSubtype: ""
+				npcSubtype: "",
+				npcType: "trader"
 			},
 			id: "ancientwarfarenpc:npc_spawner"
 		}]
@@ -18,6 +18,6 @@
 	rewards: [{
 		uid: "0ddedb3b",
 		type: "random",
-		table: 7
+		table: 6
 	}]
 }

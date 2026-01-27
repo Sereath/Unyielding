@@ -16,7 +16,7 @@
 	rewards: [{
 		uid: "0d861d6f",
 		type: "random",
-		table: 6
+		table: 5
 	},
 	{
 		uid: "02310fbc",
@@ -30,8 +30,8 @@
 				TrophyShowsTooltip: 0b,
 				TrophyItem: {
 					id: "iceandfire:dread_queen_sword",
-					Damage: 0s,
-					Count: 1b
+					Count: 1b,
+					Damage: 0s
 				},
 				TrophyName: ""
 			},

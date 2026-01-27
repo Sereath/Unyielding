@@ -15,7 +15,7 @@
 	rewards: [{
 		uid: "59a8e8d6",
 		type: "random",
-		table: 6
+		table: 5
 	},
 	{
 		uid: "98be21e9",
@@ -29,8 +29,8 @@
 				TrophyShowsTooltip: 0b,
 				TrophyItem: {
 					id: "srparasites:weapon_scythe_sentient",
-					Damage: 0s,
-					Count: 1b
+					Count: 1b,
+					Damage: 0s
 				},
 				TrophyName: ""
 			},

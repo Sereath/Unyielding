@@ -11,8 +11,8 @@
 			tag: {
 				textureBlock: {
 					id: "thermalfoundation:storage",
-					Damage: 7s,
-					Count: 1b
+					Count: 1b,
+					Damage: 7s
 				}
 			},
 			id: "conarm:armorforge"
@@ -22,6 +22,6 @@
 	rewards: [{
 		uid: "126924e5",
 		type: "random",
-		table: 7
+		table: 6
 	}]
 }

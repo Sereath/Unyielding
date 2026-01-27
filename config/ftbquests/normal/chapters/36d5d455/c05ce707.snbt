@@ -9,8 +9,8 @@
 		type: "item",
 		items: [{
 			tag: {
-				npcType: "bard",
-				npcSubtype: ""
+				npcSubtype: "",
+				npcType: "bard"
 			},
 			id: "ancientwarfarenpc:npc_spawner"
 		}]
@@ -18,6 +18,6 @@
 	rewards: [{
 		uid: "1bf75f4c",
 		type: "random",
-		table: 7
+		table: 6
 	}]
 }

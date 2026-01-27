@@ -9,8 +9,8 @@
 		type: "item",
 		items: [{
 			tag: {
-				npcType: "combat",
-				npcSubtype: ""
+				npcSubtype: "",
+				npcType: "combat"
 			},
 			id: "ancientwarfarenpc:npc_spawner"
 		}]
@@ -18,6 +18,6 @@
 	rewards: [{
 		uid: "b722fcb1",
 		type: "random",
-		table: 7
+		table: 6
 	}]
 }

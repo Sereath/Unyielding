@@ -5,22 +5,10 @@
 		item: "spartanweaponry:saber_copper"
 	},
 	{
-		item: "spartanweaponry:battleaxe_copper"
-	},
-	{
-		item: "spartanweaponry:greatsword_copper"
-	},
-	{
 		item: "cqrepoured:staff_healing"
 	},
 	{
 		item: "mysticbows:bow"
-	},
-	{
-		item: "mysticbows:quick_bow"
-	},
-	{
-		item: "mysticbows:heavy_bow"
 	},
 	{
 		item: "grimoireofgaia:misc_experience 1 2"

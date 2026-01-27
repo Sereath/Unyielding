@@ -20,7 +20,7 @@
 	rewards: [{
 		uid: "6f2b5862",
 		type: "random",
-		table: 6
+		table: 5
 	},
 	{
 		uid: "20fb4322",
@@ -34,8 +34,8 @@
 				TrophyShowsTooltip: 0b,
 				TrophyItem: {
 					id: "theaurorian:trophyspider",
-					Damage: 0s,
-					Count: 1b
+					Count: 1b,
+					Damage: 0s
 				},
 				TrophyVariant: "gold"
 			},

@@ -20,7 +20,7 @@
 	rewards: [{
 		uid: "4ddc994d",
 		type: "random",
-		table: 6
+		table: 5
 	},
 	{
 		uid: "211f6f8b",
@@ -34,8 +34,8 @@
 				TrophyShowsTooltip: 0b,
 				TrophyItem: {
 					id: "theaurorian:trophymoonqueen",
-					Damage: 0s,
-					Count: 1b
+					Count: 1b,
+					Damage: 0s
 				},
 				TrophyVariant: "gold"
 			},

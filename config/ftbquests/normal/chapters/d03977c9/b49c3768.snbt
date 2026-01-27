@@ -15,7 +15,7 @@
 	rewards: [{
 		uid: "e38d5c4d",
 		type: "random",
-		table: 6
+		table: 5
 	},
 	{
 		uid: "a58bff1f",
@@ -29,8 +29,8 @@
 				TrophyShowsTooltip: 0b,
 				TrophyItem: {
 					id: "srparasites:weapon_sword_sentient",
-					Damage: 0s,
-					Count: 1b
+					Count: 1b,
+					Damage: 0s
 				},
 				TrophyName: ""
 			},

@@ -14,7 +14,7 @@
 	rewards: [{
 		uid: "77e665fd",
 		type: "random",
-		table: 6
+		table: 5
 	},
 	{
 		uid: "5543579d",
@@ -28,8 +28,8 @@
 				TrophyShowsTooltip: 0b,
 				TrophyItem: {
 					id: "iceandfire:summoning_crystal_lightning",
-					Damage: 0s,
-					Count: 1b
+					Count: 1b,
+					Damage: 0s
 				},
 				TrophyName: ""
 			},

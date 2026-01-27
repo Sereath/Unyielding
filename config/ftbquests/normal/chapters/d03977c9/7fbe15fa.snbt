@@ -19,7 +19,7 @@
 	rewards: [{
 		uid: "27a058de",
 		type: "random",
-		table: 6
+		table: 5
 	},
 	{
 		uid: "00175b00",
@@ -33,8 +33,8 @@
 				TrophyShowsTooltip: 0b,
 				TrophyItem: {
 					id: "da:king_helmet",
-					Damage: 0s,
-					Count: 1b
+					Count: 1b,
+					Damage: 0s
 				},
 				TrophyName: ""
 			},

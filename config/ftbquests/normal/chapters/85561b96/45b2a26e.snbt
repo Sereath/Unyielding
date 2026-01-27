@@ -51,6 +51,6 @@
 	rewards: [{
 		uid: "49523fba",
 		type: "random",
-		table: 7
+		table: 6
 	}]
 }

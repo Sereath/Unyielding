@@ -15,19 +15,19 @@
 					],
 					AttributeModifiers: [{
 						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.digSpeed",
+						Name: "qualitytools",
 						Operation: 2,
 						UUIDMost: -3657397572336923035L,
 						UUIDLeast: -7158414185296627567L,
-						Name: "qualitytools"
+						AttributeName: "potioncore.digSpeed"
 					},
 					{
 						Amount: 0.029999999329447746d,
-						AttributeName: "generic.attackSpeed",
+						Name: "qualitytools",
 						Operation: 2,
 						UUIDMost: 5984193887279991925L,
 						UUIDLeast: -7238935007118628212L,
-						Name: "qualitytools"
+						AttributeName: "generic.attackSpeed"
 					}]
 				}
 			},
@@ -39,6 +39,6 @@
 	rewards: [{
 		uid: "cd35aa0e",
 		type: "random",
-		table: 7
+		table: 6
 	}]
 }

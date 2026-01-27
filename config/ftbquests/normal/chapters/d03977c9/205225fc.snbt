@@ -23,7 +23,7 @@
 	rewards: [{
 		uid: "2d92d9ca",
 		type: "random",
-		table: 6
+		table: 5
 	},
 	{
 		uid: "6047d825",
@@ -37,8 +37,8 @@
 				TrophyShowsTooltip: 0b,
 				TrophyItem: {
 					id: "techguns:tfg",
-					Damage: 0s,
-					Count: 1b
+					Count: 1b,
+					Damage: 0s
 				},
 				TrophyName: ""
 			},

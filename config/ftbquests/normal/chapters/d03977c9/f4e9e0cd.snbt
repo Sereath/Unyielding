@@ -15,7 +15,7 @@
 	rewards: [{
 		uid: "59082bd4",
 		type: "random",
-		table: 6
+		table: 5
 	},
 	{
 		uid: "0a18261f",
@@ -29,8 +29,8 @@
 				TrophyShowsTooltip: 0b,
 				TrophyItem: {
 					id: "srparasites:weapon_cleaver_sentient",
-					Damage: 0s,
-					Count: 1b
+					Count: 1b,
+					Damage: 0s
 				},
 				TrophyName: ""
 			},
