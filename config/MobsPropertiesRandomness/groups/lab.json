@@ -1,0 +1,8 @@
+{
+    "name": "lab",
+    "mobs": [
+        "minecraft:zombie",
+        "techguns:zombiesoldier",
+        "techguns:skeletonsoldier"
+    ]
+}

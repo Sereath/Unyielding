@@ -276,6 +276,7 @@ val weaponsList = [
     <progressivecore:sword_orichalcum>,
     <progressivecore:sword_adamantite>,
     <progressivecore:magmatic_blade>,
+    <progressivecore:sword_obsidian>,
     <nyx:meteor_sword>,
     <nyx:meteor_hammer>,
     <nyx:scythe>,

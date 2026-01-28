@@ -1,0 +1,119 @@
+{
+  "group": "lab",
+  "equipment": {
+    "head": {
+      "chance": {
+        "amount": 20
+      },
+      "items": [
+        {
+          "id": "techguns:hazmat_helmet",
+          "weight": 1,
+          "dimensions": [10],
+          "drop_chance": 1
+        },
+        {
+          "id": "nuclearcraft:helm_hazmat",
+          "weight": 1,
+          "dimensions": [10],
+          "drop_chance": 1
+        }
+      ]
+    },
+    "chest": {
+      "chance": {
+        "amount": 40
+      },
+      "items": [
+        {
+          "id": "techguns:hazmat_chestplate",
+          "weight": 1,
+          "dimensions": [10],
+          "drop_chance": 1
+        },
+        {
+          "id": "nuclearcraft:chest_hazmat",
+          "weight": 1,
+          "dimensions": [10],
+          "drop_chance": 1
+        }
+      ]
+    },
+    "legs": {
+      "chance": {
+        "amount": 60
+      },
+      "items": [
+        {
+          "id": "techguns:hazmat_leggings",
+          "weight": 1,
+          "dimensions": [10],
+          "drop_chance": 1
+        },
+        {
+          "id": "nuclearcraft:legs_hazmat",
+          "weight": 1,
+          "dimensions": [10],
+          "drop_chance": 1
+        }
+      ]
+    },
+    "feets": {
+      "chance": {
+        "amount": 80
+      },
+      "items": [
+        {
+          "id": "techguns:hazmat_boots",
+          "weight": 1,
+          "dimensions": [10],
+          "drop_chance": 1
+        },
+        {
+          "id": "nuclearcraft:boots_hazmat",
+          "weight": 1,
+          "dimensions": [10],
+          "drop_chance": 1
+        }
+      ]
+    },
+    "main_hand": {
+      "chance": {
+        "amount": 10
+      },
+      "items": [
+        {
+          "id": "techguns:crowbar",
+          "weight": 1,
+          "dimensions": [10],
+          "drop_chance": 1
+        },
+        {
+          "id": "actuallyadditions:item_laser_wrench",
+          "weight": 1,
+          "dimensions": [10],
+          "drop_chance": 1
+        }
+      ]
+    },
+    "off_hand": {
+      "chance": {
+        "amount": 10
+      },
+      "items": [
+        {
+          "id": "techguns:crowbar",
+          "weight": 1,
+          "dimensions": [10],
+          "drop_chance": 1
+        },
+        {
+          "id": "actuallyadditions:item_laser_wrench",
+          "weight": 1,
+          "dimensions": [10],
+          "drop_chance": 1
+        }
+      ]
+    }
+  }
+}

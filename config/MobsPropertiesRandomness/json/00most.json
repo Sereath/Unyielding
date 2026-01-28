@@ -1,0 +1,329 @@
+{
+  "group": "zombies",
+  "equipment": {
+    "head": {
+      "chance": {
+        "amount": 20
+      },
+      "items": [
+        {
+          "id": "progressivecore:helmet_wood",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "minecraft:iron_helmet",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "cqrepoured:helmet_iron_dyable",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "cqrepoured:helmet_heavy_iron",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "progressivecore:helmet_obsidian",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        }
+      ]
+    },
+    "chest": {
+      "chance": {
+        "amount": 40
+      },
+      "items": [
+        {
+          "id": "progressivecore:chestplate_wood",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "minecraft:iron_chestplate",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "cqrepoured:chestplate_iron_dyable",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "cqrepoured:chestplate_heavy_iron",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "progressivecore:chestplate_obsidian",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        }
+      ]
+    },
+    "legs": {
+      "chance": {
+        "amount": 60
+      },
+      "items": [
+        {
+          "id": "progressivecore:leggings_wood",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "minecraft:iron_leggings",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "cqrepoured:leggings_iron_dyable",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "cqrepoured:leggings_heavy_iron",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "progressivecore:leggings_obsidian",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        }
+      ]
+    },
+    "feets": {
+      "chance": {
+        "amount": 80
+      },
+      "items": [
+        {
+          "id": "progressivecore:boots_wood",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "minecraft:iron_boots",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "cqrepoured:boots_iron_dyable",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "cqrepoured:boots_heavy_iron",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "progressivecore:boots_obsidian",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        }
+      ]
+    },
+    "main_hand": {
+      "chance": {
+        "amount": 10
+      },
+      "items": [
+        {
+          "id": "minecraft:wooden_sword",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "minecraft:wooden_axe",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "minecraft:wooden_pickaxe",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "minecraft:wooden_shovel",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "ancientwarfare:wooden_hammer",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "ancientwarfarenpc:wooden_cleaver",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "minecraft:stone_sword",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "minecraft:stone_axe",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "minecraft:stone_pickaxe",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "minecraft:stone_shovel",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "ancientwarfare:stone_hammer",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "ancientwarfarenpc:stone_cleaver",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "minecraft:iron_sword",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "minecraft:iron_axe",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "minecraft:iron_pickaxe",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "minecraft:iron_shovel",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "ancientwarfare:iron_hammer",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "ancientwarfarenpc:iron_cleaver",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "cqrepoured:spear_iron",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "cqrepoured:great_sword_iron",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "progressivecore:sword_obsidian",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "progressivecore:axe_obsidian",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "progressivecore:pickaxe_obsidian",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "progressivecore:shovel_obsidian",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "ancientwarfarenpc:obsidian_spear",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        }
+      ]
+    },
+    "off_hand": {
+      "chance": {
+        "amount": 10
+      },
+      "items": [
+        {
+          "id": "minecraft:rotten_flesh",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        },
+        {
+          "id": "mod_lavacow:intestine",
+          "weight": 1,
+          "dimensions": [0,3,5,7],
+          "drop_chance": 1
+        }
+      ]
+    }
+  }
+}

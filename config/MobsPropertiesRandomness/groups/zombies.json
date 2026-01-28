@@ -1,0 +1,6 @@
+{
+    "name": "zombies",
+    "mobs": [
+        "minecraft:zombie"
+    ]
+}
