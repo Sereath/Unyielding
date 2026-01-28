@@ -6,9 +6,6 @@
 	text: [
 		"Maximum HP can be increased in a number of ways, in addition to these hearts."
 	],
-	dependencies: [
-		"a47c3a9a"
-	],
 	tasks: [{
 		uid: "a12bad7a",
 		type: "item",

@@ -6,10 +6,6 @@
 	text: [
 		"Watch out for certain mobs, they destroy beds."
 	],
-	hide_dependency_lines: 1b,
-	dependencies: [
-		"a47c3a9a"
-	],
 	tasks: [{
 		uid: "8484f574",
 		type: "item",

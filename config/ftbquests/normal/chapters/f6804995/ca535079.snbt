@@ -7,9 +7,6 @@
 		"Take some time to think about",
 		"how you travel."
 	],
-	dependencies: [
-		"a47c3a9a"
-	],
 	tasks: [{
 		uid: "cf129039",
 		type: "item",

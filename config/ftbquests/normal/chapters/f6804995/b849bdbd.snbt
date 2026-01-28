@@ -6,9 +6,6 @@
 	text: [
 		"These alluring objects are quite valuable."
 	],
-	dependencies: [
-		"a47c3a9a"
-	],
 	tasks: [{
 		uid: "69e4936e",
 		type: "item",

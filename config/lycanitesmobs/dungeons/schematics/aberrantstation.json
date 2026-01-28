@@ -193,7 +193,9 @@
           "amountMultiplier": false
         },
         {
-          "item": "lycanitesmobs:soulstone_aberration",
+          "item": "unyielding:opulent",
+          "minAmount": 2,
+          "maxAmount": 6,
           "amountMultiplier": false,
           "bonusAmount": false
         },
@@ -262,7 +264,9 @@
           "amountMultiplier": false
         },
         {
-          "item": "lycanitesmobs:soulstone_aberration",
+          "item": "unyielding:opulent",
+          "minAmount": 4,
+          "maxAmount": 12,
           "amountMultiplier": false,
           "bonusAmount": false
         },

@@ -1,10 +1,10 @@
 {
-	title: "§3Tips",
+	title: "§3Tips I",
 	icon: "thermalfoundation:tool.axe_bronze",
 	x: -1.0d,
 	y: -3.0d,
 	shape: "diamond",
-	description: "§aRead this I",
+	description: "§aImportant",
 	text: [
 		"		Press J to view the progression guide.",
 		"",
@@ -14,18 +14,18 @@
 	],
 	size: 1.5d,
 	tasks: [{
-		uid: "a6585693",
-		type: "checkmark",
-		title: "Tips",
-		icon: "minecraft:stone_axe"
-	},
-	{
 		uid: "3ae30510",
 		type: "item",
+		disable_toast: 1b,
 		items: [{
 			item: "unyielding:trace1"
 		}],
 		consume_items: 1b
+	},
+	{
+		uid: "e96d1ffa",
+		type: "checkmark",
+		disable_toast: 1b
 	}],
 	rewards: [{
 		uid: "98220a9b",

@@ -1,10 +1,10 @@
 {
-	title: "§3Tips",
+	title: "§3Tips III",
 	icon: "thermalfoundation:tool.sword_bronze",
 	x: 0.0d,
 	y: -1.5d,
 	shape: "diamond",
-	description: "§aRead this III",
+	description: "§aImportant",
 	text: [
 		"		Natural regeneration is disabled.",
 		"",
@@ -20,18 +20,18 @@
 	],
 	size: 1.5d,
 	tasks: [{
-		uid: "55cdf06e",
-		type: "checkmark",
-		title: "Tips",
-		icon: "minecraft:stone_sword"
-	},
-	{
 		uid: "cab7d658",
 		type: "item",
+		disable_toast: 1b,
 		items: [{
-			item: "unyielding:trace2"
+			item: "unyielding:trace3"
 		}],
 		consume_items: 1b
+	},
+	{
+		uid: "a08a21a7",
+		type: "checkmark",
+		disable_toast: 1b
 	}],
 	rewards: [{
 		uid: "84d776e1",

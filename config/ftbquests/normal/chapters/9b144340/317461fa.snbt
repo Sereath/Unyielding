@@ -1,17 +1,18 @@
 {
+	icon: {
+		tag: {},
+		id: "improvedbackpacks:backpack"
+	},
 	x: -2.0d,
 	y: -4.5d,
 	description: "§8Soulbound",
 	text: [
 		"Proper planning is essential for your journeys."
 	],
-	hide_dependency_lines: 1b,
-	dependencies: [
-		"a47c3a9a"
-	],
 	tasks: [{
 		uid: "5983a416",
 		type: "item",
+		disable_toast: 1b,
 		items: [{
 			tag: {
 				Quality: {
@@ -22,27 +23,27 @@
 					],
 					AttributeModifiers: [{
 						Amount: -1.0d,
-						Name: "qualitytools",
+						AttributeName: "generic.armorToughness",
 						Operation: 0,
 						UUIDMost: -8130910003825588199L,
 						UUIDLeast: -5693342113614746093L,
-						AttributeName: "generic.armorToughness"
+						Name: "qualitytools"
 					},
 					{
 						Amount: -1.5d,
-						Name: "qualitytools",
+						AttributeName: "generic.armor",
 						Operation: 0,
 						UUIDMost: -8333971175381774875L,
 						UUIDLeast: -6716549036144533141L,
-						AttributeName: "generic.armor"
+						Name: "qualitytools"
 					},
 					{
 						Amount: -1.0d,
-						Name: "qualitytools",
+						AttributeName: "potioncore.magicShielding",
 						Operation: 0,
 						UUIDMost: 576676492356308067L,
 						UUIDLeast: -7819420129498468310L,
-						AttributeName: "potioncore.magicShielding"
+						Name: "qualitytools"
 					}]
 				}
 			},
@@ -50,6 +51,11 @@
 		}],
 		ignore_damage: 1b,
 		ignore_nbt: 1b
+	},
+	{
+		uid: "2734957b",
+		type: "checkmark",
+		disable_toast: 1b
 	}],
 	rewards: [{
 		uid: "a29bdd59",

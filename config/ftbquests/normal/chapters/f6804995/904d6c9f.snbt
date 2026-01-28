@@ -6,9 +6,6 @@
 		"type of backpack.",
 		"You will likely want one."
 	],
-	dependencies: [
-		"a47c3a9a"
-	],
 	tasks: [{
 		uid: "9838f56f",
 		type: "item",

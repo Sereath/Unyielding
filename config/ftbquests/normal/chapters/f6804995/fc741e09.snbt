@@ -6,9 +6,6 @@
 	text: [
 		"A very handy map."
 	],
-	dependencies: [
-		"a47c3a9a"
-	],
 	tasks: [{
 		uid: "0cec5f95",
 		type: "item",

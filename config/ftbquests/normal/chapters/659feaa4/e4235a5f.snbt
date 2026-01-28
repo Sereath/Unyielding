@@ -1,10 +1,10 @@
 {
-	title: "§3Tips",
+	title: "§3Tips II",
 	icon: "thermalfoundation:tool.pickaxe_bronze",
 	x: 1.0d,
 	y: -3.0d,
 	shape: "diamond",
-	description: "§aRead this II",
+	description: "§aImportant",
 	text: [
 		"		No more lava bucketing everything without risk, get some tongs or mitts before doing so.",
 		"",
@@ -20,18 +20,18 @@
 	],
 	size: 1.5d,
 	tasks: [{
-		uid: "73a8573f",
-		type: "checkmark",
-		title: "Tips",
-		icon: "minecraft:stone_pickaxe"
-	},
-	{
 		uid: "b0218f1c",
 		type: "item",
+		disable_toast: 1b,
 		items: [{
-			item: "unyielding:trace3"
+			item: "unyielding:trace2"
 		}],
 		consume_items: 1b
+	},
+	{
+		uid: "8540df80",
+		type: "checkmark",
+		disable_toast: 1b
 	}],
 	rewards: [{
 		uid: "f776f03c",

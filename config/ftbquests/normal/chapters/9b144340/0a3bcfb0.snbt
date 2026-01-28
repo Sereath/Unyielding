@@ -7,7 +7,7 @@
 	x: 2.25d,
 	y: -6.75d,
 	shape: "diamond",
-	description: "§aRead this IV",
+	description: "§aImportant",
 	text: [
 		"		Try to not go mad.",
 		"",
@@ -16,10 +16,6 @@
 		"		We can all benefit from having a friend nearby. There's no reason to want to endure everything alone.",
 		"",
 		"		And don't forget to treat yourself."
-	],
-	hide_dependency_lines: 1b,
-	dependencies: [
-		"a47c3a9a"
 	],
 	size: 1.5d,
 	tasks: [{

@@ -6,9 +6,6 @@
 		"§o\"By far, these are the worst things I've encountered.",
 		"Something is very wrong. I still need answers, but I don't know if I should keep delving too greedily and too deep.\""
 	],
-	dependencies: [
-		"a47c3a9a"
-	],
 	hide_text_until_complete: 1b,
 	tasks: [{
 		uid: "f79cb2b9",

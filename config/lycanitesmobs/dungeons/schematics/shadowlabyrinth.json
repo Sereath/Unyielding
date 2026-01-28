@@ -176,7 +176,9 @@
           "amountMultiplier": false
         },
         {
-          "item": "lycanitesmobs:soulstone_aberration",
+          "item": "unyielding:gold",
+          "minAmount": 6,
+          "maxAmount": 24,
           "amountMultiplier": false,
           "bonusAmount": false
         },

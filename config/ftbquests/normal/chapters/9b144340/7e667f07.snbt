@@ -1,21 +1,26 @@
 {
 	title: "Coordinates",
+	icon: "minecraft:compass",
 	x: -1.0d,
 	y: -5.5d,
 	description: "§8Soulbound",
 	text: [
-		"On-screen coordinates."
-	],
-	hide_dependency_lines: 1b,
-	dependencies: [
-		"a47c3a9a"
+		"Handy coordinates."
 	],
 	tasks: [{
 		uid: "8e8431ca",
 		type: "item",
+		disable_toast: 1b,
 		items: [{
 			item: "minecraft:compass"
-		}]
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "079bc51b",
+		type: "checkmark",
+		disable_toast: 1b
 	}],
 	rewards: [{
 		uid: "35a162a9",

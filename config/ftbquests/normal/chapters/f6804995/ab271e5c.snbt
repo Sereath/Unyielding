@@ -5,9 +5,6 @@
 	text: [
 		"Most, if not all, types of equipment can be reforged using these gems."
 	],
-	dependencies: [
-		"a47c3a9a"
-	],
 	tasks: [{
 		uid: "a37d262d",
 		type: "item",

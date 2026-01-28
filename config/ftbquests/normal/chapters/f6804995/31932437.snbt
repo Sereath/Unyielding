@@ -1,5 +1,5 @@
 {
-	title: "§bThe Aurorian",
+	title: "§b§kThe Aurorian",
 	x: 2.0d,
 	y: -5.5d,
 	text: [
@@ -7,9 +7,6 @@
 		"",
 		"Ever since I made contact with one of these things, I've had a feeling that I should look for something",
 		"in the deep caves layer right below the overworld.\""
-	],
-	dependencies: [
-		"a47c3a9a"
 	],
 	hide_text_until_complete: 1b,
 	tasks: [{

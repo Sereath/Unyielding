@@ -8,9 +8,6 @@
 		"is cursed.",
 		"Do not make it your home."
 	],
-	dependencies: [
-		"a47c3a9a"
-	],
 	tasks: [{
 		uid: "12fa4fe8",
 		type: "item",
