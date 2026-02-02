@@ -11,8 +11,8 @@
 			tag: {
 				textureBlock: {
 					id: "thermalfoundation:storage",
-					Count: 1b,
-					Damage: 7s
+					Damage: 7s,
+					Count: 1b
 				}
 			},
 			id: "tconstruct:toolforge"

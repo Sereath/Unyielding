@@ -37,8 +37,8 @@
 				TrophyShowsTooltip: 0b,
 				TrophyItem: {
 					id: "techguns:nucleardeathray",
-					Damage: 0s,
-					Count: 1b
+					Count: 1b,
+					Damage: 0s
 				},
 				TrophyName: ""
 			},

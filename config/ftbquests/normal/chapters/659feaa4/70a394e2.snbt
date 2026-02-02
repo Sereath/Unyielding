@@ -8,7 +8,9 @@
 	text: [
 		"		Press J to view the progression guide.",
 		"",
-		"		Don't forget about your starter backpack, it contains some very useful items and can be equipped as a bauble.",
+		"		Don't lose your backpack!",
+		"",
+		"		Manual opening of portals is disabled.",
 		"",
 		"		§8Press F4 to toggle the \"Real First Person 2\" mod."
 	],

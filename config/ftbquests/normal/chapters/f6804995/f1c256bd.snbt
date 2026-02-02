@@ -1,0 +1,56 @@
+{
+	title: "§bCurious",
+	x: -9.0d,
+	y: 0.5d,
+	description: "???",
+	text: [
+		"These are clearly from a large, extensive book."
+	],
+	tasks: [{
+		uid: "9ededfb4",
+		type: "item",
+		items: [{
+			item: "unyielding:scraps1"
+		},
+		{
+			item: "unyielding:scraps2"
+		},
+		{
+			item: "unyielding:scraps3"
+		},
+		{
+			item: "unyielding:scraps4"
+		},
+		{
+			item: "unyielding:scraps5"
+		},
+		{
+			item: "unyielding:scraps6"
+		},
+		{
+			item: "unyielding:scraps7"
+		},
+		{
+			item: "unyielding:scraps8"
+		},
+		{
+			item: "unyielding:scraps9"
+		},
+		{
+			item: "unyielding:scraps10"
+		},
+		{
+			item: "unyielding:scraps11"
+		}]
+	}],
+	rewards: [{
+		uid: "10f51d2f",
+		type: "random",
+		table: 7
+	},
+	{
+		uid: "0ad1baaa",
+		type: "item",
+		item: "grimoireofgaia:misc_experience 1 1"
+	}]
+}
