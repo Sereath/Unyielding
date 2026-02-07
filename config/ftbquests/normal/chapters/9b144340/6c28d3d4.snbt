@@ -1,6 +1,6 @@
 {
 	title: "§aOpulence",
-	icon: "unyielding:opulent",
+	icon: "delivery:store",
 	x: 3.75d,
 	y: -3.75d,
 	shape: "diamond",
