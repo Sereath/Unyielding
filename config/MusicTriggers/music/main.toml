@@ -35,8 +35,16 @@
 		identifier = "beneath"
 	[[triggers.dimension]]
 		priority = "1"
-		resource_name = [ "66" ]
-		identifier = "erebus"
+		resource_name = [ "7" ]
+		identifier = "chasm"
+	[[triggers.dimension]]
+		priority = "1"
+		resource_name = [ "5" ]
+		identifier = "underworld"
+	[[triggers.dimension]]
+		priority = "1"
+		resource_name = [ "3" ]
+		identifier = "abyss"
 	[[triggers.dimension]]
 		priority = "1"
 		resource_name = [ "1" ]
@@ -93,20 +101,20 @@
 	[songs.tosd]
 		triggers = [ "dimension-overworld" "time-night" ]
 	[songs.t_se1_178113]
-		triggers = [ "dimension-erebus" ]
+		triggers = [ "dimension-abyss" ]
 	[songs.t_etmbl_277192]
-		triggers = [ "dimension-erebus" ]
+		triggers = [ "dimension-abyss" ]
 	[songs.nbk]
 		triggers = [ "menu" ]
 	[songs.gd]
 		volume = "0.7"
-		triggers = [ "dimension-erebus" ]
+		triggers = [ "dimension-underworld" ]
 	[songs.k_ha71_13032200_211559]
-		triggers = [ "dimension-erebus" ]
+		triggers = [ "dimension-underworld" ]
 	[songs.k_ha31_173418]
-		triggers = [ "dimension-erebus" ]
+		triggers = [ "dimension-chasm" ]
 	[songs.k_bpdl_13090300_207930]
-		triggers = [ "dimension-erebus" ]
+		triggers = [ "dimension-chasm" ]
 	[songs.a5]
 		triggers = [ "dimension-aurorian" ]
 	[songs.a4]

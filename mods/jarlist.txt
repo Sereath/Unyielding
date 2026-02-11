@@ -105,7 +105,7 @@ DimensionalEdibles-1.12.2-1.6.4
 dldungeonsjbg-1.14.14-MC1.12.2
 DoggyTalents-1.12.2-1.15.1.6
 DrZharks-MoCreatures-Extended-12.4.8
-DungeonMobs-5.8.10-MC1.12.2
+dungeonmobs-5.9.0-MC1.12.2
 DynamicSurroundings-1.12.2-3.6.2.1
 DynamicSurroundingsHuds-1.12.2-3.6.0.0
 dynviewdist-1.12-1.3
