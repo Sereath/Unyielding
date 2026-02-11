@@ -99,6 +99,7 @@ recipes.remove(<randomthings:spectrecharger:1>);
 recipes.remove(<randomthings:spectrecharger:2>);
 
 recipes.remove(<waystones:waystone>);
+recipes.remove(<waystones:warp_stone>);
 
 recipes.remove(<environmentaltech:modifier_creative_flight>);
 recipes.remove(<environmentaltech:modifier_flight_speed>);

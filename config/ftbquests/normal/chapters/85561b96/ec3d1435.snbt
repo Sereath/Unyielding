@@ -38,8 +38,8 @@
 					AttackSpeedMultiplier: 1.1f,
 					Attack: 4.75f,
 					Range: 0.9f,
-					ProjectileBonusDamage: 1.0f,
-					Durability: 400
+					Durability: 400,
+					ProjectileBonusDamage: 1.0f
 				},
 				TinkerData: {
 					Materials: [
@@ -75,8 +75,8 @@
 					AttackSpeedMultiplier: 1.0f,
 					Attack: 4.75f,
 					Range: 0.9f,
-					ProjectileBonusDamage: 1.0f,
-					Durability: 400
+					Durability: 400,
+					ProjectileBonusDamage: 1.0f
 				},
 				Traits: [
 					"lightweight",

@@ -1,0 +1,50 @@
+{
+	title: "§4Hot or Not",
+	x: 0.0d,
+	y: -0.5d,
+	description: "§cToo hot to handle!",
+	text: [
+		"Players get burned if they carry hot fluids or items and slowed if they carry very cold ones."
+	],
+	tasks: [{
+		uid: "45a99f40",
+		type: "item",
+		items: [{
+			item: "minecraft:lava_bucket"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "86a00d38",
+		type: "item",
+		items: [{
+			item: "hotornot:wooden_tongs"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "fd39cd3f",
+		type: "item",
+		items: [{
+			item: "hotornot:mitts"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "236dc0a3",
+		type: "item",
+		items: [{
+			item: "hotornot:iron_tongs"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "34f4dce8",
+		type: "random",
+		table: 7
+	}]
+}

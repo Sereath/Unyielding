@@ -1,0 +1,19 @@
+{
+	x: -5.0d,
+	y: 8.0d,
+	dependencies: [
+		"daf7e537"
+	],
+	tasks: [{
+		uid: "ad4b580e",
+		type: "item",
+		items: [{
+			item: "morefurnaces:furnaceblock 1 3"
+		}]
+	}],
+	rewards: [{
+		uid: "196d8ca1",
+		type: "random",
+		table: 6
+	}]
+}
