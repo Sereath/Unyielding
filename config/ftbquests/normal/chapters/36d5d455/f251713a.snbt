@@ -12,12 +12,13 @@
 			tag: {
 				textureBlock: {
 					id: "minecraft:planks",
-					Damage: 0s,
-					Count: 1b
+					Count: 1b,
+					Damage: 0s
 				}
 			},
 			id: "tconstruct:tooltables"
-		}]
+		}],
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "f9aac180",

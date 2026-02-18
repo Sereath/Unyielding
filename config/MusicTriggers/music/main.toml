@@ -85,8 +85,8 @@
 	[songs.dcb]
 		volume = "0.4"
 		triggers = [ "dimension-overworld" "time-night" ]
-	[songs.de]
-		volume = "0.7"
+	[songs.gs]
+		volume = "0.8"
 		triggers = [ "dimension-overworld" "time-night" ]
 	[songs.dw]
 		volume = "0.9"

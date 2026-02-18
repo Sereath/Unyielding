@@ -1,18 +1,18 @@
 {
-	x: 9.5d,
+	x: 10.5d,
 	y: -1.0d,
 	dependencies: [
 		"bb3e12f6"
 	],
 	tasks: [{
-		uid: "4ca9e54d",
+		uid: "7ef2bf1d",
 		type: "item",
 		items: [{
-			item: "lycanitesmobs:equipment_station"
+			item: "lycanitesmobs:equipment_infuser"
 		}]
 	}],
 	rewards: [{
-		uid: "af533155",
+		uid: "8836fe1e",
 		type: "random",
 		table: 6
 	}]

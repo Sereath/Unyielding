@@ -3,6 +3,7 @@
 	icon: "theaurorian:trophymoonqueen",
 	x: -2.0d,
 	y: -6.75d,
+	description: "It was her.",
 	text: [
 		"§o\"Is this the right answer?\""
 	],
@@ -34,8 +35,8 @@
 				TrophyShowsTooltip: 0b,
 				TrophyItem: {
 					id: "theaurorian:trophymoonqueen",
-					Count: 1b,
-					Damage: 0s
+					Damage: 0s,
+					Count: 1b
 				},
 				TrophyVariant: "gold"
 			},

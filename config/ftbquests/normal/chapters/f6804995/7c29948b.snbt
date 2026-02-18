@@ -1,0 +1,19 @@
+{
+	title: "§6Menhir",
+	x: -9.0d,
+	y: -1.0d,
+	description: "Class",
+	text: [
+		"Now, do you remember your birthsign?",
+		"Don't forget to choose your §6Menhir's§r specialised attributes."
+	],
+	tasks: [{
+		uid: "d18c0431",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "840951b8",
+		type: "random",
+		table: 7
+	}]
+}

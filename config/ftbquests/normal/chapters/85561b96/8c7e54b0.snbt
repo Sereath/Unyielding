@@ -1,0 +1,119 @@
+{
+	title: "§3Soulstones",
+	x: -3.5d,
+	y: -13.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"9deb8dec"
+	],
+	tasks: [{
+		uid: "78da5551",
+		type: "item",
+		items: [{
+			item: "lycanitesmobs:soulstone_undead"
+		}]
+	},
+	{
+		uid: "7cbbe5d2",
+		type: "item",
+		items: [{
+			item: "lycanitesmobs:soulstone_imp"
+		}]
+	},
+	{
+		uid: "bccae968",
+		type: "item",
+		items: [{
+			item: "lycanitesmobs:soulstone_aquatic"
+		}]
+	},
+	{
+		uid: "90967f84",
+		type: "item",
+		items: [{
+			item: "lycanitesmobs:soulstone_dragon"
+		}]
+	},
+	{
+		uid: "2ae1bcde",
+		type: "item",
+		items: [{
+			item: "lycanitesmobs:soulstone_aberration"
+		}]
+	},
+	{
+		uid: "2e61bfe5",
+		type: "item",
+		items: [{
+			item: "lycanitesmobs:soulstone_reptile"
+		}]
+	},
+	{
+		uid: "a63cb22f",
+		type: "item",
+		items: [{
+			item: "lycanitesmobs:soulstone_worm"
+		}]
+	},
+	{
+		uid: "c0ac76d2",
+		type: "item",
+		items: [{
+			item: "lycanitesmobs:soulstone_avian"
+		}]
+	},
+	{
+		uid: "dc527c7f",
+		type: "item",
+		items: [{
+			item: "lycanitesmobs:soulstone_demon"
+		}]
+	},
+	{
+		uid: "4fedb5af",
+		type: "item",
+		items: [{
+			item: "lycanitesmobs:soulstone_anthronian"
+		}]
+	},
+	{
+		uid: "a5e7716a",
+		type: "item",
+		items: [{
+			item: "lycanitesmobs:soulstone_plant"
+		}]
+	},
+	{
+		uid: "576a2e8c",
+		type: "item",
+		items: [{
+			item: "lycanitesmobs:soulstone_beast"
+		}]
+	},
+	{
+		uid: "0605b36b",
+		type: "item",
+		items: [{
+			item: "lycanitesmobs:soulstone_insect"
+		}]
+	},
+	{
+		uid: "3e2bc274",
+		type: "item",
+		items: [{
+			item: "lycanitesmobs:soulstone_amphibian"
+		}]
+	}],
+	rewards: [{
+		uid: "e72aad09",
+		type: "random",
+		table: 6
+	},
+	{
+		uid: "8325d7e4",
+		type: "item",
+		item: "grimoireofgaia:misc_experience 1 2"
+	}]
+}

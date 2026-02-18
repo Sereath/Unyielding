@@ -206,12 +206,13 @@ mods.Delivery.Store.addTrade(<elenaidodge2:iron_feather>, store_Special).addItem
 mods.Delivery.Store.addTrade(<unyielding:trace1>, store_Special).addItem(ancientCoin * 2);
 mods.Delivery.Store.addTrade(<unyielding:trace2>, store_Special).addItem(ancientCoin * 2);
 mods.Delivery.Store.addTrade(<unyielding:trace3>, store_Special).addItem(ancientCoin * 2);
-mods.Delivery.Store.addTrade(<waystones:return_scroll>, store_Special).addItem(silverCoin * 6);
+mods.Delivery.Store.addTrade(<waystones:return_scroll>, store_Special).addItem(silverCoin * 2);
 
-mods.Delivery.Store.addTrade(<waystones:bound_scroll>, store_Special).addItem(silverCoin * 6);
+mods.Delivery.Store.addTrade(<waystones:bound_scroll>, store_Special).addItem(silverCoin * 4);
 mods.Delivery.Store.addTrade(<waystones:warp_scroll>, store_Special).addItem(silverCoin * 6);
 mods.Delivery.Store.addTrade(<waystones:warp_stone>, store_Special).addItem(ancientCoin * 12);
 mods.Delivery.Store.addTrade(<waystones:waystone>, store_Special).addItem(ancientCoin * 48);
+mods.Delivery.Store.addTrade(<corpsecomplex:scroll>, store_Special).addItem(silverCoin * 3);
 
 //exchange
 mods.Delivery.Store.addTrade(silverCoin, store_Exchange).addItem(copperCoin * 2);

@@ -1271,6 +1271,18 @@
 		"result": "deny"
 	},
 
+	//ebwcounter
+
+	{
+		"mob": "ancientspellcraft:wizardmerchant",
+		"mincount": {
+			"amount": 10,
+			"mob": "ancientspellcraft:wizardmerchant",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+
 	//vanillamobcounter
 
 	{

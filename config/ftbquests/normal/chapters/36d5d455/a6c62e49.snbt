@@ -9,7 +9,8 @@
 		type: "item",
 		items: [{
 			item: "conarm:armorstation"
-		}]
+		}],
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "94e29040",

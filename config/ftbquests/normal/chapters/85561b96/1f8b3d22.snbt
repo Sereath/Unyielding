@@ -15,11 +15,11 @@
 					],
 					AttributeModifiers: [{
 						Amount: 0.029999999329447746d,
-						Name: "qualitytools",
+						AttributeName: "potioncore.digSpeed",
 						Operation: 2,
 						UUIDMost: -633617721495630581L,
 						UUIDLeast: -7768497731657845022L,
-						AttributeName: "potioncore.digSpeed"
+						Name: "qualitytools"
 					}]
 				}
 			},
