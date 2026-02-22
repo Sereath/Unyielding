@@ -52,7 +52,7 @@ mods.Delivery.Store.addTrade(<sanity:garland>.withTag({Unbreakable: 1 as byte, d
 mods.Delivery.Store.addTrade(<minecraft:clay_ball>, store_General).addItem(copperCoin * 3);
 
 mods.Delivery.Store.addTrade(<minecraft:leather>, store_General).addItem(copperCoin * 9);
-mods.Delivery.Store.addTrade(<minecraft:gravel>, store_General).addItem(copperCoin * 1);
+mods.Delivery.Store.addTrade(<minecraft:wool>, store_General).addItem(copperCoin * 12);
 mods.Delivery.Store.addTrade(<minecraft:sand>, store_General).addItem(copperCoin * 1);
 mods.Delivery.Store.addTrade(<ancientwarfarenpc:npc_spawner>.withTag({npcSubtype: "", npcType: "worker"}), store_General).addItem(goldCoin * 2);
 mods.Delivery.Store.addTrade(<ancientwarfarenpc:npc_spawner>.withTag({npcSubtype: "", npcType: "trader"}), store_General).addItem(goldCoin * 2);

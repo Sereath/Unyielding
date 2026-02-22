@@ -1,9 +1,12 @@
 {
-	x: 12.0d,
-	y: 4.5d,
+	x: 13.0d,
+	y: 5.5d,
 	description: "Storage for enchantments",
 	text: [
 		""
+	],
+	dependencies: [
+		"23bd332c"
 	],
 	tasks: [{
 		uid: "c32e7a12",

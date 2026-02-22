@@ -1,6 +1,10 @@
 {
 	x: -1.5d,
 	y: -5.5d,
+	description: "A gift?",
+	text: [
+		""
+	],
 	dependencies: [
 		"aee43a86"
 	],
@@ -20,5 +24,11 @@
 		uid: "c585f42d",
 		type: "item",
 		item: "grimoireofgaia:misc_experience 1 2"
+	},
+	{
+		uid: "15d21f86",
+		type: "loot",
+		title: "Gift from a stranger",
+		table: 8
 	}]
 }

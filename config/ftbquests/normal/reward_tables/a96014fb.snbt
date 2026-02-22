@@ -1,0 +1,19 @@
+{
+	title: "Potential",
+	loot_size: 1,
+	rewards: [{
+		item: "contenttweaker:book3"
+	},
+	{
+		item: "contenttweaker:book4"
+	},
+	{
+		item: "contenttweaker:book7"
+	},
+	{
+		item: "contenttweaker:book8"
+	},
+	{
+		item: "contenttweaker:book9"
+	}]
+}

@@ -348,7 +348,7 @@ stygian-1.0.4
 superflatcaves-1.3.1
 SuperiorShields-1.12.2-1.0.2
 TBone-v1.6.8+mc1.12.2
-tconevo-1.12.2-1.1.1
+tconevo-1.12.2-1.1.2
 tconmodmod-1.12.2-1.0.5
 techguns-1.12.2-2.0.2.0_pre3.2
 techgunsmixins-1.0.1

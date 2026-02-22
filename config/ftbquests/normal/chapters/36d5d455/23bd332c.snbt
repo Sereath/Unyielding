@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "3e920f35",
+		type: "item",
+		items: [{
+			item: "minecraft:enchanting_table"
+		}]
+	}],
+	rewards: [{
+		uid: "47fa0e43",
+		type: "random",
+		table: 6
+	}]
+}

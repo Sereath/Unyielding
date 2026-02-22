@@ -11,7 +11,8 @@
 		items: [{
 			tag: {},
 			id: "arcanearchives:radiant_trove"
-		}]
+		}],
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "7c2025f2",

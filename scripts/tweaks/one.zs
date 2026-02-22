@@ -91,3 +91,6 @@ eioprs.hardness = 100;
 
 val stbase as IItemStack = <simple_trophies:trophy>;
 stbase.hardness = 50;
+
+val escrystal as IItemStack = <enderskills:crystal>;
+escrystal.hardness = 1;

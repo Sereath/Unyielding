@@ -12,8 +12,8 @@
 			tag: {
 				textureBlock: {
 					id: "minecraft:planks",
-					Count: 1b,
-					Damage: 0s
+					Damage: 0s,
+					Count: 1b
 				}
 			},
 			id: "tconstruct:tooltables"
