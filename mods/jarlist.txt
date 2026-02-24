@@ -29,6 +29,7 @@ AtlasExtras-1.12.2-1.8
 AutoRegLib-1.3-32
 base-1.12.2-3.14.0
 Baubles-1.12-1.5.2
+beastslayer-not.2.0.02
 betteranimalsplus-1.12.2-9.0.1
 BetterBoilers-1.2
 BetterBuildersWands-1.12.2-0.13.2.271+5997513
