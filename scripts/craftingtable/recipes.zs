@@ -289,6 +289,7 @@ recipes.remove(<pickletweaks:nightvision_goggles>);
 recipes.remove(<corpsecomplex:scroll>);
 
 recipes.remove(<xreliquary:twilight_cloak>);
+recipes.remove(<xreliquary:rod_of_lyssa>);
 
 recipes.remove(<flaskoflife:flask_healing>);
 
