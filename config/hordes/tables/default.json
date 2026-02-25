@@ -1,10 +1,12 @@
 [
 	"minecraft:zombie-100-0-0",
 	"minecraft:zombie_villager-40-0-0",
+	"ancientbeasts:boulderer-20-0-0",
 	"nuclearcraft:feral_ghoul-20-0-0",
 	"mod_lavacow:zombiemushroom-20-0-0",
 	"mod_lavacow:zombiefrozen-20-0-0",
 	"mod_lavacow:undertaker-5-0-0",
 	"mutantbeasts:mutant_zombie-1-0-0",
+	"ancientbeasts:giant_zombie-1-0-0",
 	"grimoireofgaia:flesh_lich-1-0-0"
 ]
