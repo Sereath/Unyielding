@@ -39,8 +39,8 @@
 					AttackSpeedMultiplier: 1.0f,
 					Attack: 1.625f,
 					Range: 0.25f,
-					Durability: 1,
-					ProjectileBonusDamage: 0.0f
+					ProjectileBonusDamage: 0.0f,
+					Durability: 1
 				},
 				TinkerData: {
 					Materials: [
@@ -76,8 +76,8 @@
 					AttackSpeedMultiplier: 1.0f,
 					Attack: 1.625f,
 					Range: 0.25f,
-					Durability: 1,
-					ProjectileBonusDamage: 0.0f
+					ProjectileBonusDamage: 0.0f,
+					Durability: 1
 				},
 				Traits: [
 					"cheap",

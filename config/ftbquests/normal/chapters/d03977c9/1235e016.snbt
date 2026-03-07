@@ -28,8 +28,8 @@
 				TrophyShowsTooltip: 0b,
 				TrophyItem: {
 					id: "iceandfire:summoning_crystal_ice",
-					Count: 1b,
-					Damage: 0s
+					Damage: 0s,
+					Count: 1b
 				},
 				TrophyName: ""
 			},

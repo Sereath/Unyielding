@@ -6,7 +6,9 @@
 	text: [
 		"The area in which you first arrived",
 		"is cursed.",
-		"Do not make it your home."
+		"Do not make it your home.",
+		"",
+		"§7The area of world spawn chunks, which is about 144 blocks from the centre, allows Revenants to spawn."
 	],
 	tasks: [{
 		uid: "12fa4fe8",

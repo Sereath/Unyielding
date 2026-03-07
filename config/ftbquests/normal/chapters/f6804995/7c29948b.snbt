@@ -5,7 +5,9 @@
 	description: "Class",
 	text: [
 		"Now, do you remember your birthsign?",
-		"Don't forget to choose your §6Menhir's§r specialised attributes."
+		"Don't forget to choose your §6Menhir's§r specialised attributes.",
+		"",
+		"Open your inventory and look for the §6Birthsign§r icon next to your character preview."
 	],
 	tasks: [{
 		uid: "d18c0431",
