@@ -56,6 +56,17 @@
             <entity name="mutantbeasts:mutant_zombie" costMultiplier="100.0" disabled="true" soulvial="false"/>
         </spawning>
     </recipe>
+    <recipe name="Spawner, AW2" required="false">
+        <spawning>
+            <entity name="ancientwarfarenpc:aw_npc_combat" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="ancientwarfarenpc:aw_npc_worker" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="ancientwarfarenpc:aw_npc_courier" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="ancientwarfarenpc:aw_npc_trader" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="ancientwarfarenpc:aw_npc_priest" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="ancientwarfarenpc:aw_npc_bard" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="ancientwarfarenpc:aw_npc_siege_engineer" costMultiplier="100.0" disabled="true" soulvial="false"/>
+        </spawning>
+    </recipe>
     <recipe name="Spawner, SRP" required="false">
         <spawning>
             <entity name="srparasites:hi_blaze" costMultiplier="100.0" disabled="true" soulvial="false"/>

@@ -32,7 +32,7 @@ COMBINE_EQUAL_PRIORITY = false
 PAUSE_WHEN_TABBED = false
 
 # A list of mod ids to block audio in the specified audio category from so there is no overlap in music playing during events from other mods
-BLOCKED_MOD_CATEGORIES = [ "minecraft;music" ]
+BLOCKED_MOD_CATEGORIES = [ "srparasites;music" "minecraft;music" ]
 
 # If BLOCK_STREAMING_ONLY is disabled, BLOCKED_MOD_CATEGORIES will be able to stop non streaming audio sources like sound effects from playing
 BLOCK_STREAMING_ONLY = true
