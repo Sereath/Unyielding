@@ -80,7 +80,7 @@ CompositeGear-1.12.2-1.7.1
 conditionoverload-1.2.0
 ConsoleFilter-1.12.2-1.1.1
 ContentTweaker-1.12.2-4.10.0
-Controlled+Burn-1.12.2.022
+Controlled Burn-1.12.2.024
 CookingForBlockheads_1.12.2-6.5.0
 corpsecomplex-1.12.2-1.0.12.0
 CosmeticArmorReworked-1.12.2-v5a
@@ -137,7 +137,7 @@ EyesInTheDarkness-0.1.0
 fabledworks-1.2
 fancylamps-1.2.1
 fancymenu_forge_2.14.9_MC_1.12-1.12.2
-FantasticLib-1.12.2.047
+FantasticLib-1.12.2.070
 FarmingForBlockheads_1.12.2-3.1.28
 filcabref-1.12.2-1.0.0
 Fish's Undead Rising-1.4.2
@@ -318,7 +318,7 @@ SBM-BoneTorch-1.12.2-0.0.1b12
 Scannable-MC1.12.2-1.6.3.26
 SereneSeasons-1.12.2-1.2.18-universal
 SereneTweaks-1.0
-SetBonus-1.12.2.020
+SetBonus-1.12.2.040
 ShieldBreak-1.1.3
 shipwrecks-mc1.12.2-2.0.0
 ShoulderSurfing-1.12.2-1.15.1

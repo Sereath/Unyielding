@@ -293,6 +293,9 @@ key_key.plustic_toggle_tool.desc:51:NONE:
 key_key.plustic_fruit_salad.desc:12:NONE:
 key_key.plustic_mots.desc:13:NONE:
 key_xreliquary.keybind.fortune_coin:0:NONE:
+key_key.arms.desc:39:NONE:
+key_key.mod.desc:62:NONE:
+key_key.head.desc:35:NONE:
 key_techguns.key.toggleNightvision:0:NONE:
 key_techguns.key.toggleSafemode:0:NONE:
 key_techguns.key.toggleStepassist:0:NONE:
