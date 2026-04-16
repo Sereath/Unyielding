@@ -389,7 +389,7 @@ Unique Enchantments Base-1.12.2-1.1.4
 Unique Enchantments Battle-1.12.2-1.1.6
 Unique Enchantments-1.12.2-2.1.4
 Unique+Enchantments+Utils-1.12.2-1.5.1
-UniversalTweaks-1.12.2-1.17.0
+UniversalTweaks-1.12.2-1.19.1
 valkyrielib-1.12.2-2.0.20.1
 VerticallyStackedDimensions-1.12.2-0.1.9
 VillageNames-1.12.2-4.4.13
