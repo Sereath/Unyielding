@@ -360,7 +360,6 @@ The-Hordes-1.12.2-1.5.3c
 theaurorian-1.12.2-1.2
 theimpossiblelibrary-1.12.2-0.3.0
 thenarrowgate-1.0.0
-theoneprobe-1.12-1.4.28
 ThermalCultivation-1.12.2-0.3.6.1-universal
 ThermalDynamics-1.12.2-2.5.6.1-universal
 ThermalExpansion-1.12.2-5.5.7.1-universal
@@ -374,8 +373,6 @@ Tips-1.12.2-1.0.9
 tombstone-1.12.2-4.7.5
 ToolBelt-1.12.2-1.9.14
 toolprogression-1.12.2-1.6.12
-topaddons-1.12.2-1.13.0
-topextras-1.12.2-1.0.1
 touhoulittlemaid-1.12.2-1.2.5-release
 TravelersBackpack-1.12.2-1.0.35
 TreeChop-1.12.2-0.14.7
