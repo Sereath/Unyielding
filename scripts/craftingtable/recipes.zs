@@ -331,6 +331,10 @@ recipes.remove(<elenaidodge2:golden_feather>);
 
 recipes.remove(<arcanearchives:radiant_crafting_table>);
 
+recipes.remove(<lycanitesmobs:saddle_dragon>);
+recipes.remove(<lycanitesmobs:saddle_avian>);
+recipes.remove(<lycanitesmobs:saddle_aberration>);
+
 recipes.addShapeless(
     <unyielding:copper>,
     [<ancientwarfarenpc:coin>.withTag({metal: "copper"})]
@@ -482,3 +486,7 @@ recipes.addShaped(<iceandfire:silver_shovel>, [[null, <ore:ingotSilver>, null],[
 recipes.addShaped(<iceandfire:silver_pickaxe>, [[<ore:ingotSilver>, <ore:ingotSilver>, <ore:ingotSilver>],[null, <ore:stickWood>, null], [null, <ore:stickWood>, <ore:dustGlowing>]]);
 recipes.addShaped(<iceandfire:silver_axe>, [[<ore:ingotSilver>, <ore:ingotSilver>, null],[<ore:ingotSilver>, <ore:stickWood>, null], [null, <ore:stickWood>, <ore:dustGlowing>]]);
 recipes.addShaped(<iceandfire:silver_hoe>, [[<ore:ingotSilver>, <ore:ingotSilver>, null],[null, <ore:stickWood>, null], [null, <ore:stickWood>, <ore:dustGlowing>]]);
+
+recipes.addShaped(<lycanitesmobs:saddle_dragon>, [[<ore:crystalDiamantine>, <xreliquary:hero_medallion>, <ore:crystalDiamantine>],[<ore:crystalDiamantine>, <minecraft:saddle>, <ore:crystalDiamantine>], [<ore:crystalDiamantine>, <ore:crystalDiamantine>, <ore:crystalDiamantine>]]);
+recipes.addShaped(<lycanitesmobs:saddle_avian>, [[<ore:crystalVoid>, <xreliquary:angelic_feather>, <ore:crystalVoid>],[<ore:crystalVoid>, <minecraft:saddle>, <ore:crystalVoid>], [<ore:crystalVoid>, <ore:crystalVoid>, <ore:crystalVoid>]]);
+recipes.addShaped(<lycanitesmobs:saddle_aberration>, [[<ore:crystalEmeraldic>, <xreliquary:salamander_eye>, <ore:crystalEmeraldic>],[<ore:crystalEmeraldic>, <minecraft:saddle>, <ore:crystalEmeraldic>], [<ore:crystalEmeraldic>, <ore:crystalEmeraldic>, <ore:crystalEmeraldic>]]);

@@ -67,6 +67,11 @@
             <entity name="ancientwarfarenpc:aw_npc_siege_engineer" costMultiplier="100.0" disabled="true" soulvial="false"/>
         </spawning>
     </recipe>
+    <recipe name="Spawner, Champion" required="false">
+        <spawning>
+            <entity name="grimoireofgaia:holstaurus" costMultiplier="100.0" disabled="true" soulvial="false"/>
+        </spawning>
+    </recipe>
     <recipe name="Spawner, SRP" required="false">
         <spawning>
             <entity name="srparasites:hi_blaze" costMultiplier="100.0" disabled="true" soulvial="false"/>
