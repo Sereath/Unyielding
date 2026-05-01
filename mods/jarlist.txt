@@ -198,7 +198,7 @@ jepb-1.12-1.2.1
 jetif-1.12.2-1.5.2
 jubitusbirds-1.1.4
 justenoughdimensions-1.12.2-1.6.0-dev.20200416.184714
-justenoughmagiculture-1.12.2-1.2.1
+justenoughmagiculture-1.12.2-1.2.2
 JustEnoughResources-1.12.2-0.9.2.60
 kickall-1.12.2-1.0.1
 KleeSlabs_1.12.2-5.4.12
