@@ -1,0 +1,20 @@
+{
+	title: "§aAffinity",
+	x: -1.0d,
+	y: 1.0d,
+	text: [
+		"Only objects made from the most §dmystically§r attuned materials will have a chance of gaining special properties.",
+		"",
+		"Keep an eye on the design of the §2tooltip borders§r of most tools."
+	],
+	tasks: [{
+		uid: "b0d97dd0",
+		type: "checkmark",
+		title: "Affinity"
+	}],
+	rewards: [{
+		uid: "8bba3b73",
+		type: "random",
+		table: 7
+	}]
+}

@@ -34,8 +34,8 @@
 				Stats: {
 					MiningSpeed: 5.85f,
 					HarvestLevel: 2,
-					Accuracy: 1.0f,
 					FreeModifiers: 2,
+					Accuracy: 1.0f,
 					AttackSpeedMultiplier: 1.1f,
 					Attack: 5.75f,
 					Durability: 286
@@ -69,8 +69,8 @@
 				StatsOriginal: {
 					MiningSpeed: 5.85f,
 					HarvestLevel: 2,
-					Accuracy: 1.0f,
 					FreeModifiers: 3,
+					Accuracy: 1.0f,
 					AttackSpeedMultiplier: 1.0f,
 					Attack: 5.75f,
 					Durability: 286
