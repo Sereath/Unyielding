@@ -335,6 +335,8 @@ recipes.remove(<lycanitesmobs:saddle_dragon>);
 recipes.remove(<lycanitesmobs:saddle_avian>);
 recipes.remove(<lycanitesmobs:saddle_aberration>);
 
+recipes.remove(<nyx:meteor_hammer>);
+
 recipes.addShapeless(
     <unyielding:copper>,
     [<ancientwarfarenpc:coin>.withTag({metal: "copper"})]
