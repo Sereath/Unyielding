@@ -293,6 +293,9 @@ recipes.remove(<xreliquary:rod_of_lyssa>);
 
 recipes.remove(<flaskoflife:flask_healing>);
 
+recipes.remove(<spartanweaponry:material>);
+recipes.remove(<spartanweaponry:material:1>);
+
 recipes.remove(<extendedcrafting:handheld_table>);
 
 recipes.remove(<engineersdecor:factory_placer>);
@@ -456,6 +459,9 @@ recipes.addShaped(<theaurorian:aurorianstone>, [[<srparasites:bone>, <thermalfou
 recipes.addShaped(<corpsecomplex:scroll>, [[null, <nyx:fallen_star>, null],[<minecraft:rotten_flesh>, <ore:paper>, <ore:dustGlowing>], [null, <ore:enderpearl>, null]]);
 
 recipes.addShaped(<flaskoflife:flask_healing>, [[<minecraft:speckled_melon>, <xat:moon_rose>, <minecraft:speckled_melon>],[<ore:itemVibrantCrystal>, <minecraft:glass_bottle>, <ore:itemVibrantCrystal>], [<minecraft:speckled_melon>, <roughtweaks:medikitenchanted>, <minecraft:speckled_melon>]]);
+
+recipes.addShaped(<spartanweaponry:material>, [[null, <ore:string>, null],[null, <ore:stickWood>, null], [null, <improvedbackpacks:tanned_leather>, null]]);
+recipes.addShaped(<spartanweaponry:material:1>, [[<improvedbackpacks:tanned_leather>, <ore:stickWood>, <ore:string>],[<ore:string>, <ore:stickWood>, <improvedbackpacks:tanned_leather>], [<improvedbackpacks:tanned_leather>, <ore:stickWood>, <ore:string>]]);
 
 recipes.addShaped(<srparasites:nodecompass>, [[<ore:itemPrecientCrystal>, <srparasites:lurecomponent5>, <ore:itemWeatherCrystal>],[<srparasites:living_core>, <nyx:meteor_finder>, <srparasites:living_core>], [<ore:itemWeatherCrystal>, <techguns:itemshared:131>, <ore:itemPrecientCrystal>]]);
 recipes.addShaped(<srparasites:armor_helm>, [[<ore:dustMithril>, <ore:netherStar>, <ore:dustMithril>],[<ore:dustMithril>, <srparasites:armor_helm>, <ore:dustMithril>], [<ore:dustMithril>, <ore:dustMithril>, <ore:dustMithril>]]);
