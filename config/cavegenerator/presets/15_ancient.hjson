@@ -5,7 +5,7 @@
   replaceableBlocks: $NATURAL_STONE
   replaceDecorators: true
   caverns: {
-    height: [ 48, 72 ]
+    height: [ 48, 144 ]
     ceiling: {
       frequency: 0.02
       range: [ -8, 8 ]
@@ -16,27 +16,19 @@
     }
     generators: [
       {
-        frequency: 0.0075
-        stretch: 2
+        frequency: 0.005
+        stretch: 1
         lacunarity: 1
-        gain: 1
-        jitter: 0.45
-        jitterX: 1.5
-        jitterY: 0.25
-        jitterZ: 1.5
+        gain: 0.1
         octaves: 1
         perturb: true
         perturbAmp: 5
         perturbFreq: 0.1
-        invert: true
-        type: Cellular
-        interp: Quintic
+        type: Simplex
+        interp: Hermite
         fractal: FBM
-        distFunc: Euclidean
-        returnType: Distance3Div
-        cellularLookup: Simplex
         seed: 10
-        threshold: -0.3
+        threshold: -0.2
       }
     ]
   }
