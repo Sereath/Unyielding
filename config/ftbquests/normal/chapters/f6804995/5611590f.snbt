@@ -2,6 +2,7 @@
 	title: "§aAffinity",
 	x: -1.0d,
 	y: 1.0d,
+	shape: "diamond",
 	text: [
 		"Only objects made from the most §dmystically§r attuned materials will have a chance of gaining special properties.",
 		"",

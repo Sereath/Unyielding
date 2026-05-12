@@ -1,0 +1,20 @@
+{
+	title: "§dGrave Scroll",
+	x: 0.0d,
+	y: 2.0d,
+	text: [
+		"A secure way to travel back to your latest death point."
+	],
+	tasks: [{
+		uid: "af5e7eae",
+		type: "item",
+		items: [{
+			item: "corpsecomplex:scroll"
+		}]
+	}],
+	rewards: [{
+		uid: "10922ba7",
+		type: "random",
+		table: 7
+	}]
+}

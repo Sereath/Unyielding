@@ -9,8 +9,8 @@
 		type: "item",
 		items: [{
 			tag: {
-				npcSubtype: "",
-				npcType: "siege_engineer"
+				npcType: "siege_engineer",
+				npcSubtype: ""
 			},
 			id: "ancientwarfarenpc:npc_spawner"
 		}]

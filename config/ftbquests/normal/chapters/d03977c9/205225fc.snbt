@@ -37,8 +37,8 @@
 				TrophyShowsTooltip: 0b,
 				TrophyItem: {
 					id: "techguns:tfg",
-					Count: 1b,
-					Damage: 0s
+					Damage: 0s,
+					Count: 1b
 				},
 				TrophyName: ""
 			},

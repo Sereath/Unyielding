@@ -1,13 +1,16 @@
 {
-	x: -1.5d,
-	y: -5.5d,
-	description: "A gift?",
+	title: "§6Mailbox",
+	x: -2.0d,
+	y: -6.0d,
+	shape: "square",
+	description: "§oA gift?",
 	text: [
 		""
 	],
 	dependencies: [
 		"aee43a86"
 	],
+	size: 1.6d,
 	tasks: [{
 		uid: "03c97e76",
 		type: "item",

@@ -33,8 +33,8 @@
 				TrophyShowsTooltip: 0b,
 				TrophyItem: {
 					id: "da:king_helmet",
-					Count: 1b,
-					Damage: 0s
+					Damage: 0s,
+					Count: 1b
 				},
 				TrophyName: ""
 			},
