@@ -149,11 +149,44 @@
       height: [ 0, 4 ]
     }
   ]
-  ravines: [
-    {
-      chance: 0.02
-      distance: 320
-      originHeight: [ 4, 24 ]
+  ravines: {
+    chance: 0.02
+    height: [ 12, 72 ]
+    resolution: 4
+    distance: 0
+    dYaw: {
+      startVal: 0
+      factor: 0.5
+      randFactor: 4
+      exponent: 1
     }
-  ]
+    dPitch: {
+      startVal: 0
+      factor: 0.8
+      randFactor: 2
+      exponent: 1
+    }
+    scale: {
+      startVal: 0
+      startValRandFactor: 2
+      factor: 1
+      randFactor: 0
+      exponent: 1
+    }
+    stretch: {
+      startVal: 3
+      factor: 1
+      randFactor: 0
+      exponent: 1
+    }
+    yaw: {
+      startVal: 0
+      startValRandFactor: 1
+    }
+    pitch: {
+      startVal: 0
+      startValRandFactor: 0.25
+    }
+    noiseYFactor: 0.7
+  }
 }
