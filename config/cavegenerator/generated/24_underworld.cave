@@ -50,6 +50,13 @@
         minecraft:red_sandstone
         minecraft:red_sandstone:1
         minecraft:red_sandstone:2
+        minecraft:leaves:1
+        minecraft:tallgrass:1
+        minecraft:tallgrass:2
+        minecraft:red_mushroom
+        minecraft:brown_mushroom
+        minecraft:red_flower
+        minecraft:yellow_flower
         environs:dried_stone
         environs:dried_cobblestone
         environs:dried_dirt
@@ -134,6 +141,13 @@
         minecraft:red_sandstone
         minecraft:red_sandstone:1
         minecraft:red_sandstone:2
+        minecraft:leaves:1
+        minecraft:tallgrass:1
+        minecraft:tallgrass:2
+        minecraft:red_mushroom
+        minecraft:brown_mushroom
+        minecraft:red_flower
+        minecraft:yellow_flower
         environs:dried_stone
         environs:dried_cobblestone
         environs:dried_dirt
@@ -218,6 +232,13 @@
         minecraft:red_sandstone
         minecraft:red_sandstone:1
         minecraft:red_sandstone:2
+        minecraft:leaves:1
+        minecraft:tallgrass:1
+        minecraft:tallgrass:2
+        minecraft:red_mushroom
+        minecraft:brown_mushroom
+        minecraft:red_flower
+        minecraft:yellow_flower
         environs:dried_stone
         environs:dried_cobblestone
         environs:dried_dirt
@@ -302,6 +323,13 @@
         minecraft:red_sandstone
         minecraft:red_sandstone:1
         minecraft:red_sandstone:2
+        minecraft:leaves:1
+        minecraft:tallgrass:1
+        minecraft:tallgrass:2
+        minecraft:red_mushroom
+        minecraft:brown_mushroom
+        minecraft:red_flower
+        minecraft:yellow_flower
         environs:dried_stone
         environs:dried_cobblestone
         environs:dried_dirt

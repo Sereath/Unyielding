@@ -34,8 +34,58 @@
   }
   caveBlocks: [
     {
-      states: gravel
+      states: dirt
       height: [ 0, 48 ]
+    }
+  ]
+  wallDecorators: [
+    {
+      states: [ "grass", "dirt" ]
+      height: [ 48, 144 ]
+      integrity: 0.65
+      directions: down
+      matchers: stone
+      placement: embed
+    }
+    {
+      states: [ "tallgrass:1", "tallgrass:2" ]
+      height: [ 48, 144 ]
+      integrity: 0.25
+      directions: down
+      matchers: grass
+      placement: overlay
+    }
+    {
+      states: [ "red_flower", "yellow_flower" ]
+      height: [ 48, 144 ]
+      integrity: 0.001
+      directions: down
+      matchers: grass
+      placement: overlay
+    }
+    {
+      states: [ "red_mushroom", "brown_mushroom" ]
+      height: [ 48, 144 ]
+      integrity: 0.003
+      directions: down
+      matchers: [ "stone", "dirt", "grass" ]
+      placement: overlay
+    }
+    {
+      states: mossy_cobblestone
+      height: [ 48, 144 ]
+      integrity: 0.2
+      directions: [ "side", "down" ]
+      matchers: stone
+      placement: embed
+    }
+    {
+      states: quark:variant_leaves
+      height: [ 60, 144 ]
+      integrity: 0.15
+      directions: [ "side", "up" ]
+      matchers: [ "stone", "dirt", "grass" ]
+      placement: overlay
     }
   ]
 }
