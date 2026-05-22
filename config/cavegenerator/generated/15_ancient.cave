@@ -83,6 +83,7 @@
     unyielding:layer2
     unyielding:layer3
     unyielding:layer4
+    quark:variant_leaves
   ]
   replaceDecorators: true
   caverns: {
@@ -115,30 +116,50 @@
   }
   caveBlocks: [
     {
-      states: dirt
-      height: [ 0, 48 ]
+      states: water
+      height: [ 0, 49 ]
+    }
+  ]
+  stalactites: [
+    {
+      type: stalactite
+      state: stone
+      height: [ 60, 144 ]
+      length: [ 4, 12 ]
+      size: large
+      chance: 0.006
+      matchers: stone
+    }
+    {
+      type: stalactite
+      state: quark:variant_leaves
+      height: [ 60, 144 ]
+      length: [ 6, 24 ]
+      size: medium
+      chance: 0.006
+      matchers: stone
     }
   ]
   wallDecorators: [
     {
-      states: [ "grass", "dirt" ]
-      height: [ 48, 144 ]
-      integrity: 0.65
+      states: grass
+      height: [ 50, 144 ]
+      integrity: 0.6
       directions: down
       matchers: stone
       placement: embed
     }
     {
       states: [ "tallgrass:1", "tallgrass:2" ]
-      height: [ 48, 144 ]
-      integrity: 0.25
+      height: [ 50, 144 ]
+      integrity: 0.1
       directions: down
       matchers: grass
       placement: overlay
     }
     {
       states: [ "red_flower", "yellow_flower" ]
-      height: [ 48, 144 ]
+      height: [ 50, 144 ]
       integrity: 0.001
       directions: down
       matchers: grass
@@ -146,7 +167,7 @@
     }
     {
       states: [ "red_mushroom", "brown_mushroom" ]
-      height: [ 48, 144 ]
+      height: [ 50, 144 ]
       integrity: 0.003
       directions: down
       matchers: [ "stone", "dirt", "grass" ]
@@ -167,6 +188,131 @@
       directions: [ "side", "up" ]
       matchers: [ "stone", "dirt", "grass" ]
       placement: overlay
+    }
+    {
+      states: sea_lantern
+      height: [ 96, 144 ]
+      integrity: 0.006
+      directions: up
+      matchers: [ "stone", "dirt", "grass" ]
+      placement: embed
+    }
+  ]
+  structures: [
+    {
+      name: red_mushroom
+      height: [ 48, 144 ]
+      chance: 0.04
+      directions: down
+      matchers: [ "stone", "dirt", "grass" ]
+      offset: [ 0, 1, 0 ]
+      count: 2
+    }
+    {
+      name: brown_mushroom_lg
+      height: [ 48, 144 ]
+      chance: 0.02
+      directions: down
+      matchers: [ "stone", "dirt", "grass" ]
+      offset: [ 0, 1, 0 ]
+      count: 2
+    }
+    {
+      name: brown_mushroom_sm
+      height: [ 48, 144 ]
+      chance: 0.02
+      directions: down
+      matchers: [ "stone", "dirt", "grass" ]
+      offset: [ 0, 1, 0 ]
+      count: 5
+    }
+    {
+      name: fossils/fossil_spine_01
+      height: [ 48, 96 ]
+      chance: 0.01
+      directions: down
+      matchers: [ "stone", "dirt", "grass" ]
+      offset: [ 0, -4, 0 ]
+      count: 1
+      integrity: 0.85
+      rotateRandomly: true
+    }
+    {
+      name: fossils/fossil_spine_02
+      height: [ 48, 96 ]
+      chance: 0.01
+      directions: down
+      matchers: [ "stone", "dirt", "grass" ]
+      offset: [ 0, -4, 0 ]
+      count: 1
+      integrity: 0.85
+      rotateRandomly: true
+    }
+    {
+      name: fossils/fossil_spine_03
+      height: [ 48, 96 ]
+      chance: 0.01
+      directions: down
+      matchers: [ "stone", "dirt", "grass" ]
+      offset: [ 0, -4, 0 ]
+      count: 1
+      integrity: 0.85
+      rotateRandomly: true
+    }
+    {
+      name: fossils/fossil_spine_04
+      height: [ 48, 96 ]
+      chance: 0.01
+      directions: down
+      matchers: [ "stone", "dirt", "grass" ]
+      offset: [ 0, -4, 0 ]
+      count: 1
+      integrity: 0.85
+      rotateRandomly: true
+    }
+    {
+      name: fossils/fossil_skull_01
+      height: [ 48, 96 ]
+      chance: 0.01
+      directions: down
+      matchers: [ "stone", "dirt", "grass" ]
+      offset: [ 0, -4, 0 ]
+      count: 1
+      integrity: 0.85
+      rotateRandomly: true
+    }
+    {
+      name: fossils/fossil_skull_02
+      height: [ 48, 96 ]
+      chance: 0.01
+      directions: down
+      matchers: [ "stone", "dirt", "grass" ]
+      offset: [ 0, -4, 0 ]
+      count: 1
+      integrity: 0.85
+      rotateRandomly: true
+    }
+    {
+      name: fossils/fossil_skull_03
+      height: [ 48, 96 ]
+      chance: 0.01
+      directions: down
+      matchers: [ "stone", "dirt", "grass" ]
+      offset: [ 0, -4, 0 ]
+      count: 1
+      integrity: 0.85
+      rotateRandomly: true
+    }
+    {
+      name: fossils/fossil_skull_04
+      height: [ 48, 96 ]
+      chance: 0.01
+      directions: down
+      matchers: [ "stone", "dirt", "grass" ]
+      offset: [ 0, -4, 0 ]
+      count: 1
+      integrity: 0.85
+      rotateRandomly: true
     }
   ]
 }

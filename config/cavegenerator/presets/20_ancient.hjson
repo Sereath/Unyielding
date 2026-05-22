@@ -71,7 +71,7 @@
   }
   caveBlocks: [
     {
-      states: gravel
+      states: water
       height: [ 0, 8 ]
     }
   ]

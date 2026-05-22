@@ -81,5 +81,6 @@
     unyielding:layer2
     unyielding:layer3
     unyielding:layer4
+    quark:variant_leaves
   ]
 }

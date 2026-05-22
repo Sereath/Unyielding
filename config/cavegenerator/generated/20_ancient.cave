@@ -83,6 +83,7 @@
     unyielding:layer2
     unyielding:layer3
     unyielding:layer4
+    quark:variant_leaves
   ]
   replaceDecorators: true
   caverns: {
@@ -152,7 +153,7 @@
   }
   caveBlocks: [
     {
-      states: gravel
+      states: water
       height: [ 0, 8 ]
     }
   ]
