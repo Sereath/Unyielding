@@ -1283,6 +1283,68 @@
 		"result": "deny"
 	},
 
+	//lmcounter
+
+	{
+		"mob": "lycanitesmobs:abaia",
+		"mincount": {
+			"amount": 10,
+			"mob": "lycanitesmobs:abaia",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+	{
+		"mob": "lycanitesmobs:jengu",
+		"mincount": {
+			"amount": 10,
+			"mob": "lycanitesmobs:jengu",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+	{
+		"mob": "lycanitesmobs:strider",
+		"mincount": {
+			"amount": 5,
+			"mob": "lycanitesmobs:strider",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+	{
+		"mob": "lycanitesmobs:thresher",
+		"mincount": {
+			"amount": 5,
+			"mob": "lycanitesmobs:thresher",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+
+    //tgcounter
+
+	{
+		"mob": "techguns:zombiesoldier",
+		"onjoin": true,
+		"mincount": {
+			"amount": 20,
+			"mob": "techguns:zombiesoldier",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+	{
+		"mob": "techguns:skeletonsoldier",
+		"onjoin": true,
+		"mincount": {
+			"amount": 20,
+			"mob": "techguns:skeletonsoldier",
+			"perchunk": true
+		},
+		"result": "deny"
+	},
+
 	//vanillamobcounter
 
 	{
@@ -1334,7 +1396,7 @@
 	{
 		"mob": "minecraft:zombie",
 		"mincount": {
-			"amount": 60,
+			"amount": 30,
 			"mob": "minecraft:zombie",
 			"perchunk": true
 		},

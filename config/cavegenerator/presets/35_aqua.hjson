@@ -38,4 +38,149 @@
       height: [ 0, 180 ]
     }
   ]
+  stalactites: [
+    {
+      type: stalactite
+      state: stone
+      height: [ 60, 232 ]
+      length: [ 4, 12 ]
+      size: large
+      chance: 0.006
+      matchers: stone
+    }
+    {
+      type: stalactite
+      state: chisel:block_charcoal
+      height: [ 60, 232 ]
+      length: [ 1, 3 ]
+      size: medium
+      chance: 0.002
+      matchers: stone
+    }
+    {
+      type: stalagmite
+      state: chisel:block_charcoal
+      height: [ 32, 96 ]
+      length: [ 1, 12 ]
+      size: medium
+      chance: 0.001
+      matchers: stone
+    }
+  ]
+  wallDecorators: [
+    {
+      states: chisel:technical:12
+      height: [ 32, 232 ]
+      integrity: 0.02
+      directions: down
+      matchers: stone
+      placement: embed
+    }
+    {
+      states: chisel:technicalnew:6
+      height: [ 32, 232 ]
+      integrity: 0.01
+      directions: [ "side", "down" ]
+      matchers: stone
+      placement: embed
+    }
+    {
+      states: quark:elder_sea_lantern
+      height: [ 96, 232 ]
+      integrity: 0.002
+      directions: up
+      matchers: stone
+      placement: embed
+    }
+  ]
+  structures: [
+    {
+      name: fossils/fossil_spine_01
+      height: [ 32, 96 ]
+      chance: 0.01
+      directions: down
+      matchers: [ "stone", "dirt", "grass" ]
+      offset: [ 0, -4, 0 ]
+      count: 1
+      integrity: 0.85
+      rotateRandomly: true
+    }
+    {
+      name: fossils/fossil_spine_02
+      height: [ 32, 96 ]
+      chance: 0.01
+      directions: down
+      matchers: [ "stone", "dirt", "grass" ]
+      offset: [ 0, -4, 0 ]
+      count: 1
+      integrity: 0.85
+      rotateRandomly: true
+    }
+    {
+      name: fossils/fossil_spine_03
+      height: [ 32, 96 ]
+      chance: 0.01
+      directions: down
+      matchers: [ "stone", "dirt", "grass" ]
+      offset: [ 0, -4, 0 ]
+      count: 1
+      integrity: 0.85
+      rotateRandomly: true
+    }
+    {
+      name: fossils/fossil_spine_04
+      height: [ 32, 96 ]
+      chance: 0.01
+      directions: down
+      matchers: [ "stone", "dirt", "grass" ]
+      offset: [ 0, -4, 0 ]
+      count: 1
+      integrity: 0.85
+      rotateRandomly: true
+    }
+    {
+      name: fossils/fossil_skull_01
+      height: [ 32, 96 ]
+      chance: 0.01
+      directions: down
+      matchers: [ "stone", "dirt", "grass" ]
+      offset: [ 0, -4, 0 ]
+      count: 1
+      integrity: 0.85
+      rotateRandomly: true
+    }
+    {
+      name: fossils/fossil_skull_02
+      height: [ 32, 96 ]
+      chance: 0.01
+      directions: down
+      matchers: [ "stone", "dirt", "grass" ]
+      offset: [ 0, -4, 0 ]
+      count: 1
+      integrity: 0.85
+      rotateRandomly: true
+    }
+    {
+      name: fossils/fossil_skull_03
+      height: [ 32, 96 ]
+      chance: 0.01
+      directions: down
+      matchers: [ "stone", "dirt", "grass" ]
+      offset: [ 0, -4, 0 ]
+      count: 1
+      integrity: 0.85
+      rotateRandomly: true
+    }
+    {
+      name: fossils/fossil_skull_04
+      height: [ 32, 96 ]
+      chance: 0.01
+      directions: down
+      matchers: [ "stone", "dirt", "grass" ]
+      offset: [ 0, -4, 0 ]
+      count: 1
+      integrity: 0.85
+      rotateRandomly: true
+    }
+  ]
 }

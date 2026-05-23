@@ -53,6 +53,7 @@
     minecraft:brown_mushroom
     minecraft:red_flower
     minecraft:yellow_flower
+    minecraft:sea_lantern
     environs:dried_stone
     environs:dried_cobblestone
     environs:dried_dirt
@@ -84,6 +85,14 @@
     unyielding:layer3
     unyielding:layer4
     quark:variant_leaves
+    quark:elder_sea_lantern
+    chisel:block_charcoal
+    chisel:factory:1
+    chisel:technical:12
+    chisel:technical:15
+    chisel:technicalnew:6
+    extendedcrafting:lamp
+    extendedcrafting:lamp:1
   ]
   replaceDecorators: true
   caverns: {

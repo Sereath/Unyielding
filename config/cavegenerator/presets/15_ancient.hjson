@@ -57,6 +57,15 @@
       chance: 0.006
       matchers: stone
     }
+    {
+      type: stalagmite
+      state: chisel:block_charcoal
+      height: [ 48, 96 ]
+      length: [ 1, 3 ]
+      size: medium
+      chance: 0.001
+      matchers: stone
+    }
   ]
   wallDecorators: [
     {
@@ -112,7 +121,7 @@
       height: [ 96, 144 ]
       integrity: 0.006
       directions: up
-      matchers: [ "stone", "dirt", "grass" ]
+      matchers: stone
       placement: embed
     }
   ]
