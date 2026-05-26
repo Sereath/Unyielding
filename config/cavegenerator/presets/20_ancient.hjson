@@ -5,7 +5,7 @@
   replaceableBlocks: $NATURAL_STONE
   replaceDecorators: true
   caverns: {
-    height: [ 80, 250 ]
+    height: [ 144, 250 ]
     ceiling: {
       frequency: 0.02
       range: [ -4, 4 ]

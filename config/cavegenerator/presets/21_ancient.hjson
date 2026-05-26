@@ -1,0 +1,37 @@
+{
+  enabled: true
+  dimensions: [ 3 ]
+  replaceableBlocks: [ "stone", "dirt", "grass", "air" ]
+  replaceDecorators: false
+  tunnels: {
+    count: 5
+    height: [ 20, 220 ]
+    systemChance: 0.025
+    noiseYReduction: false
+    distance: 320
+    resizeBranches: true
+    scale: {
+      startVal: 4
+      startValRandFactor: 0.7
+      randFactor: 0.45
+    }
+    stretch: {
+      startVal: 0.35
+      randFactor: 0.25
+    }
+    dYaw: {
+      factor: 0.45
+      randFactor: 3
+    }
+    dPitch: {
+      factor: 0.4
+      randFactor: 3
+    }
+  }
+  caveBlocks: [
+    {
+      states: chisel:planks-spruce:10
+      height: [ 0, 250 ]
+    }
+  ]
+}

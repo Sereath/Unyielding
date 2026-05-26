@@ -1,0 +1,37 @@
+{
+  enabled: true
+  dimensions: [ 7 ]
+  replaceableBlocks: [ "stone", "dirt", "grass", "air" ]
+  replaceDecorators: false
+  tunnels: {
+    count: 5
+    height: [ 20, 220 ]
+    systemChance: 0.02
+    noiseYReduction: false
+    distance: 320
+    resizeBranches: false
+    scale: {
+      startVal: 2
+      startValRandFactor: 0.3
+      randFactor: 0.2
+    }
+    stretch: {
+      startVal: 0.2
+      randFactor: 0.15
+    }
+    dYaw: {
+      factor: 0.15
+      randFactor: 1.5
+    }
+    dPitch: {
+      factor: 0.2
+      randFactor: 1
+    }
+  }
+  caveBlocks: [
+    {
+      states: chisel:technicalnew:5
+      height: [ 0, 250 ]
+    }
+  ]
+}

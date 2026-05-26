@@ -21,7 +21,7 @@ oldDeathpoints:true
 distance:1
 lockNorth:true
 zoom:1
-minimapSize:160
+minimapSize:137
 chunkGrid:-1
 slimeChunks:false
 mapSafeMode:false
