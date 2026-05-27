@@ -75,4 +75,22 @@
       height: [ 0, 180 ]
     }
   ]
+  wallDecorators: [
+    {
+      states: chisel:technical:12
+      height: [ 4, 254 ]
+      integrity: 0.01
+      directions: down
+      matchers: stone
+      placement: embed
+    }
+    {
+      states: quark:elder_sea_lantern
+      height: [ 4, 254 ]
+      integrity: 0.001
+      directions: up
+      matchers: stone
+      placement: embed
+    }
+  ]
 }

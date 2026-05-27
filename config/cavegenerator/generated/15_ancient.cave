@@ -204,7 +204,7 @@
       height: [ 60, 144 ]
       integrity: 0.15
       directions: [ "side", "up" ]
-      matchers: [ "stone", "dirt", "grass" ]
+      matchers: [ "stone", "dirt" ]
       placement: overlay
     }
     {

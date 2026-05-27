@@ -4,9 +4,9 @@
   replaceableBlocks: [ "stone", "dirt", "grass", "air" ]
   replaceDecorators: false
   tunnels: {
-    count: 6
+    count: 5
     height: [ 20, 220 ]
-    systemChance: 0.02
+    systemChance: 0.015
     noiseYReduction: false
     distance: 320
     resizeBranches: false

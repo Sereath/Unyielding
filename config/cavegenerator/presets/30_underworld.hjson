@@ -75,4 +75,22 @@
       height: [ 0, 8 ]
     }
   ]
+  wallDecorators: [
+    {
+      states: chisel:factory:1
+      height: [ 4, 254 ]
+      integrity: 0.01
+      directions: down
+      matchers: stone
+      placement: embed
+    }
+    {
+      states: extendedcrafting:lamp:1
+      height: [ 4, 254 ]
+      integrity: 0.001
+      directions: up
+      matchers: stone
+      placement: embed
+    }
+  ]
 }

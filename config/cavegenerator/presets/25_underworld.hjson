@@ -85,7 +85,7 @@
       placement: embed
     }
     {
-      states: [ "extendedcrafting:lamp", "extendedcrafting:lamp:1" ]
+      states: extendedcrafting:lamp:1
       height: [ 96, 208 ]
       integrity: 0.002
       directions: up

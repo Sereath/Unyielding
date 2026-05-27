@@ -115,4 +115,14 @@
     }
     noiseYFactor: 0.7
   }
+  wallDecorators: [
+    {
+      states: da:moss_block
+      height: [ 5, 255 ]
+      integrity: 0.03
+      directions: down
+      matchers: stone
+      placement: embed
+    }
+  ]
 }

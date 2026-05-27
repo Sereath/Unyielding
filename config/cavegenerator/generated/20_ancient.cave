@@ -166,4 +166,30 @@
       height: [ 0, 8 ]
     }
   ]
+  wallDecorators: [
+    {
+      states: da:moss_block
+      height: [ 4, 254 ]
+      integrity: 0.3
+      directions: down
+      matchers: stone
+      placement: embed
+    }
+    {
+      states: quark:variant_leaves
+      height: [ 4, 254 ]
+      integrity: 0.1
+      directions: up
+      matchers: stone
+      placement: overlay
+    }
+    {
+      states: sea_lantern
+      height: [ 4, 254 ]
+      integrity: 0.001
+      directions: up
+      matchers: stone
+      placement: embed
+    }
+  ]
 }
