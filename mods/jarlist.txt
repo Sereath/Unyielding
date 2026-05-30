@@ -13,7 +13,7 @@ amidst-forge-1.12.2-0.6.2
 AncientSpellcraft-1.12.2-1.8.2
 ancientwarfare-1.12.2-2.10.2
 antibonemeal-1.12.2-1.0.0
-AntiqueArmory-1.12.2-1.2.8
+AntiqueArmory-1.12.2-1.2.7
 antiqueatlas-1.12.2-4.6.3
 AppleCore-mc1.12.2-3.4.0
 AppleSkin-mc1.12-1.0.14
@@ -69,7 +69,7 @@ Chisel-MC1.12.2-1.0.2.45
 ChiseledAdditions-1.0.0
 Chocolate_Quest_Repoured-1.12.2-2.8.0B
 Chunk Pregenerator-V1.12-2.5.7
-classicbar-0.5.8
+classicbar-0.5.9
 ClientTweaks_1.12.2-3.1.11
 CodeChickenLib-1.12.2-3.2.3.358-universal
 CoFHCore-1.12.2-4.6.6.1-universal
@@ -104,7 +104,7 @@ DefaultWorldGenerator-port-1.12-2.3
 delivery-1.12.2-1.6.2
 demagnetize-1.12.2-1.1.2
 DimensionalEdibles-1.12.2-1.6.4
-dldungeonsjbg-1.14.16-MC1.12.2
+dldungeonsjbg-1.14.17-MC1.12.2
 DoggyTalents-1.12.2-1.15.1.6
 DrZharks-MoCreatures-Extended-12.4.8
 dungeonmobs-5.9.0-MC1.12.2
@@ -160,7 +160,7 @@ GamblingStyle-v1.1.3-1.12.2
 GameStages-1.12.2-2.0.123
 geckolib-forge-1.12.2-3.0.31
 GrimoireOfGaia3-1.12.2-1.7.2
-groovyscript-1.3.4
+groovyscript-1.4.3
 growthcraft-1.12.2-4.4.0
 HadEnoughItems_1.12.2-4.29.15
 harderbedcrafting-1.0
@@ -193,7 +193,7 @@ itemzoom_1.12.2-1.11
 IvToolkit-1.3.3-1.12
 JAOPCA-1.12.2-2.2.8.106
 JEI-Utilities-1.12.2-0.2.13
-jei_area_fixer-2.3.0
+jei_area_fixer-2.4.0
 jepb-1.12-1.2.1
 jetif-1.12.2-1.5.2
 jubitusbirds-1.1.4
@@ -394,7 +394,7 @@ VerticallyStackedDimensions-1.12.2-0.1.9
 VillageNames-1.12.2-4.4.13
 VillagerTrades-1.12.2-0.6.5
 vintagefix-0.7.0
-voicechat-forge-1.12.2-2.6.17
+voicechat-forge-1.12.2-2.6.18
 walljump-1.12.2-1.3.2
 WanionLib-1.12.2-2.91
 Waystones_1.12.2-4.1.0
