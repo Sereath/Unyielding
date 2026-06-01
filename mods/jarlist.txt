@@ -34,7 +34,7 @@ beastslayer-not.2.0.02
 betteranimalsplus-1.12.2-9.0.1
 BetterBoilers-1.2
 BetterBuildersWands-1.12.2-0.13.2.271+5997513
-BetterDisplays-1.12.2-1.1.1
+BetterDisplays-1.1.2
 betterinvisibility-1.12.2-1.0.5
 BetterMineshaftsForge-1.12.2-2.2.1
 BetterSpartanArchery-1.12.2-1.4.1-1.2a
@@ -141,7 +141,7 @@ FantasticLib-1.12.2.070
 FarmingForBlockheads_1.12.2-3.1.28
 filcabref-1.12.2-1.0.0
 Fish's Undead Rising-1.4.2
-Fixeroo-2.3.6
+Fixeroo-2.3.7
 flare-0.8.0
 flaskoflife-1.0.3HOTFIX-3
 Forgelin-Continuous-2.3.20.0
