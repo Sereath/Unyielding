@@ -7,14 +7,6 @@
 		level = "48"
 		priority = "4"
 		identifier = "underground"
-	[[triggers.time]]
-		priority = "3"
-		time_bundle = "night"
-		identifier = "night"
-	[[triggers.time]]
-		priority = "2"
-		time_bundle = "day"
-		identifier = "day"
 	[triggers.dead]
 		priority = "15"
 	[triggers.lowhp]
@@ -75,31 +67,31 @@
 		triggers = [ "dimension-overworld" "height-underground" ]
 	[songs.ap]
 		volume = "1.3"
-		triggers = [ "dimension-overworld" "time-night" ]
+		triggers = [ "dimension-overworld" ]
 	[songs.ca]
 		volume = "0.9"
-		triggers = [ "dimension-overworld" "time-night" ]
+		triggers = [ "dimension-overworld" ]
 	[songs.dca]
 		volume = "0.4"
-		triggers = [ "dimension-overworld" "time-night" ]
+		triggers = [ "dimension-overworld" ]
 	[songs.dcb]
 		volume = "0.4"
-		triggers = [ "dimension-overworld" "time-night" ]
+		triggers = [ "dimension-overworld" ]
 	[songs.gs]
-		volume = "0.8"
-		triggers = [ "dimension-overworld" "time-night" ]
+		volume = "0.7"
+		triggers = [ "dimension-overworld" ]
 	[songs.dw]
 		volume = "0.9"
-		triggers = [ "dimension-overworld" "time-night" ]
+		triggers = [ "dimension-overworld" ]
 	[songs.lh]
 		volume = "0.9"
-		triggers = [ "dimension-overworld" "time-night" ]
+		triggers = [ "dimension-overworld" ]
 	[songs.qsanm]
-		triggers = [ "dimension-overworld" "time-night" ]
+		triggers = [ "dimension-overworld" ]
 	[songs.qstdb]
-		triggers = [ "dimension-overworld" "time-night" ]
+		triggers = [ "dimension-overworld" ]
 	[songs.tosd]
-		triggers = [ "dimension-overworld" "time-night" ]
+		triggers = [ "dimension-overworld" ]
 	[songs.t_se1_178113]
 		triggers = [ "dimension-abyss" ]
 	[songs.t_etmbl_277192]
@@ -192,8 +184,10 @@
 	[songs.s_asmd_54921]
 		triggers = [ "dead" ]
 	[songs.t_p_173917]
+		volume = "0.9"
 		triggers = [ "lowhp" ]
 	[songs.s_sv_58962]
+		volume = "0.9"
 		triggers = [ "lowhp" ]
 	[songs.p_cpa_415330]
 		triggers = [ "menu" ]
@@ -206,13 +200,13 @@
 	[songs.e1]
 		triggers = [ "dimension-end" ]
 	[songs.k_ha14_135836]
-		volume = "0.9"
+		volume = "0.8"
 		triggers = [ "dimension-end" ]
 	[songs.k_ha7212xcdq_13052514_212045]
-		volume = "0.9"
+		volume = "0.8"
 		triggers = [ "dimension-end" ]
 	[songs.t_hba_178607]
-		volume = "0.9"
+		volume = "0.8"
 		triggers = [ "dimension-end" ]
 	[songs.n4]
 		triggers = [ "dimension-nether" ]
@@ -245,29 +239,29 @@
 	[songs.k_ha06_170329]
 		triggers = [ "dimension-nether" ]
 	[songs.nb]
-		triggers = [ "dimension-overworld" "time-day" ]
+		triggers = [ "dimension-overworld" ]
 	[songs.na]
-		triggers = [ "dimension-overworld" "time-day" ]
+		triggers = [ "dimension-overworld" ]
 	[songs.h2]
-		triggers = [ "dimension-overworld" "time-day" ]
+		triggers = [ "dimension-overworld" ]
 	[songs.cc]
-		triggers = [ "dimension-overworld" "time-day" ]
+		triggers = [ "dimension-overworld" ]
 	[songs.c6]
-		triggers = [ "dimension-overworld" "time-day" ]
+		triggers = [ "dimension-overworld" ]
 	[songs.c5]
-		triggers = [ "dimension-overworld" "time-day" ]
+		triggers = [ "dimension-overworld" ]
 	[songs.c4]
-		triggers = [ "dimension-overworld" "time-day" ]
+		triggers = [ "dimension-overworld" ]
 	[songs.c3]
-		triggers = [ "dimension-overworld" "time-day" ]
+		triggers = [ "dimension-overworld" ]
 	[songs.c2]
-		triggers = [ "dimension-overworld" "time-day" ]
+		triggers = [ "dimension-overworld" ]
 	[songs.c1]
-		triggers = [ "dimension-overworld" "time-day" ]
+		triggers = [ "dimension-overworld" ]
 	[songs.p1]
-		triggers = [ "dimension-overworld" "time-day" ]
+		triggers = [ "dimension-overworld" ]
 	[songs.p2]
-		triggers = [ "dimension-overworld" "time-day" ]
+		triggers = [ "dimension-overworld" ]
 	[songs.p3]
-		triggers = [ "dimension-overworld" "time-day" ]
+		triggers = [ "dimension-overworld" ]
 	[songs.universal]

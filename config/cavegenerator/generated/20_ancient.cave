@@ -168,9 +168,9 @@
   ]
   wallDecorators: [
     {
-      states: da:moss_block
+      states: [ "da:moss_block", "mossy_cobblestone" ]
       height: [ 4, 254 ]
-      integrity: 0.3
+      integrity: 0.15
       directions: down
       matchers: stone
       placement: embed
