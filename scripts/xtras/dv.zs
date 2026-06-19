@@ -141,11 +141,11 @@ mods.Delivery.Store.addTrade(<heroicarmory:rssaradomingodsword>, store_Melee).ad
 
 mods.Delivery.Store.addTrade(<heroicarmory:rsbarrelchestanchor>, store_Melee).addItem(goldCoin * 24).addItem(scrapAurorianite);
 
-mods.Delivery.Store.addTrade(<spartanshields:shield_abyssalcraft_darkstone>, store_Melee).addItem(goldCoin * 3).addItem(<randomthings:ingredient:2>);
-mods.Delivery.Store.addTrade(<spartanshields:shield_abyssalcraft_abyssalnite>, store_Melee).addItem(goldCoin * 6).addItem(<randomthings:ingredient:2>);
-mods.Delivery.Store.addTrade(<spartanshields:shield_abyssalcraft_coralium>, store_Melee).addItem(goldCoin * 12).addItem(<randomthings:ingredient:2>);
-mods.Delivery.Store.addTrade(<spartanshields:shield_abyssalcraft_dreadium>, store_Melee).addItem(goldCoin * 24).addItem(<randomthings:ingredient:2>);
-mods.Delivery.Store.addTrade(<spartanshields:shield_abyssalcraft_ethaxium>, store_Melee).addItem(goldCoin * 48).addItem(<randomthings:ingredient:2>);
+mods.Delivery.Store.addTrade(<spartanshields:shield_abyssalcraft_darkstone>, store_Melee).addItem(goldCoin * 3).addItem(<randomthings:ingredient:2> * 2);
+mods.Delivery.Store.addTrade(<spartanshields:shield_abyssalcraft_abyssalnite>, store_Melee).addItem(goldCoin * 6).addItem(<randomthings:ingredient:2> * 3);
+mods.Delivery.Store.addTrade(<spartanshields:shield_abyssalcraft_coralium>, store_Melee).addItem(goldCoin * 12).addItem(<randomthings:ingredient:2> * 6);
+mods.Delivery.Store.addTrade(<spartanshields:shield_abyssalcraft_dreadium>, store_Melee).addItem(goldCoin * 24).addItem(<randomthings:ingredient:2> * 12);
+mods.Delivery.Store.addTrade(<spartanshields:shield_abyssalcraft_ethaxium>, store_Melee).addItem(goldCoin * 48).addItem(<randomthings:ingredient:2> * 48);
 
 //ranged
 mods.Delivery.Store.addTrade(<mysticbows:bow>, store_Ranged).addItem(goldCoin * 3);
