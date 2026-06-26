@@ -2,7 +2,7 @@
 !mixinbooter-10.7
 !mod-director-launchwrapper-1.9.1
 !Red-Core-MC-1.8-1.12-0.7.1
-+Fugue-0.23.4
++Fugue-0.23.6
 ActuallyAdditions-1.12.2-r152
 ActuallyBaubles-1.12-1.1
 AggroTP-0.4.1
@@ -13,7 +13,7 @@ amidst-forge-1.12.2-0.6.2
 AncientSpellcraft-1.12.2-1.8.2
 ancientwarfare-1.12.2-2.10.2
 antibonemeal-1.12.2-1.0.0
-AntiqueArmory-1.12.2-1.2.7
+AntiqueArmory-1.12.2-1.2.9
 antiqueatlas-1.12.2-4.6.3
 AppleCore-mc1.12.2-3.4.0
 AppleSkin-mc1.12-1.0.14
@@ -69,7 +69,7 @@ Chisel-MC1.12.2-1.0.2.45
 ChiseledAdditions-1.0.0
 Chocolate_Quest_Repoured-1.12.2-2.8.0B
 Chunk Pregenerator-V1.12-2.5.7
-classicbar-0.5.9
+classicbar-0.6.0
 ClientTweaks_1.12.2-3.1.11
 CodeChickenLib-1.12.2-3.2.3.358-universal
 CoFHCore-1.12.2-4.6.6.1-universal
@@ -113,7 +113,7 @@ DynamicSurroundingsHuds-1.12.2-3.6.0.0
 dynviewdist-1.12-1.3
 Easy+Shulker+Access-1.12.2-1.1.1
 EerieEntities-1.12.2-1.0.8
-ElectroblobsWizardry-4.3.18
+ElectroblobsWizardry-4.3.19
 ElenaiDodge2-1.12.2-1.1.0
 enchcontrol-1.12.2-1.1.5-0
 enchlib-1.12.2-1.2.1
@@ -144,7 +144,7 @@ Fish's Undead Rising-1.4.2
 Fixeroo-2.3.7
 flare-0.8.0
 flaskoflife-1.0.3HOTFIX-3
-Forgelin-Continuous-2.3.20.0
+Forgelin-Continuous-2.4.0.0
 FpsReducer-mc1.12.2-1.20
 FriendlyFire-1.12.2-1.5.10
 Frozen-Fiend-1.5.3
@@ -258,7 +258,7 @@ NetherEx-1.12.2-2.2.5
 neverenoughanimations-1.0.7
 nolavabuild-1.12.2-1.0.0
 NotEnoughIDs-1.5.4.4
-nuclearcraft-1.12.2-2o.9.2
+nuclearcraft-1.12.2-2o.9.7
 Nutrition-UEL-4.16.0
 Nyx-1.6.1
 oauth-1.06.4
@@ -282,7 +282,7 @@ potiondescriptions-1.12.2-1.2.4
 progressivecore-0.4
 proxys-lib-1.12.2-1.3.0.6
 PyramidPlunder-1.12.2-1.4
-QMD-1.5-1.12.2
+QMD-1.5.1-1.12.2
 QualityTools-1.0.7_for_1.12.2
 QuarkRotN-r1.6-191
 Quit-Forge-1.12.2-1.1.0
