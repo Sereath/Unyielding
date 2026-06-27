@@ -119,8 +119,8 @@
     {
       states: [ "mossy_cobblestone", "cobblestone" ]
       height: [ 5, 255 ]
-      integrity: 0.015
-      directions: down
+      integrity: 0.01
+      directions: [ "side", "down" ]
       matchers: stone
       placement: embed
     }

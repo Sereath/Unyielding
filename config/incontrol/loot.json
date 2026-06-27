@@ -32,14 +32,6 @@
         "itemcount": "1-2/2-3/3-4",
         "random": "0.001"
     },
-    {
-        "mob": "minecraft:zombie",
-        "player": true,
-        "item": "ancientwarfarenpc:coin",
-        "nbt": "{metal: \"ancient\"}",
-        "itemcount": "1",
-        "random": "0.00003"
-    },
 
     //gog
 
@@ -66,14 +58,6 @@
         "nbt": "{metal: \"gold\"}",
         "itemcount": "1-2/2-3/3-4",
         "random": "0.003"
-    },
-    {
-        "mod": "grimoireofgaia",
-        "player": true,
-        "item": "ancientwarfarenpc:coin",
-        "nbt": "{metal: \"ancient\"}",
-        "itemcount": "1",
-        "random": "0.00009"
     },
 
     //mowzies

@@ -165,7 +165,7 @@
       states: chisel:factory:1
       height: [ 48, 254 ]
       integrity: 0.01
-      directions: down
+      directions: [ "side", "down" ]
       matchers: stone
       placement: embed
     }

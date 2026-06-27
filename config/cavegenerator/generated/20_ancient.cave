@@ -170,8 +170,8 @@
     {
       states: [ "da:moss_block", "mossy_cobblestone" ]
       height: [ 4, 254 ]
-      integrity: 0.15
-      directions: down
+      integrity: 0.1
+      directions: [ "side", "down" ]
       matchers: stone
       placement: embed
     }
