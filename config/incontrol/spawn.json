@@ -1228,7 +1228,7 @@
 	{
 		"mob": "mutantbeasts:mutant_skeleton",
 		"mincount": {
-			"amount": 2,
+			"amount": 3,
 			"mob": "mutantbeasts:mutant_skeleton",
 			"perchunk": true
 		},
