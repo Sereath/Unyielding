@@ -1,7 +1,4 @@
 [
-	
-	//dmobs
-	
 	{
 		"dimension": 10,
 		"mob": "dungeonmobs:dmghoul",
@@ -72,7 +69,6 @@
 		"result": "deny"
 	},
 
-	//techguns
 
 	{
 		"dimension": 0,
@@ -322,7 +318,6 @@
 		"result": "deny"
 	},
 
-	//ice&fire dreads
 	
 	{
 		"dimension": 0,
@@ -450,7 +445,6 @@
 		"result": "deny"
 	},
 	
-	//GoG
 
 	{
 		"dimension": 0,
@@ -553,7 +547,6 @@
 		"result": "deny"
 	},
 	
-	//eyes
 	
 	{
 		"dimension": [0,3,5,424],
@@ -574,7 +567,6 @@
 		"result": "deny"
 	},
 
-	//srpbeckonsskycheck
 
 	{
 		"dimension": 0,
@@ -584,7 +576,6 @@
 		"result": "deny"
 	},
 
-	//roughmobsbossesskycheck
 	
 	{
 		"dimension": 0,
@@ -594,7 +585,6 @@
 		"result": "deny"
 	},
 	
-	//roughmobsbossesbeneathdespawn
 
 	{
 		"dimension": [3,5,7,10],
@@ -603,7 +593,6 @@
 		"result": "deny"
 	},
 
-	//beneath
 
 	{
 		"dimension": 10,
@@ -611,7 +600,6 @@
 		"result": "deny"
 	},
 
-	//srp
 
 	{
 		"dimension": 10,
@@ -853,7 +841,6 @@
 		"result": "deny"
 	},
 
-	//nco
 
 	{
 		"dimension": 0,
@@ -887,7 +874,6 @@
 		"result": "deny"
 	},
 
-	//revs
 
 	{
 		"dimension": 0,
@@ -908,7 +894,6 @@
 		"result": "deny"
 	},
 
-	//lm
 
 	{
 		"dimension": [3,5,7],
@@ -928,7 +913,7 @@
 		"mob": ["lycanitesmobs:ghoul","lycanitesmobs:kobold","lycanitesmobs:wraamon","lycanitesmobs:aglebemu","lycanitesmobs:darkling"],
 		"result": "deny"
 	},
-	//abyss
+
 	{
 		"dimension": 3,
 		"mob": ["lycanitesmobs:remobra","lycanitesmobs:aspid","lycanitesmobs:calpod","lycanitesmobs:eyewig","lycanitesmobs:lurker","lycanitesmobs:gorgomite"],
@@ -947,7 +932,7 @@
 		"mob": ["lycanitesmobs:remobra","lycanitesmobs:aspid","lycanitesmobs:calpod","lycanitesmobs:eyewig","lycanitesmobs:lurker","lycanitesmobs:gorgomite"],
 		"result": "deny"
 	},
-	//under
+
 	{
 		"dimension": 5,
 		"mob": ["lycanitesmobs:necrovore","lycanitesmobs:gnekk","lycanitesmobs:cacodemon","lycanitesmobs:astaroth","lycanitesmobs:trite","lycanitesmobs:vorach"],
@@ -966,7 +951,7 @@
 		"mob": ["lycanitesmobs:necrovore","lycanitesmobs:gnekk","lycanitesmobs:cacodemon","lycanitesmobs:astaroth","lycanitesmobs:trite","lycanitesmobs:vorach"],
 		"result": "deny"
 	},
-	//chasm
+
 	{
 		"dimension": 7,
 		"mob": "lycanitesmobs:dweller",
@@ -986,7 +971,6 @@
 		"result": "deny"
 	},
 
-	//theaurorian
 
 	{
 		"dimension": 3,
@@ -1007,7 +991,6 @@
 		"result": "deny"
 	},
 
-	//fishundeadmobcounter
 
 	{
 		"mob": "mod_lavacow:raven",
@@ -1091,7 +1074,6 @@
 		"result": "deny"
 	},
 
-	//beecounter
 
 	{
 		"mob": "futuremc:bee",
@@ -1103,7 +1085,6 @@
 		"result": "deny"
 	},
 
-	//gogcounter
 
 	{
 		"mob": "grimoireofgaia:chest",
@@ -1214,7 +1195,6 @@
 		"result": "deny"
 	},
 
-	//mutantbeastscounter
 
 	{
 		"mob": "mutantbeasts:mutant_enderman",
@@ -1235,7 +1215,6 @@
 		"result": "deny"
 	},
 
-	//ancientbeastscounter
 
 	{
 		"mob": "ancientbeasts:rifted_enderman",
@@ -1247,7 +1226,6 @@
 		"result": "deny"
 	},
 
-	//chickenscounter
 
 	{
 		"mob": "chickens:chickenschicken",
@@ -1259,7 +1237,6 @@
 		"result": "deny"
 	},
 
-	//salmoncounter
 
 	{
 		"mob": "oe:salmon",
@@ -1271,7 +1248,6 @@
 		"result": "deny"
 	},
 
-	//quarkcounter
 
 	{
 		"mob": "quark:stoneling",
@@ -1283,7 +1259,6 @@
 		"result": "deny"
 	},
 
-	//lmcounter
 
 	{
 		"mob": "lycanitesmobs:abaia",
@@ -1322,7 +1297,6 @@
 		"result": "deny"
 	},
 
-    //tgcounter
 
 	{
 		"mob": "techguns:zombiesoldier",
@@ -1345,7 +1319,6 @@
 		"result": "deny"
 	},
 
-	//vanillamobcounter
 
 	{
 		"mob": "minecraft:bat",
@@ -1403,7 +1376,6 @@
 		"result": "deny"
 	},
 
-	//srphack
 
 	{
 		"mob": "srparasites:beckon_si",

@@ -1,6 +1,4 @@
 [
-    //zombie
-
     {
         "mob": "minecraft:zombie",
         "player": true,
@@ -33,7 +31,6 @@
         "random": "0.001"
     },
 
-    //gog
 
     {
         "mod": "grimoireofgaia",
@@ -60,7 +57,6 @@
         "random": "0.003"
     },
 
-    //mowzies
 
     {
         "mob": "mowziesmobs:grottol",
@@ -70,7 +66,6 @@
         "random": "1.0"
     },
 
-    //techguns
 
     {
         "mod": "techguns",
@@ -80,7 +75,6 @@
         "random": "0.6"
     },
 
-    //zombiesoldier
 
     {
         "mob": "techguns:zombiesoldier",
@@ -97,7 +91,6 @@
         "random": "0.009"
     },
 
-    //zombiefarmer
 
     {
         "mob": "techguns:zombiefarmer",
@@ -114,7 +107,6 @@
         "random": "0.006"
     },
 
-    //zombieminer
 
     {
         "mob": "techguns:zombieminer",
@@ -131,7 +123,6 @@
         "random": "0.006"
     },
 
-    //cyberdemon
 
     {
         "mob": "techguns:cyberdemon",
@@ -162,7 +153,6 @@
         "random": "0.009"
     },
 
-    //skeletonsoldier
 
     {
         "mob": "techguns:skeletonsoldier",
@@ -179,7 +169,6 @@
         "random": "0.009"
     },
 
-    //psychosteve
 
     {
         "mob": "techguns:psychosteve",
@@ -231,7 +220,6 @@
         "random": "0.06"
     },
 
-    //mutants
 
     {
         "mob": "techguns:supermutantbasic",
@@ -257,7 +245,6 @@
         "random": "0.03"
     },
 
-    //stormtrooper
 
     {
         "mob": "techguns:stormtrooper",
@@ -281,7 +268,6 @@
         "random": "0.002"
     },
 
-    //bosszombie
 
     {
         "mob": "roughmobsrevamped:bosszombie",
@@ -298,7 +284,6 @@
         "random": "0.06"
     },
 
-    //bossskeleton
 
     {
         "mob": "roughmobsrevamped:bossskeleton",
@@ -315,7 +300,6 @@
         "random": "0.06"
     },
 
-    //mutant_creeper
 
     {
         "mob": "mutantbeasts:mutant_creeper",
@@ -332,7 +316,6 @@
         "random": "0.09"
     },
 
-    //mutant_enderman
 
     {
         "mob": "mutantbeasts:mutant_enderman",
@@ -356,7 +339,6 @@
         "random": "0.09"
     },
 
-    //mutant_skeleton
 
     {
         "mob": "mutantbeasts:mutant_skeleton",
@@ -373,7 +355,6 @@
         "random": "0.06"
     },
 
-    //mutant_zombie
 
     {
         "mob": "mutantbeasts:mutant_zombie",
@@ -390,7 +371,6 @@
         "random": "0.06"
     },
     
-    //SRP
 
     {
         "mob": "srparasites:warden",
@@ -448,7 +428,6 @@
         "random": "0.018"
     },
 
-    //ender_dragon
 
     {
         "mob": "minecraft:ender_dragon",
@@ -458,7 +437,6 @@
         "random": "0.27"
     },
 
-    //wither
 
     {
         "mob": "minecraft:wither",
@@ -489,7 +467,6 @@
         "random": "0.18"
     },
 
-    //skeletonking
 
     {
         "mob": "mod_lavacow:skeletonking",
@@ -499,7 +476,6 @@
         "random": "0.18"
     },
 
-    //nether_knight
 
     {
         "mob": "eerieentities:nether_knight",
@@ -509,7 +485,6 @@
         "random": "0.03"
     },
 
-    //GOG race rings
 
     {
         "mob": ["grimoireofgaia:bone_knight","grimoireofgaia:minotaur","grimoireofgaia:flesh_lich","grimoireofgaia:vampire"],
@@ -580,7 +555,6 @@
         "random": "0.009"
     },
 
-    //CQR
 
     {
         "mob": ["cqrepoured:exterminator","cqrepoured:walker_king","cqrepoured:lich","cqrepoured:pirate_captain","cqrepoured:ender_calamity","cqrepoured:boar_mage","cqrepoured:ender_king","cqrepoured:necromancer","cqrepoured:giant_spider","cqrepoured:giant_tortoise","cqrepoured:nether_dragon"],
