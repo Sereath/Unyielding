@@ -39,7 +39,7 @@
 	
 	{
 		"dimension": 10,
-		"mob": "dungeonmobs:dmtroll",
+		"mob": ["dungeonmobs:dmtroll","dungeonmobs:dmumberhulk"],
 		"random": 0.0125,
 		"maxcount":	{
 			"amount": 4,
@@ -49,23 +49,7 @@
 	},
 	{
 		"dimension": 10,
-		"mob": "dungeonmobs:dmtroll",
-		"result": "deny"
-	},
-	
-	{
-		"dimension": 10,
-		"mob": "dungeonmobs:dmumberhulk",
-		"random": 0.0125,
-		"maxcount":	{
-			"amount": 4,
-			"perchunk": true
-		},
-		"result": "allow"
-	},
-	{
-		"dimension": 10,
-		"mob": "dungeonmobs:dmumberhulk",
+		"mob": ["dungeonmobs:dmtroll","dungeonmobs:dmumberhulk"],
 		"result": "deny"
 	},
 
@@ -507,7 +491,7 @@
 
 	{
 		"dimension": 0,
-		"mob": "grimoireofgaia:dwarf",
+		"mob": ["grimoireofgaia:dwarf","grimoireofgaia:orc"],
 		"random": 0.0025,
 		"seesky": false,
 		"maxlight": 7,
@@ -522,28 +506,7 @@
 	},
 	{
 		"dimension": 0,
-		"mob": "grimoireofgaia:dwarf",
-		"result": "deny"
-	},
-
-	{
-		"dimension": 0,
-		"mob": "grimoireofgaia:orc",
-		"random": 0.0025,
-		"seesky": false,
-		"maxlight": 7,
-		"minlight": 0,
-		"maxheight": 64,
-		"minheight": 4,
-		"maxcount": {
-			"amount": 9,
-			"perchunk": true
-		},
-		"result": "allow"
-	},
-	{
-		"dimension": 0,
-		"mob": "grimoireofgaia:orc",
+		"mob": ["grimoireofgaia:dwarf","grimoireofgaia:orc"],
 		"result": "deny"
 	},
 	
