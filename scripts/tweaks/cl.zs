@@ -49,8 +49,7 @@ val clblocks = [
     <mysticalworld:charred_fence_gate>,
     <minecraft:stonebrick>,
     <minecraft:stone_brick_stairs>,
-    <minecraft:stone_slab>,
-    <cathedral:extras_block_stone>
+    <minecraft:stone_slab>
 ] as IItemStack[];
 
 for clblock in clblocks {

@@ -305,6 +305,9 @@ recipes.removeByRecipeName("industrialrenewal:stick_iron");
 
 recipes.remove(<enderskills:token>);
 
+recipes.remove(<cathedral:cathedral_railing_various:3>);
+recipes.remove(<cathedral:cathedral_pillar_various:3>);
+
 recipes.remove(<iceandfire:armor_copper_metal_helmet>);
 recipes.remove(<iceandfire:armor_copper_metal_chestplate>);
 recipes.remove(<iceandfire:armor_copper_metal_leggings>);
