@@ -676,7 +676,19 @@
 			"farmersdelight:sweet_berry_cheesecake_slice",
 			"farmersdelight:chocolate_pie_slice",
 			"farmersdelight:cake_slice",
-			"farmersdelight:glow_berry_custard"
+			"farmersdelight:glow_berry_custard",
+			"brewinandchewinlegacy:flaxen_cheese_wedge",
+			"brewinandchewinlegacy:scarlet_cheese_wedge",
+			"brewinandchewinlegacy:vegetable_omelet",
+			"brewinandchewinlegacy:creamy_onion_soup",
+			"brewinandchewinlegacy:cheesy_pasta",
+			"brewinandchewinlegacy:horror_lasagna",
+			"brewinandchewinlegacy:scarlet_pierogi",
+			"brewinandchewinlegacy:fiery_fondue",
+			"brewinandchewinlegacy:pizza_slice",
+			"brewinandchewinlegacy:quiche_slice",
+			"brewinandchewinlegacy:ham_and_cheese_sandwich",
+			"brewinandchewinlegacy:cocoa_fudge"
 		]
 	}
 }

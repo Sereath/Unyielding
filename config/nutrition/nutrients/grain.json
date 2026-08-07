@@ -1181,7 +1181,13 @@
 			"farmersdelight:cod_roll",
 			"farmersdelight:kelp_roll",
 			"farmersdelight:kelp_roll_slice",
-			"farmersdelight:shepherds_pie"
+			"farmersdelight:shepherds_pie",
+			"brewinandchewinlegacy:cheesy_pasta",
+			"brewinandchewinlegacy:horror_lasagna",
+			"brewinandchewinlegacy:scarlet_pierogi",
+			"brewinandchewinlegacy:pizza_slice",
+			"brewinandchewinlegacy:quiche_slice",
+			"brewinandchewinlegacy:ham_and_cheese_sandwich"
 		]
 	}
 }

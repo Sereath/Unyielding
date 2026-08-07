@@ -1259,7 +1259,12 @@
 			"farmersdelight:vegetable_noodles",
 			"farmersdelight:stuffed_pumpkin",
 			"farmersdelight:shepherds_pie",
-			"farmersdelight:tomato_sauce"
+			"farmersdelight:tomato_sauce",
+			"brewinandchewinlegacy:vegetable_omelet",
+			"brewinandchewinlegacy:creamy_onion_soup",
+			"brewinandchewinlegacy:kimchi",
+			"brewinandchewinlegacy:pickled_pickles",
+			"brewinandchewinlegacy:scarlet_pierogi"
 		]
 	}
 }

@@ -823,7 +823,10 @@
 			"farmersdelight:fruit_salad",
 			"farmersdelight:glow_berry_custard",
 			"farmersdelight:melon_juice",
-			"farmersdelight:sweet_berry_cookie"
+			"farmersdelight:sweet_berry_cookie",
+			"brewinandchewinlegacy:sweet_berry_jam",
+			"brewinandchewinlegacy:glow_berry_marmalade",
+			"brewinandchewinlegacy:apple_jelly"
 		]
 	}
 }
