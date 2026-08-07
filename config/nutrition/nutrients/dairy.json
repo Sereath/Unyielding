@@ -670,7 +670,13 @@
 			"xlfoodmod:taco",
 			"xlfoodmod:taco_salad",
 			"xlfoodmod:vanilla_icecream",
-			"xlfoodmod:waffle"
+			"xlfoodmod:waffle",
+			"farmersdelight:milk_bottle",
+			"farmersdelight:hot_cocoa",
+			"farmersdelight:sweet_berry_cheesecake_slice",
+			"farmersdelight:chocolate_pie_slice",
+			"farmersdelight:cake_slice",
+			"farmersdelight:glow_berry_custard"
 		]
 	}
 }

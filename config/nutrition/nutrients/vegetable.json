@@ -1236,7 +1236,30 @@
 			"xlfoodmod:tomato",
 			"xlfoodmod:tomato_soup",
 			"xlfoodmod:tortilla",
-			"xlfoodmod:vegetable_soup"
+			"xlfoodmod:vegetable_soup",
+			"farmersdelight:tomato",
+			"farmersdelight:onion",
+			"farmersdelight:cabbage",
+			"farmersdelight:cabbage_leaf",
+			"farmersdelight:pumpkin_slice",
+			"farmersdelight:mixed_salad",
+			"farmersdelight:nether_salad",
+			"farmersdelight:stuffed_potato",
+			"farmersdelight:cabbage_rolls",
+			"farmersdelight:kelp_roll",
+			"farmersdelight:kelp_roll_slice",
+			"farmersdelight:vegetable_soup",
+			"farmersdelight:fried_rice",
+			"farmersdelight:pumpkin_soup",
+			"farmersdelight:baked_cod_stew",
+			"farmersdelight:noodle_soup",
+			"farmersdelight:ratatouille",
+			"farmersdelight:steak_and_potatoes",
+			"farmersdelight:mushroom_rice",
+			"farmersdelight:vegetable_noodles",
+			"farmersdelight:stuffed_pumpkin",
+			"farmersdelight:shepherds_pie",
+			"farmersdelight:tomato_sauce"
 		]
 	}
 }
