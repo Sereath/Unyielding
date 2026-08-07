@@ -86,6 +86,11 @@
             <entity name="srparasites:dispatcher_sii" costMultiplier="100.0" disabled="true" soulvial="false"/>
             <entity name="srparasites:dispatcher_siii" costMultiplier="100.0" disabled="true" soulvial="false"/>
             <entity name="srparasites:dispatcher_siv" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:rooter_si" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:rooter_sii" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:rooter_siii" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:rooter_siv" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:rooterball" costMultiplier="100.0" disabled="true" soulvial="false"/>
             <entity name="srparasites:kyphosis" costMultiplier="100.0" disabled="true" soulvial="false"/>
             <entity name="srparasites:sentry" costMultiplier="100.0" disabled="true" soulvial="false"/>
             <entity name="srparasites:seizer" costMultiplier="100.0" disabled="true" soulvial="false"/>
@@ -94,7 +99,12 @@
             <entity name="srparasites:hostii" costMultiplier="100.0" disabled="true" soulvial="false"/>
             <entity name="srparasites:heed" costMultiplier="100.0" disabled="true" soulvial="false"/>
             <entity name="srparasites:crux" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:crux_incomplete" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:airscrew" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:dredge" costMultiplier="100.0" disabled="true" soulvial="false"/>
             <entity name="srparasites:thrall" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:abo_bodies" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:abo_head" costMultiplier="100.0" disabled="true" soulvial="false"/>
             <entity name="srparasites:ada_longarms" costMultiplier="100.0" disabled="true" soulvial="false"/>
             <entity name="srparasites:ada_manducater" costMultiplier="100.0" disabled="true" soulvial="false"/>
             <entity name="srparasites:ada_reeker" costMultiplier="100.0" disabled="true" soulvial="false"/>
@@ -102,6 +112,11 @@
             <entity name="srparasites:ada_summoner" costMultiplier="100.0" disabled="true" soulvial="false"/>
             <entity name="srparasites:ada_bolster" costMultiplier="100.0" disabled="true" soulvial="false"/>
             <entity name="srparasites:ada_arachnida" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:ada_burrower" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:ada_devourer" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:ada_tozoon" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:ada_vermin" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:ada_viscera" costMultiplier="100.0" disabled="true" soulvial="false"/>
             <entity name="srparasites:overseer" costMultiplier="100.0" disabled="true" soulvial="false"/>
             <entity name="srparasites:vigilante" costMultiplier="100.0" disabled="true" soulvial="false"/>
             <entity name="srparasites:warden" costMultiplier="100.0" disabled="true" soulvial="false"/>
@@ -119,6 +134,8 @@
             <entity name="srparasites:architect" costMultiplier="100.0" disabled="true" soulvial="false"/>
             <entity name="srparasites:anc_dreadnaut" costMultiplier="100.0" disabled="true" soulvial="false"/>
             <entity name="srparasites:anc_overlord" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:draconite" costMultiplier="100.0" disabled="true" soulvial="false"/>
+            <entity name="srparasites:kirin" costMultiplier="100.0" disabled="true" soulvial="false"/>
         </spawning>
     </recipe>
 </enderio:recipes>
