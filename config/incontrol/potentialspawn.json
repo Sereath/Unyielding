@@ -662,6 +662,17 @@
 			}
 		]
 	},
+	{
+		"dimension": 0,
+		"mobs":	[
+			{
+				"mob": "srrevenants:for_wolf",
+				"weight": 40,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	},
 
 
 	{

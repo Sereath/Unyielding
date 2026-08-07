@@ -751,7 +751,7 @@
 
 	{
 		"dimension": 0,
-		"mob": ["srrevenants:for_bear","srrevenants:for_cow","srrevenants:for_horse","srrevenants:for_human","srrevenants:for_pig","srrevenants:for_sheep"],
+		"mob": ["srrevenants:for_bear","srrevenants:for_cow","srrevenants:for_horse","srrevenants:for_human","srrevenants:for_pig","srrevenants:for_sheep","srrevenants:for_wolf"],
 		"random": 0.05,
 		"maxlight": 7,
 		"minlight": 0,
@@ -764,7 +764,7 @@
 	},
 	{
 		"dimension": 0,
-		"mob": ["srrevenants:for_bear","srrevenants:for_cow","srrevenants:for_horse","srrevenants:for_human","srrevenants:for_pig","srrevenants:for_sheep"],
+		"mob": ["srrevenants:for_bear","srrevenants:for_cow","srrevenants:for_horse","srrevenants:for_human","srrevenants:for_pig","srrevenants:for_sheep","srrevenants:for_wolf"],
 		"result": "deny"
 	},
 
