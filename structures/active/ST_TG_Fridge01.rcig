@@ -5,7 +5,7 @@
     {
       "weight": 1.0,
       "min": 1,
-      "max": 8,
+      "max": 2,
       "item": {
         "id": "xlfoodmod:chocolate",
         "damage": 0,
@@ -15,7 +15,7 @@
     {
       "weight": 0.646636426448822,
       "min": 1,
-      "max": 8,
+      "max": 2,
       "item": {
         "id": "xlfoodmod:oreo_cookie",
         "damage": 0,
@@ -25,7 +25,7 @@
     {
       "weight": 0.32298368215560913,
       "min": 1,
-      "max": 2,
+      "max": 1,
       "item": {
         "id": "xlfoodmod:oreo_cake",
         "damage": 0,
@@ -35,7 +35,7 @@
     {
       "weight": 1.0,
       "min": 1,
-      "max": 8,
+      "max": 2,
       "item": {
         "id": "xlfoodmod:pancake",
         "damage": 0,

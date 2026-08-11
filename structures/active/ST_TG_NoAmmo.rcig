@@ -5,7 +5,7 @@
     {
       "weight": 1.0,
       "min": 1,
-      "max": 14,
+      "max": 3,
       "item": {
         "id": "techguns:itemshared",
         "damage": 10,
@@ -15,7 +15,7 @@
     {
       "weight": 1.0,
       "min": 1,
-      "max": 14,
+      "max": 3,
       "item": {
         "id": "techguns:itemshared",
         "damage": 12,
@@ -25,7 +25,7 @@
     {
       "weight": 1.0,
       "min": 1,
-      "max": 14,
+      "max": 3,
       "item": {
         "id": "techguns:itemshared",
         "damage": 14,
@@ -35,7 +35,7 @@
     {
       "weight": 0.5354365706443787,
       "min": 1,
-      "max": 4,
+      "max": 1,
       "item": {
         "id": "techguns:itemshared",
         "damage": 16,
@@ -45,7 +45,7 @@
     {
       "weight": 0.5354365706443787,
       "min": 1,
-      "max": 4,
+      "max": 1,
       "item": {
         "id": "techguns:itemshared",
         "damage": 18,
@@ -75,7 +75,7 @@
     {
       "weight": 1.0,
       "min": 1,
-      "max": 9,
+      "max": 2,
       "item": {
         "id": "minecraft:web",
         "damage": 0,
@@ -85,7 +85,7 @@
     {
       "weight": 1.0,
       "min": 1,
-      "max": 12,
+      "max": 3,
       "item": {
         "id": "techguns:itemshared",
         "damage": 96,
@@ -95,7 +95,7 @@
     {
       "weight": 1.0,
       "min": 1,
-      "max": 12,
+      "max": 3,
       "item": {
         "id": "techguns:itemshared",
         "damage": 60,
@@ -105,7 +105,7 @@
     {
       "weight": 1.0,
       "min": 1,
-      "max": 12,
+      "max": 3,
       "item": {
         "id": "techguns:itemshared",
         "damage": 62,
@@ -115,7 +115,7 @@
     {
       "weight": 1.0,
       "min": 1,
-      "max": 12,
+      "max": 3,
       "item": {
         "id": "techguns:itemshared",
         "damage": 63,

@@ -5,7 +5,7 @@
     {
       "weight": 1.0,
       "min": 1,
-      "max": 32,
+      "max": 16,
       "item": {
         "id": "techguns:itemshared",
         "damage": 0,
@@ -15,7 +15,7 @@
     {
       "weight": 0.7755888104438782,
       "min": 1,
-      "max": 25,
+      "max": 12,
       "item": {
         "id": "techguns:itemshared",
         "damage": 1,
@@ -25,7 +25,7 @@
     {
       "weight": 0.7755888104438782,
       "min": 1,
-      "max": 25,
+      "max": 12,
       "item": {
         "id": "techguns:itemshared",
         "damage": 2,
@@ -35,7 +35,7 @@
     {
       "weight": 0.5354365706443787,
       "min": 1,
-      "max": 17,
+      "max": 8,
       "item": {
         "id": "techguns:itemshared",
         "damage": 3,
@@ -45,7 +45,7 @@
     {
       "weight": 0.12706157565116882,
       "min": 1,
-      "max": 4,
+      "max": 2,
       "item": {
         "id": "techguns:itemshared",
         "damage": 5,
@@ -55,7 +55,7 @@
     {
       "weight": 0.12706157565116882,
       "min": 1,
-      "max": 4,
+      "max": 2,
       "item": {
         "id": "techguns:itemshared",
         "damage": 7,
@@ -65,7 +65,7 @@
     {
       "weight": 0.23224952816963196,
       "min": 1,
-      "max": 7,
+      "max": 3,
       "item": {
         "id": "techguns:itemshared",
         "damage": 8,
@@ -75,7 +75,7 @@
     {
       "weight": 0.23224952816963196,
       "min": 1,
-      "max": 7,
+      "max": 3,
       "item": {
         "id": "techguns:itemshared",
         "damage": 9,
@@ -85,7 +85,7 @@
     {
       "weight": 0.23224952816963196,
       "min": 1,
-      "max": 7,
+      "max": 3,
       "item": {
         "id": "techguns:itemshared",
         "damage": 11,
@@ -95,7 +95,7 @@
     {
       "weight": 0.23224952816963196,
       "min": 1,
-      "max": 7,
+      "max": 3,
       "item": {
         "id": "techguns:itemshared",
         "damage": 13,
@@ -105,7 +105,7 @@
     {
       "weight": 0.12706157565116882,
       "min": 1,
-      "max": 2,
+      "max": 1,
       "item": {
         "id": "techguns:itemshared",
         "damage": 15,
@@ -115,7 +115,7 @@
     {
       "weight": 0.12706157565116882,
       "min": 1,
-      "max": 2,
+      "max": 1,
       "item": {
         "id": "techguns:itemshared",
         "damage": 17,
@@ -297,7 +297,7 @@
     {
       "weight": 0.03422137722373009,
       "min": 1,
-      "max": 12,
+      "max": 6,
       "item": {
         "id": "thermalfoundation:material",
         "damage": 198,
@@ -307,7 +307,7 @@
     {
       "weight": 0.011213661171495914,
       "min": 1,
-      "max": 12,
+      "max": 6,
       "item": {
         "id": "thermalfoundation:material",
         "damage": 199,
@@ -317,7 +317,7 @@
     {
       "weight": 1.0,
       "min": 1,
-      "max": 9,
+      "max": 4,
       "item": {
         "id": "minecraft:web",
         "damage": 0,
@@ -327,7 +327,7 @@
     {
       "weight": 1.0,
       "min": 1,
-      "max": 12,
+      "max": 6,
       "item": {
         "id": "techguns:itemshared",
         "damage": 60,
@@ -337,7 +337,7 @@
     {
       "weight": 1.0,
       "min": 1,
-      "max": 9,
+      "max": 4,
       "item": {
         "id": "minecraft:gunpowder",
         "damage": 0,
@@ -347,7 +347,7 @@
     {
       "weight": 1.0,
       "min": 1,
-      "max": 6,
+      "max": 3,
       "item": {
         "id": "minecraft:slime_ball",
         "damage": 0,
@@ -357,7 +357,7 @@
     {
       "weight": 1.0,
       "min": 1,
-      "max": 12,
+      "max": 6,
       "item": {
         "id": "thermalfoundation:material",
         "damage": 192,
@@ -367,7 +367,7 @@
     {
       "weight": 1.0,
       "min": 1,
-      "max": 12,
+      "max": 6,
       "item": {
         "id": "thermalfoundation:material",
         "damage": 195,
@@ -377,7 +377,7 @@
     {
       "weight": 1.0,
       "min": 1,
-      "max": 12,
+      "max": 6,
       "item": {
         "id": "thermalfoundation:material",
         "damage": 224,
@@ -387,7 +387,7 @@
     {
       "weight": 1.0,
       "min": 1,
-      "max": 12,
+      "max": 6,
       "item": {
         "id": "jaopca:item_nuggetquartz",
         "damage": 0,
@@ -397,7 +397,7 @@
     {
       "weight": 0.020207388326525688,
       "min": 1,
-      "max": 4,
+      "max": 2,
       "item": {
         "id": "techguns:itemshared",
         "damage": 97,
@@ -407,7 +407,7 @@
     {
       "weight": 0.020207388326525688,
       "min": 1,
-      "max": 12,
+      "max": 6,
       "item": {
         "id": "jaopca:item_nuggettitanium",
         "damage": 0,
@@ -417,7 +417,7 @@
     {
       "weight": 1.0068187713623047,
       "min": 1,
-      "max": 6,
+      "max": 3,
       "item": {
         "id": "techguns:itemshared",
         "damage": 55,
@@ -427,7 +427,7 @@
     {
       "weight": 0.11158588528633118,
       "min": 1,
-      "max": 6,
+      "max": 3,
       "item": {
         "id": "techguns:itemshared",
         "damage": 64,
@@ -437,7 +437,7 @@
     {
       "weight": 1.0,
       "min": 1,
-      "max": 2,
+      "max": 1,
       "item": {
         "id": "techguns:itemshared",
         "damage": 33,
@@ -447,7 +447,7 @@
     {
       "weight": 0.5354365706443787,
       "min": 1,
-      "max": 2,
+      "max": 1,
       "item": {
         "id": "techguns:itemshared",
         "damage": 34,
@@ -457,7 +457,7 @@
     {
       "weight": 0.25986868143081665,
       "min": 1,
-      "max": 2,
+      "max": 1,
       "item": {
         "id": "techguns:itemshared",
         "damage": 35,
@@ -467,7 +467,7 @@
     {
       "weight": 0.11158588528633118,
       "min": 1,
-      "max": 2,
+      "max": 1,
       "item": {
         "id": "techguns:itemshared",
         "damage": 36,
@@ -477,7 +477,7 @@
     {
       "weight": 0.05511390045285225,
       "min": 1,
-      "max": 2,
+      "max": 1,
       "item": {
         "id": "techguns:itemshared",
         "damage": 130,
@@ -487,7 +487,7 @@
     {
       "weight": 1.0,
       "min": 1,
-      "max": 2,
+      "max": 1,
       "item": {
         "id": "techguns:itemshared",
         "damage": 42,
@@ -497,7 +497,7 @@
     {
       "weight": 0.5354365706443787,
       "min": 1,
-      "max": 2,
+      "max": 1,
       "item": {
         "id": "techguns:itemshared",
         "damage": 43,
@@ -507,7 +507,7 @@
     {
       "weight": 0.11158588528633118,
       "min": 1,
-      "max": 2,
+      "max": 1,
       "item": {
         "id": "techguns:itemshared",
         "damage": 44,

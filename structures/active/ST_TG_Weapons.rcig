@@ -693,7 +693,7 @@
     {
       "weight": 1.0,
       "min": 1,
-      "max": 8,
+      "max": 4,
       "item": {
         "id": "thermalfoundation:material",
         "damage": 160,
@@ -703,7 +703,7 @@
     {
       "weight": 1.0,
       "min": 1,
-      "max": 6,
+      "max": 3,
       "item": {
         "id": "minecraft:obsidian",
         "damage": 0,
@@ -713,7 +713,7 @@
     {
       "weight": 1.0,
       "min": 1,
-      "max": 4,
+      "max": 2,
       "item": {
         "id": "techguns:itemshared",
         "damage": 84,
@@ -723,7 +723,7 @@
     {
       "weight": 1.0,
       "min": 1,
-      "max": 9,
+      "max": 4,
       "item": {
         "id": "minecraft:gunpowder",
         "damage": 0,
