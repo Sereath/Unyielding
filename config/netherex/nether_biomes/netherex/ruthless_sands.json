@@ -59,7 +59,7 @@
 		}, 
 		{
 			"spawnWeight": 0,
-			"minimumGroupCount": 2,
+			"minimumGroupCount": 1,
 			"maximumGroupCount": 4,
 			"entity": "mod_lavacow:ptera"
 		}, 
@@ -77,8 +77,8 @@
 		}, 
 		{
 			"spawnWeight": 0,
-			"minimumGroupCount": 4,
-			"maximumGroupCount": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4,
 			"entity": "mod_lavacow:weta"
 		}, 
 		{
@@ -239,19 +239,19 @@
 		}, 
 		{
 			"spawnWeight": 0,
-			"minimumGroupCount": 2,
+			"minimumGroupCount": 1,
 			"maximumGroupCount": 4,
 			"entity": "grimoireofgaia:ant_ranger"
 		}, 
 		{
 			"spawnWeight": 0,
-			"minimumGroupCount": 2,
+			"minimumGroupCount": 1,
 			"maximumGroupCount": 4,
 			"entity": "grimoireofgaia:mummy"
 		}, 
 		{
 			"spawnWeight": 0,
-			"minimumGroupCount": 2,
+			"minimumGroupCount": 1,
 			"maximumGroupCount": 4,
 			"entity": "grimoireofgaia:anubis"
 		}, 
@@ -263,13 +263,13 @@
 		}, 
 		{
 			"spawnWeight": 0,
-			"minimumGroupCount": 2,
+			"minimumGroupCount": 1,
 			"maximumGroupCount": 4,
 			"entity": "grimoireofgaia:creep"
 		}, 
 		{
 			"spawnWeight": 0,
-			"minimumGroupCount": 2,
+			"minimumGroupCount": 1,
 			"maximumGroupCount": 4,
 			"entity": "grimoireofgaia:ender_eye"
 		}, 
@@ -311,13 +311,13 @@
 		}, 
 		{
 			"spawnWeight": 0,
-			"minimumGroupCount": 2,
+			"minimumGroupCount": 1,
 			"maximumGroupCount": 4,
 			"entity": "grimoireofgaia:creep"
 		}, 
 		{
 			"spawnWeight": 0,
-			"minimumGroupCount": 2,
+			"minimumGroupCount": 1,
 			"maximumGroupCount": 4,
 			"entity": "grimoireofgaia:ender_eye"
 		}, 
@@ -359,25 +359,25 @@
 		}, 
 		{
 			"spawnWeight": 0,
-			"minimumGroupCount": 2,
-			"maximumGroupCount": 6,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4,
 			"entity": "grimoireofgaia:goblin"
 		}, 
 		{
 			"spawnWeight": 0,
-			"minimumGroupCount": 2,
-			"maximumGroupCount": 6,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4,
 			"entity": "grimoireofgaia:orc"
 		}, 
 		{
 			"spawnWeight": 0,
-			"minimumGroupCount": 2,
+			"minimumGroupCount": 1,
 			"maximumGroupCount": 4,
 			"entity": "grimoireofgaia:creep"
 		}, 
 		{
 			"spawnWeight": 0,
-			"minimumGroupCount": 2,
+			"minimumGroupCount": 1,
 			"maximumGroupCount": 4,
 			"entity": "grimoireofgaia:ender_eye"
 		}, 
@@ -425,19 +425,19 @@
 		}, 
 		{
 			"spawnWeight": 20,
-			"minimumGroupCount": 2,
+			"minimumGroupCount": 1,
 			"maximumGroupCount": 4,
 			"entity": "grimoireofgaia:succubus"
 		}, 
 		{
 			"spawnWeight": 15,
-			"minimumGroupCount": 2,
+			"minimumGroupCount": 1,
 			"maximumGroupCount": 4,
 			"entity": "grimoireofgaia:wither_cow"
 		}, 
 		{
 			"spawnWeight": 15,
-			"minimumGroupCount": 2,
+			"minimumGroupCount": 1,
 			"maximumGroupCount": 4,
 			"entity": "grimoireofgaia:baphomet"
 		}, 
@@ -551,19 +551,19 @@
 		}, 
 		{
 			"spawnWeight": 0,
-			"minimumGroupCount": 2,
+			"minimumGroupCount": 1,
 			"maximumGroupCount": 3,
 			"entity": "mocreatures:bird"
 		}, 
 		{
 			"spawnWeight": 0,
-			"minimumGroupCount": 2,
+			"minimumGroupCount": 1,
 			"maximumGroupCount": 2,
 			"entity": "mocreatures:boar"
 		}, 
 		{
 			"spawnWeight": 0,
-			"minimumGroupCount": 2,
+			"minimumGroupCount": 1,
 			"maximumGroupCount": 3,
 			"entity": "mocreatures:bunny"
 		}, 
@@ -714,7 +714,7 @@
 		{
 			"spawnWeight": 0,
 			"minimumGroupCount": 1,
-			"maximumGroupCount": 6,
+			"maximumGroupCount": 4,
 			"entity": "mocreatures:fishy"
 		}, 
 		{
