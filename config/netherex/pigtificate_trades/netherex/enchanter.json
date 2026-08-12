@@ -60,11 +60,7 @@
 				"minCount": 1,
 				"enchantments": [
 					{
-						"enchantment": "apotheosis:shield_bash",
-						"enchantmentLevel": 2
-					}, 
-					{
-						"enchantment": "uniqueebattle:ifrits_blessing",
+						"enchantment": "uniqueeutil:climber",
 						"enchantmentLevel": 1
 					}
 				],

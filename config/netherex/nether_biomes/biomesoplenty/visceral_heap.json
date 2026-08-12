@@ -54,6 +54,18 @@
 			"entity": "mysticalworld:entity_lava_cat"
 		}, 
 		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "ebwizardry:lightning_wraith"
+		}, 
+		{
+			"spawnWeight": 3,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "ebwizardry:evil_wizard"
+		}, 
+		{
 			"spawnWeight": 30,
 			"minimumGroupCount": 4,
 			"maximumGroupCount": 8,
@@ -72,6 +84,24 @@
 			"entity": "mutantbeasts:mutant_enderman"
 		}, 
 		{
+			"spawnWeight": 12,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "ancientspellcraft:void_creeper"
+		}, 
+		{
+			"spawnWeight": 3,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "ancientspellcraft:skeleton_mage"
+		}, 
+		{
+			"spawnWeight": 4,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "ancientspellcraft:evil_class_wizard"
+		}, 
+		{
 			"spawnWeight": 4,
 			"minimumGroupCount": 1,
 			"maximumGroupCount": 2,
@@ -88,6 +118,60 @@
 			"minimumGroupCount": 4,
 			"maximumGroupCount": 6,
 			"entity": "quark:wraith"
+		}, 
+		{
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "mocreatures:horsemob"
+		}, 
+		{
+			"spawnWeight": 4,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "mocreatures:cavescorpion"
+		}, 
+		{
+			"spawnWeight": 6,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "mocreatures:dirtscorpion"
+		}, 
+		{
+			"spawnWeight": 6,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "mocreatures:firescorpion"
+		}, 
+		{
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "mocreatures:firemanticore"
+		}, 
+		{
+			"spawnWeight": 6,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:fireogre"
+		}, 
+		{
+			"spawnWeight": 5,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:flamewraith"
+		}, 
+		{
+			"spawnWeight": 6,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4,
+			"entity": "mocreatures:hellrat"
+		}, 
+		{
+			"spawnWeight": 20,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "ancientbeasts:netherhound"
 		}, 
 		{
 			"spawnWeight": 5,
@@ -120,12 +204,6 @@
 			"entity": "grimoireofgaia:baphomet"
 		}, 
 		{
-			"spawnWeight": 8,
-			"minimumGroupCount": 4,
-			"maximumGroupCount": 6,
-			"entity": "natura:nitrocreeper"
-		}, 
-		{
 			"spawnWeight": 0,
 			"minimumGroupCount": 1,
 			"maximumGroupCount": 2,
@@ -134,13 +212,13 @@
 		{
 			"spawnWeight": 0,
 			"minimumGroupCount": 1,
-			"maximumGroupCount": 4,
+			"maximumGroupCount": 2,
 			"entity": "mowziesmobs:naga"
 		}, 
 		{
-			"spawnWeight": 7,
-			"minimumGroupCount": 3,
-			"maximumGroupCount": 5,
+			"spawnWeight": 3,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
 			"entity": "chickens:chickenschicken"
 		}, 
 		{
@@ -180,10 +258,34 @@
 			"entity": "exoticbirds:budgerigar"
 		}, 
 		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4,
+			"entity": "mocreatures:ant"
+		}, 
+		{
+			"spawnWeight": 0,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:dragonfly"
+		}, 
+		{
+			"spawnWeight": 12,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:fly"
+		}, 
+		{
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:maggot"
+		}, 
+		{
 			"spawnWeight": 10,
-			"minimumGroupCount": 8,
-			"maximumGroupCount": 12,
-			"entity": "natura:imp"
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "mocreatures:roach"
 		}
 	],
 	"traits": [],
