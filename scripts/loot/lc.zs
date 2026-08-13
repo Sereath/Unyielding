@@ -4,16 +4,17 @@ import loottweaker.vanilla.loot.LootPool;
 import loottweaker.vanilla.loot.Conditions;
 import loottweaker.vanilla.loot.Functions;
 
-val table = LootTweaker.getTable("grimoireofgaia:loot_table_boxend");
+val table = LootTweaker.newTable("lootcasket:small");
 
-val main = table.getPool("main");
+val main = table.addPool("main", 1, 2, 0, 0);
 
-main.setRolls(1, 2);
-
+// Coins
 main.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "copper"}), 10, 1, [Functions.setCount(8, 16)], []);
 main.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "silver"}), 10, 1, [Functions.setCount(4, 8)], []);
 main.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "gold"}), 5, 1, [Functions.setCount(2, 4)], []);
 main.addItemEntry(<ancientwarfarenpc:coin>.withTag({metal: "ancient"}), 3, 1, [Functions.setCount(1, 2)], []);
+
+// Scraps
 main.addItemEntry(<unyielding:scraps1>, 5, 1, [Functions.setCount(1, 1)], []);
 main.addItemEntry(<unyielding:scraps2>, 5, 1, [Functions.setCount(1, 1)], []);
 main.addItemEntry(<unyielding:scraps3>, 10, 1, [Functions.setCount(1, 1)], []);

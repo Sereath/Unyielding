@@ -719,19 +719,22 @@
       "min": 1,
       "max": 1,
       "item": {
-        "id": "grimoireofgaia:box",
-        "damage": 2,
-        "count": 1
-      }
-    },
-    {
-      "weight": 0.11158588528633118,
-      "min": 1,
-      "max": 1,
-      "item": {
-        "id": "nuclearcraft:geiger_counter",
+        "id": "lootcasket:small_casket",
         "damage": 0,
-        "count": 1
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "LootTable": {
+              "nbtType": "string",
+              "nbt": "lootcasket:small"
+            },
+            "Rarity": {
+              "nbtType": "string",
+              "nbt": "rare"
+            }
+          }
+        }
       }
     }
   ],
