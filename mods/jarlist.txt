@@ -2,7 +2,7 @@
 !mixinbooter-10.7
 !mod-director-launchwrapper-1.9.1
 !Red-Core-MC-1.8-1.12-0.7.1
-+Fugue-0.23.7
++Fugue-0.24.3
 ActuallyAdditions-1.12.2-r152
 ActuallyBaubles-1.12-1.1
 AggroTP-0.4.1
@@ -10,7 +10,7 @@ AIReducer-1.12.2-0.3.0
 Alfheim-1.6
 AmbientSounds_v3.1.7_mc1.12.2
 amidst-forge-1.12.2-0.6.2
-AncientSpellcraft-1.12.2-1.8.2
+AncientSpellcraft-1.12.2-1.8.3
 ancientwarfare-1.12.2-2.10.2
 antibonemeal-1.12.2-1.0.0
 AntiqueArmory-1.12.2-1.3.0
@@ -69,7 +69,7 @@ Chisel-MC1.12.2-1.0.2.45
 ChiseledAdditions-1.0.0
 Chocolate_Quest_Repoured-1.12.2-2.8.0B
 Chunk Pregenerator-V1.12-2.5.7
-classicbar-0.6.0
+classicbar-0.6.1
 ClientTweaks_1.12.2-3.1.11
 CodeChickenLib-1.12.2-3.2.3.358-universal
 CoFHCore-1.12.2-4.6.6.1-universal
@@ -137,7 +137,7 @@ fabledworks-1.2
 fancylamps-1.2.1
 fancymenu_forge_2.14.9_MC_1.12-1.12.2
 FantasticLib-1.12.2.070
-FarmersDelightLegacy-1.1.3-fix1
+FarmersDelightLegacy-1.1.5
 FarmingForBlockheads_1.12.2-3.1.28
 filcabref-1.12.2-1.0.0
 Fish's Undead Rising-1.4.2
@@ -162,7 +162,7 @@ geckolib-forge-1.12.2-3.0.31
 GrimoireOfGaia3-1.12.2-1.7.2
 groovyscript-1.4.3
 growthcraft-1.12.2-4.4.0
-HadEnoughItems_1.12.2-4.29.15
+HadEnoughItems_1.12.2-4.34.3
 harderbedcrafting-1.0
 harvestersnight-1.12.2-1.1.0
 heroicarmory-1.2.0
@@ -192,7 +192,7 @@ ItemStages-1.12.2-2.0.49
 itemzoom_1.12.2-1.11
 IvToolkit-1.3.3-1.12
 JAOPCA-1.12.2-2.2.8.106
-JEI-Utilities-1.12.2-0.2.13
+JEI-Utilities-1.12.2-0.2.15
 jei_area_fixer-2.4.0
 jepb-1.12-1.2.1
 jetif-1.12.2-1.5.2
@@ -212,7 +212,7 @@ living_enchantment-3.2.3
 llibrary-1.7.20-1.12.2
 Loading-Progress-Bar-v1.0-mc[1.8-1.12.2]
 logimmune-0.1
-loliasm-5.32
+loliasm-5.33
 lootbeamsretro-1.2.1
 lootcapacitortooltips-1.3
 LootCasket-1.12.2-1.0.1
@@ -236,7 +236,7 @@ minerva-library-1.0.13
 minieffects-2.3.2
 MobDismemberment-1.12.2-7.0.0
 MobsPropertiesRandomness-2.3.3-mc1.12.x
-mocreatures-12.4.9
+mocreatures-12.5.1
 modelloader-1.1.7
 modnametooltip_1.12.2-1.10.1
 Modpack+Configuration+Checker-1.12.2-v1.9.5
@@ -286,7 +286,7 @@ proxys-lib-1.12.2-1.3.0.6
 PyramidPlunder-1.12.2-1.4
 QMD-1.5.1-1.12.2
 QualityTools-1.0.7_for_1.12.2
-QuarkRotN-r1.6-191
+QuarkRotN-r1.6-192
 Quit-Forge-1.12.2-1.1.0
 randomconfigs-1.12.2-1.3.2.3
 RandomThings-MC1.12.2-4.2.7.4
@@ -295,7 +295,7 @@ ReachFix-1.12.2-1.1.3
 Reagenchant-1.12.2-1.2.1
 RealFirstPerson2-1.12.2-1.3.2
 RecipeStages-1.1.3.8
-RecurrentComplex-1.4.8.6
+RecurrentComplex-1.4.8.7
 RedstoneFlux-1.12-2.1.1.1-universal
 Reliquary-1.12.2-1.3.4.796
 RenderLib-1.12.2-1.4.5
@@ -344,10 +344,10 @@ SplashAnimation-0.2.1
 spooky-biomes-1.12.2-1.2.0.19
 SRMonstress-1.12.2v1.0.2
 SRParasites-1.10.7
-srpmeshi-2.3
+srpmeshi-2.3.1
 SRRevenants-1.12.2v1.0.3
 startuptimer-1.1.0
-StellarCore-1.5.22
+StellarCore-1.6.0
 stygian-1.0.4
 superflatcaves-1.3.1
 SuperiorShields-1.12.2-1.0.2
@@ -361,7 +361,7 @@ The-Hordes-1.12.2-1.5.3c
 theaurorian-1.12.2-1.2
 theimpossiblelibrary-1.12.2-0.3.0
 thenarrowgate-1.0.0
-TheOneProbe-CE-1.12-1.3.7-fix1
+TheOneProbe-CE-1.12-1.3.8-fix2
 ThermalCultivation-1.12.2-0.3.6.1-universal
 ThermalDynamics-1.12.2-2.5.6.1-universal
 ThermalExpansion-1.12.2-5.5.7.1-universal
@@ -369,13 +369,13 @@ ThermalFoundation-1.12.2-2.6.7.1-universal
 ThermalInnovation-1.12.2-0.3.6.1-universal
 thutcore-1.12.2-5.21.0
 thuttech-1.12.2-6.1.6
-TinkersAntique-1.12.2-2.13.0.207
+TinkersAntique-1.12.2-2.13.0.208
 TinkerToolLeveling-1.12.2-1.1.0
 Tips-1.12.2-1.0.9
 tombstone-1.12.2-4.7.5
 ToolBelt-1.12.2-1.9.14
 toolprogression-1.12.2-1.6.12
-TopAllDependents-1.4
+TopAllDependents-1.5
 touhoulittlemaid-1.12.2-1.2.5-release
 TravelersBackpack-1.12.2-1.0.35
 TreeChop-1.12.2-0.14.7
@@ -396,7 +396,7 @@ VerticallyStackedDimensions-1.12.2-0.1.9
 VillageNames-1.12.2-4.4.13
 VillagerTrades-1.12.2-0.6.5
 vintagefix-0.7.0
-voicechat-forge-1.12.2-2.6.18
+voicechat-forge-1.12.2-2.6.22
 walljump-1.12.2-1.3.2
 WanionLib-1.12.2-2.91
 Waystones_1.12.2-4.1.0
