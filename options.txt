@@ -394,7 +394,7 @@ key_enderio.keybind.fovplusfast:0:NONE:
 key_enderio.keybind.fovminusfast:0:NONE:
 key_key.craftpresence.config_keycode.name:0:NONE:
 soundCategory_master:0.90140843
-soundCategory_music:0.0
+soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:0.6056338
