@@ -3,16 +3,12 @@
 # for any specific questions you might have regarding the main config file
 
 [triggers]
-	[[triggers.height]]
-		level = "48"
-		priority = "4"
-		identifier = "underground"
 	[triggers.dead]
 		priority = "15"
 	[triggers.lowhp]
 		level = "25"
 		priority = "14"
-	[[triggers.height]]
+	[triggers.height]
 		level = "-1"
 		priority = "16"
 		fade_in = "1"
@@ -59,12 +55,6 @@
 		stop_delay = "0"
 		fade_in = "100"
 [songs]
-	[songs.k_ha7813032200_255715]
-		triggers = [ "dimension-overworld" "height-underground" ]
-	[songs.k_ha15_137070]
-		triggers = [ "dimension-overworld" "height-underground" ]
-	[songs.k_ha50121369_192433]
-		triggers = [ "dimension-overworld" "height-underground" ]
 	[songs.ap]
 		volume = "1.3"
 		triggers = [ "dimension-overworld" ]
