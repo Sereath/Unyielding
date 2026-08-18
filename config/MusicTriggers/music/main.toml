@@ -5,9 +5,6 @@
 [triggers]
 	[triggers.dead]
 		priority = "15"
-	[triggers.lowhp]
-		level = "25"
-		priority = "14"
 	[triggers.height]
 		level = "-1"
 		priority = "16"
@@ -59,12 +56,9 @@
 		triggers = [ "dead" ]
 	[songs.s_asmd_54921]
 		triggers = [ "dead" ]
-	[songs.t_p_173917]
-		volume = "0.9"
-		triggers = [ "lowhp" ]
 	[songs.s_sv_58962]
 		volume = "0.9"
-		triggers = [ "lowhp" ]
+		triggers = [ "dead" ]
 	[songs.k_ha41h13022800_180964]
 		triggers = [ "height-inVoid" ]
 	[songs.a5]
