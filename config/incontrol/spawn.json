@@ -1247,6 +1247,15 @@
 		},
 		"result": "deny"
 	},
+	{
+		"mob": "srparasites:worm",
+		"onjoin": true,
+		"mincount": {
+			"amount": 16,
+			"perchunk": true
+		},
+		"result": "deny"
+	},
 
 	{
 		"mob": "cqrepoured:nether_dragon",
