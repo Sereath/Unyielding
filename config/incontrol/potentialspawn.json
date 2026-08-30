@@ -499,7 +499,7 @@
 	},
 
 	{
-		"dimension": 0,
+		"dimension": [0,3,5,7],
 		"mobs":	[
 			{
 				"mob": "srparasites:carrier_heavy",
@@ -534,7 +534,7 @@
 	},
 
 	{
-		"dimension": 0,
+		"dimension": [0,3,5,7],
 		"mobs":	[
 			{
 				"mob": "srparasites:rupter",
@@ -557,7 +557,7 @@
 	},
 
 	{
-		"dimension": 0,
+		"dimension": [0,3,5,7],
 		"mobs":	[
 			{
 				"mob": "srparasites:sim_human",
