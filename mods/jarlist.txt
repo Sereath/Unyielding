@@ -343,7 +343,7 @@ specialai-1.1.0_for_mc1.12.2
 SplashAnimation-0.2.1
 spooky-biomes-1.12.2-1.2.0.19
 SRMonstress-1.12.2v1.0.2
-SRParasites-1.10.7
+SRParasites-1.10.9
 srpmeshi-2.3.1
 SRRevenants-1.12.2v1.0.3
 startuptimer-1.1.0
