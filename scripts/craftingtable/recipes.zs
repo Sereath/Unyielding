@@ -333,6 +333,7 @@ recipes.removeByRecipeName("srpmeshi:living_leggings");
 recipes.removeByRecipeName("srpmeshi:living_boots");
 
 recipes.remove(<srparasites:bough>);
+recipes.removeByRecipeName("srparasites:parasitebush_from_glass_and_planks");
 
 recipes.remove(<elenaidodge2:iron_feather>);
 recipes.remove(<elenaidodge2:golden_feather>);
