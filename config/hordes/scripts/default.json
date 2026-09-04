@@ -40,7 +40,8 @@
             "hordes:nco",
             "hordes:tg_heavy",
             "hordes:srp_0",
-            "hordes:srp_1"
+            "hordes:srp_1",
+            "hordes:srp_2"
         ],
         "conditions": [
             {
