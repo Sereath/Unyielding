@@ -177,8 +177,8 @@
         },
         {
           "item": "unyielding:gold",
-          "minAmount": 6,
-          "maxAmount": 24,
+          "minAmount": 3,
+          "maxAmount": 12,
           "amountMultiplier": false,
           "bonusAmount": false
         },

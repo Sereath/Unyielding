@@ -194,8 +194,8 @@
         },
         {
           "item": "unyielding:opulent",
-          "minAmount": 2,
-          "maxAmount": 6,
+          "minAmount": 1,
+          "maxAmount": 3,
           "amountMultiplier": false,
           "bonusAmount": false
         },
@@ -265,8 +265,8 @@
         },
         {
           "item": "unyielding:opulent",
-          "minAmount": 4,
-          "maxAmount": 12,
+          "minAmount": 2,
+          "maxAmount": 6,
           "amountMultiplier": false,
           "bonusAmount": false
         },
