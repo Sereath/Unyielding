@@ -9,9 +9,9 @@
             "exclude": []
         },
         "attributes": {
-            "generic.maxHealth": 20,
+            "generic.maxHealth": 40,
             "generic.movementSpeed": 0.325,
-            "generic.followRange": 60,
+            "generic.followRange": 48,
             "generic.attackDamage": 1
         },
         "experience_drop": 0,
@@ -22,7 +22,7 @@
         "combat": {
             "can_swim": true,
             "attributes": {
-                "generic.maxHealth": 30
+                "generic.maxHealth": 60
             }
         },
         "worker": {
