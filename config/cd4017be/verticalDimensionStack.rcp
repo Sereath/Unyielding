@@ -93,10 +93,10 @@ INIT() {
 	!barrier_block:0 = [[it("minecraft:dragon_egg"), it("minecraft:nether_star")], "pickaxe:3", 8.0, /0, true]; !example
 	!barrier_block:13 = [it("minecraft:diamond_hoe"), "axe:3", 1.5, /0, true]; !another example (makes the diamond hoe usefull)
 	!barrier_block:12 = [it("minecraft:obsidian"), "pickaxe:3", 8.0, /0, true]; !fiery bedrock as nether progression gate
-	barrier_block:0 = [it(), "pickaxe:4", 25.0, /0, true]; !overworld to underground barrier
-	barrier_block:1 = [it(), "pickaxe:5", 50.0, /0, true]; !overworld to beneath barrier
-	barrier_block:2 = [it(), "pickaxe:6", 75.0, /0, true]; !overworld to beneath barrier
-	barrier_block:3 = [it(), "pickaxe:7", 100.0, /0, true]; !overworld to beneath barrier
+	barrier_block:0 = [it(), "pickaxe:4", 15.0, /0, true]; !overworld to underground barrier
+	barrier_block:1 = [it(), "pickaxe:5", 16.0, /0, true]; !overworld to beneath barrier
+	barrier_block:2 = [it(), "pickaxe:6", 17.0, /0, true]; !overworld to beneath barrier
+	barrier_block:3 = [it(), "pickaxe:7", 18.0, /0, true]; !overworld to beneath barrier
 	
 	!custom block layers
 	!add("basicLayer", <dimId>, <blockstate>, [<startY>, <minY>, <maxY>, <endY>]#);
