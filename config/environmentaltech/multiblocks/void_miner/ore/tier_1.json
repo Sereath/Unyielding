@@ -1,6 +1,21 @@
 {
   "outputs": [
     {
+      "target": "gray",
+      "weight": 12000,
+      "id": "OD:cobblestone"
+    },
+    {
+      "target": "gray",
+      "weight": 8000,
+      "id": "OD:stone"
+    },
+    {
+      "target": "brown",
+      "weight": 4000,
+      "id": "OD:dirt"
+    },
+    {
       "target": "black",
       "weight": 1000,
       "id": "OD:oreCoal"
@@ -294,11 +309,6 @@
       "target": "green",
       "weight": 111,
       "id": "thaumcraft:crystal_terra"
-    },
-    {
-      "target": "lime",
-      "weight": 223,
-      "id": "OD:oreBrainstone"
     },
     {
       "target": "white",
