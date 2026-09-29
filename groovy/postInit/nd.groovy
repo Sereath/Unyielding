@@ -2,7 +2,6 @@ import net.minecraftforge.event.world.BlockEvent.HarvestDropsEvent
 import net.minecraft.util.ResourceLocation
 
 def noDropBlocks = [
-    new ResourceLocation("dimstack", "bedrock"),
     new ResourceLocation("unyielding", "layer1"),
     new ResourceLocation("unyielding", "layer2"),
     new ResourceLocation("unyielding", "layer3"),
