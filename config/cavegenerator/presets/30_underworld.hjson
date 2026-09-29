@@ -75,6 +75,46 @@
       height: [ 0, 8 ]
     }
   ]
+  ravines: {
+    chance: 0.03
+    height: [ 64, 192 ]
+    resolution: 4
+    distance: 160
+    dYaw: {
+      startVal: 0
+      factor: 0.5
+      randFactor: 4
+      exponent: 1
+    }
+    dPitch: {
+      startVal: 0
+      factor: 0.8
+      randFactor: 2
+      exponent: 1
+    }
+    scale: {
+      startVal: 3
+      startValRandFactor: 2
+      factor: 1
+      randFactor: 0
+      exponent: 1
+    }
+    stretch: {
+      startVal: 6
+      factor: 1
+      randFactor: 0
+      exponent: 1
+    }
+    yaw: {
+      startVal: 0
+      startValRandFactor: 1
+    }
+    pitch: {
+      startVal: 0
+      startValRandFactor: 0.25
+    }
+    noiseYFactor: 0.7
+  }
   wallDecorators: [
     {
       states: chisel:factory:1
